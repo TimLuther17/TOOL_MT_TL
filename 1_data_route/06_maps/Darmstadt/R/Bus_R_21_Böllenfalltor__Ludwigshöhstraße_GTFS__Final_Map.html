@@ -1,0 +1,2455 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_f69e552a7f1e76c27db94209d98e1ac7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+         <div style="position: fixed; 
+         bottom: 50px; left: 50px; width: 140px; height: 180px; 
+         border:2px solid grey; z-index:9999; font-size:12px;
+         background-color:white; opacity:0.9; padding: 10px;">
+         <b>Legende Tempo</b><br>
+         <i style="background:green; width:10px; height:10px; display:inline-block;"></i> <= 30 km/h<br>
+         <i style="background:red; width:10px; height:10px; display:inline-block;"></i> 50 km/h<br>
+         <i style="background:darkred; width:10px; height:10px; display:inline-block;"></i> 70+ km/h<br>
+         <i style="background:gray; width:10px; height:10px; display:inline-block;"></i> Unbekannt<br>
+         <hr>
+         <i style="background:orange; border:1px solid black; border-radius:50%; width:10px; height:10px; display:inline-block;"></i> Ampel
+         </div>
+         
+    
+            <div class="folium-map" id="map_f69e552a7f1e76c27db94209d98e1ac7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_f69e552a7f1e76c27db94209d98e1ac7 = L.map(
+                "map_f69e552a7f1e76c27db94209d98e1ac7",
+                {
+                    center: [49.85259, 8.669733],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_4c614913fd8625dcc8f06ca217bf1e90 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_4c614913fd8625dcc8f06ca217bf1e90.addTo(map_f69e552a7f1e76c27db94209d98e1ac7);
+        
+    
+            var feature_group_bc78f91b21fbad61953e36ec1658a6d2 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_eedf21bd95a889352db625b2fbb5054b = L.polyline(
+                [[49.85259, 8.669733], [49.85259, 8.669733]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_eedf21bd95a889352db625b2fbb5054b.bindTooltip(
+                `<div>
+                     Böllenfalltor (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_d78b58edac4bbf2f82604faf4ebb316b = L.polyline(
+                [[49.85259, 8.669733], [49.852577, 8.669936]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_d78b58edac4bbf2f82604faf4ebb316b.bindTooltip(
+                `<div>
+                     Darmstadt Böllenfalltor (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_5a6c3a447a12caab870d5516243e3c65 = L.polyline(
+                [[49.852577, 8.669936], [49.852481, 8.669999]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_5a6c3a447a12caab870d5516243e3c65.bindTooltip(
+                `<div>
+                     Böllenfalltor (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ffcd9b625f4513d93077aed637a0ed78 = L.polyline(
+                [[49.852481, 8.669999], [49.852385, 8.670062]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_ffcd9b625f4513d93077aed637a0ed78.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e155f81ff54107142b4db2d6c34c11e9 = L.polyline(
+                [[49.852385, 8.670062], [49.85229, 8.670125]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_e155f81ff54107142b4db2d6c34c11e9.bindTooltip(
+                `<div>
+                     Ampel (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_747bfb4ef7a87e34f1e74a58999541b5 = L.polyline(
+                [[49.85229, 8.670125], [49.85227, 8.670014]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_747bfb4ef7a87e34f1e74a58999541b5.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_95bb48c1cfa117984f8cfcd543ecd9f7 = L.polyline(
+                [[49.85227, 8.670014], [49.852251, 8.669904]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_95bb48c1cfa117984f8cfcd543ecd9f7.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_bef7f551b4cd41aaea3556e2198bffcc = L.polyline(
+                [[49.852251, 8.669904], [49.852216, 8.669708]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_bef7f551b4cd41aaea3556e2198bffcc.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_47b14b0a7521231a07943d046a3c273d = L.polyline(
+                [[49.852216, 8.669708], [49.852184, 8.669532]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_47b14b0a7521231a07943d046a3c273d.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_b2f320c7d12ec4974b29df2a1bb88fcc = L.polyline(
+                [[49.852184, 8.669532], [49.852152, 8.669355]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_b2f320c7d12ec4974b29df2a1bb88fcc.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_fd776210447f2d0f2927375436976291 = L.polyline(
+                [[49.852152, 8.669355], [49.85212, 8.669179]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_fd776210447f2d0f2927375436976291.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_5eae38e97632d3b52159411db24106b4 = L.polyline(
+                [[49.85212, 8.669179], [49.852088, 8.669003]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_5eae38e97632d3b52159411db24106b4.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_d49d5baef8ed2ae04f92321a41e10418 = L.polyline(
+                [[49.852088, 8.669003], [49.852056, 8.668826]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_d49d5baef8ed2ae04f92321a41e10418.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_096047cf6f054dd886f423899f468845 = L.polyline(
+                [[49.852056, 8.668826], [49.852024, 8.66865]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_096047cf6f054dd886f423899f468845.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_bf07b2aa4b8da4d26b52c44f09adc845 = L.polyline(
+                [[49.852024, 8.66865], [49.851992, 8.668474]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_bf07b2aa4b8da4d26b52c44f09adc845.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_a3e36227a41037570c6ef747674ccec2 = L.polyline(
+                [[49.851992, 8.668474], [49.851958, 8.668282]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_a3e36227a41037570c6ef747674ccec2.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_0b8297a058aba322a4c9a43dfb793a45 = L.polyline(
+                [[49.851958, 8.668282], [49.851923, 8.66809]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_0b8297a058aba322a4c9a43dfb793a45.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ff50914fd8904371498a22c65a880429 = L.polyline(
+                [[49.851923, 8.66809], [49.851889, 8.667898]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_ff50914fd8904371498a22c65a880429.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e135088c3b4401521f6f520868166a37 = L.polyline(
+                [[49.851889, 8.667898], [49.851854, 8.667706]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_e135088c3b4401521f6f520868166a37.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c06aad8e802760f4f71c00eecffe6fa0 = L.polyline(
+                [[49.851854, 8.667706], [49.851819, 8.667514]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_c06aad8e802760f4f71c00eecffe6fa0.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_3613be7994443c5f2bbc2d052b0dfc64 = L.polyline(
+                [[49.851819, 8.667514], [49.851785, 8.667323]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_3613be7994443c5f2bbc2d052b0dfc64.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_babfd958de5a253c33cd1a0a85bb57b5 = L.polyline(
+                [[49.851785, 8.667323], [49.85175, 8.667131]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_babfd958de5a253c33cd1a0a85bb57b5.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_bb836cd79eeeb21feffc558b569c2d3a = L.polyline(
+                [[49.85175, 8.667131], [49.851729, 8.667021]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_bb836cd79eeeb21feffc558b569c2d3a.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_18c53ad90d00fe2b77d18c0fa454d541 = L.polyline(
+                [[49.851729, 8.667021], [49.851708, 8.666911]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_18c53ad90d00fe2b77d18c0fa454d541.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ea6657383a235907f052be0c91b6e901 = L.polyline(
+                [[49.851708, 8.666911], [49.851688, 8.666808]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_ea6657383a235907f052be0c91b6e901.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_efd9c812178ce8677dbae3b5490caad5 = L.polyline(
+                [[49.851688, 8.666808], [49.851667, 8.666705]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_efd9c812178ce8677dbae3b5490caad5.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_8a3d156f6df2b99efcc18133e809f51c = L.polyline(
+                [[49.851667, 8.666705], [49.851632, 8.666528]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_8a3d156f6df2b99efcc18133e809f51c.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6797f60d7c218bba3be53d99688a3028 = L.polyline(
+                [[49.851632, 8.666528], [49.851597, 8.666351]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_6797f60d7c218bba3be53d99688a3028.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_34a38eba7cbc16b5369d7aa8cafefd2f = L.polyline(
+                [[49.851597, 8.666351], [49.851563, 8.666174]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_34a38eba7cbc16b5369d7aa8cafefd2f.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_99469e9cb5c88f575a6698b6b0f7e1e2 = L.polyline(
+                [[49.851563, 8.666174], [49.85153, 8.665991]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_99469e9cb5c88f575a6698b6b0f7e1e2.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_4d1544982a7b6f2d5a597f6c1e224294 = L.polyline(
+                [[49.85153, 8.665991], [49.851496, 8.665807]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_4d1544982a7b6f2d5a597f6c1e224294.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_72baf6c28d06dd21b693deb65b09478e = L.polyline(
+                [[49.851496, 8.665807], [49.851463, 8.665624]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_72baf6c28d06dd21b693deb65b09478e.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_a28590c23b47d3c3b4866b16289bd9d1 = L.polyline(
+                [[49.851463, 8.665624], [49.85143, 8.665441]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_a28590c23b47d3c3b4866b16289bd9d1.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_507ef5295159d793eee801dcbdad63d7 = L.polyline(
+                [[49.85143, 8.665441], [49.851397, 8.665257]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_507ef5295159d793eee801dcbdad63d7.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ded743b1021775223197030073b779a5 = L.polyline(
+                [[49.851397, 8.665257], [49.851364, 8.665074]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_ded743b1021775223197030073b779a5.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_22860edd6e3c12f7518f783b8f0ac2b4 = L.polyline(
+                [[49.851364, 8.665074], [49.851331, 8.664891]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_22860edd6e3c12f7518f783b8f0ac2b4.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_496580c5c20c5b2f75122152ed5433d1 = L.polyline(
+                [[49.851331, 8.664891], [49.851298, 8.664707]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_496580c5c20c5b2f75122152ed5433d1.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_00907c6e8822b990d54dc9c1762f31e1 = L.polyline(
+                [[49.851298, 8.664707], [49.851265, 8.664524]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_00907c6e8822b990d54dc9c1762f31e1.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_401c93e1d52434fe30de38e9ea6ff1af = L.polyline(
+                [[49.851265, 8.664524], [49.851231, 8.664341]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_401c93e1d52434fe30de38e9ea6ff1af.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_a3f5b032aeae4b3614167ebaba9e21e3 = L.polyline(
+                [[49.851231, 8.664341], [49.851205, 8.664196]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_a3f5b032aeae4b3614167ebaba9e21e3.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_3fd4d92e89abde9178c28bd73688856b = L.polyline(
+                [[49.851205, 8.664196], [49.851179, 8.664051]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_3fd4d92e89abde9178c28bd73688856b.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_408117418a5928b9a5f06c4da6db5616 = L.polyline(
+                [[49.851179, 8.664051], [49.851159, 8.663908]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_408117418a5928b9a5f06c4da6db5616.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6c0c5f192ee97817ae906fb13647bd7b = L.polyline(
+                [[49.851159, 8.663908], [49.85114, 8.663765]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_6c0c5f192ee97817ae906fb13647bd7b.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e3171b959f4c9294c38cae5a53fc2241 = L.polyline(
+                [[49.85114, 8.663765], [49.851121, 8.663586]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_e3171b959f4c9294c38cae5a53fc2241.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_27ee66556fd965cfd385b61080ffa1de = L.polyline(
+                [[49.851121, 8.663586], [49.851114, 8.663435]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_27ee66556fd965cfd385b61080ffa1de.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_41f0fb6e06ac6c1fc48183186d9c5b07 = L.polyline(
+                [[49.851114, 8.663435], [49.851107, 8.663284]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_41f0fb6e06ac6c1fc48183186d9c5b07.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_8e14fd2a114444f18e10cdf32ce7037e = L.polyline(
+                [[49.851107, 8.663284], [49.851108, 8.663138]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_8e14fd2a114444f18e10cdf32ce7037e.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_b07b9eab8599e602a50ccac7f47a028e = L.polyline(
+                [[49.851108, 8.663138], [49.851106, 8.662946]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_b07b9eab8599e602a50ccac7f47a028e.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_65a8e62113032d4b78f7eb4bf8ba5061 = L.polyline(
+                [[49.851106, 8.662946], [49.851103, 8.662754]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_65a8e62113032d4b78f7eb4bf8ba5061.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c68e9106d514ab91918d7e4f5e6656d3 = L.polyline(
+                [[49.851103, 8.662754], [49.851112, 8.662648]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_c68e9106d514ab91918d7e4f5e6656d3.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_a617f0c585c7ffa7e3cb24c072e4c690 = L.polyline(
+                [[49.851112, 8.662648], [49.851122, 8.662543]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_a617f0c585c7ffa7e3cb24c072e4c690.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6285a45993ca3f3a0820be21688f3ef2 = L.polyline(
+                [[49.851122, 8.662543], [49.851115, 8.662381]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_6285a45993ca3f3a0820be21688f3ef2.bindTooltip(
+                `<div>
+                     Darmstadt Marienhospital (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_41003dd00cf8ba6e0b5f34e6f8d1e920 = L.polyline(
+                [[49.851115, 8.662381], [49.851143, 8.66228]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_41003dd00cf8ba6e0b5f34e6f8d1e920.bindTooltip(
+                `<div>
+                     Marienhospital (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_db2d68cf28aa591552987f92faa1989b = L.polyline(
+                [[49.851143, 8.66228], [49.851171, 8.662179]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_db2d68cf28aa591552987f92faa1989b.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_cf7543b3e2e582ee4a302ccd2e916b46 = L.polyline(
+                [[49.851171, 8.662179], [49.851194, 8.662035]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_cf7543b3e2e582ee4a302ccd2e916b46.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_37e01ac8aa0d94a8a36ebbb52743a52c = L.polyline(
+                [[49.851194, 8.662035], [49.851229, 8.66184]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_37e01ac8aa0d94a8a36ebbb52743a52c.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_8b85ab759db9cefe7be8b70fd2243de7 = L.polyline(
+                [[49.851229, 8.66184], [49.851263, 8.661645]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_8b85ab759db9cefe7be8b70fd2243de7.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_0bb296734aecfb1d81d84a091c6e9d10 = L.polyline(
+                [[49.851263, 8.661645], [49.851298, 8.66145]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_0bb296734aecfb1d81d84a091c6e9d10.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_4ff77781fcb79e1a5a43a69911a0d0fc = L.polyline(
+                [[49.851298, 8.66145], [49.851329, 8.66127]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_4ff77781fcb79e1a5a43a69911a0d0fc.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_118e2e330cdc09b972f6054652f3ada9 = L.polyline(
+                [[49.851329, 8.66127], [49.851361, 8.66109]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_118e2e330cdc09b972f6054652f3ada9.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_82e606d10c6b09fb315b2111c569a83e = L.polyline(
+                [[49.851361, 8.66109], [49.851386, 8.660939]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_82e606d10c6b09fb315b2111c569a83e.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_631925a437ce036bd0d51978cee96331 = L.polyline(
+                [[49.851386, 8.660939], [49.851411, 8.660789]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_631925a437ce036bd0d51978cee96331.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_afc08f0d63293fc983f7b4aff807b74f = L.polyline(
+                [[49.851411, 8.660789], [49.851434, 8.66065]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_afc08f0d63293fc983f7b4aff807b74f.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_b8fe1d03ae11591a606661962965c68f = L.polyline(
+                [[49.851434, 8.66065], [49.851454, 8.660528]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_b8fe1d03ae11591a606661962965c68f.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_937eabede95c04e60e3c5d90a692d28a = L.polyline(
+                [[49.851454, 8.660528], [49.851474, 8.660407]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_937eabede95c04e60e3c5d90a692d28a.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_27de72602531388a0ee2b9b007054f15 = L.polyline(
+                [[49.851474, 8.660407], [49.851496, 8.660267]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_27de72602531388a0ee2b9b007054f15.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_d97a1a451c130b4a18c80715c8ade15f = L.polyline(
+                [[49.851496, 8.660267], [49.851519, 8.660128]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_d97a1a451c130b4a18c80715c8ade15f.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f74bded90528e3866dcdea0a09c72583 = L.polyline(
+                [[49.851519, 8.660128], [49.851547, 8.659953]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_f74bded90528e3866dcdea0a09c72583.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_07c230bdc0c173d19cc8cad9c887f3b9 = L.polyline(
+                [[49.851547, 8.659953], [49.851575, 8.659778]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_07c230bdc0c173d19cc8cad9c887f3b9.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_1a3bc456323d02d6c0987bb6c4908614 = L.polyline(
+                [[49.851575, 8.659778], [49.851604, 8.659604]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_1a3bc456323d02d6c0987bb6c4908614.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_13a727cf89124cfb59632ffab2256c89 = L.polyline(
+                [[49.851604, 8.659604], [49.85163, 8.659465]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_13a727cf89124cfb59632ffab2256c89.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_8834e3fd20e98755022826d2ba4544b9 = L.polyline(
+                [[49.85163, 8.659465], [49.851656, 8.659326]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_8834e3fd20e98755022826d2ba4544b9.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f89915bb0e960b68f543c4f18c9ec4af = L.polyline(
+                [[49.851656, 8.659326], [49.851692, 8.659164]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_f89915bb0e960b68f543c4f18c9ec4af.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6b0c6f95505c57a7d71f1c3c94f6f984 = L.polyline(
+                [[49.851692, 8.659164], [49.851727, 8.659001]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_6b0c6f95505c57a7d71f1c3c94f6f984.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_66ac31a7267fe803780b6c61263392a3 = L.polyline(
+                [[49.851727, 8.659001], [49.851772, 8.658875]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_66ac31a7267fe803780b6c61263392a3.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c4e9130e0a1de47f1a6f2ea3f9075c9d = L.polyline(
+                [[49.851772, 8.658875], [49.851817, 8.658749]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_c4e9130e0a1de47f1a6f2ea3f9075c9d.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_4d9ac10d9f0debc70a032bec8005cdc0 = L.polyline(
+                [[49.851817, 8.658749], [49.851873, 8.658624]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_4d9ac10d9f0debc70a032bec8005cdc0.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_d707c0b89510370ae37b4f24f3776b29 = L.polyline(
+                [[49.851873, 8.658624], [49.851929, 8.658498]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_d707c0b89510370ae37b4f24f3776b29.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_80edcd28b78721202340912016e21dc9 = L.polyline(
+                [[49.851929, 8.658498], [49.85202, 8.658394]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_80edcd28b78721202340912016e21dc9.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_7d142eb5a8907ff35f4dd12d315dbd31 = L.polyline(
+                [[49.85202, 8.658394], [49.85211, 8.65829]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_7d142eb5a8907ff35f4dd12d315dbd31.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_36bd1b4a6f509a4b0b1cf7794cd5ee01 = L.polyline(
+                [[49.85211, 8.65829], [49.852206, 8.658197]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_36bd1b4a6f509a4b0b1cf7794cd5ee01.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_385d0983ea4ef346740f72f3a8ef5301 = L.polyline(
+                [[49.852206, 8.658197], [49.852307, 8.658111]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_385d0983ea4ef346740f72f3a8ef5301.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_69102ba2dbd4360b7d1c87b5e7702f66 = L.polyline(
+                [[49.852307, 8.658111], [49.852408, 8.658025]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_69102ba2dbd4360b7d1c87b5e7702f66.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_3032ed79d99c6160c21d7a3a76196387 = L.polyline(
+                [[49.852408, 8.658025], [49.852509, 8.657939]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_3032ed79d99c6160c21d7a3a76196387.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_7bdf1e60e77269b4dbc4595f49f56b25 = L.polyline(
+                [[49.852509, 8.657939], [49.852609, 8.657853]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_7bdf1e60e77269b4dbc4595f49f56b25.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_8a0484627c56d4931489620bb1b76abf = L.polyline(
+                [[49.852609, 8.657853], [49.85271, 8.657767]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_8a0484627c56d4931489620bb1b76abf.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_d318e2c83a431c002a5d56c3e9103116 = L.polyline(
+                [[49.85271, 8.657767], [49.852797, 8.657691]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_d318e2c83a431c002a5d56c3e9103116.bindTooltip(
+                `<div>
+                     Klappacher Straße (Ampel) (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_0a89e124f80016c73efbc006409c7ceb = L.polyline(
+                [[49.852797, 8.657691], [49.852885, 8.657603]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_0a89e124f80016c73efbc006409c7ceb.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ffb470cc8dca086b9f9ef70b85ef10a2 = L.polyline(
+                [[49.852885, 8.657603], [49.852973, 8.657515]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_ffb470cc8dca086b9f9ef70b85ef10a2.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_34f8652e67a305163fe7238d2fe3634b = L.polyline(
+                [[49.852973, 8.657515], [49.85306, 8.657427]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_34f8652e67a305163fe7238d2fe3634b.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_a7a5bec28d627452e9e06523cca1e5dd = L.polyline(
+                [[49.85306, 8.657427], [49.853168, 8.657365]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_a7a5bec28d627452e9e06523cca1e5dd.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6b9dcf4c2a359cb465c349400b25ad24 = L.polyline(
+                [[49.853168, 8.657365], [49.853217, 8.657321]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_6b9dcf4c2a359cb465c349400b25ad24.bindTooltip(
+                `<div>
+                     Darmstadt Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_fe405bbc04ea3a848f8be1105b870855 = L.polyline(
+                [[49.853217, 8.657321], [49.853321, 8.657229]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_fe405bbc04ea3a848f8be1105b870855.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_328a02a49acd4a80d7bab6f84b80e96a = L.polyline(
+                [[49.853321, 8.657229], [49.853425, 8.657137]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_328a02a49acd4a80d7bab6f84b80e96a.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_eab3142a7d17ba7b33927e9422a1863d = L.polyline(
+                [[49.853425, 8.657137], [49.853529, 8.657045]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_eab3142a7d17ba7b33927e9422a1863d.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_47fef85df8c158203aa649ebdab4a28e = L.polyline(
+                [[49.853529, 8.657045], [49.853616, 8.656969]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_47fef85df8c158203aa649ebdab4a28e.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_a55924ace37d7e885ba504edc2e92977 = L.polyline(
+                [[49.853616, 8.656969], [49.853703, 8.656893]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_a55924ace37d7e885ba504edc2e92977.bindTooltip(
+                `<div>
+                     Unbekannt (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_7b6c8852cb71e75e8b722e6a67398fb8 = L.polyline(
+                [[49.853703, 8.656893], [49.8537, 8.656734]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_7b6c8852cb71e75e8b722e6a67398fb8.bindTooltip(
+                `<div>
+                     Klappacher Straße (50.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_50c970678d7f10987a783d2ad33f44a0 = L.polyline(
+                [[49.8537, 8.656734], [49.853654, 8.656612]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_50c970678d7f10987a783d2ad33f44a0.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f71ee22270fc973280e9fe56a0a7d149 = L.polyline(
+                [[49.853654, 8.656612], [49.853608, 8.65649]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_f71ee22270fc973280e9fe56a0a7d149.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_4e2ca67375bca0439ab421c4984516ea = L.polyline(
+                [[49.853608, 8.65649], [49.853556, 8.656331]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_4e2ca67375bca0439ab421c4984516ea.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ce7924329c457d3bd61ac4b9da045c12 = L.polyline(
+                [[49.853556, 8.656331], [49.853504, 8.656171]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_ce7924329c457d3bd61ac4b9da045c12.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_65240b0b0c5e82f61ae6f3ef2209246a = L.polyline(
+                [[49.853504, 8.656171], [49.853483, 8.656034]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_65240b0b0c5e82f61ae6f3ef2209246a.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_73a4b8f1c3a9404900aba89e092fb059 = L.polyline(
+                [[49.853483, 8.656034], [49.853462, 8.655896]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_73a4b8f1c3a9404900aba89e092fb059.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_43b47e9f16083e61c2c022fe8fcfb616 = L.polyline(
+                [[49.853462, 8.655896], [49.853459, 8.655695]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_43b47e9f16083e61c2c022fe8fcfb616.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_606cbb59ef76e3981c95aefab423f401 = L.polyline(
+                [[49.853459, 8.655695], [49.853456, 8.655494]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_606cbb59ef76e3981c95aefab423f401.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_0ed4fe9b7b67af852c8d34723fc01533 = L.polyline(
+                [[49.853456, 8.655494], [49.853454, 8.655293]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_0ed4fe9b7b67af852c8d34723fc01533.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_4c3236ad92cca1cd1a212b742e59b2c6 = L.polyline(
+                [[49.853454, 8.655293], [49.853442, 8.655114]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_4c3236ad92cca1cd1a212b742e59b2c6.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_2a435507518e6b28f175396591af5e11 = L.polyline(
+                [[49.853442, 8.655114], [49.853431, 8.654935]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_2a435507518e6b28f175396591af5e11.bindTooltip(
+                `<div>
+                     Unbekannt (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_678b7af83475575816b098f4528e1fe7 = L.polyline(
+                [[49.853431, 8.654935], [49.853426, 8.654797]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_678b7af83475575816b098f4528e1fe7.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e17dba15b626c97c20a67c19b6834874 = L.polyline(
+                [[49.853426, 8.654797], [49.85342, 8.654659]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_e17dba15b626c97c20a67c19b6834874.bindTooltip(
+                `<div>
+                     Unbekannt (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_732d730284f820234dc95a4ecb96f9c2 = L.polyline(
+                [[49.85342, 8.654659], [49.853427, 8.65454]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_732d730284f820234dc95a4ecb96f9c2.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_b517fa4ed1e95009f41306bf3fdbe94d = L.polyline(
+                [[49.853427, 8.65454], [49.853434, 8.65442]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_b517fa4ed1e95009f41306bf3fdbe94d.bindTooltip(
+                `<div>
+                     Unbekannt (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_2eb785e211f78cb3a170174391766d14 = L.polyline(
+                [[49.853434, 8.65442], [49.853435, 8.654294]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_2eb785e211f78cb3a170174391766d14.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_42be5326f8561bcf45efe14b1fd9c6c6 = L.polyline(
+                [[49.853435, 8.654294], [49.853436, 8.654167]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_42be5326f8561bcf45efe14b1fd9c6c6.bindTooltip(
+                `<div>
+                     Unbekannt (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_bac0cd0f318c9f7fc3f0a9fb2ac2c1a9 = L.polyline(
+                [[49.853436, 8.654167], [49.853432, 8.653959]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_bac0cd0f318c9f7fc3f0a9fb2ac2c1a9.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_54b0e3295ef77a85b3b9ef1622476731 = L.polyline(
+                [[49.853432, 8.653959], [49.853429, 8.653751]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_54b0e3295ef77a85b3b9ef1622476731.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_18ae055c0716a7be2d903d88ac11631a = L.polyline(
+                [[49.853429, 8.653751], [49.853425, 8.653542]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_18ae055c0716a7be2d903d88ac11631a.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e5093ab84d8bad9b9f6cc778df45fa26 = L.polyline(
+                [[49.853425, 8.653542], [49.853424, 8.65334]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_e5093ab84d8bad9b9f6cc778df45fa26.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ef327867ccc878bcf22bc1d827810cf3 = L.polyline(
+                [[49.853424, 8.65334], [49.853383, 8.65315]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_ef327867ccc878bcf22bc1d827810cf3.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_29fbe37c38c89af6aea490606a2f7624 = L.polyline(
+                [[49.853383, 8.65315], [49.853382, 8.653028]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_29fbe37c38c89af6aea490606a2f7624.bindTooltip(
+                `<div>
+                     Ludwigshöhstraße (Bussteig Südseite) (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_15f1c11e8c81053a29c1cb5935e7e88d = L.polyline(
+                [[49.853382, 8.653028], [49.85338, 8.652906]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_15f1c11e8c81053a29c1cb5935e7e88d.bindTooltip(
+                `<div>
+                     Unbekannt (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_5a06984aa00a2417ef278336c336b29a = L.polyline(
+                [[49.85338, 8.652906], [49.85342, 8.652736]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_5a06984aa00a2417ef278336c336b29a.bindTooltip(
+                `<div>
+                     Ludwigshöhstraße (Bussteig Südseite) (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_8dc88818eb3e75d7d2e7e44bf87e664b = L.polyline(
+                [[49.85342, 8.652736], [49.853419, 8.652557]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_8dc88818eb3e75d7d2e7e44bf87e664b.bindTooltip(
+                `<div>
+                     Landskronstraße (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_cfecd287abf6aa3d8743c296f7c8ce98 = L.polyline(
+                [[49.853419, 8.652557], [49.853419, 8.652557]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(feature_group_bc78f91b21fbad61953e36ec1658a6d2);
+        
+    
+            poly_line_cfecd287abf6aa3d8743c296f7c8ce98.bindTooltip(
+                `<div>
+                     Landskronstraße (Ampel) (30.0 km/h)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            feature_group_bc78f91b21fbad61953e36ec1658a6d2.addTo(map_f69e552a7f1e76c27db94209d98e1ac7);
+        
+    
+            var feature_group_ecaf8f2f0a4c8aa403c0194a0641f45d = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var marker_d241cc8b748705ae1f939612adb35d5e = L.marker(
+                [49.85259, 8.669733],
+                {
+}
+            ).addTo(feature_group_ecaf8f2f0a4c8aa403c0194a0641f45d);
+        
+    
+            var icon_3a80823eb9256186ac662318b0eb0fbe = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "bus",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e4bdf5ad2702731fccbfe1cad0e1d651 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_354badf1eeff43c62e24b811ade267f5 = $(`<div id="html_354badf1eeff43c62e24b811ade267f5" style="width: 100.0%; height: 100.0%;"><b>Haltestelle:</b> Darmstadt Böllenfalltor</div>`)[0];
+                popup_e4bdf5ad2702731fccbfe1cad0e1d651.setContent(html_354badf1eeff43c62e24b811ade267f5);
+            
+        
+
+        marker_d241cc8b748705ae1f939612adb35d5e.bindPopup(popup_e4bdf5ad2702731fccbfe1cad0e1d651)
+        ;
+
+        
+    
+    
+            marker_d241cc8b748705ae1f939612adb35d5e.bindTooltip(
+                `<div>
+                     Darmstadt Böllenfalltor
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d241cc8b748705ae1f939612adb35d5e.setIcon(icon_3a80823eb9256186ac662318b0eb0fbe);
+            
+    
+            var marker_5a3eb6fd44b7ee502a758226aeb23dc0 = L.marker(
+                [49.851122, 8.662543],
+                {
+}
+            ).addTo(feature_group_ecaf8f2f0a4c8aa403c0194a0641f45d);
+        
+    
+            var icon_144cc77bd9a35cb0cb1b89526ae307be = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "bus",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fb1fd251a197a5846e1d0aa491844ecc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_127173605e88e5abeee7929f2410b58f = $(`<div id="html_127173605e88e5abeee7929f2410b58f" style="width: 100.0%; height: 100.0%;"><b>Haltestelle:</b> Darmstadt Marienhospital</div>`)[0];
+                popup_fb1fd251a197a5846e1d0aa491844ecc.setContent(html_127173605e88e5abeee7929f2410b58f);
+            
+        
+
+        marker_5a3eb6fd44b7ee502a758226aeb23dc0.bindPopup(popup_fb1fd251a197a5846e1d0aa491844ecc)
+        ;
+
+        
+    
+    
+            marker_5a3eb6fd44b7ee502a758226aeb23dc0.bindTooltip(
+                `<div>
+                     Darmstadt Marienhospital
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5a3eb6fd44b7ee502a758226aeb23dc0.setIcon(icon_144cc77bd9a35cb0cb1b89526ae307be);
+            
+    
+            var marker_8c8efc90d1f63c6f70ecb95565a92e35 = L.marker(
+                [49.853168, 8.657365],
+                {
+}
+            ).addTo(feature_group_ecaf8f2f0a4c8aa403c0194a0641f45d);
+        
+    
+            var icon_2b514852879448d051981068accabea3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "bus",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_50a9db92a0607c3e52ad4f180fb9828b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4f8005ecc06be18a66b19fc349949e1a = $(`<div id="html_4f8005ecc06be18a66b19fc349949e1a" style="width: 100.0%; height: 100.0%;"><b>Haltestelle:</b> Darmstadt Klappacher Straße</div>`)[0];
+                popup_50a9db92a0607c3e52ad4f180fb9828b.setContent(html_4f8005ecc06be18a66b19fc349949e1a);
+            
+        
+
+        marker_8c8efc90d1f63c6f70ecb95565a92e35.bindPopup(popup_50a9db92a0607c3e52ad4f180fb9828b)
+        ;
+
+        
+    
+    
+            marker_8c8efc90d1f63c6f70ecb95565a92e35.bindTooltip(
+                `<div>
+                     Darmstadt Klappacher Straße
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8c8efc90d1f63c6f70ecb95565a92e35.setIcon(icon_2b514852879448d051981068accabea3);
+            
+    
+            var marker_e707e5c65e87bbe0e9f66a6f1b3e80b2 = L.marker(
+                [49.853419, 8.652557],
+                {
+}
+            ).addTo(feature_group_ecaf8f2f0a4c8aa403c0194a0641f45d);
+        
+    
+            var icon_bfd082e6f5ea7f1b35105202be7bc101 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "bus",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_497bbace6ab9ca0e105df31c81888d77 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_490d243a328fce01cc2475678878e7bd = $(`<div id="html_490d243a328fce01cc2475678878e7bd" style="width: 100.0%; height: 100.0%;"><b>Haltestelle:</b> Darmstadt Ludwigshöhstraße</div>`)[0];
+                popup_497bbace6ab9ca0e105df31c81888d77.setContent(html_490d243a328fce01cc2475678878e7bd);
+            
+        
+
+        marker_e707e5c65e87bbe0e9f66a6f1b3e80b2.bindPopup(popup_497bbace6ab9ca0e105df31c81888d77)
+        ;
+
+        
+    
+    
+            marker_e707e5c65e87bbe0e9f66a6f1b3e80b2.bindTooltip(
+                `<div>
+                     Darmstadt Ludwigshöhstraße
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e707e5c65e87bbe0e9f66a6f1b3e80b2.setIcon(icon_bfd082e6f5ea7f1b35105202be7bc101);
+            
+    
+            feature_group_ecaf8f2f0a4c8aa403c0194a0641f45d.addTo(map_f69e552a7f1e76c27db94209d98e1ac7);
+        
+    
+            var feature_group_ec5c111516bdb381baee01d617f29758 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_5e7710fb52cb7b89a2e791e19e7186a1 = L.circleMarker(
+                [49.852385, 8.670062],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 1.0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 1}
+            ).addTo(feature_group_ec5c111516bdb381baee01d617f29758);
+        
+    
+        var popup_de534bfd9ed5c5d39bcb9424ca7dd3a5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_eb94b9fa2debd07df12ad7b43a755f8d = $(`<div id="html_eb94b9fa2debd07df12ad7b43a755f8d" style="width: 100.0%; height: 100.0%;">Ampel</div>`)[0];
+                popup_de534bfd9ed5c5d39bcb9424ca7dd3a5.setContent(html_eb94b9fa2debd07df12ad7b43a755f8d);
+            
+        
+
+        circle_marker_5e7710fb52cb7b89a2e791e19e7186a1.bindPopup(popup_de534bfd9ed5c5d39bcb9424ca7dd3a5)
+        ;
+
+        
+    
+    
+            circle_marker_5e7710fb52cb7b89a2e791e19e7186a1.bindTooltip(
+                `<div>
+                     Ampel
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c053e819688614fb61704caa57776213 = L.circleMarker(
+                [49.85271, 8.657767],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 1.0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 1}
+            ).addTo(feature_group_ec5c111516bdb381baee01d617f29758);
+        
+    
+        var popup_0d2f97902a15b0885ad0ff8846d34c8c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5c4f90a99e25fdfa583675910099c7e7 = $(`<div id="html_5c4f90a99e25fdfa583675910099c7e7" style="width: 100.0%; height: 100.0%;">Ampel</div>`)[0];
+                popup_0d2f97902a15b0885ad0ff8846d34c8c.setContent(html_5c4f90a99e25fdfa583675910099c7e7);
+            
+        
+
+        circle_marker_c053e819688614fb61704caa57776213.bindPopup(popup_0d2f97902a15b0885ad0ff8846d34c8c)
+        ;
+
+        
+    
+    
+            circle_marker_c053e819688614fb61704caa57776213.bindTooltip(
+                `<div>
+                     Ampel
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_414304f8624e3e98f8c31e2088f563e5 = L.circleMarker(
+                [49.853419, 8.652557],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 1.0, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 1}
+            ).addTo(feature_group_ec5c111516bdb381baee01d617f29758);
+        
+    
+        var popup_34d66233e9d84a94cfa149b8aeca8972 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_16bf4d555e0191e491ff6f090d585c0b = $(`<div id="html_16bf4d555e0191e491ff6f090d585c0b" style="width: 100.0%; height: 100.0%;">Ampel</div>`)[0];
+                popup_34d66233e9d84a94cfa149b8aeca8972.setContent(html_16bf4d555e0191e491ff6f090d585c0b);
+            
+        
+
+        circle_marker_414304f8624e3e98f8c31e2088f563e5.bindPopup(popup_34d66233e9d84a94cfa149b8aeca8972)
+        ;
+
+        
+    
+    
+            circle_marker_414304f8624e3e98f8c31e2088f563e5.bindTooltip(
+                `<div>
+                     Ampel
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            feature_group_ec5c111516bdb381baee01d617f29758.addTo(map_f69e552a7f1e76c27db94209d98e1ac7);
+        
+    
+            var layer_control_bbeed1af0c0ca8b1027704b1928771cf_layers = {
+                base_layers : {
+                    "cartodbpositron" : tile_layer_4c614913fd8625dcc8f06ca217bf1e90,
+                },
+                overlays :  {
+                    "Route (Tempolimit)" : feature_group_bc78f91b21fbad61953e36ec1658a6d2,
+                    "Haltestellen" : feature_group_ecaf8f2f0a4c8aa403c0194a0641f45d,
+                    "Ampeln" : feature_group_ec5c111516bdb381baee01d617f29758,
+                },
+            };
+            let layer_control_bbeed1af0c0ca8b1027704b1928771cf = L.control.layers(
+                layer_control_bbeed1af0c0ca8b1027704b1928771cf_layers.base_layers,
+                layer_control_bbeed1af0c0ca8b1027704b1928771cf_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": false,
+  "autoZIndex": true,
+}
+            ).addTo(map_f69e552a7f1e76c27db94209d98e1ac7);
+
+        
+</script>
+</html>

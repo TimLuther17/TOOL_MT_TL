@@ -1,0 +1,10 @@
+- Antworte auf Deutsch, kurz und präzise.
+- Frage nach, wenn Anforderungen unklar sind; keine stillen Annahmen.
+- Ändere nur Dateien, die für die Aufgabe nötig sind.
+- Behalte bestehenden Code-Stil, Dateistruktur und Benennungen bei.
+- Vermeide große Refactors ohne expliziten Auftrag.
+- Keine destruktiven Git-Operationen ohne ausdrückliche Freigabe.
+- Führe nach Codeänderungen einen kurzen Validierungscheck aus (Syntax/Run).
+- Fasse jede Änderung mit Zweck + Testhinweis zusammen.
+- Ändere keine generierten Ergebnisdateien (CSV/HTML/PNG), außer explizit angefordert.
+- Ändere start_*.bat nur bei explizitem Wunsch.

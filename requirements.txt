@@ -6,3 +6,5 @@ srtm.py==0.2.3
 scipy
 matplotlib
 seaborn
+fastapi
+uvicorn

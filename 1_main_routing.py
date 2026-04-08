@@ -3,6 +3,7 @@ import sys
 import glob
 import subprocess
 import json
+import argparse
 
 # --- ORDNER-STRUKTUR KONFIGURIEREN ---
 BASE_DIR = r"C:\Users\Luther\PycharmProjects\TOOL_GTFS_Overpass"
@@ -68,6 +69,48 @@ def run_pipeline(args):
         print(f"HINWEIS: Keine passenden Skripte im Ordner {DIR_ENRICHMENT} gefunden.")
     for script in enrichment_scripts:
         if not run_python_script(script, *args): return
+
+
+def run_noninteractive(mode, city=None, bus=None, selection="a", visualize=False):
+    """Run routing flow without interactive input."""
+    args = []
+
+    if mode == "new":
+        if not run_python_script(SCRIPT_GTFS):
+            return 1
+        if not os.path.exists(CONFIG_FILE):
+            print(f"\nFEHLER: Konnte die Parameter-Datei '{CONFIG_FILE}' nicht finden.")
+            return 1
+        with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
+            params = json.load(f)
+        city = params.get("stadt", city or "")
+        bus = params.get("bus", bus or "")
+        selection = params.get("auswahl", selection or "a")
+        args = [city, bus, selection]
+        if not run_python_script(SCRIPT_GENERATE_RAW, *args):
+            return 1
+        run_pipeline(args)
+
+    elif mode == "raw":
+        if not city or not bus:
+            print("FEHLER: Für '--mode raw' sind '--city' und '--bus' erforderlich.")
+            return 1
+        args = [city, bus, selection or "a"]
+        run_pipeline(args)
+
+    elif mode == "list":
+        print(f"\n--- Verfügbare fertige Routen in: {os.path.basename(DIR_FINAL_ROUTES)} ---")
+        if os.path.exists(DIR_FINAL_ROUTES):
+            csv_files = glob.glob(os.path.join(DIR_FINAL_ROUTES, "**", "*.csv"), recursive=True)
+            for f in csv_files:
+                print(f" - {os.path.relpath(f, DIR_FINAL_ROUTES)}")
+    else:
+        print(f"FEHLER: Unbekannter mode '{mode}'. Erlaubt: new, raw, list")
+        return 1
+
+    if visualize and args:
+        run_python_script(SCRIPT_VISUALIZER, *args)
+    return 0
 
 
 def main():
@@ -139,4 +182,23 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(add_help=True)
+    parser.add_argument("--mode", choices=["interactive", "new", "raw", "list"], default="interactive")
+    parser.add_argument("--city", default=None)
+    parser.add_argument("--bus", default=None)
+    parser.add_argument("--selection", default="a")
+    parser.add_argument("--visualize", action="store_true")
+    cli_args = parser.parse_args()
+
+    if cli_args.mode == "interactive":
+        main()
+    else:
+        sys.exit(
+            run_noninteractive(
+                mode=cli_args.mode,
+                city=cli_args.city,
+                bus=cli_args.bus,
+                selection=cli_args.selection,
+                visualize=cli_args.visualize,
+            )
+        )

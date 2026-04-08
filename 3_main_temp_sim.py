@@ -2,6 +2,7 @@ import os
 import sys
 import glob
 import subprocess
+import argparse
 
 # --- ORDNER-STRUKTUR KONFIGURIEREN ---
 BASE_DIR = r"C:\Users\Luther\PycharmProjects\TOOL_GTFS_Overpass"
@@ -201,5 +202,108 @@ def main():
             print(f" -> Erfolgreich {deleted_count} temporäre Zwischendateien aus Ordner 4 gelöscht.")
     print("#" * 70)
 
+
+def run_noninteractive(
+    provider,
+    city,
+    bus,
+    file_idx,
+    date_str,
+    accel_idx,
+    scenario_idx,
+    variant,
+    cleanup=False,
+):
+    downstream_file_idx = 'a'
+    selected_provider = provider
+    selected_city = city
+    selected_bus = bus
+    cleanup_choice = "j" if cleanup else "n"
+
+    temp_dir = os.path.join(BASE_DIR, "4_data_temporal_influence", selected_provider, selected_city, selected_bus)
+    if os.path.exists(temp_dir):
+        for pattern in ["*Time*.csv", "*Ampel*.csv", "*Pax*.csv", "*Weather*.csv"]:
+            for f in glob.glob(os.path.join(temp_dir, pattern)):
+                try:
+                    os.remove(f)
+                except Exception:
+                    pass
+
+    for script_path in PIPELINE_SCRIPTS:
+        script_name = os.path.basename(script_path)
+        if not os.path.exists(script_path):
+            return 1
+        inputs_for_script = ""
+        cmd = [sys.executable, script_path]
+
+        if "visualize" in script_name or "Variablen" in script_name:
+            cmd = [sys.executable, script_path, selected_provider, selected_city, selected_bus, downstream_file_idx]
+        else:
+            if "0_set_start_date_time" in script_name:
+                p_idx, c_idx, b_idx = get_dynamic_indices(
+                    os.path.join(BASE_DIR, "3_data_speed_profile"), selected_provider, selected_city, selected_bus
+                )
+                inputs_for_script = f"{p_idx}\n{c_idx}\n{b_idx}\n{file_idx}\n{date_str}\n\n\n\n"
+            elif "1_adapted_speed_profile_ampel" in script_name:
+                p_idx, c_idx, b_idx = get_dynamic_indices(
+                    os.path.join(BASE_DIR, "4_data_temporal_influence"), selected_provider, selected_city, selected_bus
+                )
+                inputs_for_script = f"{accel_idx}\n{scenario_idx}\n{p_idx}\n{c_idx}\n{b_idx}\n{downstream_file_idx}\n\n\n\n"
+            elif "Personenaufkommen" in script_name or "temperature" in script_name:
+                p_idx, c_idx, b_idx = get_dynamic_indices(
+                    os.path.join(BASE_DIR, "4_data_temporal_influence"), selected_provider, selected_city, selected_bus
+                )
+                inputs_for_script = f"{p_idx}\n{c_idx}\n{b_idx}\n{downstream_file_idx}\n\n\n\n"
+            elif "run_bus_simulation" in script_name:
+                p_idx, c_idx, b_idx = get_dynamic_indices(
+                    os.path.join(BASE_DIR, "4_data_temporal_influence"), selected_provider, selected_city, selected_bus
+                )
+                inputs_for_script = f"{p_idx}\n{c_idx}\n{b_idx}\n{downstream_file_idx}\n{variant}\n\n\n\n"
+
+        result = subprocess.run(cmd, input=inputs_for_script, text=True)
+        if result.returncode != 0:
+            return result.returncode
+
+    if cleanup_choice in ['j', 'ja', 'y', 'yes'] and os.path.exists(temp_dir):
+        for pattern in ["*Time*.csv", "*Ampel*.csv", "*Pax*.csv", "*Weather*.csv"]:
+            for f in glob.glob(os.path.join(temp_dir, pattern)):
+                try:
+                    os.remove(f)
+                except Exception:
+                    pass
+    return 0
+
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(add_help=True)
+    parser.add_argument("--mode", choices=["interactive", "run"], default="interactive")
+    parser.add_argument("--provider", default=None)
+    parser.add_argument("--city", default=None)
+    parser.add_argument("--bus", default=None)
+    parser.add_argument("--file-idx", default="a")
+    parser.add_argument("--date", default=None)
+    parser.add_argument("--accel-idx", default="0")
+    parser.add_argument("--scenario-idx", default="2")
+    parser.add_argument("--variant", default="G4")
+    parser.add_argument("--cleanup", action="store_true")
+    cli_args = parser.parse_args()
+
+    if cli_args.mode == "interactive":
+        main()
+    else:
+        required = [cli_args.provider, cli_args.city, cli_args.bus, cli_args.date]
+        if any(v is None for v in required):
+            print("FEHLER: Für '--mode run' sind '--provider --city --bus --date' erforderlich.")
+            sys.exit(1)
+        sys.exit(
+            run_noninteractive(
+                provider=cli_args.provider,
+                city=cli_args.city,
+                bus=cli_args.bus,
+                file_idx=cli_args.file_idx,
+                date_str=cli_args.date,
+                accel_idx=cli_args.accel_idx,
+                scenario_idx=cli_args.scenario_idx,
+                variant=cli_args.variant,
+                cleanup=cli_args.cleanup,
+            )
+        )

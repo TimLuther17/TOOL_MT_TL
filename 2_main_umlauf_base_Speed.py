@@ -2,6 +2,7 @@ import os
 import sys
 import glob
 import subprocess
+import argparse
 
 # =========================================================
 # 1. ORDNER-STRUKTUR KONFIGURIEREN
@@ -153,5 +154,73 @@ def main():
     print("#" * 70)
 
 
+def run_noninteractive(
+    mode,
+    city,
+    bus,
+    accel_idx,
+    scenario_idx,
+    file_idx="a",
+    umlauf="",
+    excel_idx="0",
+):
+    selected_provider = "HEAG_Fahrplan" if mode == '1' else "Manuell"
+    pipeline_scripts = [SCRIPT_HEAG_UMLAUF, SCRIPT_SPEED_PROFIL] if mode == '1' else [SCRIPT_MANUELL_UMLAUF, SCRIPT_SPEED_PROFIL]
+
+    routes_dir = os.path.join(BASE_DIR, "1_data_route", "05_final_route")
+    c_idx_route, b_idx_route = get_route_indices(routes_dir, city, bus)
+
+    for script_path in pipeline_scripts:
+        script_name = os.path.basename(script_path)
+        if not os.path.exists(script_path):
+            sys.exit(f"\nFEHLER: Skript nicht gefunden: {script_path}")
+
+        print(f"\n{'=' * 70}\n>>> STARTE MODUL: {script_name}\n{'=' * 70}\n")
+
+        if "generate_Umlauf_LinieXY" in script_name:
+            inputs_for_script = f"{c_idx_route}\n{b_idx_route}\n{umlauf}\n\n\n\n"
+        elif "generate_Kurse_HEAG" in script_name:
+            inputs_for_script = f"{excel_idx}\n{c_idx_route}\n{b_idx_route}\n\n\n\n"
+        else:
+            p_idx, c_idx, b_idx = get_dynamic_indices(
+                os.path.join(BASE_DIR, "2_data_fahrplan_umlauf"), selected_provider, city, bus
+            )
+            inputs_for_script = f"{accel_idx}\n{scenario_idx}\n{p_idx}\n{c_idx}\n{b_idx}\n{file_idx}\n\n\n\n"
+
+        cmd = [sys.executable, script_path]
+        result = subprocess.run(cmd, input=inputs_for_script, text=True)
+        if result.returncode != 0:
+            return result.returncode
+    return 0
+
+
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(add_help=True)
+    parser.add_argument("--mode", choices=["interactive", "0", "1"], default="interactive")
+    parser.add_argument("--city", default=None)
+    parser.add_argument("--bus", default=None)
+    parser.add_argument("--accel-idx", default="0")
+    parser.add_argument("--scenario-idx", default="2")
+    parser.add_argument("--file-idx", default="a")
+    parser.add_argument("--umlauf", default="")
+    parser.add_argument("--excel-idx", default="0")
+    cli_args = parser.parse_args()
+
+    if cli_args.mode == "interactive":
+        main()
+    else:
+        if not cli_args.city or not cli_args.bus:
+            print("FEHLER: '--city' und '--bus' sind im Non-Interactive Mode erforderlich.")
+            sys.exit(1)
+        sys.exit(
+            run_noninteractive(
+                mode=cli_args.mode,
+                city=cli_args.city,
+                bus=cli_args.bus,
+                accel_idx=cli_args.accel_idx,
+                scenario_idx=cli_args.scenario_idx,
+                file_idx=cli_args.file_idx,
+                umlauf=cli_args.umlauf,
+                excel_idx=cli_args.excel_idx,
+            )
+        )
