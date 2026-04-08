@@ -1,8 +1,8 @@
 requests
 folium
-geopy
+numpy
 pandas
-openpyxl
-srtm.py==0.2.3pip uninstall srtm.py -y
-pip install srtm.py
-scikit-learn
+srtm.py==0.2.3
+scipy
+matplotlib
+seaborn
