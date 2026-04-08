@@ -1,0 +1,5 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Mannheim, Bonifatiuskirche;49.49807;8.489295;05:54:00;05:54:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Mannheim, Ludolf-Krehl-Straße;49.4972;8.492098;05:55:00;05:55:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Mannheim, Eisenlohrplatz;49.500893;8.494065;05:57:00;05:57:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Mannheim, Wohlgelegen EKZ;49.503693;8.499635;05:58:00;05:58:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3

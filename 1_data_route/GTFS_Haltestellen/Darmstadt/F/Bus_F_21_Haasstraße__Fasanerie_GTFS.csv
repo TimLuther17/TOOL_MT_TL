@@ -1,0 +1,17 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Haasstraße;49.885635;8.620524;24:00:00;24:00:00;Kein Umlauf;So;1372;Stop Seq 0
+Haltestelle;Darmstadt Kölner Straße;49.881435;8.617078;24:02:00;24:02:00;Kein Umlauf;So;1372;Stop Seq 1
+Haltestelle;Darmstadt Im Harras;49.878616;8.618645;24:03:00;24:03:00;Kein Umlauf;So;1372;Stop Seq 2
+Haltestelle;Darmstadt Moldenhauerweg;49.87578;8.61946;24:05:00;24:05:00;Kein Umlauf;So;1372;Stop Seq 3
+Haltestelle;Da. Rodensteinw./A.Schalthaus;49.875496;8.624025;24:06:00;24:06:00;Kein Umlauf;So;1372;Stop Seq 4
+Haltestelle;Darmstadt Hauptbahnhof Ost;49.87194;8.631148;24:09:00;24:09:00;Kein Umlauf;So;1372;Stop Seq 5
+Haltestelle;Darmstadt Berliner Allee;49.87076;8.635733;24:11:00;24:11:00;Kein Umlauf;So;1372;Stop Seq 6
+Haltestelle;Darmstadt Rhein-/Neckarstraße;49.871544;8.6447;24:12:00;24:12:00;Kein Umlauf;So;1372;Stop Seq 7
+Haltestelle;Darmstadt Luisenplatz;49.872883;8.651256;24:14:00;24:15:00;Kein Umlauf;So;1372;Stop Seq 8
+Haltestelle;Darmstadt Schloss;49.872868;8.655235;24:17:00;24:17:00;Kein Umlauf;So;1372;Stop Seq 9
+Haltestelle;Darmstadt Pützerstraße;49.87529;8.662563;24:19:00;24:19:00;Kein Umlauf;So;1372;Stop Seq 10
+Haltestelle;Darmstadt Alice-Hospital;49.87721;8.66337;24:20:00;24:20:00;Kein Umlauf;So;1372;Stop Seq 11
+Haltestelle;Darmstadt Mathildenhöhe;49.878677;8.667047;24:21:00;24:21:00;Kein Umlauf;So;1372;Stop Seq 12
+Haltestelle;Darmstadt Spessartring;49.879395;8.670701;24:22:00;24:22:00;Kein Umlauf;So;1372;Stop Seq 13
+Haltestelle;Darmstadt Regerweg;49.881638;8.677587;24:23:00;24:23:00;Kein Umlauf;So;1372;Stop Seq 14
+Haltestelle;Darmstadt Fasanerie;49.88413;8.685279;24:24:00;24:24:00;Kein Umlauf;So;1372;Stop Seq 15

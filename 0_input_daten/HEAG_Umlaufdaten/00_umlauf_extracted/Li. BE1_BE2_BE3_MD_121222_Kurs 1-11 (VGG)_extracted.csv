@@ -1,0 +1,460 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Eberstadt Wartehalle,3;05:00:00;2;W
+1;Eberstadt Heinrich-Delp-Straße,2;05:02:00;2;W
+1;Eberstadt Schwimmbad,2;05:03:00;2;W
+1;Eberstadt Kaisermühle,2;05:05:00;2;W
+1;Eberstadt Kühler Grund,2;05:06:00;2;W
+1;Eberstadt Kühler Grund,4;05:06:00;2;W
+1;Eberstadt Kinderheim,2;05:07:00;2;W
+1;Eberst. Frankenbergers Mühle,2;05:08:00;2;W
+1;Nd.-Beerbach Haus Burgwald,2;05:09:00;2;W
+1;Nieder-Beerbach Waldmühle,2;05:10:00;2;W
+1;Nieder-Beerbach Burgweg,2;05:10:00;2;W
+1;Nd.-Beerbach Am Wingertsberg,2;05:11:00;2;W
+1;Nieder-Beerbach Untergasse,2;05:12:00;2;W
+1;Nd.-Beerbach Quergasse,2;05:13:00;2;W
+1;Ober-Beerbach Eberstädter Str.,2;05:16:00;2;W
+1;Ob.-Beerbach Ernsth. Str.,1;05:18:00;2;W
+1;Ober-Beerbach Eberstädter Str.,1;05:20:00;2;W
+1;Seeheim Altes Rathaus,2;05:24:00;2;W
+1;Seeheim Neues Rathaus,4;05:26:00;2;W
+1;Seeheim Im Bangert,2;05:28:00;2;W
+1;Seeheim Tannenstraße,2;05:29:00;2;W
+1;Seeheim Gewerbegebiet,2;05:30:00;2;W
+2;Bickenbach Bürgerhaus,2;05:36:00;2;W
+2;Bickenbach Hartenauer Straße,11;05:37:00;2;W
+2;Bickenbach Bahnhof,1;05:39:00;2;W
+2;Bickenbach Bahnhof,1;06:13:00;1;W
+2;Bickenbach Pfungstädter Straße,1;06:15:00;1;W
+2;Bickenbach Bürgerhaus,1;06:16:00;1;W
+3;Seeheim Gewerbegebiet,1;06:23:00;1;W
+3;Seeheim Tannenstraße,1;06:24:00;1;W
+3;Seeheim Im Bangert,1;06:25:00;1;W
+3;Seeheim Neues Rathaus,3;06:27:00;1;W
+3;Seeheim Altes Rathaus,1;06:29:00;1;W
+3;Ober-Beerbach Eberstädter Str.,2;06:33:00;1;W
+3;Ob.-Beerbach Ernsth. Str.,1;06:35:00;1;W
+3;Ober-Beerbach Eberstädter Str.,1;06:37:00;1;W
+3;Nd.-Beerbach Quergasse,1;06:41:00;1;W
+3;Nieder-Beerbach Untergasse,1;06:41:00;1;W
+3;Nd.-Beerbach Am Wingertsberg,1;06:42:00;1;W
+3;Nieder-Beerbach Burgweg,1;06:43:00;1;W
+3;Nieder-Beerbach Waldmühle,1;06:44:00;1;W
+3;Nd.-Beerbach Haus Burgwald,1;06:45:00;1;W
+3;Eberst. Frankenbergers Mühle,1;06:45:00;1;W
+3;Eberstadt Kinderheim,1;06:46:00;1;W
+3;Eberstadt Kühler Grund,3;06:47:00;1;W
+3;Eberstadt Kühler Grund,1;06:48:00;1;W
+3;Eberstadt Kaisermühle,1;06:49:00;1;W
+3;Eberstadt Schwimmbad,1;06:51:00;1;W
+3;Eberstadt Heinrich-Delp-Straße,1;06:53:00;1;W
+3;Eberstadt Wartehalle,3;06:55:00;1;W
+3;Eberstadt Wartehalle,3;07:00:00;2;W
+3;Eberstadt Heinrich-Delp-Straße,2;07:02:00;2;W
+3;Eberstadt Schwimmbad,2;07:03:00;2;W
+3;Eberstadt Kaisermühle,2;07:05:00;2;W
+3;Eberstadt Kühler Grund,2;07:06:00;2;W
+3;Eberstadt Kühler Grund,4;07:06:00;2;W
+3;Eberstadt Kinderheim,2;07:07:00;2;W
+3;Eberst. Frankenbergers Mühle,2;07:08:00;2;W
+3;Nd.-Beerbach Haus Burgwald,2;07:09:00;2;W
+3;Nieder-Beerbach Waldmühle,2;07:10:00;2;W
+3;Nieder-Beerbach Burgweg,2;07:10:00;2;W
+3;Nd.-Beerbach Am Wingertsberg,2;07:11:00;2;W
+3;Nieder-Beerbach Untergasse,2;07:12:00;2;W
+3;Nd.-Beerbach Quergasse,2;07:13:00;2;W
+3;Ober-Beerbach Eberstädter Str.,2;07:16:00;2;W
+3;Ob.-Beerbach Ernsth. Str.,1;07:18:00;2;W
+3;Ober-Beerbach Eberstädter Str.,1;07:20:00;2;W
+3;Seeheim Altes Rathaus,2;07:24:00;2;W
+3;Seeheim Neues Rathaus,4;07:26:00;2;W
+4;Seeheim Schuldorf,2;07:32:00;2;W
+4;Bickenbach Bürgerhaus,2;07:36:00;2;W
+4;Bickenbach Hartenauer Straße,11;07:37:00;2;W
+4;Bickenbach Bahnhof,1;07:39:00;2;W
+4;Bickenbach Bahnhof,1;07:41:00;1;W
+4;Bickenbach Pfungstädter Straße,1;07:43:00;1;W
+4;Bickenbach Bürgerhaus,1;07:44:00;1;W
+5;Seeheim Schuldorf,3;07:48:00;1;W
+5;Seeheim Gewerbegebiet,1;07:53:00;1;W
+5;Seeheim Tannenstraße,1;07:54:00;1;W
+5;Seeheim Im Bangert,1;07:55:00;1;W
+5;Seeheim Neues Rathaus,3;07:57:00;1;W
+5;Seeheim Altes Rathaus,1;07:59:00;1;W
+5;Ober-Beerbach Eberstädter Str.,2;08:03:00;1;W
+5;Ob.-Beerbach Ernsth. Str.,1;08:05:00;1;W
+5;Ober-Beerbach Eberstädter Str.,1;08:07:00;1;W
+5;Nd.-Beerbach Quergasse,1;08:11:00;1;W
+5;Nieder-Beerbach Untergasse,1;08:11:00;1;W
+5;Nd.-Beerbach Am Wingertsberg,1;08:12:00;1;W
+5;Nieder-Beerbach Burgweg,1;08:13:00;1;W
+5;Nieder-Beerbach Waldmühle,1;08:14:00;1;W
+5;Nd.-Beerbach Haus Burgwald,1;08:15:00;1;W
+5;Eberst. Frankenbergers Mühle,1;08:15:00;1;W
+5;Eberstadt Kinderheim,1;08:16:00;1;W
+5;Eberstadt Kühler Grund,3;08:17:00;1;W
+5;Eberstadt Kühler Grund,1;08:18:00;1;W
+5;Eberstadt Kaisermühle,1;08:19:00;1;W
+5;Eberstadt Schwimmbad,1;08:21:00;1;W
+5;Eberstadt Heinrich-Delp-Straße,1;08:23:00;1;W
+5;Eberstadt Wartehalle,3;08:25:00;1;W
+5;Eberstadt Wartehalle,3;08:35:00;2;W
+5;Eberstadt Heinrich-Delp-Straße,2;08:37:00;2;W
+5;Eberstadt Schwimmbad,2;08:38:00;2;W
+5;Eberstadt Kaisermühle,2;08:40:00;2;W
+5;Eberstadt Kühler Grund,2;08:41:00;2;W
+5;Eberstadt Kühler Grund,4;08:41:00;2;W
+5;Eberstadt Kinderheim,2;08:42:00;2;W
+5;Eberst. Frankenbergers Mühle,2;08:43:00;2;W
+5;Nd.-Beerbach Haus Burgwald,2;08:44:00;2;W
+5;Nieder-Beerbach Waldmühle,2;08:45:00;2;W
+5;Nieder-Beerbach Burgweg,2;08:45:00;2;W
+5;Nd.-Beerbach Am Wingertsberg,2;08:46:00;2;W
+5;Nieder-Beerbach Untergasse,2;08:47:00;2;W
+5;Nd.-Beerbach Quergasse,2;08:48:00;2;W
+5;Ober-Beerbach Eberstädter Str.,2;08:51:00;2;W
+5;Ob.-Beerbach Ernsth. Str.,1;08:53:00;2;W
+5;Ober-Beerbach Eberstädter Str.,1;10:25:00;2;W
+5;Seeheim Altes Rathaus,2;10:29:00;2;W
+5;Seeheim Neues Rathaus,4;10:31:00;2;W
+5;Seeheim Im Bangert,2;10:33:00;2;W
+5;Seeheim Tannenstraße,2;10:34:00;2;W
+5;Seeheim Gewerbegebiet,2;10:35:00;2;W
+6;Ob.-Beerbach Ernsth. Str.,1;09:05:00;1;W
+6;Ober-Beerbach Eberstädter Str.,1;09:07:00;1;W
+6;Nd.-Beerbach Quergasse,1;09:11:00;1;W
+6;Nieder-Beerbach Untergasse,1;09:11:00;1;W
+6;Nd.-Beerbach Am Wingertsberg,1;09:12:00;1;W
+6;Nieder-Beerbach Burgweg,1;09:13:00;1;W
+6;Nieder-Beerbach Waldmühle,1;09:14:00;1;W
+6;Nd.-Beerbach Haus Burgwald,1;09:15:00;1;W
+6;Eberst. Frankenbergers Mühle,1;09:15:00;1;W
+6;Eberstadt Kinderheim,1;09:16:00;1;W
+6;Eberstadt Kühler Grund,3;09:17:00;1;W
+6;Eberstadt Kühler Grund,1;09:18:00;1;W
+6;Eberstadt Kaisermühle,1;09:19:00;1;W
+6;Eberstadt Schwimmbad,1;09:21:00;1;W
+6;Eberstadt Heinrich-Delp-Straße,1;09:23:00;1;W
+6;Eberstadt Wartehalle,3;09:25:00;1;W
+6;Eberstadt Wartehalle,3;10:05:00;2;W
+6;Eberstadt Heinrich-Delp-Straße,2;10:07:00;2;W
+6;Eberstadt Schwimmbad,2;10:08:00;2;W
+6;Eberstadt Kaisermühle,2;10:10:00;2;W
+6;Eberstadt Kühler Grund,2;10:11:00;2;W
+6;Eberstadt Kühler Grund,4;10:11:00;2;W
+6;Eberstadt Kinderheim,2;10:12:00;2;W
+6;Eberst. Frankenbergers Mühle,2;10:13:00;2;W
+6;Nd.-Beerbach Haus Burgwald,2;10:14:00;2;W
+6;Nieder-Beerbach Waldmühle,2;10:15:00;2;W
+6;Nieder-Beerbach Burgweg,2;10:15:00;2;W
+6;Nd.-Beerbach Am Wingertsberg,2;10:16:00;2;W
+6;Nieder-Beerbach Untergasse,2;10:17:00;2;W
+6;Nd.-Beerbach Quergasse,2;10:18:00;2;W
+6;Ober-Beerbach Eberstädter Str.,2;10:21:00;2;W
+6;Ob.-Beerbach Ernsth. Str.,1;10:23:00;2;W
+7;Bickenbach Bürgerhaus,2;10:41:00;2;W
+7;Bickenbach Hartenauer Straße,11;10:42:00;2;W
+7;Bickenbach Bahnhof,1;10:44:00;2;W
+7;Bickenbach Bahnhof,1;11:13:00;1;W
+7;Bickenbach Pfungstädter Straße,1;11:15:00;1;W
+7;Bickenbach Bürgerhaus,1;11:16:00;1;W
+8;Seeheim Gewerbegebiet,1;11:23:00;1;W
+8;Seeheim Tannenstraße,1;11:24:00;1;W
+8;Seeheim Im Bangert,1;11:25:00;1;W
+8;Seeheim Neues Rathaus,3;11:27:00;1;W
+8;Seeheim Altes Rathaus,1;11:29:00;1;W
+8;Ober-Beerbach Eberstädter Str.,2;11:33:00;1;W
+8;Ob.-Beerbach Ernsth. Str.,1;11:35:00;1;W
+8;Ober-Beerbach Eberstädter Str.,1;11:37:00;1;W
+8;Nd.-Beerbach Quergasse,1;11:41:00;1;W
+8;Nieder-Beerbach Untergasse,1;11:41:00;1;W
+8;Nd.-Beerbach Am Wingertsberg,1;11:42:00;1;W
+8;Nieder-Beerbach Burgweg,1;11:43:00;1;W
+8;Nieder-Beerbach Waldmühle,1;11:44:00;1;W
+8;Nd.-Beerbach Haus Burgwald,1;11:45:00;1;W
+8;Eberst. Frankenbergers Mühle,1;11:45:00;1;W
+8;Eberstadt Kinderheim,1;11:46:00;1;W
+8;Eberstadt Kühler Grund,3;11:47:00;1;W
+8;Eberstadt Kühler Grund,1;11:48:00;1;W
+8;Eberstadt Kaisermühle,1;11:49:00;1;W
+8;Eberstadt Schwimmbad,1;11:51:00;1;W
+8;Eberstadt Heinrich-Delp-Straße,1;11:53:00;1;W
+8;Eberstadt Wartehalle,3;11:55:00;1;W
+8;Eberstadt Wartehalle,3;13:35:00;2;W
+8;Eberstadt Heinrich-Delp-Straße,2;13:37:00;2;W
+8;Eberstadt Schwimmbad,2;13:38:00;2;W
+8;Eberstadt Kaisermühle,2;13:40:00;2;W
+8;Eberstadt Kühler Grund,2;13:41:00;2;W
+8;Eberstadt Kühler Grund,4;13:41:00;2;W
+8;Eberstadt Kinderheim,2;13:42:00;2;W
+8;Eberst. Frankenbergers Mühle,2;13:43:00;2;W
+8;Nd.-Beerbach Haus Burgwald,2;13:44:00;2;W
+8;Nieder-Beerbach Waldmühle,2;13:45:00;2;W
+8;Nieder-Beerbach Burgweg,2;13:45:00;2;W
+8;Nd.-Beerbach Am Wingertsberg,2;13:46:00;2;W
+8;Nieder-Beerbach Untergasse,2;13:47:00;2;W
+8;Nd.-Beerbach Quergasse,2;13:48:00;2;W
+8;Ober-Beerbach Eberstädter Str.,2;13:51:00;2;W
+8;Ob.-Beerbach Ernsth. Str.,1;13:53:00;2;W
+8;Ober-Beerbach Eberstädter Str.,1;13:55:00;2;W
+8;Seeheim Altes Rathaus,2;13:59:00;2;W
+8;Seeheim Neues Rathaus,4;14:01:00;2;W
+8;Seeheim Im Bangert,2;14:03:00;2;W
+8;Seeheim Tannenstraße,2;14:04:00;2;W
+8;Seeheim Gewerbegebiet,2;14:05:00;2;W
+8;Seeheim Schuldorf,2;15:39:00;2;W
+8;Bickenbach Bürgerhaus,2;15:43:00;2;W
+8;Bickenbach Hartenauer Straße,11;15:44:00;2;W
+8;Bickenbach Bahnhof,1;15:46:00;2;W
+8;Bickenbach Bahnhof,1;15:53:00;1;W
+8;Bickenbach Pfungstädter Straße,1;15:55:00;1;W
+8;Bickenbach Bürgerhaus,1;15:56:00;1;W
+8;Seeheim Schuldorf,2;16:00:00;1;W
+8;Seeheim Schuldorf,3;16:18:00;1;W
+8;Seeheim Gewerbegebiet,1;16:23:00;1;W
+8;Seeheim Tannenstraße,1;16:24:00;1;W
+8;Seeheim Im Bangert,1;16:25:00;1;W
+8;Seeheim Neues Rathaus,3;16:27:00;1;W
+8;Seeheim Altes Rathaus,1;16:29:00;1;W
+8;Ober-Beerbach Eberstädter Str.,2;16:33:00;1;W
+8;Ob.-Beerbach Ernsth. Str.,1;16:35:00;1;W
+8;Ober-Beerbach Eberstädter Str.,1;16:37:00;1;W
+8;Nd.-Beerbach Quergasse,1;16:41:00;1;W
+8;Nieder-Beerbach Untergasse,1;16:41:00;1;W
+8;Nd.-Beerbach Am Wingertsberg,1;16:42:00;1;W
+8;Nieder-Beerbach Burgweg,1;16:43:00;1;W
+8;Nieder-Beerbach Waldmühle,1;16:44:00;1;W
+8;Nd.-Beerbach Haus Burgwald,1;16:45:00;1;W
+8;Eberst. Frankenbergers Mühle,1;16:45:00;1;W
+8;Eberstadt Kinderheim,1;16:46:00;1;W
+8;Eberstadt Kühler Grund,3;16:47:00;1;W
+8;Eberstadt Kühler Grund,1;16:48:00;1;W
+8;Eberstadt Kaisermühle,1;16:49:00;1;W
+8;Eberstadt Schwimmbad,1;16:51:00;1;W
+8;Eberstadt Heinrich-Delp-Straße,1;16:53:00;1;W
+8;Eberstadt Wartehalle,3;16:55:00;1;W
+8;Eberstadt Wartehalle,3;17:05:00;2;W
+8;Eberstadt Heinrich-Delp-Straße,2;17:07:00;2;W
+8;Eberstadt Schwimmbad,2;17:08:00;2;W
+8;Eberstadt Kaisermühle,2;17:10:00;2;W
+8;Eberstadt Kühler Grund,2;17:11:00;2;W
+8;Eberstadt Kühler Grund,4;17:11:00;2;W
+8;Eberstadt Kinderheim,2;17:12:00;2;W
+8;Eberst. Frankenbergers Mühle,2;17:13:00;2;W
+8;Nd.-Beerbach Haus Burgwald,2;17:14:00;2;W
+8;Nieder-Beerbach Waldmühle,2;17:15:00;2;W
+8;Nieder-Beerbach Burgweg,2;17:15:00;2;W
+8;Nd.-Beerbach Am Wingertsberg,2;17:16:00;2;W
+8;Nieder-Beerbach Untergasse,2;17:17:00;2;W
+8;Nd.-Beerbach Quergasse,2;17:18:00;2;W
+8;Ober-Beerbach Eberstädter Str.,2;17:21:00;2;W
+8;Ob.-Beerbach Ernsth. Str.,1;17:23:00;2;W
+8;Ober-Beerbach Eberstädter Str.,1;17:25:00;2;W
+8;Seeheim Altes Rathaus,2;17:29:00;2;W
+8;Seeheim Neues Rathaus,4;17:31:00;2;W
+8;Seeheim Im Bangert,2;17:33:00;2;W
+8;Seeheim Tannenstraße,2;17:34:00;2;W
+8;Seeheim Gewerbegebiet,2;17:35:00;2;W
+8;Seeheim Schuldorf,2;17:39:00;2;W
+8;Bickenbach Bürgerhaus,2;17:43:00;2;W
+8;Bickenbach Hartenauer Straße,11;17:44:00;2;W
+8;Bickenbach Bahnhof,1;17:46:00;2;W
+8;Bickenbach Bahnhof,1;18:23:00;1;W
+8;Bickenbach Pfungstädter Straße,1;18:25:00;1;W
+8;Bickenbach Bürgerhaus,1;18:26:00;1;W
+9;Bickenbach Bürgerhaus,2;14:11:00;2;W
+9;Bickenbach Hartenauer Straße,11;14:12:00;2;W
+9;Bickenbach Bahnhof,1;14:14:00;2;W
+9;Bickenbach Bahnhof,1;14:15:00;1;W
+9;Bickenbach Pfungstädter Straße,1;14:17:00;1;W
+9;Bickenbach Bürgerhaus,1;14:18:00;1;W
+10;Seeheim Schuldorf,3;14:22:00;1;W
+10;Seeheim Gewerbegebiet,1;14:27:00;1;W
+10;Seeheim Tannenstraße,1;14:28:00;1;W
+10;Seeheim Im Bangert,1;14:29:00;1;W
+10;Seeheim Neues Rathaus,3;14:31:00;1;W
+10;Seeheim Altes Rathaus,1;14:33:00;1;W
+10;Ober-Beerbach Eberstädter Str.,2;14:37:00;1;W
+10;Ob.-Beerbach Ernsth. Str.,1;14:39:00;1;W
+10;Ober-Beerbach Eberstädter Str.,1;14:41:00;1;W
+10;Nd.-Beerbach Quergasse,1;14:45:00;1;W
+10;Nieder-Beerbach Untergasse,1;14:45:00;1;W
+10;Nd.-Beerbach Am Wingertsberg,1;14:46:00;1;W
+10;Nieder-Beerbach Burgweg,1;14:47:00;1;W
+10;Nieder-Beerbach Waldmühle,1;14:48:00;1;W
+10;Nd.-Beerbach Haus Burgwald,1;14:49:00;1;W
+10;Eberst. Frankenbergers Mühle,1;14:49:00;1;W
+10;Eberstadt Kinderheim,1;14:50:00;1;W
+10;Eberstadt Kühler Grund,3;14:51:00;1;W
+10;Eberstadt Kühler Grund,1;14:52:00;1;W
+10;Eberstadt Kaisermühle,1;14:53:00;1;W
+10;Eberstadt Schwimmbad,1;14:55:00;1;W
+10;Eberstadt Heinrich-Delp-Straße,1;14:57:00;1;W
+10;Eberstadt Wartehalle,3;14:59:00;1;W
+10;Eberstadt Wartehalle,3;15:05:00;2;W
+10;Eberstadt Heinrich-Delp-Straße,2;15:07:00;2;W
+10;Eberstadt Schwimmbad,2;15:08:00;2;W
+10;Eberstadt Kaisermühle,2;15:10:00;2;W
+10;Eberstadt Kühler Grund,2;15:11:00;2;W
+10;Eberstadt Kühler Grund,4;15:11:00;2;W
+10;Eberstadt Kinderheim,2;15:12:00;2;W
+10;Eberst. Frankenbergers Mühle,2;15:13:00;2;W
+10;Nd.-Beerbach Haus Burgwald,2;15:14:00;2;W
+10;Nieder-Beerbach Waldmühle,2;15:15:00;2;W
+10;Nieder-Beerbach Burgweg,2;15:15:00;2;W
+10;Nd.-Beerbach Am Wingertsberg,2;15:16:00;2;W
+10;Nieder-Beerbach Untergasse,2;15:17:00;2;W
+10;Nd.-Beerbach Quergasse,2;15:18:00;2;W
+10;Ober-Beerbach Eberstädter Str.,2;15:21:00;2;W
+10;Ob.-Beerbach Ernsth. Str.,1;15:23:00;2;W
+10;Ober-Beerbach Eberstädter Str.,1;15:25:00;2;W
+10;Seeheim Altes Rathaus,2;15:29:00;2;W
+10;Seeheim Neues Rathaus,4;15:31:00;2;W
+10;Seeheim Im Bangert,2;15:33:00;2;W
+10;Seeheim Tannenstraße,2;15:34:00;2;W
+10;Seeheim Gewerbegebiet,2;15:35:00;2;W
+10;Seeheim Schuldorf,2;16:00:00;2;W
+10;Bickenbach Bürgerhaus,2;16:04:00;2;W
+10;Bickenbach Hartenauer Straße,11;16:05:00;2;W
+10;Bickenbach Bahnhof,1;16:07:00;2;W
+10;Bickenbach Bahnhof,1;16:11:00;1;W
+10;Bickenbach Pfungstädter Straße,1;16:13:00;1;W
+10;Bickenbach Bürgerhaus,1;16:14:00;1;W
+11;Seeheim Gewerbegebiet,1;18:33:00;1;W
+11;Seeheim Tannenstraße,1;18:34:00;1;W
+11;Seeheim Im Bangert,1;18:35:00;1;W
+11;Seeheim Neues Rathaus,3;18:37:00;1;W
+11;Seeheim Altes Rathaus,1;18:39:00;1;W
+11;Ober-Beerbach Eberstädter Str.,2;18:43:00;1;W
+11;Ob.-Beerbach Ernsth. Str.,1;18:45:00;1;W
+11;Ober-Beerbach Eberstädter Str.,1;18:47:00;1;W
+11;Nd.-Beerbach Quergasse,1;18:51:00;1;W
+11;Nieder-Beerbach Untergasse,1;18:51:00;1;W
+11;Nd.-Beerbach Am Wingertsberg,1;18:52:00;1;W
+11;Nieder-Beerbach Burgweg,1;18:53:00;1;W
+11;Nieder-Beerbach Waldmühle,1;18:54:00;1;W
+11;Nd.-Beerbach Haus Burgwald,1;18:55:00;1;W
+11;Eberst. Frankenbergers Mühle,1;18:55:00;1;W
+11;Eberstadt Kinderheim,1;18:56:00;1;W
+11;Eberstadt Kühler Grund,3;18:57:00;1;W
+11;Eberstadt Kühler Grund,1;18:58:00;1;W
+11;Eberstadt Kaisermühle,1;18:59:00;1;W
+11;Eberstadt Schwimmbad,1;19:01:00;1;W
+11;Eberstadt Heinrich-Delp-Straße,1;19:03:00;1;W
+11;Eberstadt Wartehalle,3;19:05:00;1;W
+11;Eberstadt Wartehalle,3;19:05:00;2;W
+11;Eberstadt Heinrich-Delp-Straße,2;19:07:00;2;W
+11;Eberstadt Schwimmbad,2;19:08:00;2;W
+11;Eberstadt Kaisermühle,2;19:10:00;2;W
+11;Eberstadt Kühler Grund,2;19:11:00;2;W
+11;Eberstadt Kühler Grund,4;19:11:00;2;W
+11;Eberstadt Kinderheim,2;19:12:00;2;W
+11;Eberst. Frankenbergers Mühle,2;19:13:00;2;W
+11;Nd.-Beerbach Haus Burgwald,2;19:14:00;2;W
+11;Nieder-Beerbach Waldmühle,2;19:15:00;2;W
+11;Nieder-Beerbach Burgweg,2;19:15:00;2;W
+11;Nd.-Beerbach Am Wingertsberg,2;19:16:00;2;W
+11;Nieder-Beerbach Untergasse,2;19:17:00;2;W
+11;Nd.-Beerbach Quergasse,2;19:18:00;2;W
+11;Ober-Beerbach Eberstädter Str.,2;19:21:00;2;W
+11;Ob.-Beerbach Ernsth. Str.,1;19:23:00;2;W
+11;Ober-Beerbach Eberstädter Str.,1;19:25:00;2;W
+11;Seeheim Altes Rathaus,2;19:29:00;2;W
+11;Seeheim Neues Rathaus,4;19:31:00;2;W
+11;Seeheim Im Bangert,2;19:33:00;2;W
+11;Seeheim Tannenstraße,2;19:34:00;2;W
+11;Seeheim Gewerbegebiet,2;19:35:00;2;W
+12;Bickenbach Bürgerhaus,2;19:41:00;2;W
+12;Bickenbach Hartenauer Straße,11;19:42:00;2;W
+12;Bickenbach Bahnhof,1;19:44:00;2;W
+12;Bickenbach Bahnhof,1;21:08:00;1;W
+12;Bickenbach Pfungstädter Straße,1;21:10:00;1;W
+12;Bickenbach Bürgerhaus,1;21:11:00;1;W
+13;Seeheim Gewerbegebiet,1;21:18:00;1;W
+13;Seeheim Tannenstraße,1;21:19:00;1;W
+13;Seeheim Im Bangert,1;21:20:00;1;W
+13;Seeheim Neues Rathaus,3;21:22:00;1;W
+13;Seeheim Altes Rathaus,1;21:24:00;1;W
+13;Ober-Beerbach Eberstädter Str.,2;21:28:00;1;W
+13;Ob.-Beerbach Ernsth. Str.,1;21:30:00;1;W
+13;Ober-Beerbach Eberstädter Str.,1;21:32:00;1;W
+13;Nd.-Beerbach Quergasse,1;21:36:00;1;W
+13;Nieder-Beerbach Untergasse,1;21:36:00;1;W
+13;Nd.-Beerbach Am Wingertsberg,1;21:37:00;1;W
+13;Nieder-Beerbach Burgweg,1;21:38:00;1;W
+13;Nieder-Beerbach Waldmühle,1;21:39:00;1;W
+13;Nd.-Beerbach Haus Burgwald,1;21:40:00;1;W
+13;Eberst. Frankenbergers Mühle,1;21:40:00;1;W
+13;Eberstadt Kinderheim,1;21:41:00;1;W
+13;Eberstadt Kühler Grund,3;21:42:00;1;W
+13;Eberstadt Kühler Grund,1;21:43:00;1;W
+13;Eberstadt Kaisermühle,1;21:44:00;1;W
+13;Eberstadt Schwimmbad,1;21:46:00;1;W
+13;Eberstadt Heinrich-Delp-Straße,1;21:48:00;1;W
+13;Eberstadt Wartehalle,3;21:50:00;1;W
+13;Eberstadt Wartehalle,3;22:10:00;2;W
+13;Eberstadt Heinrich-Delp-Straße,2;22:12:00;2;W
+13;Eberstadt Schwimmbad,2;22:13:00;2;W
+13;Eberstadt Kaisermühle,2;22:15:00;2;W
+13;Eberstadt Kühler Grund,2;22:16:00;2;W
+13;Eberstadt Kühler Grund,4;22:16:00;2;W
+13;Eberstadt Kinderheim,2;22:17:00;2;W
+13;Eberst. Frankenbergers Mühle,2;22:18:00;2;W
+13;Nd.-Beerbach Haus Burgwald,2;22:19:00;2;W
+13;Nieder-Beerbach Waldmühle,2;22:20:00;2;W
+13;Nieder-Beerbach Burgweg,2;22:20:00;2;W
+13;Nd.-Beerbach Am Wingertsberg,2;22:21:00;2;W
+13;Nieder-Beerbach Untergasse,2;22:22:00;2;W
+13;Nd.-Beerbach Quergasse,2;22:23:00;2;W
+13;Ober-Beerbach Eberstädter Str.,2;22:26:00;2;W
+13;Ob.-Beerbach Ernsth. Str.,1;22:28:00;2;W
+13;Ober-Beerbach Eberstädter Str.,1;22:30:00;2;W
+13;Seeheim Altes Rathaus,2;22:34:00;2;W
+13;Seeheim Neues Rathaus,4;22:36:00;2;W
+13;Seeheim Im Bangert,2;22:38:00;2;W
+13;Seeheim Tannenstraße,2;22:39:00;2;W
+13;Seeheim Gewerbegebiet,2;22:40:00;2;W
+14;Bickenbach Bürgerhaus,2;22:46:00;2;W
+14;Bickenbach Hartenauer Straße,11;22:47:00;2;W
+14;Bickenbach Bahnhof,1;22:49:00;2;W
+14;Bickenbach Bahnhof,1;22:53:00;1;W
+14;Bickenbach Pfungstädter Straße,1;22:55:00;1;W
+14;Bickenbach Bürgerhaus,1;22:56:00;1;W
+15;Seeheim Gewerbegebiet,1;23:03:00;1;W
+15;Seeheim Tannenstraße,1;23:04:00;1;W
+15;Seeheim Im Bangert,1;23:05:00;1;W
+15;Seeheim Neues Rathaus,3;23:07:00;1;W
+15;Seeheim Altes Rathaus,1;23:09:00;1;W
+15;Ober-Beerbach Eberstädter Str.,2;23:13:00;1;W
+15;Ob.-Beerbach Ernsth. Str.,1;23:15:00;1;W
+15;Ober-Beerbach Eberstädter Str.,1;23:17:00;1;W
+15;Nd.-Beerbach Quergasse,1;23:21:00;1;W
+15;Nieder-Beerbach Untergasse,1;23:21:00;1;W
+15;Nd.-Beerbach Am Wingertsberg,1;23:22:00;1;W
+15;Nieder-Beerbach Burgweg,1;23:23:00;1;W
+15;Nieder-Beerbach Waldmühle,1;23:24:00;1;W
+15;Nd.-Beerbach Haus Burgwald,1;23:25:00;1;W
+15;Eberst. Frankenbergers Mühle,1;23:25:00;1;W
+15;Eberstadt Kinderheim,1;23:26:00;1;W
+15;Eberstadt Kühler Grund,3;23:27:00;1;W
+15;Eberstadt Kühler Grund,1;23:28:00;1;W
+15;Eberstadt Kaisermühle,1;23:29:00;1;W
+15;Eberstadt Schwimmbad,1;23:31:00;1;W
+15;Eberstadt Heinrich-Delp-Straße,1;23:33:00;1;W
+15;Eberstadt Wartehalle,3;23:35:00;1;W
+15;Eberstadt Wartehalle,3;23:40:00;2;W
+15;Eberstadt Heinrich-Delp-Straße,2;23:42:00;2;W
+15;Eberstadt Schwimmbad,2;23:43:00;2;W
+15;Eberstadt Kaisermühle,2;23:45:00;2;W
+15;Eberstadt Kühler Grund,2;23:46:00;2;W
+15;Eberstadt Kühler Grund,4;23:46:00;2;W
+15;Eberstadt Kinderheim,2;23:47:00;2;W
+15;Eberst. Frankenbergers Mühle,2;23:48:00;2;W
+15;Nd.-Beerbach Haus Burgwald,2;23:49:00;2;W
+15;Nieder-Beerbach Waldmühle,2;23:50:00;2;W
+15;Nieder-Beerbach Burgweg,2;23:50:00;2;W
+15;Nd.-Beerbach Am Wingertsberg,2;23:51:00;2;W
+15;Nieder-Beerbach Untergasse,2;23:52:00;2;W
+15;Nd.-Beerbach Quergasse,2;23:53:00;2;W
+15;Ober-Beerbach Eberstädter Str.,2;23:56:00;2;W
+15;Ob.-Beerbach Ernsth. Str.,1;23:58:00;2;W

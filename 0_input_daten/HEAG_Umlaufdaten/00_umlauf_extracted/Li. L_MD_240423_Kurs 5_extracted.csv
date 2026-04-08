@@ -1,0 +1,175 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Da. TU-Lichtwiese/Campus,3;06:09:00;2;W
+1;Darmstadt Bot. Garten/Vivarium,2;06:12:00;2;W
+1;Darmstadt Heidenreichstraße,2;06:13:00;2;W
+1;Darmstadt Beckstraße,2;06:14:00;2;W
+1;Darmstadt Roßdörfer Platz,1;06:16:00;2;W
+1;Darmstadt Mercksplatz,1;06:17:00;2;W
+1;Darmstadt Schloss,3;06:20:00;2;W
+1;Darmstadt Luisenplatz,3;06:22:00;2;W
+1;Darmstadt Willy-Brandt-Platz,3;06:24:00;2;W
+1;Darmstadt Klinikum,3;06:24:00;2;W
+1;Darmstadt Kahlertstraße,1;06:26:00;2;W
+1;Darmstadt Pallaswiesenstraße,3;06:27:00;2;W
+1;Darmstadt Friedr.-Ebert-Platz,1;06:29:00;2;W
+1;Darmstadt Pankratiusstraße,1;06:31:00;2;W
+1;Darmstadt Pankratiusstraße,1;06:38:00;1;W
+1;Darmstadt Heinheimer Straße,1;06:39:00;1;W
+1;Darmstadt Friedr.-Ebert-Platz,2;06:40:00;1;W
+1;Darmstadt Pallaswiesenstraße,4;06:42:00;1;W
+1;Darmstadt Kahlertstraße,2;06:43:00;1;W
+1;Darmstadt Klinikum,4;06:45:00;1;W
+1;Darmstadt Willy-Brandt-Platz,4;06:46:00;1;W
+1;Darmstadt Luisenplatz,2;06:48:00;1;W
+1;Darmstadt Schloss,4;06:50:00;1;W
+1;Darmstadt Mercksplatz,2;06:52:00;1;W
+1;Darmstadt Roßdörfer Platz,3;06:54:00;1;W
+1;Darmstadt Beckstraße,1;06:55:00;1;W
+1;Darmstadt Heidenreichstraße,1;06:56:00;1;W
+1;Darmstadt Bot. Garten/Vivarium,1;06:58:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;07:01:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;07:09:00;2;W
+1;Darmstadt Bot. Garten/Vivarium,2;07:12:00;2;W
+1;Darmstadt Heidenreichstraße,2;07:13:00;2;W
+1;Darmstadt Beckstraße,2;07:14:00;2;W
+1;Darmstadt Roßdörfer Platz,1;07:16:00;2;W
+1;Darmstadt Mercksplatz,1;07:17:00;2;W
+1;Darmstadt Schloss,3;07:20:00;2;W
+1;Darmstadt Luisenplatz,3;07:22:00;2;W
+1;Darmstadt Willy-Brandt-Platz,3;07:24:00;2;W
+1;Darmstadt Klinikum,3;07:24:00;2;W
+1;Darmstadt Kahlertstraße,1;07:26:00;2;W
+1;Darmstadt Pallaswiesenstraße,3;07:27:00;2;W
+1;Darmstadt Friedr.-Ebert-Platz,1;07:29:00;2;W
+1;Darmstadt Pankratiusstraße,1;07:31:00;2;W
+1;Darmstadt Pankratiusstraße,1;07:38:00;1;W
+1;Darmstadt Heinheimer Straße,1;07:39:00;1;W
+1;Darmstadt Friedr.-Ebert-Platz,2;07:40:00;1;W
+1;Darmstadt Pallaswiesenstraße,4;07:42:00;1;W
+1;Darmstadt Kahlertstraße,2;07:43:00;1;W
+1;Darmstadt Klinikum,4;07:45:00;1;W
+1;Darmstadt Willy-Brandt-Platz,4;07:46:00;1;W
+1;Darmstadt Luisenplatz,2;07:48:00;1;W
+1;Darmstadt Schloss,4;07:50:00;1;W
+1;Darmstadt Mercksplatz,2;07:52:00;1;W
+1;Darmstadt Roßdörfer Platz,3;07:54:00;1;W
+1;Darmstadt Beckstraße,1;07:55:00;1;W
+1;Darmstadt Heidenreichstraße,1;07:56:00;1;W
+1;Darmstadt Bot. Garten/Vivarium,1;07:58:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;08:01:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;08:09:00;2;W
+1;Darmstadt Bot. Garten/Vivarium,2;08:12:00;2;W
+1;Darmstadt Heidenreichstraße,2;08:13:00;2;W
+1;Darmstadt Beckstraße,2;08:14:00;2;W
+1;Darmstadt Roßdörfer Platz,1;08:16:00;2;W
+1;Darmstadt Mercksplatz,1;08:17:00;2;W
+1;Darmstadt Schloss,3;08:20:00;2;W
+1;Darmstadt Luisenplatz,3;08:22:00;2;W
+1;Darmstadt Willy-Brandt-Platz,3;08:24:00;2;W
+1;Darmstadt Klinikum,3;08:24:00;2;W
+1;Darmstadt Kahlertstraße,1;08:26:00;2;W
+1;Darmstadt Pallaswiesenstraße,3;08:27:00;2;W
+1;Darmstadt Friedr.-Ebert-Platz,1;08:29:00;2;W
+1;Darmstadt Pankratiusstraße,1;08:31:00;2;W
+1;Darmstadt Pankratiusstraße,1;08:38:00;1;W
+1;Darmstadt Heinheimer Straße,1;08:39:00;1;W
+1;Darmstadt Friedr.-Ebert-Platz,2;08:40:00;1;W
+1;Darmstadt Pallaswiesenstraße,4;08:42:00;1;W
+1;Darmstadt Kahlertstraße,2;08:43:00;1;W
+1;Darmstadt Klinikum,4;08:45:00;1;W
+1;Darmstadt Willy-Brandt-Platz,4;08:46:00;1;W
+1;Darmstadt Luisenplatz,2;08:48:00;1;W
+1;Darmstadt Schloss,4;08:50:00;1;W
+1;Darmstadt Mercksplatz,2;08:52:00;1;W
+1;Darmstadt Roßdörfer Platz,3;08:54:00;1;W
+1;Darmstadt Beckstraße,1;08:55:00;1;W
+1;Darmstadt Heidenreichstraße,1;08:56:00;1;W
+1;Darmstadt Bot. Garten/Vivarium,1;08:58:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;09:01:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;09:09:00;2;W
+1;Darmstadt Bot. Garten/Vivarium,2;09:12:00;2;W
+1;Darmstadt Heidenreichstraße,2;09:13:00;2;W
+1;Darmstadt Beckstraße,2;09:14:00;2;W
+1;Darmstadt Roßdörfer Platz,1;09:16:00;2;W
+1;Darmstadt Mercksplatz,1;09:17:00;2;W
+1;Darmstadt Schloss,3;09:20:00;2;W
+1;Darmstadt Luisenplatz,3;09:22:00;2;W
+1;Darmstadt Willy-Brandt-Platz,3;09:24:00;2;W
+1;Darmstadt Klinikum,3;09:24:00;2;W
+1;Darmstadt Kahlertstraße,1;09:26:00;2;W
+1;Darmstadt Pallaswiesenstraße,3;09:27:00;2;W
+1;Darmstadt Friedr.-Ebert-Platz,1;09:29:00;2;W
+1;Darmstadt Pankratiusstraße,1;09:31:00;2;W
+1;Darmstadt Pankratiusstraße,1;09:38:00;1;W
+1;Darmstadt Heinheimer Straße,1;09:39:00;1;W
+1;Darmstadt Friedr.-Ebert-Platz,2;09:40:00;1;W
+1;Darmstadt Pallaswiesenstraße,4;09:42:00;1;W
+1;Darmstadt Kahlertstraße,2;09:43:00;1;W
+1;Darmstadt Klinikum,4;09:45:00;1;W
+1;Darmstadt Willy-Brandt-Platz,4;09:46:00;1;W
+1;Darmstadt Luisenplatz,2;09:48:00;1;W
+1;Darmstadt Schloss,4;09:50:00;1;W
+1;Darmstadt Mercksplatz,2;09:52:00;1;W
+1;Darmstadt Roßdörfer Platz,3;09:54:00;1;W
+1;Darmstadt Beckstraße,1;09:55:00;1;W
+1;Darmstadt Heidenreichstraße,1;09:56:00;1;W
+1;Darmstadt Bot. Garten/Vivarium,1;09:58:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;10:01:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;10:09:00;2;W
+1;Darmstadt Bot. Garten/Vivarium,2;10:12:00;2;W
+1;Darmstadt Heidenreichstraße,2;10:13:00;2;W
+1;Darmstadt Beckstraße,2;10:14:00;2;W
+1;Darmstadt Roßdörfer Platz,1;10:16:00;2;W
+1;Darmstadt Mercksplatz,1;10:17:00;2;W
+1;Darmstadt Schloss,3;10:20:00;2;W
+1;Darmstadt Luisenplatz,3;10:22:00;2;W
+1;Darmstadt Willy-Brandt-Platz,3;10:24:00;2;W
+1;Darmstadt Klinikum,3;10:24:00;2;W
+1;Darmstadt Kahlertstraße,1;10:26:00;2;W
+1;Darmstadt Pallaswiesenstraße,3;10:27:00;2;W
+1;Darmstadt Friedr.-Ebert-Platz,1;10:29:00;2;W
+1;Darmstadt Pankratiusstraße,1;10:31:00;2;W
+1;Darmstadt Pankratiusstraße,1;10:38:00;1;W
+1;Darmstadt Heinheimer Straße,1;10:39:00;1;W
+1;Darmstadt Friedr.-Ebert-Platz,2;10:40:00;1;W
+1;Darmstadt Pallaswiesenstraße,4;10:42:00;1;W
+1;Darmstadt Kahlertstraße,2;10:43:00;1;W
+1;Darmstadt Klinikum,4;10:45:00;1;W
+1;Darmstadt Willy-Brandt-Platz,4;10:46:00;1;W
+1;Darmstadt Luisenplatz,2;10:48:00;1;W
+1;Darmstadt Schloss,4;10:50:00;1;W
+1;Darmstadt Mercksplatz,2;10:52:00;1;W
+1;Darmstadt Roßdörfer Platz,3;10:54:00;1;W
+1;Darmstadt Beckstraße,1;10:55:00;1;W
+1;Darmstadt Heidenreichstraße,1;10:56:00;1;W
+1;Darmstadt Bot. Garten/Vivarium,1;10:58:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;11:01:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;11:09:00;2;W
+1;Darmstadt Bot. Garten/Vivarium,2;11:12:00;2;W
+1;Darmstadt Heidenreichstraße,2;11:13:00;2;W
+1;Darmstadt Beckstraße,2;11:14:00;2;W
+1;Darmstadt Roßdörfer Platz,1;11:16:00;2;W
+1;Darmstadt Mercksplatz,1;11:17:00;2;W
+1;Darmstadt Schloss,3;11:20:00;2;W
+1;Darmstadt Luisenplatz,3;11:22:00;2;W
+1;Darmstadt Willy-Brandt-Platz,3;11:24:00;2;W
+1;Darmstadt Klinikum,3;11:24:00;2;W
+1;Darmstadt Kahlertstraße,1;11:26:00;2;W
+1;Darmstadt Pallaswiesenstraße,3;11:27:00;2;W
+1;Darmstadt Friedr.-Ebert-Platz,1;11:29:00;2;W
+1;Darmstadt Pankratiusstraße,1;11:31:00;2;W
+1;Darmstadt Pankratiusstraße,1;11:38:00;1;W
+1;Darmstadt Heinheimer Straße,1;11:39:00;1;W
+1;Darmstadt Friedr.-Ebert-Platz,2;11:40:00;1;W
+1;Darmstadt Pallaswiesenstraße,4;11:42:00;1;W
+1;Darmstadt Kahlertstraße,2;11:43:00;1;W
+1;Darmstadt Klinikum,4;11:45:00;1;W
+1;Darmstadt Willy-Brandt-Platz,4;11:46:00;1;W
+1;Darmstadt Luisenplatz,2;11:48:00;1;W
+1;Darmstadt Schloss,4;11:50:00;1;W
+1;Darmstadt Mercksplatz,2;11:52:00;1;W
+1;Darmstadt Roßdörfer Platz,3;11:54:00;1;W
+1;Darmstadt Beckstraße,1;11:55:00;1;W
+1;Darmstadt Heidenreichstraße,1;11:56:00;1;W
+1;Darmstadt Bot. Garten/Vivarium,1;11:58:00;1;W
+1;Da. TU-Lichtwiese/Campus,3;12:01:00;1;W

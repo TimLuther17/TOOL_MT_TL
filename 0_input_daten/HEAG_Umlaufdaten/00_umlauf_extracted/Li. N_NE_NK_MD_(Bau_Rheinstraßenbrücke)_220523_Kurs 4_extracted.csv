@@ -1,0 +1,133 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Nieder-Ramstadt Im Hag,3;05:36:00;2;W
+1;Nieder-Ramstadt Bachgasse,2;05:38:00;2;W
+1;Nd.-Ramstadt Mühltal Bf,11;05:42:00;2;W
+1;Traisa Tannenstraße,2;05:47:00;2;W
+1;Trautheim Waldstraße,2;05:50:00;2;W
+1;Darmstadt Böllenfalltor,4;05:53:00;2;W
+1;Darmstadt Böllenfalltor,4;06:07:00;3;W
+1;Trautheim,1;06:10:00;3;W
+1;Trautheim Im Wiesengrund,1;06:12:00;3;W
+1;Nd-Ramstadt Pfaffenbergschule,1;06:13:00;3;W
+1;Nieder-Ramstadt Im Hag,1;06:16:00;3;W
+1;Nd-Ramstadt An der Bruchmühle,1;06:20:00;3;W
+1;Nieder-Ramstadt Gewerbepark,1;06:22:00;3;W
+1;Nieder-Ramstadt Gewerbepark,1;06:28:00;4;W
+1;Nd.-Ramstadt Am Alten Graben,1;06:28:00;4;W
+1;Nd-Ramstadt An der Bruchmühle,11;06:30:00;4;W
+1;Nieder-Ramstadt Im Hag,2;06:34:00;4;W
+1;Nd-Ramstadt Pfaffenbergschule,2;06:36:00;4;W
+1;Trautheim Im Wiesengrund,2;06:38:00;4;W
+1;Trautheim,2;06:40:00;4;W
+2;Darmstadt Böllenfalltor,6;06:43:00;4;W
+2;Darmstadt Böllenfalltor,6;06:47:00;1;W
+2;Trautheim Waldstraße,1;06:50:00;1;W
+2;Traisa Tannenstraße,1;06:53:00;1;W
+2;Nd.-Ramstadt Mühltal Bf,12;06:58:00;1;W
+2;Nieder-Ramstadt Bachgasse,1;07:01:00;1;W
+2;Nieder-Ramstadt Im Hag,1;07:03:00;1;W
+2;Nieder-Ramstadt Kohlbergweg,1;07:04:00;1;W
+2;Nd-Ramstadt An der Bruchmühle,1;07:07:00;1;W
+2;Eberstadt Kühler Grund,1;07:09:00;1;W
+2;Eberstadt Heinrich-Delp-Straße,1;07:13:00;1;W
+2;Eberstadt Wartehalle,5;07:16:00;1;W
+2;Eberstadt Wartehalle,5;07:24:00;2;W
+2;Eberstadt Heinrich-Delp-Straße,2;07:26:00;2;W
+2;Eberstadt Kühler Grund,2;07:30:00;2;W
+2;Nd-Ramstadt An der Bruchmühle,11;07:34:00;2;W
+2;Nieder-Ramstadt Kohlbergweg,2;07:35:00;2;W
+2;Nieder-Ramstadt Im Hag,2;07:36:00;2;W
+3;Nieder-Ramstadt Bachgasse,2;07:38:00;2;W
+3;Nd.-Ramstadt Mühltal Bf,11;07:42:00;2;W
+3;Traisa Tannenstraße,2;07:47:00;2;W
+3;Trautheim Waldstraße,2;07:50:00;2;W
+3;Darmstadt Böllenfalltor,4;07:53:00;2;W
+3;Darmstadt Böllenfalltor,4;08:07:00;3;W
+3;Trautheim,1;08:10:00;3;W
+3;Trautheim Im Wiesengrund,1;08:12:00;3;W
+3;Nd-Ramstadt Pfaffenbergschule,1;08:13:00;3;W
+3;Nieder-Ramstadt Im Hag,1;08:16:00;3;W
+3;Nd-Ramstadt An der Bruchmühle,1;08:20:00;3;W
+3;Nieder-Ramstadt Gewerbepark,1;08:22:00;3;W
+3;Nieder-Ramstadt Gewerbepark,1;08:28:00;4;W
+3;Nd.-Ramstadt Am Alten Graben,1;08:28:00;4;W
+3;Nd-Ramstadt An der Bruchmühle,11;08:30:00;4;W
+3;Nieder-Ramstadt Im Hag,2;08:34:00;4;W
+3;Nd-Ramstadt Pfaffenbergschule,2;08:36:00;4;W
+3;Trautheim Im Wiesengrund,2;08:38:00;4;W
+3;Trautheim,2;08:40:00;4;W
+4;Darmstadt Böllenfalltor,6;08:43:00;4;W
+4;Darmstadt Böllenfalltor,6;08:47:00;1;W
+4;Trautheim Waldstraße,1;08:50:00;1;W
+4;Traisa Tannenstraße,1;08:53:00;1;W
+4;Nd.-Ramstadt Mühltal Bf,12;08:58:00;1;W
+4;Nieder-Ramstadt Bachgasse,1;09:01:00;1;W
+4;Nieder-Ramstadt Im Hag,1;09:03:00;1;W
+4;Nieder-Ramstadt Kohlbergweg,1;09:04:00;1;W
+4;Nd-Ramstadt An der Bruchmühle,1;09:07:00;1;W
+4;Eberstadt Kühler Grund,1;09:09:00;1;W
+4;Eberstadt Heinrich-Delp-Straße,1;09:13:00;1;W
+4;Eberstadt Wartehalle,5;09:16:00;1;W
+4;Eberstadt Wartehalle,5;09:24:00;2;W
+4;Eberstadt Heinrich-Delp-Straße,2;09:26:00;2;W
+4;Eberstadt Kühler Grund,2;09:30:00;2;W
+4;Nd-Ramstadt An der Bruchmühle,11;09:34:00;2;W
+4;Nieder-Ramstadt Kohlbergweg,2;09:35:00;2;W
+4;Nieder-Ramstadt Im Hag,2;09:36:00;2;W
+5;Nieder-Ramstadt Bachgasse,2;09:38:00;2;W
+5;Nd.-Ramstadt Mühltal Bf,11;09:42:00;2;W
+5;Traisa Tannenstraße,2;09:47:00;2;W
+5;Trautheim Waldstraße,2;09:50:00;2;W
+5;Darmstadt Böllenfalltor,4;09:53:00;2;W
+5;Darmstadt Böllenfalltor,4;10:07:00;3;W
+5;Trautheim,1;10:10:00;3;W
+5;Trautheim Im Wiesengrund,1;10:12:00;3;W
+5;Nd-Ramstadt Pfaffenbergschule,1;10:13:00;3;W
+5;Nieder-Ramstadt Im Hag,1;10:16:00;3;W
+5;Nd-Ramstadt An der Bruchmühle,1;10:20:00;3;W
+5;Nieder-Ramstadt Gewerbepark,1;10:22:00;3;W
+5;Nieder-Ramstadt Gewerbepark,1;10:28:00;4;W
+5;Nd.-Ramstadt Am Alten Graben,1;10:28:00;4;W
+5;Nd-Ramstadt An der Bruchmühle,11;10:30:00;4;W
+5;Nieder-Ramstadt Im Hag,2;10:34:00;4;W
+5;Nd-Ramstadt Pfaffenbergschule,2;10:36:00;4;W
+5;Trautheim Im Wiesengrund,2;10:38:00;4;W
+5;Trautheim,2;10:40:00;4;W
+6;Darmstadt Böllenfalltor,6;10:43:00;4;W
+6;Darmstadt Böllenfalltor,6;10:47:00;1;W
+6;Trautheim Waldstraße,1;10:50:00;1;W
+6;Traisa Tannenstraße,1;10:53:00;1;W
+6;Nd.-Ramstadt Mühltal Bf,12;10:58:00;1;W
+6;Nieder-Ramstadt Bachgasse,1;11:01:00;1;W
+6;Nieder-Ramstadt Im Hag,1;11:03:00;1;W
+6;Nieder-Ramstadt Kohlbergweg,1;11:04:00;1;W
+6;Nd-Ramstadt An der Bruchmühle,1;11:07:00;1;W
+6;Eberstadt Kühler Grund,1;11:09:00;1;W
+6;Eberstadt Heinrich-Delp-Straße,1;11:13:00;1;W
+6;Eberstadt Wartehalle,5;11:16:00;1;W
+6;Eberstadt Wartehalle,5;11:24:00;2;W
+6;Eberstadt Heinrich-Delp-Straße,2;11:26:00;2;W
+6;Eberstadt Kühler Grund,2;11:30:00;2;W
+6;Nd-Ramstadt An der Bruchmühle,11;11:34:00;2;W
+6;Nieder-Ramstadt Kohlbergweg,2;11:35:00;2;W
+6;Nieder-Ramstadt Im Hag,2;11:36:00;2;W
+7;Nieder-Ramstadt Bachgasse,2;11:38:00;2;W
+7;Nd.-Ramstadt Mühltal Bf,11;11:42:00;2;W
+7;Traisa Tannenstraße,2;11:47:00;2;W
+7;Trautheim Waldstraße,2;11:50:00;2;W
+7;Darmstadt Böllenfalltor,4;11:53:00;2;W
+7;Darmstadt Böllenfalltor,4;12:07:00;3;W
+7;Trautheim,1;12:10:00;3;W
+7;Trautheim Im Wiesengrund,1;12:12:00;3;W
+7;Nd-Ramstadt Pfaffenbergschule,1;12:13:00;3;W
+7;Nieder-Ramstadt Im Hag,1;12:16:00;3;W
+7;Nd-Ramstadt An der Bruchmühle,1;12:20:00;3;W
+7;Nieder-Ramstadt Gewerbepark,1;12:22:00;3;W
+7;Nieder-Ramstadt Gewerbepark,1;12:28:00;4;W
+7;Nd.-Ramstadt Am Alten Graben,1;12:28:00;4;W
+7;Nd-Ramstadt An der Bruchmühle,11;12:30:00;4;W
+7;Nieder-Ramstadt Im Hag,2;12:34:00;4;W
+7;Nd-Ramstadt Pfaffenbergschule,2;12:36:00;4;W
+7;Trautheim Im Wiesengrund,2;12:38:00;4;W
+7;Trautheim,2;12:40:00;4;W
+7;Darmstadt Böllenfalltor,4;12:43:00;4;W

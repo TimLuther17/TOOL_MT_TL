@@ -1,0 +1,22 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Heidelberg, Hauptbahnhof;49.40468;8.676531;16:09:00;16:09:00;Kein Umlauf;Unbekannt;133;Stop Seq 0
+Haltestelle;Heidelberg, Stadtwerke;49.405064;8.682361;16:10:00;16:10:00;Kein Umlauf;Unbekannt;133;Stop Seq 1
+Haltestelle;Heidelberg, Stadtbücherei;49.406147;8.686448;16:12:00;16:12:00;Kein Umlauf;Unbekannt;133;Stop Seq 2
+Haltestelle;Heidelberg, Seegarten;49.40718;8.692323;16:13:00;16:13:00;Kein Umlauf;Unbekannt;133;Stop Seq 3
+Haltestelle;Heidelberg, Bismarckplatz;49.409534;8.693213;16:15:00;16:16:00;Kein Umlauf;Unbekannt;133;Stop Seq 4
+Haltestelle;Neuenheim, Bergstraße;49.413757;8.694291;16:18:00;16:18:00;Kein Umlauf;Unbekannt;133;Stop Seq 5
+Haltestelle;Neuenheim, Alte Brücke Nord;49.4152;8.709068;16:20:00;16:20:00;Kein Umlauf;Unbekannt;133;Stop Seq 6
+Haltestelle;Neuenheim, Hirschgasse;49.416218;8.716775;16:21:00;16:21:00;Kein Umlauf;Unbekannt;133;Stop Seq 7
+Haltestelle;Ziegelhausen, Haarlass;49.42015;8.729145;16:22:00;16:22:00;Kein Umlauf;Unbekannt;133;Stop Seq 8
+Haltestelle;Ziegelhausen, Mittler. Rainweg;49.426132;8.74659;16:29:00;16:29:00;Kein Umlauf;Unbekannt;133;Stop Seq 9
+Haltestelle;Ziegelhausen, Rainweg;49.430286;8.746824;16:30:00;16:30:00;Kein Umlauf;Unbekannt;133;Stop Seq 10
+Haltestelle;Ziegelhausen, Peterstaler Str.;49.43476;8.749285;16:32:00;16:32:00;Kein Umlauf;Unbekannt;133;Stop Seq 11
+Haltestelle;Ziegelhausen, Grüner Baum;49.437763;8.752043;16:33:00;16:33:00;Kein Umlauf;Unbekannt;133;Stop Seq 12
+Haltestelle;Ziegelhausen, Löwen;49.444576;8.754091;16:34:00;16:34:00;Kein Umlauf;Unbekannt;133;Stop Seq 13
+Haltestelle;Ziegelhausen, Schweizertalstr.;49.448364;8.7534;16:35:00;16:35:00;Kein Umlauf;Unbekannt;133;Stop Seq 14
+Haltestelle;Ziegelhausen, Heidebuckelweg;49.449806;8.754109;16:36:00;16:36:00;Kein Umlauf;Unbekannt;133;Stop Seq 15
+Haltestelle;Ziegelhausen, Langer Kirschb.;49.459007;8.751298;16:40:00;16:40:00;Kein Umlauf;Unbekannt;133;Stop Seq 16
+Haltestelle;Wilhelmsfeld, Schriesheim. Hof;49.470173;8.754397;16:43:00;16:43:00;Kein Umlauf;Unbekannt;133;Stop Seq 17
+Haltestelle;Wilhelmsfeld, Wilhelmshöhe;49.468124;8.758224;16:44:00;16:44:00;Kein Umlauf;Unbekannt;133;Stop Seq 18
+Haltestelle;Wilhelmsfeld, Rathaus;49.4655;8.760802;16:45:00;16:45:00;Kein Umlauf;Unbekannt;133;Stop Seq 19
+Haltestelle;Wilhelmsfeld, Autohalle;49.46306;8.763515;16:46:00;16:46:00;Kein Umlauf;Unbekannt;133;Stop Seq 20

@@ -1,0 +1,5 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Da. Kongresszentr. darmstadtium;49.87387;8.656118;08:02:00;08:02:00;Kein Umlauf;Mo,Di,Mi,Do,Fr,Sa,So;502;Stop Seq 0
+Haltestelle;Darmstadt Luisenplatz;49.872883;8.651256;08:06:00;08:06:00;Kein Umlauf;Mo,Di,Mi,Do,Fr,Sa,So;502;Stop Seq 1
+Haltestelle;Darmstadt Hauptbahnhof Ost;49.87194;8.631148;08:15:00;08:15:00;Kein Umlauf;Mo,Di,Mi,Do,Fr,Sa,So;502;Stop Seq 2
+Haltestelle;Ffm Flughafen Terminal 1;50.05108;8.571526;08:45:00;08:45:00;Kein Umlauf;Mo,Di,Mi,Do,Fr,Sa,So;502;Stop Seq 3

@@ -1,0 +1,18 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Haardtring;49.857975;8.635426;03:46:00;03:46:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Darmstadt Fliederberg;49.860516;8.637562;03:47:00;03:47:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Darmstadt Holzhofallee;49.863888;8.638163;03:48:00;03:48:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Darmstadt Hochschule;49.866623;8.635041;03:49:00;03:49:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Darmstadt Hauptbahnhof Ost;49.87194;8.631148;03:53:00;03:53:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Darmstadt Berliner Allee;49.87076;8.635733;03:55:00;03:55:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Darmstadt Rhein-/Neckarstraße;49.871544;8.6447;03:56:00;03:56:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Darmstadt Luisenplatz;49.872883;8.651256;03:58:00;04:00:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Darmstadt Schloss;49.872868;8.655235;04:01:00;04:01:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Darmstadt Alexanderstraße/TU;49.875763;8.660542;04:03:00;04:03:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Darmstadt Kopernikusplatz;49.878193;8.661847;04:04:00;04:04:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10
+Haltestelle;Darmstadt Taunusplatz;49.88036;8.664531;04:05:00;04:05:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 11
+Haltestelle;Darmstadt Am Karlshof;49.882107;8.665799;04:06:00;04:06:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 12
+Haltestelle;Darmstadt Schwarzer Weg;49.88575;8.669128;04:08:00;04:08:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 13
+Haltestelle;Darmstadt Kastanienallee;49.890533;8.672546;04:09:00;04:09:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 14
+Haltestelle;Kranichstein Siemensstraße;49.896336;8.680287;04:11:00;04:11:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 15
+Haltestelle;Kranichstein Kesselhutweg;49.8959;8.686163;04:14:00;04:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 16

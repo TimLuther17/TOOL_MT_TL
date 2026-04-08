@@ -1,0 +1,114 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%)
+Routenpunkt (Way);T;Unbekannt;50.0831591;8.6809099;;;;;;;Original OSM;130.4;-0.18
+Haltestelle;W;F Lerchesberg;50.0831591;8.6809099;;12:47:00;12:47:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 33m) | Auf Route gesnappt (13m);130.33;-0.25
+Routenpunkt (Way);T;Unbekannt;50.0831864;8.68079345;;;;;;;Original OSM;130.29;-0.27
+Routenpunkt (Way);T;;50.083179400000006;8.680683575;;;;;;;Interpoliert (15m);130.25;-0.3
+Routenpunkt (Way);T;Bertha-von-Suttner-Ring;50.0831724;8.6805737;50.0;;;;;;Original OSM;130.22;-0.71
+Routenpunkt (Way);T;Bertha-von-Suttner-Ring;50.083061;8.680468366666666;50.0;;;;;;Interpoliert;130.2;-1.38
+Routenpunkt (Way);T;Bertha-von-Suttner-Ring;50.0829496;8.680363033333334;50.0;;;;;;Interpoliert;129.9;-1.81
+Routenpunkt (Way);T;;50.082914;8.680269754166666;50.0;;;;;;Interpoliert (15m);129.6;-2.08
+Routenpunkt (Way);T;Bertha-von-Suttner-Ring;50.0828784;8.680176475;50.0;;;;;;Original OSM;129.4;-2.39
+Routenpunkt (Way);T;;50.082942725;8.6800458625;50.0;;;;;;Interpoliert (15m);129.2;-2.8
+Routenpunkt (Way);T;Bischofsweg;50.08300705;8.67991525;30.0;;;;;;Interpoliert;129.0;-2.84
+Routenpunkt (Way);T;;50.0830693375;8.6797753375;30.0;;;;;;Interpoliert (15m);128.5;-3.02
+Routenpunkt (Way);T;Bischofsweg;50.083131625;8.679635425;30.0;;;;;;Interpoliert;128.0;-3.68
+Routenpunkt (Way);T;Bischofsweg;50.083194;8.67945935;30.0;;;;;;Interpoliert;127.5;-4.1
+Routenpunkt (Way);T;Bischofsweg;50.0832354;8.6793346;30.0;;;;;;Original OSM;127.0;-4.34
+Routenpunkt (Way);T;Bischofsweg;50.08326635;8.679155900000001;30.0;;;;;;Interpoliert;126.5;-3.51
+Routenpunkt (Way);T;Bischofsweg;50.0832973;8.6789772;30.0;;;;;;Original OSM;125.8;-4.15
+Haltestelle;W;F Lerchesbergring;50.0832973;8.6789772;30.0;12:47:00;12:47:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 0m) | Auf Route gesnappt (0m);125.1;-6.07
+Routenpunkt (Way);T;Bischofsweg;50.0833169;8.6788339;30.0;;;;;;Interpoliert;124.4;-8.24
+Routenpunkt (Way);T;;50.083331;8.678730550000001;30.0;;;;;;Interpoliert (15m);123.3;-8.88
+Routenpunkt (Way);T;Bischofsweg;50.0833451;8.6786272;30.0;;;;;;Original OSM;122.2;-10.59
+Routenpunkt (Way);T;;50.08335735;8.678497233333331;30.0;;;;;;Interpoliert (15m);121.4;-10.38
+Routenpunkt (Way);T;Bischofsweg;50.083369600000005;8.678367266666665;30.0;;;;;;Interpoliert;120.6;-9.09
+Routenpunkt (Way);T;Bischofsweg;50.0833855;8.678170733333333;30.0;;;;;;Interpoliert;119.8;-7.8
+Routenpunkt (Way);T;;50.08341293;8.677986261666668;30.0;;;;;;Interpoliert (15m);118.7;-7.57
+Routenpunkt (Way);T;Bischofsweg;50.08344036;8.67780179;30.0;;;;;;Original OSM;117.6;-7.34
+Routenpunkt (Way);T;;50.08347438;8.677679695;30.0;;;;;;Interpoliert (15m);116.9;-7.5
+Routenpunkt (Way);T;Bischofsweg;50.0835084;8.6775576;30.0;;;;;;Interpoliert;116.2;-6.61
+Routenpunkt (Way);T;Bischofsweg;50.0835519;8.677422100000001;30.0;;;;;;Interpoliert;115.5;-5.62
+Routenpunkt (Way);T;Bischofsweg;50.0835954;8.6772866;30.0;;;;;;Original OSM;115.1;-4.78
+Routenpunkt (Way);T;Bischofsweg;50.08364313333333;8.677127083333334;30.0;;;;;;Interpoliert;114.7;-3.95
+Routenpunkt (Way);T;Bischofsweg;50.08369086666666;8.676967566666667;30.0;;;;;;Interpoliert;114.3;-3.29
+Routenpunkt (Way);T;Bischofsweg;50.0837386;8.67680805;30.0;;;;;;Interpoliert;113.9;-2.71
+Routenpunkt (Way);T;Bischofsweg;50.083786333333336;8.676648533333333;30.0;;;;;;Interpoliert;113.5;-2.39
+Routenpunkt (Way);T;Bischofsweg;50.08383406666667;8.676489016666666;30.0;;;;;;Interpoliert;113.4;-2.06
+Routenpunkt (Way);T;Bischofsweg;50.0838818;8.6763295;30.0;;;;;;Original OSM;113.2;-1.73
+Routenpunkt (Way);T;Bischofsweg;50.0839237;8.6761609;30.0;;;;;;Interpoliert;113.0;-1.56
+Routenpunkt (Way);T;Bischofsweg;50.0839656;8.6759923;30.0;;;;;;Interpoliert;112.8;-1.64
+Routenpunkt (Way);T;;50.083992675;8.675879725000001;30.0;;;;;;Interpoliert (15m);112.6;-1.97
+Routenpunkt (Way);T;Bischofsweg;50.08401975;8.67576715;30.0;;;;;;Original OSM;112.5;-2.32
+Routenpunkt (Way);T;;50.08404573863636;8.675644947727273;30.0;;;;;;Interpoliert (15m);112.2;-2.43
+Routenpunkt (Way);T;Bischofsweg;50.08407172727273;8.675522745454545;30.0;;;;;;Interpoliert;111.9;-2.39
+Routenpunkt (Way);T;Bischofsweg;50.08411145454546;8.675334890909092;30.0;;;;;;Interpoliert;111.6;-2.58
+Routenpunkt (Way);T;Bischofsweg;50.08415118181818;8.675147036363636;30.0;;;;;;Interpoliert;111.3;-2.64
+Routenpunkt (Way);T;Bischofsweg;50.08419090909091;8.674959181818181;30.0;;;;;;Interpoliert;111.0;-2.69
+Routenpunkt (Way);T;Bischofsweg;50.08423063636364;8.674771327272728;30.0;;;;;;Interpoliert;110.5;-2.98
+Routenpunkt (Way);T;Bischofsweg;50.08427036363637;8.674583472727273;30.0;;;;;;Interpoliert;110.0;-3.26
+Routenpunkt (Way);T;Bischofsweg;50.08431009090909;8.67439561818182;30.0;;;;;;Interpoliert;109.5;-3.54
+Routenpunkt (Way);T;Bischofsweg;50.08434981818182;8.674207763636364;30.0;;;;;;Interpoliert;109.0;-3.54
+Routenpunkt (Way);T;Bischofsweg;50.08438954545454;8.674019909090909;30.0;;;;;;Interpoliert;108.5;-3.54
+Routenpunkt (Way);T;Bischofsweg;50.08442927272727;8.673832054545455;30.0;;;;;;Interpoliert;108.0;-3.8
+Routenpunkt (Way);T;Bischofsweg;50.084469;8.6736442;30.0;;;;;;Original OSM;107.5;-4.06
+Routenpunkt (Way);T;Gablonzer Straße;50.08450183333333;8.673508766666666;30.0;;;;;;Interpoliert;107.0;-4.32
+Routenpunkt (Way);T;Gablonzer Straße;50.08453466666666;8.673373333333334;30.0;;;;;;Interpoliert;106.5;-3.99
+Routenpunkt (Way);T;Gablonzer Straße;50.0845675;8.6732379;30.0;;;;;;Original OSM;106.0;-3.28
+Routenpunkt (Way);T;Gablonzer Straße;50.0845917;8.6730924;30.0;;;;;;Interpoliert;105.8;-2.31
+Routenpunkt (Way);T;Gablonzer Straße;50.0846159;8.672946900000001;30.0;;;;;;Interpoliert;105.8;-1.34
+Routenpunkt (Way);T;;50.08463480625;8.67283419375;30.0;;;;;;Interpoliert (15m);105.8;-0.37
+Routenpunkt (Way);T;Gablonzer Straße;50.0846537125;8.6727214875;30.0;;;;;;Original OSM;105.8;0.38
+Routenpunkt (Way);T;;50.08467810625;8.67257829375;30.0;;;;;;Interpoliert (15m);105.8;0.76
+Routenpunkt (Way);T;Gablonzer Straße;50.0847025;8.6724351;30.0;;;;;;Original OSM;106.0;0.76
+Routenpunkt (Way);T;Gablonzer Straße;50.08472233333333;8.672289866666667;30.0;;;;;;Interpoliert;106.2;1.13
+Haltestelle;W;F Gablonzer Str.;50.08472233333333;8.672289866666667;30.0;12:49:00;12:49:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);106.4;1.51
+Routenpunkt (Way);T;;50.084742166666665;8.672144633333334;30.0;;;;;;Interpoliert (15m);106.6;1.4
+Routenpunkt (Way);T;Gablonzer Straße;50.084762;8.6719994;30.0;;;;;;Original OSM;106.8;1.03
+Routenpunkt (Way);T;Gablonzer Straße;50.08478673333333;8.6717966;30.0;;;;;;Interpoliert;107.0;1.03
+Routenpunkt (Way);T;Gablonzer Straße;50.084811466666665;8.6715938;30.0;;;;;;Interpoliert;107.0;0.65
+Routenpunkt (Way);T;;50.08484241527778;8.671436739583333;30.0;;;;;;Interpoliert (15m);107.0;0.27
+Routenpunkt (Way);T;;50.08487336388889;8.671279679166668;30.0;;;;;;Interpoliert (15m);107.0;0.0
+Routenpunkt (Way);T;Gablonzer Straße;50.0849043125;8.671122618750001;30.0;;;;;;Original OSM;107.0;0.0
+Routenpunkt (Way);T;;50.085013875;8.671094592500001;30.0;;;;;;Interpoliert (15m);107.0;0.0
+Routenpunkt (Way);T;;50.0851234375;8.671066566250001;30.0;;;;;;Interpoliert (15m);107.0;0.0
+Routenpunkt (Way);T;Stresemannallee;50.085233;8.671038540000001;50.0;;;;;;Original OSM;107.0;0.21
+Routenpunkt (Way);T;;50.08531835;8.6710502325;50.0;;;;;;Interpoliert (15m);107.0;0.37
+Routenpunkt (Way);T;Stresemannallee;50.0854037;8.671061925;50.0;;;;;;Interpoliert;107.1;0.52
+Routenpunkt (Way);T;Stresemannallee;50.0855176;8.67107935;50.0;;;;;;Interpoliert;107.2;0.68
+Routenpunkt (Way);T;Stresemannallee;50.0856315;8.671096775;50.0;;;;;;Interpoliert;107.3;0.82
+Routenpunkt (Way);T;Stresemannallee;50.0857454;8.6711142;50.0;;;;;;Original OSM;107.4;0.75
+Routenpunkt (Way);T;Stresemannallee;50.0858697;8.671155783333333;50.0;;;;;;Interpoliert;107.5;0.74
+Routenpunkt (Way);T;Stresemannallee;50.085994;8.671197366666666;50.0;;;;;;Interpoliert;107.6;0.44
+Routenpunkt (Way);T;Stresemannallee;50.0861183;8.67123895;50.0;;;;;;Interpoliert;107.7;0.14
+Routenpunkt (Way);T;Stresemannallee;50.0862426;8.671280533333334;50.0;;;;;;Interpoliert;107.6;-0.14
+Routenpunkt (Way);T;Stresemannallee;50.0863669;8.671322116666667;50.0;;;;;;Interpoliert;107.5;-0.63
+Routenpunkt (Way);T;Stresemannallee;50.0864912;8.6713637;50.0;;;;;;Original OSM;107.4;-1.07
+Routenpunkt (Way);T;Stresemannallee;50.0865948;8.6713899;50.0;;;;;;Original OSM;107.2;-1.22
+Routenpunkt (Way);T;Stresemannallee;50.0867121;8.67141965;50.0;;;;;;Interpoliert;107.0;-1.36
+Routenpunkt (Way);T;;50.08683508333333;8.671450825;50.0;;;;;;Interpoliert (15m);106.8;-1.22
+Haltestelle;W;F Karlsbader Straße;50.08695806666667;8.671482000000001;50.0;12:50:00;12:50:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 6m) | Auf Route gesnappt (13m);106.6;-1.29
+Routenpunkt (Way);T;Stresemannallee;50.08695806666667;8.671482000000001;50.0;;;;;;Interpoliert;106.4;-1.41
+Routenpunkt (Way);T;Stresemannallee;50.08708673333333;8.6715146;50.0;;;;;;Interpoliert;106.1;-1.39
+Routenpunkt (Way);T;Stresemannallee;50.0872154;8.6715472;50.0;;;;;;Interpoliert;105.8;-1.38
+Routenpunkt (Way);T;Stresemannallee;50.08734406666667;8.6715798;50.0;;;;;;Interpoliert;105.6;-1.7
+Routenpunkt (Way);T;Stresemannallee;50.08747273333333;8.6716124;50.0;;;;;;Interpoliert;105.4;-1.6
+Routenpunkt (Way);T;;50.08758514259259;8.67163650925926;50.0;;;;;;Interpoliert (15m);105.2;-1.5
+Routenpunkt (Way);T;;50.087697551851846;8.671660618518517;50.0;;;;;;Interpoliert (15m);105.0;-1.65
+Routenpunkt (Way);T;Stresemannallee;50.08780996111111;8.671684727777777;50.0;;;;;;Original OSM;104.8;-1.8
+Routenpunkt (Way);T;;50.08793659074074;8.671702568518517;50.0;;;;;;Interpoliert (15m);104.5;-1.91
+Routenpunkt (Way);T;;50.088063220370366;8.67172040925926;50.0;;;;;;Interpoliert (15m);104.2;-1.91
+Routenpunkt (Way);T;Stresemannallee;50.08818985;8.67173825;50.0;;;;;;Interpoliert;103.9;-1.92
+Routenpunkt (Way);T;Stresemannallee;50.0883032;8.671748;50.0;;;;;;Original OSM;103.7;-1.66
+Routenpunkt (Way);T;Stresemannallee;50.0884124;8.671756266666666;50.0;;;;;;Interpoliert;103.5;-1.4
+Routenpunkt (Way);T;Stresemannallee;50.0885216;8.671764533333333;50.0;;;;;;Interpoliert;103.4;-1.15
+Routenpunkt (Way);T;Stresemannallee;50.0886308;8.6717728;50.0;;;;;;Original OSM;103.3;-1.01
+Routenpunkt (Way);T;Stresemannallee;50.08873435;8.67176905;50.0;;;;;;Interpoliert;103.2;-0.85
+Routenpunkt (Way);T;Stresemannallee;50.0888379;8.6717653;50.0;;;;;;Interpoliert;103.1;-0.69
+Routenpunkt (Way);T;Stresemannallee;50.08894145;8.67176155;50.0;;;;;;Interpoliert;103.0;-0.52
+Routenpunkt (Way);T;Stresemannallee;50.089045;8.6717578;50.0;;;;;;Original OSM;103.0;-0.35
+Routenpunkt (Way);T;Stresemannallee;50.089155133333335;8.671747633333334;50.0;;;;;;Interpoliert;103.0;-0.17
+Routenpunkt (Way);T;Stresemannallee;50.089265266666665;8.671737466666666;50.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Stresemannallee;50.0893754;8.6717273;50.0;;;;;;Original OSM;103.0;0.0
+Routenpunkt (Way);T;Stresemannallee;50.0894676;8.6717224;50.0;;;;;;Original OSM;103.0;0.0
+Haltestelle;W;F Stresemannall./Mörf. Ldstr.;50.0894676;8.6717224;50.0;12:52:00;12:52:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 15m) | Auf Route gesnappt (15m);103.0;0.0
+Haltestelle;W;F Stresemannall./Mörf. Ldstr.;50.0894676;8.6717224;50.0;12:54:00;12:54:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 15m) | Auf Route gesnappt (15m);103.0;0.0

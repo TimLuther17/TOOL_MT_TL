@@ -1,0 +1,10 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Luisenplatz;49.872883;8.651256;06:15:00;06:15:00;Kein Umlauf;So;1372;Stop Seq 0
+Haltestelle;Darmstadt Schloss;49.872868;8.655235;06:17:00;06:17:00;Kein Umlauf;So;1372;Stop Seq 1
+Haltestelle;Darmstadt Pützerstraße;49.87529;8.662563;06:19:00;06:19:00;Kein Umlauf;So;1372;Stop Seq 2
+Haltestelle;Darmstadt Alice-Hospital;49.87721;8.66337;06:20:00;06:20:00;Kein Umlauf;So;1372;Stop Seq 3
+Haltestelle;Darmstadt Mathildenhöhe;49.878677;8.667047;06:21:00;06:21:00;Kein Umlauf;So;1372;Stop Seq 4
+Haltestelle;Darmstadt Spessartring;49.879395;8.670701;06:22:00;06:22:00;Kein Umlauf;So;1372;Stop Seq 5
+Haltestelle;Darmstadt Regerweg;49.881638;8.677587;06:23:00;06:23:00;Kein Umlauf;So;1372;Stop Seq 6
+Haltestelle;Darmstadt Fasanerie;49.88413;8.685279;06:24:00;06:24:00;Kein Umlauf;So;1372;Stop Seq 7
+Haltestelle;Darmstadt Oberwaldhaus;49.89065;8.696829;06:26:00;06:26:00;Kein Umlauf;So;1372;Stop Seq 8

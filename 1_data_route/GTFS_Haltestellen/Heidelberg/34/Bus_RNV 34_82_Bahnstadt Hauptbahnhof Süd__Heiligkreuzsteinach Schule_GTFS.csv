@@ -1,0 +1,37 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Bahnstadt, Hauptbahnhof Süd;49.4011;8.672381;17:01:00;17:01:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Heidelberg, Czernybrücke;49.406666;8.671204;17:04:00;17:04:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Heidelberg, Hauptbahnhof;49.40468;8.676531;17:06:00;17:06:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Heidelberg, Stadtwerke;49.405064;8.682361;17:07:00;17:07:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Heidelberg, Stadtbücherei;49.406147;8.686448;17:09:00;17:09:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Heidelberg, Seegarten;49.40718;8.692323;17:11:00;17:11:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Heidelberg, Bismarckplatz;49.409534;8.693213;17:13:00;17:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Neuenheim, Bergstraße;49.413757;8.694291;17:16:00;17:16:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Neuenheim, Alte Brücke Nord;49.4152;8.709068;17:19:00;17:19:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Neuenheim, Hirschgasse;49.416218;8.716775;17:21:00;17:21:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Ziegelhausen, Haarlass;49.42015;8.729145;17:23:00;17:23:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10
+Haltestelle;Ziegelhausen, Stift Neuburg;49.419155;8.73546;17:24:00;17:24:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 11
+Haltestelle;Ziegelhausen, Stiftsmühle;49.417515;8.744021;17:26:00;17:26:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 12
+Haltestelle;Ziegelhausen, Neckarhelle;49.41737;8.747974;17:27:00;17:27:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 13
+Haltestelle;Ziegelhausen, Neuer Weg;49.41735;8.75269;17:28:00;17:28:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 14
+Haltestelle;Ziegelhausen, Neckarschule;49.419243;8.756903;17:30:00;17:30:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 15
+Haltestelle;Ziegelhausen, Steinbacher Tal;49.42211;8.754603;17:31:00;17:31:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 16
+Haltestelle;Ziegelhausen, Mühldamm;49.425144;8.751873;17:32:00;17:32:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 17
+Haltestelle;Ziegelhausen, Fürstendamm;49.428513;8.749519;17:33:00;17:33:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 18
+Haltestelle;Ziegelhausen, Kreuzgrundweg;49.43154;8.747749;17:34:00;17:34:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 19
+Haltestelle;Ziegelhausen, Peterstaler Str.;49.43476;8.749285;17:35:00;17:35:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 20
+Haltestelle;Ziegelhausen, Grüner Baum;49.437763;8.752043;17:36:00;17:36:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 21
+Haltestelle;Ziegelhausen, Löwen;49.444576;8.754091;17:38:00;17:38:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 22
+Haltestelle;Ziegelhausen, Schweizertalstr.;49.448364;8.7534;17:39:00;17:39:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 23
+Haltestelle;Ziegelhausen, Heidebuckelweg;49.449806;8.754109;17:40:00;17:40:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 24
+Haltestelle;Ziegelhausen, Langer Kirschb.;49.459007;8.751298;17:44:00;17:44:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 25
+Haltestelle;Wilhelmsfeld, Schriesheim. Hof;49.470173;8.754397;17:47:00;17:47:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 26
+Haltestelle;Wilhelmsfeld, Wilhelmshöhe;49.468124;8.758224;17:48:00;17:48:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 27
+Haltestelle;Wilhelmsfeld, Rathaus;49.4655;8.760802;17:49:00;17:49:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 28
+Haltestelle;Wilhelmsfeld, Autohalle;49.46306;8.763515;17:50:00;17:55:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 29
+Haltestelle;Wilhelmsfeld, Unterdorf;49.466637;8.772794;17:57:00;17:57:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 30
+Haltestelle;Wilhelmsfeld, Kettenschmiede;49.46893;8.787778;17:59:00;17:59:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 31
+Haltestelle;Altneudorf, Im Hauskorb;49.469334;8.796339;18:00:00;18:00:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 32
+Haltestelle;Altneudorf, Steinachbrücke;49.467;8.801424;18:01:00;18:01:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 33
+Haltestelle;Heiligkreuzsteinach, Marktpl.;49.48476;8.796896;18:05:00;18:05:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 34
+Haltestelle;Heiligkreuzsteinach, Schule;49.48532;8.795773;18:06:00;18:06:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 35

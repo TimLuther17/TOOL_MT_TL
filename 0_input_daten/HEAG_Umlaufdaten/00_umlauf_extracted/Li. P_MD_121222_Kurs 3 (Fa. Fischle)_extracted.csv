@@ -1,0 +1,279 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Eberstadt Wartehalle,4;12:57:00;1;W
+1;Eberstadt Modaubrücke,3;12:58:00;1;W
+1;Eberstadt Alte Post,1;12:59:00;1;W
+1;Eberstadt Walther-Rathenau-Str,1;13:00:00;1;W
+1;Eberstadt Bahnhof,2;13:01:00;1;W
+1;Pfungstadt Ostendstraße,2;13:03:00;1;W
+1;Pfungstadt Bahnübergang,1;13:05:00;1;W
+1;Pfungstadt Bahnhof,3;13:06:00;1;W
+1;Pfungstadt Friedhof,1;13:08:00;1;W
+1;Pfungstadt Friedr-Ebert-Schule,2;13:10:00;1;W
+1;Pfungstadt Lindenstraße,2;13:12:00;1;W
+1;Pfungstadt Rathaus,2;13:14:00;1;W
+1;Pfungstadt Frankensteiner Str.,2;13:15:00;1;W
+1;Pfungstadt Am Hintergraben,2;13:16:00;1;W
+1;Pfungstadt Karl-Marx-Straße,1;13:17:00;1;W
+1;Pfungstadt Südring,2;13:18:00;1;W
+1;Pfungstadt Odenwaldstraße,1;13:20:00;1;W
+1;Pfungstadt Christian-Stock-Str,1;13:22:00;1;W
+2;Pfungstadt Bahnhof,4;13:24:00;1;W
+2;Pfungstadt Bahnhof,4;13:25:00;2;W
+2;Pfungstadt Mühlen-Apotheke,1;13:27:00;2;W
+2;Pfungstadt Odenwaldstraße,2;13:30:00;2;W
+2;Pfungstadt Südring,1;13:31:00;2;W
+2;Pfungstadt Karl-Marx-Straße,2;13:32:00;2;W
+2;Pfungstadt Am Hintergraben,1;13:33:00;2;W
+2;Pfungstadt Frankensteiner Str.,1;13:35:00;2;W
+2;Pfungstadt Rathaus,1;13:36:00;2;W
+2;Pfungstadt Lindenstraße,1;13:38:00;2;W
+2;Pfungstadt Friedr-Ebert-Schule,1;13:39:00;2;W
+2;Pfungstadt Waldstraße,1;13:40:00;2;W
+2;Pfungstadt Friedhof,2;13:41:00;2;W
+2;Pfungstadt Bahnhof,2;13:43:00;2;W
+2;Pfungstadt Ostendstraße,1;13:45:00;2;W
+2;Eberstadt Bahnhof,1;13:47:00;2;W
+2;Eberstadt Walther-Rathenau-Str,2;13:49:00;2;W
+2;Eberstadt Thüringerstraße,1;13:50:00;2;W
+2;Eberstadt Wartehalle,4;13:52:00;2;W
+2;Eberstadt Wartehalle,4;13:57:00;1;W
+2;Eberstadt Modaubrücke,3;13:58:00;1;W
+2;Eberstadt Alte Post,1;13:59:00;1;W
+2;Eberstadt Walther-Rathenau-Str,1;14:00:00;1;W
+2;Eberstadt Bahnhof,2;14:01:00;1;W
+2;Pfungstadt Ostendstraße,2;14:03:00;1;W
+2;Pfungstadt Bahnübergang,1;14:05:00;1;W
+2;Pfungstadt Bahnhof,3;14:06:00;1;W
+2;Pfungstadt Friedhof,1;14:08:00;1;W
+2;Pfungstadt Friedr-Ebert-Schule,2;14:10:00;1;W
+2;Pfungstadt Lindenstraße,2;14:12:00;1;W
+2;Pfungstadt Rathaus,2;14:14:00;1;W
+2;Pfungstadt Frankensteiner Str.,2;14:15:00;1;W
+2;Pfungstadt Am Hintergraben,2;14:16:00;1;W
+2;Pfungstadt Karl-Marx-Straße,1;14:17:00;1;W
+2;Pfungstadt Südring,2;14:18:00;1;W
+2;Pfungstadt Odenwaldstraße,1;14:20:00;1;W
+2;Pfungstadt Christian-Stock-Str,1;14:22:00;1;W
+3;Pfungstadt Bahnhof,4;14:24:00;1;W
+3;Pfungstadt Bahnhof,4;14:25:00;2;W
+3;Pfungstadt Mühlen-Apotheke,1;14:27:00;2;W
+3;Pfungstadt Odenwaldstraße,2;14:30:00;2;W
+3;Pfungstadt Südring,1;14:31:00;2;W
+3;Pfungstadt Karl-Marx-Straße,2;14:32:00;2;W
+3;Pfungstadt Am Hintergraben,1;14:33:00;2;W
+3;Pfungstadt Frankensteiner Str.,1;14:35:00;2;W
+3;Pfungstadt Rathaus,1;14:36:00;2;W
+3;Pfungstadt Lindenstraße,1;14:38:00;2;W
+3;Pfungstadt Friedr-Ebert-Schule,1;14:39:00;2;W
+3;Pfungstadt Waldstraße,1;14:40:00;2;W
+3;Pfungstadt Friedhof,2;14:41:00;2;W
+3;Pfungstadt Bahnhof,2;14:43:00;2;W
+3;Pfungstadt Ostendstraße,1;14:45:00;2;W
+3;Eberstadt Bahnhof,1;14:47:00;2;W
+3;Eberstadt Walther-Rathenau-Str,2;14:49:00;2;W
+3;Eberstadt Thüringerstraße,1;14:50:00;2;W
+3;Eberstadt Wartehalle,4;14:52:00;2;W
+3;Eberstadt Wartehalle,4;14:57:00;1;W
+3;Eberstadt Modaubrücke,3;14:58:00;1;W
+3;Eberstadt Alte Post,1;14:59:00;1;W
+3;Eberstadt Walther-Rathenau-Str,1;15:00:00;1;W
+3;Eberstadt Bahnhof,2;15:01:00;1;W
+3;Pfungstadt Ostendstraße,2;15:03:00;1;W
+3;Pfungstadt Bahnübergang,1;15:05:00;1;W
+3;Pfungstadt Bahnhof,3;15:06:00;1;W
+3;Pfungstadt Friedhof,1;15:08:00;1;W
+3;Pfungstadt Friedr-Ebert-Schule,2;15:10:00;1;W
+3;Pfungstadt Lindenstraße,2;15:12:00;1;W
+3;Pfungstadt Rathaus,2;15:14:00;1;W
+3;Pfungstadt Frankensteiner Str.,2;15:15:00;1;W
+3;Pfungstadt Am Hintergraben,2;15:16:00;1;W
+3;Pfungstadt Karl-Marx-Straße,1;15:17:00;1;W
+3;Pfungstadt Südring,2;15:18:00;1;W
+3;Pfungstadt Odenwaldstraße,1;15:20:00;1;W
+3;Pfungstadt Christian-Stock-Str,1;15:22:00;1;W
+4;Pfungstadt Bahnhof,4;15:24:00;1;W
+4;Pfungstadt Bahnhof,4;15:25:00;2;W
+4;Pfungstadt Mühlen-Apotheke,1;15:27:00;2;W
+4;Pfungstadt Odenwaldstraße,2;15:30:00;2;W
+4;Pfungstadt Südring,1;15:31:00;2;W
+4;Pfungstadt Karl-Marx-Straße,2;15:32:00;2;W
+4;Pfungstadt Am Hintergraben,1;15:33:00;2;W
+4;Pfungstadt Frankensteiner Str.,1;15:35:00;2;W
+4;Pfungstadt Rathaus,1;15:36:00;2;W
+4;Pfungstadt Lindenstraße,1;15:38:00;2;W
+4;Pfungstadt Friedr-Ebert-Schule,1;15:39:00;2;W
+4;Pfungstadt Waldstraße,1;15:40:00;2;W
+4;Pfungstadt Friedhof,2;15:41:00;2;W
+4;Pfungstadt Bahnhof,2;15:43:00;2;W
+4;Pfungstadt Ostendstraße,1;15:45:00;2;W
+4;Eberstadt Bahnhof,1;15:47:00;2;W
+4;Eberstadt Walther-Rathenau-Str,2;15:49:00;2;W
+4;Eberstadt Thüringerstraße,1;15:50:00;2;W
+4;Eberstadt Wartehalle,4;15:52:00;2;W
+4;Eberstadt Wartehalle,4;15:57:00;1;W
+4;Eberstadt Modaubrücke,3;15:58:00;1;W
+4;Eberstadt Alte Post,1;15:59:00;1;W
+4;Eberstadt Walther-Rathenau-Str,1;16:00:00;1;W
+4;Eberstadt Bahnhof,2;16:01:00;1;W
+4;Pfungstadt Ostendstraße,2;16:03:00;1;W
+4;Pfungstadt Bahnübergang,1;16:05:00;1;W
+4;Pfungstadt Bahnhof,3;16:06:00;1;W
+4;Pfungstadt Friedhof,1;16:08:00;1;W
+4;Pfungstadt Friedr-Ebert-Schule,2;16:10:00;1;W
+4;Pfungstadt Lindenstraße,2;16:12:00;1;W
+4;Pfungstadt Rathaus,2;16:14:00;1;W
+4;Pfungstadt Frankensteiner Str.,2;16:15:00;1;W
+4;Pfungstadt Am Hintergraben,2;16:16:00;1;W
+4;Pfungstadt Karl-Marx-Straße,1;16:17:00;1;W
+4;Pfungstadt Südring,2;16:18:00;1;W
+4;Pfungstadt Odenwaldstraße,1;16:20:00;1;W
+4;Pfungstadt Christian-Stock-Str,1;16:22:00;1;W
+5;Pfungstadt Bahnhof,4;16:24:00;1;W
+5;Pfungstadt Bahnhof,4;16:25:00;2;W
+5;Pfungstadt Mühlen-Apotheke,1;16:27:00;2;W
+5;Pfungstadt Odenwaldstraße,2;16:30:00;2;W
+5;Pfungstadt Südring,1;16:31:00;2;W
+5;Pfungstadt Karl-Marx-Straße,2;16:32:00;2;W
+5;Pfungstadt Am Hintergraben,1;16:33:00;2;W
+5;Pfungstadt Frankensteiner Str.,1;16:35:00;2;W
+5;Pfungstadt Rathaus,1;16:36:00;2;W
+5;Pfungstadt Lindenstraße,1;16:38:00;2;W
+5;Pfungstadt Friedr-Ebert-Schule,1;16:39:00;2;W
+5;Pfungstadt Waldstraße,1;16:40:00;2;W
+5;Pfungstadt Friedhof,2;16:41:00;2;W
+5;Pfungstadt Bahnhof,2;16:43:00;2;W
+5;Pfungstadt Ostendstraße,1;16:45:00;2;W
+5;Eberstadt Bahnhof,1;16:47:00;2;W
+5;Eberstadt Walther-Rathenau-Str,2;16:49:00;2;W
+5;Eberstadt Thüringerstraße,1;16:50:00;2;W
+5;Eberstadt Wartehalle,4;16:52:00;2;W
+5;Eberstadt Wartehalle,4;16:57:00;1;W
+5;Eberstadt Modaubrücke,3;16:58:00;1;W
+5;Eberstadt Alte Post,1;16:59:00;1;W
+5;Eberstadt Walther-Rathenau-Str,1;17:00:00;1;W
+5;Eberstadt Bahnhof,2;17:01:00;1;W
+5;Pfungstadt Ostendstraße,2;17:03:00;1;W
+5;Pfungstadt Bahnübergang,1;17:05:00;1;W
+5;Pfungstadt Bahnhof,3;17:06:00;1;W
+5;Pfungstadt Friedhof,1;17:08:00;1;W
+5;Pfungstadt Friedr-Ebert-Schule,2;17:10:00;1;W
+5;Pfungstadt Lindenstraße,2;17:12:00;1;W
+5;Pfungstadt Rathaus,2;17:14:00;1;W
+5;Pfungstadt Frankensteiner Str.,2;17:15:00;1;W
+5;Pfungstadt Am Hintergraben,2;17:16:00;1;W
+5;Pfungstadt Karl-Marx-Straße,1;17:17:00;1;W
+5;Pfungstadt Südring,2;17:18:00;1;W
+5;Pfungstadt Odenwaldstraße,1;17:20:00;1;W
+5;Pfungstadt Christian-Stock-Str,1;17:22:00;1;W
+6;Pfungstadt Bahnhof,4;17:24:00;1;W
+6;Pfungstadt Bahnhof,4;17:25:00;2;W
+6;Pfungstadt Mühlen-Apotheke,1;17:27:00;2;W
+6;Pfungstadt Odenwaldstraße,2;17:30:00;2;W
+6;Pfungstadt Südring,1;17:31:00;2;W
+6;Pfungstadt Karl-Marx-Straße,2;17:32:00;2;W
+6;Pfungstadt Am Hintergraben,1;17:33:00;2;W
+6;Pfungstadt Frankensteiner Str.,1;17:35:00;2;W
+6;Pfungstadt Rathaus,1;17:36:00;2;W
+6;Pfungstadt Lindenstraße,1;17:38:00;2;W
+6;Pfungstadt Friedr-Ebert-Schule,1;17:39:00;2;W
+6;Pfungstadt Waldstraße,1;17:40:00;2;W
+6;Pfungstadt Friedhof,2;17:41:00;2;W
+6;Pfungstadt Bahnhof,2;17:43:00;2;W
+6;Pfungstadt Ostendstraße,1;17:45:00;2;W
+6;Eberstadt Bahnhof,1;17:47:00;2;W
+6;Eberstadt Walther-Rathenau-Str,2;17:49:00;2;W
+6;Eberstadt Thüringerstraße,1;17:50:00;2;W
+6;Eberstadt Wartehalle,4;17:52:00;2;W
+6;Eberstadt Wartehalle,4;17:57:00;1;W
+6;Eberstadt Modaubrücke,3;17:58:00;1;W
+6;Eberstadt Alte Post,1;17:59:00;1;W
+6;Eberstadt Walther-Rathenau-Str,1;18:00:00;1;W
+6;Eberstadt Bahnhof,2;18:01:00;1;W
+6;Pfungstadt Ostendstraße,2;18:03:00;1;W
+6;Pfungstadt Bahnübergang,1;18:05:00;1;W
+6;Pfungstadt Bahnhof,3;18:06:00;1;W
+6;Pfungstadt Friedhof,1;18:08:00;1;W
+6;Pfungstadt Friedr-Ebert-Schule,2;18:10:00;1;W
+6;Pfungstadt Lindenstraße,2;18:12:00;1;W
+6;Pfungstadt Rathaus,2;18:14:00;1;W
+6;Pfungstadt Frankensteiner Str.,2;18:15:00;1;W
+6;Pfungstadt Am Hintergraben,2;18:16:00;1;W
+6;Pfungstadt Karl-Marx-Straße,1;18:17:00;1;W
+6;Pfungstadt Südring,2;18:18:00;1;W
+6;Pfungstadt Odenwaldstraße,1;18:20:00;1;W
+6;Pfungstadt Christian-Stock-Str,1;18:22:00;1;W
+7;Pfungstadt Bahnhof,4;18:24:00;1;W
+7;Pfungstadt Bahnhof,4;18:25:00;2;W
+7;Pfungstadt Mühlen-Apotheke,1;18:27:00;2;W
+7;Pfungstadt Odenwaldstraße,2;18:30:00;2;W
+7;Pfungstadt Südring,1;18:31:00;2;W
+7;Pfungstadt Karl-Marx-Straße,2;18:32:00;2;W
+7;Pfungstadt Am Hintergraben,1;18:33:00;2;W
+7;Pfungstadt Frankensteiner Str.,1;18:35:00;2;W
+7;Pfungstadt Rathaus,1;18:36:00;2;W
+7;Pfungstadt Lindenstraße,1;18:38:00;2;W
+7;Pfungstadt Friedr-Ebert-Schule,1;18:39:00;2;W
+7;Pfungstadt Waldstraße,1;18:40:00;2;W
+7;Pfungstadt Friedhof,2;18:41:00;2;W
+7;Pfungstadt Bahnhof,2;18:43:00;2;W
+7;Pfungstadt Ostendstraße,1;18:45:00;2;W
+7;Eberstadt Bahnhof,1;18:47:00;2;W
+7;Eberstadt Walther-Rathenau-Str,2;18:49:00;2;W
+7;Eberstadt Thüringerstraße,1;18:50:00;2;W
+7;Eberstadt Wartehalle,4;18:52:00;2;W
+7;Eberstadt Wartehalle,4;18:57:00;1;W
+7;Eberstadt Modaubrücke,3;18:58:00;1;W
+7;Eberstadt Alte Post,1;18:59:00;1;W
+7;Eberstadt Walther-Rathenau-Str,1;19:00:00;1;W
+7;Eberstadt Bahnhof,2;19:01:00;1;W
+7;Pfungstadt Ostendstraße,2;19:03:00;1;W
+7;Pfungstadt Bahnübergang,1;19:05:00;1;W
+7;Pfungstadt Bahnhof,3;19:06:00;1;W
+7;Pfungstadt Friedhof,1;19:08:00;1;W
+7;Pfungstadt Friedr-Ebert-Schule,2;19:10:00;1;W
+7;Pfungstadt Lindenstraße,2;19:12:00;1;W
+7;Pfungstadt Rathaus,2;19:14:00;1;W
+7;Pfungstadt Frankensteiner Str.,2;19:15:00;1;W
+7;Pfungstadt Am Hintergraben,2;19:16:00;1;W
+7;Pfungstadt Karl-Marx-Straße,1;19:17:00;1;W
+7;Pfungstadt Südring,2;19:18:00;1;W
+7;Pfungstadt Odenwaldstraße,1;19:20:00;1;W
+7;Pfungstadt Christian-Stock-Str,1;19:22:00;1;W
+7;Pfungstadt Bahnhof,2;20:24:00;1;W
+8;Pfungstadt Bahnhof,4;19:24:00;1;W
+8;Pfungstadt Bahnhof,4;19:25:00;2;W
+8;Pfungstadt Mühlen-Apotheke,1;19:27:00;2;W
+8;Pfungstadt Odenwaldstraße,2;19:30:00;2;W
+8;Pfungstadt Südring,1;19:31:00;2;W
+8;Pfungstadt Karl-Marx-Straße,2;19:32:00;2;W
+8;Pfungstadt Am Hintergraben,1;19:33:00;2;W
+8;Pfungstadt Frankensteiner Str.,1;19:35:00;2;W
+8;Pfungstadt Rathaus,1;19:36:00;2;W
+8;Pfungstadt Lindenstraße,1;19:38:00;2;W
+8;Pfungstadt Friedr-Ebert-Schule,1;19:39:00;2;W
+8;Pfungstadt Waldstraße,1;19:40:00;2;W
+8;Pfungstadt Friedhof,2;19:41:00;2;W
+8;Pfungstadt Bahnhof,2;19:43:00;2;W
+8;Pfungstadt Ostendstraße,1;19:45:00;2;W
+8;Eberstadt Bahnhof,1;19:47:00;2;W
+8;Eberstadt Walther-Rathenau-Str,2;19:49:00;2;W
+8;Eberstadt Thüringerstraße,1;19:50:00;2;W
+8;Eberstadt Wartehalle,4;19:52:00;2;W
+8;Eberstadt Wartehalle,4;19:57:00;1;W
+8;Eberstadt Modaubrücke,3;19:58:00;1;W
+8;Eberstadt Alte Post,1;19:59:00;1;W
+8;Eberstadt Walther-Rathenau-Str,1;20:00:00;1;W
+8;Eberstadt Bahnhof,2;20:01:00;1;W
+8;Pfungstadt Ostendstraße,2;20:03:00;1;W
+8;Pfungstadt Bahnübergang,1;20:05:00;1;W
+8;Pfungstadt Bahnhof,3;20:06:00;1;W
+8;Pfungstadt Friedhof,1;20:08:00;1;W
+8;Pfungstadt Friedr-Ebert-Schule,2;20:10:00;1;W
+8;Pfungstadt Lindenstraße,2;20:12:00;1;W
+8;Pfungstadt Rathaus,2;20:14:00;1;W
+8;Pfungstadt Frankensteiner Str.,2;20:15:00;1;W
+8;Pfungstadt Am Hintergraben,2;20:16:00;1;W
+8;Pfungstadt Karl-Marx-Straße,1;20:17:00;1;W
+8;Pfungstadt Südring,2;20:18:00;1;W
+8;Pfungstadt Odenwaldstraße,1;20:20:00;1;W
+8;Pfungstadt Christian-Stock-Str,1;20:22:00;1;W

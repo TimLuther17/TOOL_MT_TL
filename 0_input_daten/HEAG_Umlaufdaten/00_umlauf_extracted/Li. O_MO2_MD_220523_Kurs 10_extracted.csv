@@ -1,0 +1,28 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Ernsthofen Schule,1;06:47:00;1;W
+1;Ernsthofen Mitte,2;06:48:00;1;W
+1;Modau St.-Pankratius-Weg,2;06:52:00;1;W
+1;Modau Modauhalle,2;06:53:00;1;W
+1;Modau Kirchstraße,2;06:54:00;1;W
+1;Modau Horeth,2;06:55:00;1;W
+1;Ober-Ramstadt Schlossmühle,2;06:56:00;1;W
+1;Ober-Ramstadt Rondell,2;06:58:00;1;W
+1;Ober-Ramstadt Alter Markt,2;06:59:00;1;W
+1;Ober-Ramstadt Roßdörfer Straße,2;07:02:00;1;W
+1;Ober-Ramstadt Waldmühle,2;07:04:00;1;W
+1;Nieder-Ramstadt Wacker Fabrik,2;07:05:00;1;W
+1;Nd.-Ramstadt Mühltal Bf,11;07:07:00;1;W
+1;Trautheim,2;07:10:00;1;W
+1;Darmstadt Böllenfalltor,5;07:13:00;1;W
+1;Darmstadt Böllenfalltor,5;07:13:00;2;W
+1;Darmstadt Marienhospital,1;07:14:00;2;W
+1;Darmstadt Ludwigshöhstraße,3;07:16:00;2;W
+1;Darmstadt Ludwigshöhstraße,3;07:16:00;3;W
+1;Darmstadt Hauptbahnhof,20;07:31:00;3;W
+1;Darmstadt Heinrich-Hertz-Str.,2;07:42:00;3;W
+1;Darmstadt Mina-Rees-Straße,2;07:43:00;3;W
+1;Darmstadt Hilpertstraße,12;07:45:00;3;W
+1;Darmstadt Hauptzollamt,2;07:46:00;3;W
+1;Darmstadt von Taxis,2;07:47:00;3;W
+1;Darmstadt Kleyerstraße,1;07:48:00;3;W
+2;Darmstadt Hauptbahnhof,20;07:39:00;3;W

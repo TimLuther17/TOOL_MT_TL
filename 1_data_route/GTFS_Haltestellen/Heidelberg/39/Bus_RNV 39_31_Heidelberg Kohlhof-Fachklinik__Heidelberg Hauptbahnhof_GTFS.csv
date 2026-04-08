@@ -1,0 +1,14 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Heidelberg, Kohlhof-Fachklinik;49.38955;8.735245;20:35:00;20:35:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Heidelberg, Alter Kohlhof;49.388367;8.731104;20:36:00;20:36:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Heidelberg, Posseltslust;49.384655;8.733502;20:37:00;20:37:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Heidelberg, Drei Eichen;49.380157;8.723854;20:39:00;20:39:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Heidelberg, MPI Kernphysik;49.38898;8.707433;20:44:00;20:44:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Heidelberg, Bierhelderhhof;49.389904;8.705268;20:45:00;20:45:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Heidelberg, Kühruhweg;49.393795;8.708583;20:46:00;20:46:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Heidelberg, Speyererhof;49.39553;8.709346;20:47:00;20:47:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Heidelberg, Rohrbacher Grenzw.;49.396095;8.696923;20:51:00;20:51:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Heidelberg, Steigerweg;49.396873;8.694973;20:52:00;20:52:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Heidelberg, Alois-Link-Platz;49.400166;8.691407;20:54:00;20:54:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10
+Haltestelle;Heidelberg, Weststadt/Südstadt;49.398243;8.689341;20:55:00;20:55:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 11
+Haltestelle;Heidelberg, Hauptbahnhof;49.404163;8.677789;20:59:00;20:59:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 12

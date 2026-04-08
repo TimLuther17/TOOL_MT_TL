@@ -1,0 +1,582 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%)
+Routenpunkt (Way);T;Unbekannt;49.641174;8.6337985;;;;;;;Original OSM;101.0;0.32
+Haltestelle;W;Heppenheim, Bahnhof;49.641174;8.6337985;;19:00:00;19:00:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 1m) | Auf Route gesnappt (1m);101.17;0.34
+Routenpunkt (Way);T;Unbekannt;49.64124692142856;8.63392717857143;;;;;;;Original OSM;101.29;0.33
+Routenpunkt (Way);T;Kalterer Straße;49.64107362;8.6340946;30.0;;;;;;Original OSM;101.38;0.5
+Routenpunkt (Way);T;Kalterer Straße;49.64084905000001;8.634062341666665;30.0;;;;;;Original OSM;101.44;0.99
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.64061516666667;8.634273666666667;30.0;;;;;;Interpoliert;101.7;1.45
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.64068253333333;8.634408233333334;30.0;;;;;;Interpoliert;102.0;1.93
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.6407499;8.6345428;30.0;;;;;;Original OSM;102.4;2.55
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.6408246;8.6347052;30.0;;;;;;Original OSM;102.8;3.06
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.64087916666666;8.634844733333335;30.0;;;;;;Interpoliert;103.2;3.09
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.64093373333333;8.634984266666667;30.0;;;;;;Interpoliert;103.6;3.02
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.6409883;8.6351238;30.0;;;;;;Original OSM;103.9;3.04
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.6410512;8.63528714;30.0;;;;;;Interpoliert;104.3;2.95
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.6411141;8.635450480000001;30.0;;;;;;Interpoliert;104.7;2.41
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.641177;8.63561382;30.0;;;;;;Interpoliert;105.1;2.05
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.6412399;8.63577716;30.0;;;;;;Interpoliert;105.2;1.46
+Routenpunkt (Way);T;Ernst-Schneider-Straße;49.6413028;8.6359405;30.0;;;;;;Original OSM;105.3;0.88
+Routenpunkt (Way);T;Neckarstraße;49.641412083333336;8.6358908;30.0;;;;;;Interpoliert;105.3;0.29
+Routenpunkt (Way);T;Neckarstraße;49.641521366666666;8.6358411;30.0;;;;;;Interpoliert;105.3;0.15
+Routenpunkt (Way);T;Neckarstraße;49.64163065;8.6357914;30.0;;;;;;Interpoliert;105.3;0.0
+Routenpunkt (Way);T;Neckarstraße;49.64173993333333;8.6357417;30.0;;;;;;Interpoliert;105.3;-0.32
+Routenpunkt (Way);T;Neckarstraße;49.64184921666667;8.635692;30.0;;;;;;Interpoliert;105.3;-0.58
+Routenpunkt (Way);T;Bahnhofstraße;49.6419585;8.6356423;30.0;;;;;;Original OSM;105.1;-0.85
+Routenpunkt (Way);T;Bahnhofstraße;49.64192268888889;8.6354433;30.0;;;;;;Interpoliert;104.9;-0.99
+Routenpunkt (Way);T;Bahnhofstraße;49.64188687777778;8.6352443;30.0;;;;;;Interpoliert;104.7;-1.39
+Routenpunkt (Way);T;Bahnhofstraße;49.64185106666667;8.6350453;30.0;;;;;;Interpoliert;104.6;-1.61
+Routenpunkt (Way);T;Bahnhofstraße;49.64181525555556;8.6348463;30.0;;;;;;Interpoliert;104.3;-1.75
+Routenpunkt (Way);T;Bahnhofstraße;49.641779444444445;8.634647300000001;30.0;;;;;;Interpoliert;103.9;-1.88
+Routenpunkt (Way);T;Bahnhofstraße;49.64174363333333;8.6344483;30.0;;;;;;Interpoliert;103.6;-2.15
+Routenpunkt (Way);T;Bahnhofstraße;49.64170782222222;8.6342493;30.0;;;;;;Interpoliert;103.3;-2.15
+Routenpunkt (Way);T;Bahnhofstraße;49.64167201111111;8.6340503;30.0;;;;;;Interpoliert;103.0;-1.99
+Routenpunkt (Way);T;Kalterer Straße;49.6416362;8.6338513;30.0;;;;;;Original OSM;102.7;-1.97
+Routenpunkt (Way);T;Kalterer Straße;49.64172735;8.633812299999999;30.0;;;;;;Interpoliert;102.5;-1.87
+Routenpunkt (Way);T;Kalterer Straße;49.6418185;8.6337733;30.0;;;;;;Original OSM;102.3;-1.78
+Routenpunkt (Way);T;Kalterer Straße;49.64193173333333;8.6337247;30.0;;;;;;Interpoliert;102.1;-1.68
+Routenpunkt (Way);T;Kalterer Straße;49.64204496666667;8.633676099999999;30.0;;;;;;Interpoliert;101.9;-1.49
+Routenpunkt (Way);T;Kalterer Straße;49.6421582;8.6336275;30.0;;;;;;Original OSM;101.7;-1.1
+Routenpunkt (Way);T;Kalterer Straße;49.642251;8.6335869;30.0;;;;;;Original OSM;101.6;-0.8
+Routenpunkt (Way);T;Kalterer Straße;49.64237235;8.63353175;30.0;;;;;;Interpoliert;101.6;-0.49
+Routenpunkt (Way);T;Kalterer Straße;49.64265867307692;8.63341065;30.0;;;;;;Original OSM;101.6;-0.19
+Routenpunkt (Way);T;Kalterer Straße;49.6429913;8.633268399999999;30.0;;;;;;Interpoliert;101.6;0.13
+Routenpunkt (Way);T;Kalterer Straße;49.64316505;8.63322535;30.0;;;;;;Original OSM;101.6;0.26
+Routenpunkt (Way);T;Kettelerstraße;49.643206;8.6334367;30.0;;;;;;Original OSM;101.7;0.37
+Routenpunkt (Way);T;Kettelerstraße;49.643201366666666;8.633651033333335;30.0;;;;;;Original OSM;101.8;0.47
+Routenpunkt (Way);T;Kettelerstraße;49.643255100000005;8.633873;30.0;;;;;;Interpoliert;101.9;0.78
+Routenpunkt (Way);T;Kettelerstraße;49.64333835000001;8.63412245;30.0;;;;;;Original OSM;102.0;1.14
+Routenpunkt (Way);T;Kettelerstraße;49.6434729;8.6342902;30.0;;;;;;Original OSM;102.3;1.18
+Routenpunkt (Way);T;Kettelerstraße;49.64357103333333;8.6343698;30.0;;;;;;Interpoliert;102.6;1.36
+Routenpunkt (Way);T;Kettelerstraße;49.64366916666667;8.634449400000001;30.0;;;;;;Interpoliert;102.7;1.56
+Routenpunkt (Way);T;Kettelerstraße;49.64377625;8.63453625;30.0;;;;;;Original OSM;102.9;1.58
+Routenpunkt (Way);T;Kettelerstraße;49.64388266666667;8.634619733333333;30.0;;;;;;Interpoliert;103.1;1.19
+Routenpunkt (Way);T;Kettelerstraße;49.643980133333336;8.634695966666667;30.0;;;;;;Interpoliert;103.3;1.12
+Routenpunkt (Way);T;Kettelerstraße;49.64414694999999;8.63482765;30.0;;;;;;Original OSM;103.4;1.0
+Routenpunkt (Way);T;Kettelerstraße;49.6443127;8.6349459;30.0;;;;;;Interpoliert;103.5;0.7
+Routenpunkt (Way);T;Kettelerstraße;49.6444091;8.6350087;30.0;;;;;;Interpoliert;103.6;0.37
+Routenpunkt (Way);T;Kettelerstraße;49.6445055;8.6350715;30.0;;;;;;Original OSM;103.6;0.27
+Routenpunkt (Way);T;Kettelerstraße;49.644738014285714;8.635209814285714;30.0;;;;;;Interpoliert;103.6;0.17
+Routenpunkt (Way);T;Kettelerstraße;49.64485427142857;8.635278971428571;30.0;;;;;;Interpoliert;103.6;-0.14
+Routenpunkt (Way);T;Kettelerstraße;49.64497052857143;8.63534812857143;30.0;;;;;;Interpoliert;103.6;-0.29
+Routenpunkt (Way);T;Kettelerstraße;49.64508678571429;8.635417285714286;30.0;;;;;;Interpoliert;103.5;-0.43
+Routenpunkt (Way);T;Kettelerstraße;49.64520304285714;8.635486442857143;30.0;;;;;;Interpoliert;103.4;-0.57
+Routenpunkt (Way);T;Kettelerstraße;49.6453193;8.6355556;30.0;;;;;;Original OSM;103.3;-0.7
+Routenpunkt (Way);T;Kettelerstraße;49.64545;8.635600975;30.0;;;;;;Interpoliert;103.2;-0.69
+Routenpunkt (Way);T;Kettelerstraße;49.6455807;8.63564635;30.0;;;;;;Interpoliert;103.1;-0.55
+Routenpunkt (Way);T;Kettelerstraße;49.6457114;8.635691725000001;30.0;;;;;;Interpoliert;103.0;-0.4
+Routenpunkt (Way);T;Kettelerstraße;49.6458842;8.63575425;30.0;;;;;;Original OSM;103.0;-0.27
+Routenpunkt (Way);T;Kettelerstraße;49.6461559;8.635865066666666;30.0;;;;;;Interpoliert;103.0;-0.13
+Routenpunkt (Way);T;Schönbacher Straße;49.6462707;8.6359119;30.0;;;;;;Original OSM;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.6462878;8.6357627;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.6463049;8.6356135;30.0;;;;;;Original OSM;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64642934;8.63555834;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64655378;8.635503179999999;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64667822;8.63544802;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64680266;8.63539286;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.6469271;8.6353377;30.0;;;;;;Original OSM;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64703938;8.63528362;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64715166;8.63522954;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64726394;8.63517546;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64737622;8.63512138;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.6474885;8.6350673;30.0;;;;;;Original OSM;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64760694444445;8.635012244444443;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.647725388888894;8.634957188888889;30.0;;;;;;Interpoliert;103.0;0.15
+Routenpunkt (Way);T;Schönbacher Straße;49.64784383333333;8.634902133333332;30.0;;;;;;Interpoliert;103.0;0.29
+Routenpunkt (Way);T;Schönbacher Straße;49.64796227777778;8.634847077777778;30.0;;;;;;Interpoliert;103.1;0.44
+Routenpunkt (Way);T;Schönbacher Straße;49.64808072222223;8.634792022222221;30.0;;;;;;Interpoliert;103.2;0.58
+Routenpunkt (Way);T;Schönbacher Straße;49.64819916666667;8.634736966666667;30.0;;;;;;Interpoliert;103.3;0.58
+Routenpunkt (Way);T;Schönbacher Straße;49.64831761111111;8.63468191111111;30.0;;;;;;Interpoliert;103.4;0.44
+Routenpunkt (Way);T;Schönbacher Straße;49.64843605555556;8.634626855555556;30.0;;;;;;Interpoliert;103.4;0.29
+Routenpunkt (Way);T;Schönbacher Straße;49.6485545;8.6345718;30.0;;;;;;Original OSM;103.4;0.15
+Routenpunkt (Way);T;Breslauer Straße;49.64851586666667;8.634386899999999;30.0;;;;;;Interpoliert;103.4;0.0
+Routenpunkt (Way);T;Breslauer Straße;49.64847723333334;8.634202;30.0;;;;;;Interpoliert;103.4;0.0
+Routenpunkt (Way);T;Breslauer Straße;49.648438600000006;8.634017100000001;30.0;;;;;;Interpoliert;103.4;-0.07
+Routenpunkt (Way);T;Breslauer Straße;49.648399966666666;8.6338322;30.0;;;;;;Interpoliert;103.4;-0.21
+Routenpunkt (Way);T;Breslauer Straße;49.6483227;8.6334624;30.0;;;;;;Original OSM;103.3;-0.34
+Routenpunkt (Way);T;Breslauer Straße;49.64828166666667;8.633264800000001;30.0;;;;;;Interpoliert;103.2;-0.47
+Routenpunkt (Way);T;Breslauer Straße;49.64824063333333;8.6330672;30.0;;;;;;Interpoliert;103.1;-0.47
+Routenpunkt (Way);T;Breslauer Straße;49.6481996;8.6328696;30.0;;;;;;Original OSM;103.0;-0.4
+Routenpunkt (Way);T;Breslauer Straße;49.64816665;8.6327018;30.0;;;;;;Interpoliert;103.0;-0.4
+Routenpunkt (Way);T;Breslauer Straße;49.6481337;8.632534;30.0;;;;;;Original OSM;103.0;-0.41
+Routenpunkt (Way);T;Breslauer Straße;49.64809648571429;8.632339685714285;30.0;;;;;;Interpoliert;102.9;-0.41
+Routenpunkt (Way);T;Breslauer Straße;49.64805927142857;8.632145371428571;30.0;;;;;;Interpoliert;102.8;-0.55
+Routenpunkt (Way);T;Breslauer Straße;49.64802205714286;8.631951057142857;30.0;;;;;;Interpoliert;102.7;-0.69
+Routenpunkt (Way);T;Breslauer Straße;49.64798484285714;8.631756742857142;30.0;;;;;;Interpoliert;102.6;-0.69
+Routenpunkt (Way);T;Breslauer Straße;49.64794762857143;8.631562428571428;30.0;;;;;;Interpoliert;102.5;-0.82
+Routenpunkt (Way);T;Breslauer Straße;49.64791041428571;8.631368114285713;30.0;;;;;;Interpoliert;102.4;-0.98
+Routenpunkt (Way);T;Breslauer Straße;49.6478732;8.6311738;30.0;;;;;;Original OSM;102.2;-1.14
+Routenpunkt (Way);T;Kalterer Straße;49.6479898;8.631121525;30.0;;;;;;Interpoliert;102.0;-1.3
+Routenpunkt (Way);T;Kalterer Straße;49.6481064;8.63106925;30.0;;;;;;Interpoliert;101.8;-1.31
+Routenpunkt (Way);T;Kalterer Straße;49.648223;8.631016975;30.0;;;;;;Interpoliert;101.6;-0.94
+Routenpunkt (Way);T;Kalterer Straße;49.6483396;8.6309647;30.0;;;;;;Original OSM;101.5;-0.53
+Routenpunkt (Way);T;Kalterer Straße;49.64851634;8.63097214;30.0;;;;;;Original OSM;101.6;-0.08
+Routenpunkt (Way);T;Im Schlüssel;49.6486199;8.6311619;30.0;;;;;;Original OSM;101.7;0.37
+Routenpunkt (Way);T;Im Schlüssel;49.64864465;8.6313383;30.0;;;;;;Interpoliert;101.8;0.68
+Routenpunkt (Way);T;Im Schlüssel;49.6486694;8.6315147;30.0;;;;;;Interpoliert;101.9;0.88
+Routenpunkt (Way);T;Im Schlüssel;49.64869415;8.631691100000001;30.0;;;;;;Interpoliert;102.0;1.08
+Routenpunkt (Way);T;Im Schlüssel;49.6487189;8.6318675;30.0;;;;;;Interpoliert;102.2;1.23
+Routenpunkt (Way);T;Im Schlüssel;49.64874365;8.6320439;30.0;;;;;;Interpoliert;102.4;1.36
+Routenpunkt (Way);T;Im Schlüssel;49.6487684;8.6322203;30.0;;;;;;Original OSM;102.6;1.48
+Routenpunkt (Way);T;Im Schlüssel;49.64879675;8.632415250000001;30.0;;;;;;Interpoliert;102.8;1.17
+Routenpunkt (Way);T;Im Schlüssel;49.6488251;8.6326102;30.0;;;;;;Original OSM;103.0;0.86
+Routenpunkt (Way);T;Im Schlüssel;49.648858225000005;8.632811275;30.0;;;;;;Interpoliert;103.0;0.56
+Routenpunkt (Way);T;Im Schlüssel;49.64889135;8.633012350000001;30.0;;;;;;Interpoliert;103.0;0.68
+Routenpunkt (Way);T;Im Schlüssel;49.648924475;8.633213425000001;30.0;;;;;;Interpoliert;103.0;0.81
+Routenpunkt (Way);T;Im Schlüssel;49.6489576;8.6334145;30.0;;;;;;Original OSM;103.3;0.95
+Routenpunkt (Way);T;Im Schlüssel;49.64899315;8.633611125;30.0;;;;;;Interpoliert;103.6;1.08
+Routenpunkt (Way);T;Im Schlüssel;49.6490287;8.633807749999999;30.0;;;;;;Interpoliert;103.7;1.13
+Routenpunkt (Way);T;Im Schlüssel;49.64906425;8.634004375;30.0;;;;;;Interpoliert;103.8;0.76
+Routenpunkt (Way);T;Im Schlüssel;49.64939317000001;8.634200952;30.0;;;;;;Original OSM;103.9;0.43
+Routenpunkt (Way);T;Rebenstraße;49.64995295;8.6341711;30.0;;;;;;Interpoliert;104.0;0.42
+Routenpunkt (Way);T;Rebenstraße;49.65018261;8.634055750000002;30.0;;;;;;Original OSM;104.1;0.59
+Routenpunkt (Way);T;Rebenstraße;49.6504671;8.6339854;30.0;;;;;;Original OSM;104.3;0.84
+Routenpunkt (Way);T;Rebenstraße;49.6505845;8.633959433333333;30.0;;;;;;Interpoliert;104.5;0.65
+Routenpunkt (Way);T;Rebenstraße;49.6507019;8.633933466666667;30.0;;;;;;Interpoliert;104.7;0.44
+Routenpunkt (Way);T;Rebenstraße;49.6508193;8.6339075;30.0;;;;;;Original OSM;104.6;0.24
+Routenpunkt (Way);T;Rebenstraße;49.650856520000005;8.63428733;30.0;;;;;;Original OSM;104.4;-0.14
+Routenpunkt (Way);T;Rebenstraße;49.65096955;8.63464685;30.0;;;;;;Original OSM;104.3;-0.55
+Routenpunkt (Way);T;Rebenstraße;49.65113805000001;8.63486215;30.0;;;;;;Original OSM;104.2;-0.44
+Routenpunkt (Way);T;Rebenstraße;49.6512947;8.6350097;30.0;;;;;;Original OSM;104.1;-0.33
+Routenpunkt (Way);T;Rebenstraße;49.651725635714286;8.635038978571428;30.0;;;;;;Original OSM;104.0;-0.4
+Routenpunkt (Way);T;Rebenstraße;49.65213367857143;8.634716707142857;30.0;;;;;;Original OSM;103.9;-0.83
+Routenpunkt (Way);T;Rebenstraße;49.6523456;8.6345049;30.0;;;;;;Original OSM;103.7;-1.24
+Routenpunkt (Way);T;Rebenstraße;49.6524413;8.6344342;30.0;;;;;;Interpoliert;103.4;-1.75
+Routenpunkt (Way);T;Rebenstraße;49.652537;8.6343635;30.0;;;;;;Original OSM;103.1;-2.08
+Routenpunkt (Way);T;Rebenstraße;49.65262593333333;8.6342992;30.0;;;;;;Interpoliert;102.8;-2.48
+Routenpunkt (Way);T;Rebenstraße;49.65271486666667;8.6342349;30.0;;;;;;Interpoliert;102.6;-2.48
+Routenpunkt (Way);T;Rebenstraße;49.65283545;8.63415235;30.0;;;;;;Original OSM;102.2;-2.64
+Routenpunkt (Way);T;Rebenstraße;49.65297065;8.63408785;30.0;;;;;;Interpoliert;101.8;-2.38
+Routenpunkt (Way);T;Rebenstraße;49.6530742;8.6340416;30.0;;;;;;Original OSM;101.4;-2.33
+Routenpunkt (Way);T;Rebenstraße;49.65331524166667;8.633951791666666;30.0;;;;;;Original OSM;101.0;-2.38
+Routenpunkt (Way);T;Rebenstraße;49.65353145;8.6338452;30.0;;;;;;Interpoliert;100.6;-2.42
+Routenpunkt (Way);T;Rebenstraße;49.6536509;8.6338366;30.0;;;;;;Original OSM;100.2;-2.47
+Routenpunkt (Way);T;Rebenstraße;49.6537506;8.6338256;30.0;;;;;;Interpoliert;99.9;-2.74
+Routenpunkt (Way);T;Rebenstraße;49.6538503;8.6338146;30.0;;;;;;Original OSM;99.5;-2.71
+Routenpunkt (Way);T;Rebenstraße;49.653977075;8.6338039;30.0;;;;;;Interpoliert;99.1;-2.16
+Routenpunkt (Way);T;Rebenstraße;49.654230625;8.633782499999999;30.0;;;;;;Interpoliert;98.7;-1.69
+Routenpunkt (Way);T;Rebenstraße;49.65453124444445;8.633587033333335;30.0;;;;;;Original OSM;98.6;-1.48
+Routenpunkt (Way);T;Rebenstraße;49.6545815;8.633175833333333;30.0;;;;;;Interpoliert;98.5;-1.42
+Routenpunkt (Way);T;Rebenstraße;49.6545569;8.633016566666667;30.0;;;;;;Interpoliert;98.2;-1.61
+Routenpunkt (Way);T;Rebenstraße;49.6545323;8.6328573;30.0;;;;;;Original OSM;97.9;-2.03
+Routenpunkt (Way);T;Rebenstraße;49.65450536666667;8.632685233333333;30.0;;;;;;Interpoliert;97.6;-2.43
+Routenpunkt (Way);T;Rebenstraße;49.65447843333333;8.632513166666666;30.0;;;;;;Interpoliert;97.3;-2.33
+Routenpunkt (Way);T;Rebenstraße;49.6544515;8.6323411;30.0;;;;;;Original OSM;97.0;-2.23
+Routenpunkt (Way);T;Rebenstraße;49.654580225;8.632294224999999;;;;;;;Interpoliert;96.7;-2.17
+Routenpunkt (Way);T;Rebenstraße;49.65470895;8.63224735;;;;;;;Interpoliert;96.4;-2.1
+Routenpunkt (Way);T;Rebenstraße;49.654837675;8.632200475000001;;;;;;;Interpoliert;96.1;-2.12
+Routenpunkt (Way);T;Rebenstraße;49.6549664;8.6321536;;;;;;;Original OSM;95.8;-1.88
+Routenpunkt (Way);T;Rebenstraße;49.655074;8.632115733333334;;;;;;;Interpoliert;95.5;-1.63
+Routenpunkt (Way);T;Rebenstraße;49.6551816;8.632077866666666;;;;;;;Interpoliert;95.4;-1.34
+Routenpunkt (Way);T;Rebenstraße;49.6552852;8.632014166666666;;;;;;;Original OSM;95.3;-1.09
+Routenpunkt (Way);T;Gunderslachstraße;49.6552513;8.631788233333333;30.0;;;;;;Interpoliert;95.2;-0.6
+Routenpunkt (Way);T;Gunderslachstraße;49.6552254;8.631613966666666;30.0;;;;;;Interpoliert;95.1;-0.3
+Routenpunkt (Way);T;Gunderslachstraße;49.6551995;8.6314397;30.0;;;;;;Original OSM;95.1;-0.0
+Routenpunkt (Way);T;Gunderslachstraße;49.6551697375;8.6312403875;30.0;;;;;;Interpoliert;95.2;0.25
+Routenpunkt (Way);T;Gunderslachstraße;49.655139975;8.631041074999999;30.0;;;;;;Interpoliert;95.3;0.54
+Routenpunkt (Way);T;Gunderslachstraße;49.6551102125;8.6308417625;30.0;;;;;;Interpoliert;95.4;0.68
+Routenpunkt (Way);T;Gunderslachstraße;49.65508045;8.63064245;30.0;;;;;;Interpoliert;95.5;0.68
+Routenpunkt (Way);T;Gunderslachstraße;49.6550506875;8.6304431375;30.0;;;;;;Interpoliert;95.6;0.68
+Routenpunkt (Way);T;Gunderslachstraße;49.655020925;8.630243825;30.0;;;;;;Interpoliert;95.7;0.81
+Routenpunkt (Way);T;Gunderslachstraße;49.6549911625;8.6300445125;30.0;;;;;;Interpoliert;95.8;0.99
+Routenpunkt (Way);T;Gunderslachstraße;49.6549614;8.6298452;30.0;;;;;;Original OSM;96.0;1.01
+Routenpunkt (Way);T;Gunderslachstraße;49.65493536666666;8.6296729;30.0;;;;;;Interpoliert;96.2;1.04
+Routenpunkt (Way);T;Gunderslachstraße;49.654909333333336;8.6295006;30.0;;;;;;Interpoliert;96.3;1.06
+Routenpunkt (Way);T;Gunderslachstraße;49.6548833;8.6293283;30.0;;;;;;Original OSM;96.4;1.1
+Routenpunkt (Way);T;Gunderslachstraße;49.65485725;8.629155699999998;30.0;;;;;;Interpoliert;96.5;1.1
+Routenpunkt (Way);T;Gunderslachstraße;49.6548312;8.6289831;30.0;;;;;;Interpoliert;96.7;1.25
+Routenpunkt (Way);T;Gunderslachstraße;49.65480515;8.6288105;30.0;;;;;;Interpoliert;96.9;1.41
+Routenpunkt (Way);T;Gunderslachstraße;49.6547791;8.6286379;30.0;;;;;;Interpoliert;97.1;1.57
+Routenpunkt (Way);T;Gunderslachstraße;49.65475305;8.628465299999998;30.0;;;;;;Interpoliert;97.3;1.25
+Routenpunkt (Way);T;Gunderslachstraße;49.654727;8.6282927;30.0;;;;;;Original OSM;97.5;0.94
+Routenpunkt (Way);T;Gunderslachstraße;49.6546987;8.628105349999998;30.0;;;;;;Interpoliert;97.5;0.63
+Routenpunkt (Way);T;Gunderslachstraße;49.65466773333333;8.627900333333333;30.0;;;;;;Original OSM;97.5;0.31
+Routenpunkt (Way);T;Gunderslachstraße;49.65463135;8.627729250000002;30.0;;;;;;Interpoliert;97.5;0.0
+Routenpunkt (Way);T;Gunderslachstraße;49.6545963;8.627567;30.0;;;;;;Original OSM;97.5;0.0
+Routenpunkt (Way);T;Gunderslachstraße;49.6546029;8.6273949;30.0;;;;;;Original OSM;97.5;0.0
+Routenpunkt (Way);T;Gunderslachstraße;49.654578425;8.627229625;30.0;;;;;;Interpoliert;97.5;0.0
+Routenpunkt (Way);T;Gunderslachstraße;49.65455395;8.627064350000001;30.0;;;;;;Interpoliert;97.5;0.16
+Routenpunkt (Way);T;Gunderslachstraße;49.654529475;8.626899075;30.0;;;;;;Interpoliert;97.5;0.36
+Routenpunkt (Way);T;Gunderslachstraße;49.654505;8.6267338;30.0;;;;;;Original OSM;97.6;0.52
+Routenpunkt (Way);T;Gunderslachstraße;49.6544834;8.6265927;30.0;;;;;;Interpoliert;97.7;0.61
+Routenpunkt (Way);T;Gunderslachstraße;49.6544103125;8.626471925;;;;;;;Original OSM;97.8;0.75
+Routenpunkt (Way);T;Gunderslachstraße;49.65420043636364;8.626555645454546;;;;;;;Interpoliert;97.9;0.72
+Routenpunkt (Way);T;Gunderslachstraße;49.65407637272728;8.62660549090909;;;;;;;Interpoliert;98.0;0.81
+Routenpunkt (Way);T;Gunderslachstraße;49.65395230909091;8.626655336363637;;;;;;;Interpoliert;98.1;0.78
+Routenpunkt (Way);T;Gunderslachstraße;49.65382824545455;8.626705181818183;;;;;;;Interpoliert;98.3;0.84
+Routenpunkt (Way);T;Gunderslachstraße;49.653704181818185;8.626755027272727;;;;;;;Interpoliert;98.4;0.84
+Routenpunkt (Way);T;Gunderslachstraße;49.65358011818181;8.626804872727273;;;;;;;Interpoliert;98.5;0.7
+Routenpunkt (Way);T;Gunderslachstraße;49.65345605454545;8.626854718181818;;;;;;;Interpoliert;98.6;0.42
+Routenpunkt (Way);T;Gunderslachstraße;49.65333199090909;8.626904563636364;;;;;;;Interpoliert;98.6;0.34
+Routenpunkt (Way);T;Gunderslachstraße;49.65320792727272;8.62695440909091;;;;;;;Interpoliert;98.6;0.29
+Routenpunkt (Way);T;Gunderslachstraße;49.6529017;8.6271211;;;;;;;Original OSM;98.7;0.26
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65283085;8.6273976;;;;;;;Interpoliert;98.8;0.39
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6527753;8.6276343;;;;;;;Original OSM;98.9;0.39
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6526699;8.627767;;;;;;;Original OSM;99.0;0.34
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65255392;8.62781316;;;;;;;Interpoliert;99.0;0.24
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65243794;8.62785932;;;;;;;Interpoliert;99.0;-0.17
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65232196;8.627905479999999;;;;;;;Interpoliert;99.0;-0.3
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65220598;8.62795164;;;;;;;Interpoliert;98.8;-0.3
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65209;8.6279978;;;;;;;Original OSM;98.8;-0.3
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6519891;8.628038499999999;;;;;;;Interpoliert;98.8;-0.3
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65180232;8.628170919999999;;;;;;;Original OSM;98.8;0.13
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.651589275;8.628308925;;;;;;;Interpoliert;98.8;0.27
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65145885;8.628360050000001;;;;;;;Interpoliert;98.9;0.4
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.651328425;8.628411175;;;;;;;Interpoliert;99.0;0.47
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.651198;8.6284623;;;;;;;Original OSM;99.1;0.61
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65094196;8.628563660000001;;;;;;;Interpoliert;99.2;0.88
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65081394;8.62861434;;;;;;;Interpoliert;99.3;0.85
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65068592;8.628665020000001;;;;;;;Interpoliert;99.6;0.86
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6505229;8.6287361;;;;;;;Original OSM;99.7;0.79
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.650410066666666;8.628834066666666;;;;;;;Interpoliert;99.8;0.65
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65032123333334;8.628915833333334;;;;;;;Interpoliert;99.8;0.1
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6502324;8.6289976;;;;;;;Original OSM;99.8;-0.16
+Routenpunkt (Way);T;Am Tonwerk;49.6501232;8.6290944;;;;;;;Original OSM;99.7;-0.46
+Routenpunkt (Way);T;Am Tonwerk;49.650012966666665;8.629145733333333;;;;;;;Interpoliert;99.6;-0.55
+Routenpunkt (Way);T;Am Tonwerk;49.64990273333333;8.629197066666666;;;;;;;Interpoliert;99.5;-0.65
+Routenpunkt (Way);T;Am Tonwerk;49.64973215;8.629324599999999;;;;;;;Original OSM;99.4;-0.32
+Routenpunkt (Way);T;Am Tonwerk;49.64960755;8.629511;;;;;;;Interpoliert;99.3;-0.01
+Routenpunkt (Way);T;Am Tonwerk;49.6495433;8.6296212;;;;;;;Original OSM;99.4;0.3
+Routenpunkt (Way);T;Am Tonwerk;49.64943185;8.62967575;;;;;;;Interpoliert;99.5;0.75
+Routenpunkt (Way);T;Am Tonwerk;49.6493204;8.6297303;;;;;;;Original OSM;99.6;1.23
+Routenpunkt (Way);T;Weiherhausstraße;49.6492242;8.6297693;;;;;;;Original OSM;99.8;1.04
+Routenpunkt (Way);T;Weiherhausstraße;49.649131366666666;8.629808533333334;;;;;;;Interpoliert;100.0;1.26
+Routenpunkt (Way);T;Weiherhausstraße;49.64903853333333;8.629847766666666;;;;;;;Interpoliert;100.0;1.5
+Routenpunkt (Way);T;Weiherhausstraße;49.6489457;8.629887;;;;;;;Original OSM;100.2;1.41
+Routenpunkt (Way);T;Weiherhausstraße;49.6488575;8.62992515;;;;;;;Interpoliert;100.4;1.1
+Routenpunkt (Way);T;Weiherhausstraße;49.64872767999999;8.629981959999999;;;;;;;Original OSM;100.6;1.01
+Routenpunkt (Way);T;Weiherhausstraße;49.6484631;8.63009755;;;;;;;Original OSM;100.7;0.47
+Routenpunkt (Way);T;Weiherhausstraße;49.6482636;8.6301478;;;;;;;Original OSM;100.6;-0.09
+Routenpunkt (Way);T;Weiherhausstraße;49.6481575;8.6301134;;;;;;;Original OSM;100.5;-0.52
+Routenpunkt (Way);T;Weiherhausstraße;49.6480599;8.6300413;;;;;;;Original OSM;100.4;-0.96
+Routenpunkt (Way);T;Weiherhausstraße;49.6479732;8.6299356;;;;;;;Original OSM;100.3;-0.87
+Routenpunkt (Way);T;Weiherhausstraße;49.6479138;8.62982015;;;;;;;Interpoliert;100.1;-0.89
+Routenpunkt (Way);T;Weiherhausstraße;49.64778184000001;8.629562580000002;;;;;;;Original OSM;100.1;-0.84
+Routenpunkt (Way);T;Weiherhausstraße;49.64765945;8.6293171;;;;;;;Interpoliert;99.9;-0.82
+Routenpunkt (Way);T;Weiherhausstraße;49.64750120714285;8.628916049999999;;;;;;;Original OSM;99.7;-0.52
+Routenpunkt (Way);T;Weiherhausstraße;49.6472549;8.62886572;50.0;;;;;;Interpoliert;99.5;-0.66
+Routenpunkt (Way);T;Weiherhausstraße;49.6470149;8.62893036;50.0;;;;;;Interpoliert;99.4;-0.61
+Routenpunkt (Way);T;Weiherhausstraße;49.6468949;8.628962679999999;50.0;;;;;;Interpoliert;99.3;-0.63
+Routenpunkt (Way);T;Weiherhausstraße;49.6467517;8.62900055;50.0;;;;;;Original OSM;99.2;-0.65
+Routenpunkt (Way);T;Weiherhausstraße;49.6466222;8.62903155;50.0;;;;;;Interpoliert;99.1;-0.41
+Routenpunkt (Way);T;Weiherhausstraße;49.6465159;8.629057;50.0;;;;;;Original OSM;99.0;-0.27
+Routenpunkt (Way);T;Weiherhausstraße;49.6464059;8.62908085;50.0;;;;;;Interpoliert;99.1;-0.14
+Routenpunkt (Way);T;Weiherhausstraße;49.6462959;8.6291047;50.0;;;;;;Original OSM;99.1;-0.01
+Routenpunkt (Way);T;Weiherhausstraße;49.64617402857143;8.629135157142857;50.0;;;;;;Interpoliert;99.1;0.16
+Routenpunkt (Way);T;Weiherhausstraße;49.64605215714285;8.629165614285714;50.0;;;;;;Interpoliert;99.1;0.0
+Routenpunkt (Way);T;Weiherhausstraße;49.645930285714286;8.629196071428572;50.0;;;;;;Interpoliert;99.1;0.0
+Routenpunkt (Way);T;Weiherhausstraße;49.64580841428571;8.629226528571428;50.0;;;;;;Interpoliert;99.1;0.44
+Routenpunkt (Way);T;Weiherhausstraße;49.64568654285714;8.629256985714285;50.0;;;;;;Interpoliert;99.1;0.87
+Routenpunkt (Way);T;Weiherhausstraße;49.645564671428566;8.629287442857143;50.0;;;;;;Interpoliert;99.4;1.15
+Routenpunkt (Way);T;Weiherhausstraße;49.6454428;8.6293179;50.0;;;;;;Original OSM;99.7;1.32
+Routenpunkt (Way);T;Weiherhausstraße;49.645247000000005;8.629365400000001;50.0;;;;;;Original OSM;100.0;1.75
+Routenpunkt (Way);T;Weiherhausstraße;49.64504656666666;8.629411866666667;50.0;;;;;;Interpoliert;100.2;1.74
+Routenpunkt (Way);T;Weiherhausstraße;49.64492213333333;8.629440733333334;50.0;;;;;;Interpoliert;100.5;1.77
+Routenpunkt (Way);T;Weiherhausstraße;49.6447977;8.6294696;50.0;;;;;;Original OSM;100.8;1.8
+Routenpunkt (Way);T;Weiherhausstraße;49.644681;8.6294888;50.0;;;;;;Interpoliert;101.1;1.93
+Routenpunkt (Way);T;Weiherhausstraße;49.6445643;8.629508;50.0;;;;;;Interpoliert;101.3;1.81
+Routenpunkt (Way);T;Weiherhausstraße;49.6444476;8.6295272;50.0;;;;;;Original OSM;101.5;1.23
+Routenpunkt (Way);T;Weiherhausstraße;49.6443331;8.629548775;50.0;;;;;;Interpoliert;101.7;0.61
+Routenpunkt (Way);T;Weiherhausstraße;49.6442186;8.62957035;50.0;;;;;;Interpoliert;101.6;0.15
+Routenpunkt (Way);T;Weiherhausstraße;49.6441041;8.629591925;50.0;;;;;;Interpoliert;101.5;0.11
+Routenpunkt (Way);T;Weiherhausstraße;49.6439896;8.6296135;50.0;;;;;;Original OSM;101.4;0.03
+Routenpunkt (Way);T;Weiherhausstraße;49.64385675;8.629630800000001;50.0;;;;;;Interpoliert;101.6;0.37
+Routenpunkt (Way);T;Weiherhausstraße;49.64370205;8.62965095;50.0;;;;;;Original OSM;101.8;0.53
+Routenpunkt (Way);T;Weiherhausstraße;49.643505;8.6296464;50.0;;;;;;Original OSM;102.0;0.78
+Routenpunkt (Way);T;Weiherhausstraße;49.6434102;8.6296416;50.0;;;;;;Interpoliert;102.0;0.6
+Routenpunkt (Way);T;Weiherhausstraße;49.64323053333333;8.629625266666666;50.0;;;;;;Original OSM;102.1;0.42
+Routenpunkt (Way);T;Weiherhausstraße;49.6430176;8.6295858;50.0;;;;;;Original OSM;102.2;0.3
+Routenpunkt (Way);T;Weiherhausstraße;49.64270930555556;8.629524416666667;50.0;;;;;;Original OSM;102.3;0.46
+Routenpunkt (Way);T;Uhlandstraße;49.6423892;8.6295046;30.0;;;;;;Interpoliert;102.4;0.5
+Routenpunkt (Way);T;Uhlandstraße;49.642275;8.6295053;30.0;;;;;;Original OSM;102.5;-0.15
+Routenpunkt (Way);T;Uhlandstraße;49.64214705;8.6295061;30.0;;;;;;Interpoliert;102.6;-0.82
+Routenpunkt (Way);T;Uhlandstraße;49.6420191;8.6295069;30.0;;;;;;Original OSM;102.2;-1.49
+Routenpunkt (Way);T;Uhlandstraße;49.6419025;8.629522133333333;30.0;;;;;;Interpoliert;101.8;-1.96
+Routenpunkt (Way);T;Uhlandstraße;49.6417859;8.629537366666668;30.0;;;;;;Interpoliert;101.4;-2.4
+Routenpunkt (Way);T;Uhlandstraße;49.6416693;8.6295526;30.0;;;;;;Original OSM;101.2;-2.14
+Routenpunkt (Way);T;Uhlandstraße;49.6415507;8.629582150000001;30.0;;;;;;Interpoliert;101.0;-1.84
+Routenpunkt (Way);T;Uhlandstraße;49.6414321;8.6296117;30.0;;;;;;Original OSM;100.8;-1.54
+Routenpunkt (Way);T;Uhlandstraße;49.64132153333333;8.629648566666667;30.0;;;;;;Interpoliert;100.6;-1.55
+Routenpunkt (Way);T;Uhlandstraße;49.64121096666667;8.629685433333332;30.0;;;;;;Interpoliert;100.4;-1.63
+Routenpunkt (Way);T;Uhlandstraße;49.6411004;8.6297223;30.0;;;;;;Original OSM;100.2;-1.33
+Routenpunkt (Way);T;Uhlandstraße;49.6410062;8.629756766666667;30.0;;;;;;Interpoliert;100.0;-1.01
+Routenpunkt (Way);T;Uhlandstraße;49.6408178;8.6298257;30.0;;;;;;Original OSM;100.0;-0.69
+Routenpunkt (Way);T;Uhlandstraße;49.64072755;8.62986365;30.0;;;;;;Interpoliert;100.0;-0.37
+Routenpunkt (Way);T;Uhlandstraße;49.6406373;8.6299016;30.0;;;;;;Original OSM;100.0;0.0
+Routenpunkt (Way);T;Uhlandstraße;49.640551333333335;8.629942866666667;30.0;;;;;;Interpoliert;100.0;0.2
+Routenpunkt (Way);T;Uhlandstraße;49.64046536666667;8.629984133333332;30.0;;;;;;Interpoliert;100.0;0.37
+Routenpunkt (Way);T;Uhlandstraße;49.6403794;8.6300254;30.0;;;;;;Original OSM;100.1;0.54
+Routenpunkt (Way);T;Uhlandstraße;49.64028103333333;8.630086033333333;30.0;;;;;;Interpoliert;100.2;0.71
+Routenpunkt (Way);T;Uhlandstraße;49.64018266666667;8.630146666666667;30.0;;;;;;Interpoliert;100.3;0.85
+Routenpunkt (Way);T;Uhlandstraße;49.6400843;8.6302073;30.0;;;;;;Original OSM;100.4;0.79
+Routenpunkt (Way);T;Uhlandstraße;49.6399689;8.6302903;30.0;;;;;;Interpoliert;100.5;0.62
+Routenpunkt (Way);T;Uhlandstraße;49.6398535;8.6303733;30.0;;;;;;Original OSM;100.6;0.75
+Routenpunkt (Way);T;Uhlandstraße;49.6397473;8.630460733333333;30.0;;;;;;Interpoliert;100.6;0.58
+Routenpunkt (Way);T;Uhlandstraße;49.6396411;8.630548166666667;30.0;;;;;;Interpoliert;100.8;0.67
+Routenpunkt (Way);T;Uhlandstraße;49.639449325;8.6306654125;30.0;;;;;;Original OSM;100.8;0.53
+Haltestelle;W;Heppenheim, Lessingstraße;49.6393725;8.630664;30.0;19:03:00;19:03:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 87m) | Auf Route gesnappt (87m);100.9;0.53
+Haltestelle;W;Heppenheim, Langnese;49.6400843;8.6302073;;19:06:00;19:06:00;Kein Umlauf;Sa,So;1318.0;Luftlinie (Kein OSM-Match) | Auf Route gesnappt (937m);100.9;0.23
+Haltestelle;W;Heppenheim, Von-Humboldt-Str.;49.6420191;8.6295069;;19:07:00;19:07:00;Kein Umlauf;Sa,So;1318.0;Luftlinie (Kein OSM-Match) | Auf Route gesnappt (855m);100.9;0.23
+Haltestelle;W;Heppenheim, Christuskirche;49.6410062;8.629756766666667;;19:12:00;19:12:00;Kein Umlauf;Sa,So;1318.0;Luftlinie (Kein OSM-Match) | Auf Route gesnappt (7m);100.9;-0.08
+Routenpunkt (Way);T;Unbekannt;49.63943894444444;8.630667855555556;30.0;;;;;;Original OSM;100.9;-0.23
+Routenpunkt (Way);T;Uhlandstraße;49.6396411;8.630548166666667;30.0;;;;;;Interpoliert;100.8;-0.23
+Routenpunkt (Way);T;Uhlandstraße;49.6397473;8.630460733333333;30.0;;;;;;Interpoliert;100.7;-0.52
+Routenpunkt (Way);T;Uhlandstraße;49.6398535;8.6303733;30.0;;;;;;Original OSM;100.7;-0.52
+Routenpunkt (Way);T;Uhlandstraße;49.6399689;8.6302903;30.0;;;;;;Interpoliert;100.5;-0.6
+Routenpunkt (Way);T;Uhlandstraße;49.6400843;8.6302073;30.0;;;;;;Original OSM;100.5;-0.62
+Routenpunkt (Way);T;Uhlandstraße;49.64018266666667;8.630146666666667;30.0;;;;;;Interpoliert;100.4;-0.79
+Routenpunkt (Way);T;Uhlandstraße;49.64028103333333;8.630086033333333;30.0;;;;;;Interpoliert;100.3;-0.71
+Routenpunkt (Way);T;Uhlandstraße;49.6403794;8.6300254;30.0;;;;;;Original OSM;100.2;-0.91
+Routenpunkt (Way);T;Uhlandstraße;49.64046536666667;8.629984133333332;30.0;;;;;;Interpoliert;100.1;-0.74
+Routenpunkt (Way);T;Uhlandstraße;49.640551333333335;8.629942866666667;30.0;;;;;;Interpoliert;100.0;-0.57
+Routenpunkt (Way);T;Uhlandstraße;49.6406373;8.6299016;30.0;;;;;;Original OSM;100.0;-0.4
+Routenpunkt (Way);T;Uhlandstraße;49.64072755;8.62986365;30.0;;;;;;Interpoliert;100.0;-0.2
+Routenpunkt (Way);T;Uhlandstraße;49.6408178;8.6298257;30.0;;;;;;Original OSM;100.0;0.0
+Routenpunkt (Way);T;Uhlandstraße;49.6410062;8.629756766666667;30.0;;;;;;Interpoliert;100.0;0.32
+Routenpunkt (Way);T;Uhlandstraße;49.6411004;8.6297223;30.0;;;;;;Original OSM;100.0;0.64
+Routenpunkt (Way);T;Uhlandstraße;49.64121096666667;8.629685433333332;30.0;;;;;;Interpoliert;100.2;0.95
+Routenpunkt (Way);T;Uhlandstraße;49.64132153333333;8.629648566666667;30.0;;;;;;Interpoliert;100.4;1.25
+Routenpunkt (Way);T;Uhlandstraße;49.6414321;8.6296117;30.0;;;;;;Original OSM;100.6;1.55
+Routenpunkt (Way);T;Uhlandstraße;49.6415507;8.629582150000001;30.0;;;;;;Interpoliert;100.8;1.54
+Routenpunkt (Way);T;Uhlandstraße;49.6416693;8.6295526;30.0;;;;;;Original OSM;101.0;1.53
+Routenpunkt (Way);T;Uhlandstraße;49.6417859;8.629537366666668;30.0;;;;;;Interpoliert;101.2;1.83
+Routenpunkt (Way);T;Uhlandstraße;49.6419025;8.629522133333333;30.0;;;;;;Interpoliert;101.4;2.09
+Routenpunkt (Way);T;Uhlandstraße;49.6420191;8.6295069;30.0;;;;;;Original OSM;101.8;2.35
+Routenpunkt (Way);T;Uhlandstraße;49.64214705;8.6295061;30.0;;;;;;Interpoliert;102.2;1.89
+Routenpunkt (Way);T;Uhlandstraße;49.642275;8.6295053;30.0;;;;;;Original OSM;102.6;1.53
+Routenpunkt (Way);T;Uhlandstraße;49.6423892;8.6295046;30.0;;;;;;Interpoliert;102.5;0.85
+Routenpunkt (Way);T;Uhlandstraße;49.64270930555556;8.629524416666667;30.0;;;;;;Original OSM;102.4;0.21
+Routenpunkt (Way);T;Weiherhausstraße;49.6430176;8.6295858;50.0;;;;;;Original OSM;102.3;-0.46
+Routenpunkt (Way);T;Weiherhausstraße;49.64323053333334;8.629625266666666;50.0;;;;;;Original OSM;102.2;-0.49
+Routenpunkt (Way);T;Weiherhausstraße;49.6434102;8.6296416;50.0;;;;;;Interpoliert;102.1;-0.52
+Routenpunkt (Way);T;Weiherhausstraße;49.643505;8.6296464;50.0;;;;;;Original OSM;102.0;-0.81
+Routenpunkt (Way);T;Weiherhausstraße;49.64370205;8.62965095;50.0;;;;;;Original OSM;101.9;-1.0
+Routenpunkt (Way);T;Weiherhausstraße;49.64385675;8.629630800000001;50.0;;;;;;Interpoliert;101.6;-0.9
+Routenpunkt (Way);T;Weiherhausstraße;49.6439896;8.6296135;50.0;;;;;;Original OSM;101.4;-0.71
+Haltestelle;W;Heppenheim, Daimlerstraße;49.6439896;8.6296135;50.0;19:13:00;19:13:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 2m) | Auf Route gesnappt (2m);101.2;-0.46
+Routenpunkt (Way);T;Weiherhausstraße;49.6439896;8.6296135;50.0;;;;;;Original OSM;101.3;0.04
+Routenpunkt (Way);T;Weiherhausstraße;49.6441041;8.629591925;50.0;;;;;;Interpoliert;101.4;0.47
+Routenpunkt (Way);T;Weiherhausstraße;49.6442186;8.62957035;50.0;;;;;;Interpoliert;101.5;0.62
+Routenpunkt (Way);T;Weiherhausstraße;49.6443331;8.629548775;50.0;;;;;;Interpoliert;101.6;0.32
+Routenpunkt (Way);T;Weiherhausstraße;49.6444476;8.6295272;50.0;;;;;;Original OSM;101.7;-0.15
+Routenpunkt (Way);T;Weiherhausstraße;49.6445643;8.629508;50.0;;;;;;Interpoliert;101.5;-0.61
+Routenpunkt (Way);T;Weiherhausstraße;49.644681;8.6294888;50.0;;;;;;Interpoliert;101.3;-1.19
+Routenpunkt (Way);T;Weiherhausstraße;49.6447977;8.6294696;50.0;;;;;;Original OSM;101.1;-1.78
+Routenpunkt (Way);T;Weiherhausstraße;49.64492213333333;8.629440733333334;50.0;;;;;;Interpoliert;100.8;-1.74
+Routenpunkt (Way);T;Weiherhausstraße;49.64504656666666;8.629411866666667;50.0;;;;;;Interpoliert;100.5;-1.61
+Routenpunkt (Way);T;Weiherhausstraße;49.64524699999999;8.6293654;50.0;;;;;;Original OSM;100.2;-1.74
+Routenpunkt (Way);T;Weiherhausstraße;49.6454428;8.6293179;50.0;;;;;;Original OSM;100.0;-1.75
+Routenpunkt (Way);T;Weiherhausstraße;49.645564671428566;8.629287442857143;50.0;;;;;;Interpoliert;99.7;-1.76
+Routenpunkt (Way);T;Weiherhausstraße;49.64568654285714;8.629256985714285;50.0;;;;;;Interpoliert;99.4;-1.49
+Routenpunkt (Way);T;Weiherhausstraße;49.64580841428571;8.629226528571428;50.0;;;;;;Interpoliert;99.1;-1.31
+Routenpunkt (Way);T;Weiherhausstraße;49.645930285714286;8.629196071428572;50.0;;;;;;Interpoliert;99.1;-0.87
+Routenpunkt (Way);T;Weiherhausstraße;49.64605215714285;8.629165614285714;50.0;;;;;;Interpoliert;99.1;-0.44
+Routenpunkt (Way);T;Weiherhausstraße;49.64617402857143;8.629135157142857;50.0;;;;;;Interpoliert;99.1;0.0
+Routenpunkt (Way);T;Weiherhausstraße;49.6462959;8.6291047;50.0;;;;;;Original OSM;99.1;0.0
+Routenpunkt (Way);T;Weiherhausstraße;49.6464059;8.62908085;50.0;;;;;;Interpoliert;99.1;-0.17
+Routenpunkt (Way);T;Weiherhausstraße;49.6465159;8.629057;50.0;;;;;;Original OSM;99.1;-0.17
+Routenpunkt (Way);T;Weiherhausstraße;49.6466222;8.62903155;50.0;;;;;;Interpoliert;99.0;-0.17
+Routenpunkt (Way);T;Weiherhausstraße;49.6467517;8.62900055;50.0;;;;;;Original OSM;99.0;-0.02
+Routenpunkt (Way);T;Weiherhausstraße;49.6468949;8.628962679999999;50.0;;;;;;Interpoliert;99.0;0.05
+Routenpunkt (Way);T;Weiherhausstraße;49.6470149;8.62893036;50.0;;;;;;Interpoliert;99.1;0.22
+Routenpunkt (Way);T;Weiherhausstraße;49.6472549;8.62886572;50.0;;;;;;Interpoliert;99.2;0.22
+Haltestelle;W;Heppenheim, Dieselstraße;49.6472549;8.62886572;50.0;19:14:00;19:14:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);99.3;0.29
+Routenpunkt (Way);T;Weiherhausstraße;49.6472549;8.62886572;50.0;;;;;;Interpoliert;99.4;0.26
+Routenpunkt (Way);T;Weiherhausstraße;49.64750120714285;8.628916049999999;50.0;;;;;;Original OSM;99.5;0.37
+Routenpunkt (Way);T;Weiherhausstraße;49.64765945;8.6293171;;;;;;;Interpoliert;99.7;0.54
+Routenpunkt (Way);T;Weiherhausstraße;49.64778184000001;8.62956258;;;;;;;Original OSM;99.9;0.54
+Routenpunkt (Way);T;Weiherhausstraße;49.6479138;8.62982015;;;;;;;Interpoliert;100.1;0.79
+Routenpunkt (Way);T;Weiherhausstraße;49.6479732;8.6299356;;;;;;;Original OSM;100.1;0.84
+Routenpunkt (Way);T;Weiherhausstraße;49.6480599;8.6300413;;;;;;;Original OSM;100.3;0.83
+Routenpunkt (Way);T;Weiherhausstraße;49.6481575;8.6301134;;;;;;;Original OSM;100.4;0.75
+Routenpunkt (Way);T;Weiherhausstraße;49.6482636;8.6301478;;;;;;;Original OSM;100.5;0.81
+Routenpunkt (Way);T;Weiherhausstraße;49.6484631;8.63009755;;;;;;;Original OSM;100.6;0.35
+Routenpunkt (Way);T;Weiherhausstraße;49.64872767999999;8.629981959999999;;;;;;;Original OSM;100.7;-0.21
+Routenpunkt (Way);T;Weiherhausstraße;49.6488575;8.62992515;;;;;;;Interpoliert;100.6;-0.75
+Routenpunkt (Way);T;Weiherhausstraße;49.6489457;8.629887;;;;;;;Original OSM;100.4;-1.21
+Routenpunkt (Way);T;Weiherhausstraße;49.64903853333333;8.629847766666666;;;;;;;Interpoliert;100.2;-1.27
+Routenpunkt (Way);T;Weiherhausstraße;49.649131366666666;8.629808533333334;;;;;;;Interpoliert;100.0;-1.5
+Routenpunkt (Way);T;Weiherhausstraße;49.6492242;8.6297693;;;;;;;Original OSM;100.0;-1.42
+Routenpunkt (Way);T;Weiherhausstraße;49.6493204;8.6297303;;;;;;;Original OSM;99.8;-1.2
+Routenpunkt (Way);T;Am Tonwerk;49.64943185;8.62967575;;;;;;;Interpoliert;99.6;-1.01
+Routenpunkt (Way);T;Am Tonwerk;49.6495433;8.6296212;;;;;;;Original OSM;99.5;-1.11
+Routenpunkt (Way);T;Am Tonwerk;49.64960755;8.629511;;;;;;;Interpoliert;99.4;-0.66
+Routenpunkt (Way);T;Am Tonwerk;49.64973215;8.629324600000002;;;;;;;Original OSM;99.3;-0.19
+Routenpunkt (Way);T;Am Tonwerk;49.64990273333333;8.629197066666666;;;;;;;Interpoliert;99.4;0.12
+Routenpunkt (Way);T;Am Tonwerk;49.650012966666665;8.629145733333333;;;;;;;Interpoliert;99.5;0.45
+Routenpunkt (Way);T;Am Tonwerk;49.6501232;8.6290944;;;;;;;Original OSM;99.6;0.72
+Routenpunkt (Way);T;Am Tonwerk;49.6502324;8.6289976;;;;;;;Original OSM;99.7;0.63
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65032123333334;8.628915833333334;;;;;;;Interpoliert;99.8;0.47
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.650410066666666;8.628834066666666;;;;;;;Interpoliert;99.8;0.21
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6505229;8.6287361;;;;;;;Original OSM;99.8;-0.07
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65068592;8.628665020000001;;;;;;;Interpoliert;99.7;-0.38
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65081394;8.62861434;;;;;;;Interpoliert;99.6;-0.58
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65094196;8.628563660000001;;;;;;;Interpoliert;99.5;-0.58
+Haltestelle;W;Heppenheim, Hans-Kohl-Straße;49.651198;8.6284623;;19:15:00;19:15:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 7m) | Auf Route gesnappt (12m);99.2;-0.61
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.651198;8.6284623;;;;;;;Original OSM;99.1;-0.61
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.651328425;8.628411175;;;;;;;Interpoliert;99.0;-0.61
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65145885;8.628360050000001;;;;;;;Interpoliert;98.9;-0.4
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.651589275;8.628308925;;;;;;;Interpoliert;98.8;-0.4
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65180232;8.628170919999999;;;;;;;Original OSM;98.8;-0.27
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6519891;8.628038499999999;;;;;;;Interpoliert;98.8;-0.13
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65209;8.6279978;;;;;;;Original OSM;98.8;0.0
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65220598;8.62795164;;;;;;;Interpoliert;98.8;0.3
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65232196;8.627905479999999;;;;;;;Interpoliert;98.8;0.3
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65243794;8.62785932;;;;;;;Interpoliert;99.0;0.3
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65255392;8.62781316;;;;;;;Interpoliert;99.0;0.3
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6526699;8.627767;;;;;;;Original OSM;99.0;0.3
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6527753;8.6276343;;;;;;;Original OSM;99.0;0.0
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.65283085;8.6273976;;;;;;;Interpoliert;99.0;-0.06
+Routenpunkt (Way);T;Vala-Lamberger-Straße;49.6529017;8.6271211;;;;;;;Original OSM;99.0;-0.06
+Routenpunkt (Way);T;Gunderslachstraße;49.65320792727272;8.62695440909091;;;;;;;Interpoliert;98.9;-0.06
+Haltestelle;W;Heppenheim, Gunderslache;49.65320792727272;8.62695440909091;;19:16:00;19:16:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (5m);98.8;-0.2
+Routenpunkt (Way);T;Gunderslachstraße;49.65320792727272;8.62695440909091;;;;;;;Interpoliert;98.7;-0.2
+Routenpunkt (Way);T;Gunderslachstraße;49.65333199090909;8.626904563636364;;;;;;;Interpoliert;98.6;-0.14
+Routenpunkt (Way);T;Gunderslachstraße;49.65345605454545;8.626854718181818;;;;;;;Interpoliert;98.6;-0.28
+Routenpunkt (Way);T;Gunderslachstraße;49.65358011818181;8.626804872727273;;;;;;;Interpoliert;98.6;-0.42
+Routenpunkt (Way);T;Gunderslachstraße;49.653704181818185;8.626755027272727;;;;;;;Interpoliert;98.5;-0.42
+Routenpunkt (Way);T;Gunderslachstraße;49.65382824545455;8.626705181818183;;;;;;;Interpoliert;98.4;-0.7
+Routenpunkt (Way);T;Gunderslachstraße;49.65395230909091;8.626655336363637;;;;;;;Interpoliert;98.3;-0.84
+Routenpunkt (Way);T;Gunderslachstraße;49.65407637272728;8.62660549090909;;;;;;;Interpoliert;98.1;-0.78
+Routenpunkt (Way);T;Gunderslachstraße;49.65420043636364;8.626555645454546;;;;;;;Interpoliert;98.0;-0.81
+Routenpunkt (Way);T;Gunderslachstraße;49.654410312500005;8.626471925;;;;;;;Original OSM;97.9;-0.86
+Routenpunkt (Way);T;Gunderslachstraße;49.6544834;8.6265927;30.0;;;;;;Interpoliert;97.8;-0.75
+Routenpunkt (Way);T;Gunderslachstraße;49.654505;8.6267338;30.0;;;;;;Original OSM;97.7;-0.77
+Routenpunkt (Way);T;Gunderslachstraße;49.654529475;8.626899075;30.0;;;;;;Interpoliert;97.6;-0.69
+Routenpunkt (Way);T;Gunderslachstraße;49.65455395;8.627064350000001;30.0;;;;;;Interpoliert;97.5;-0.52
+Routenpunkt (Way);T;Gunderslachstraße;49.654578425;8.627229625;30.0;;;;;;Interpoliert;97.5;-0.33
+Routenpunkt (Way);T;Gunderslachstraße;49.6546029;8.6273949;30.0;;;;;;Original OSM;97.5;-0.16
+Routenpunkt (Way);T;Gunderslachstraße;49.6545963;8.627567;30.0;;;;;;Original OSM;97.5;0.0
+Routenpunkt (Way);T;Gunderslachstraße;49.65463135;8.627729250000002;30.0;;;;;;Interpoliert;97.5;0.0
+Routenpunkt (Way);T;Gunderslachstraße;49.65466773333333;8.627900333333335;30.0;;;;;;Original OSM;97.5;0.0
+Routenpunkt (Way);T;Gunderslachstraße;49.6546987;8.628105349999998;30.0;;;;;;Interpoliert;97.5;0.0
+Routenpunkt (Way);T;Gunderslachstraße;49.654727;8.6282927;30.0;;;;;;Original OSM;97.5;-0.31
+Routenpunkt (Way);T;Gunderslachstraße;49.65475305;8.628465299999998;30.0;;;;;;Interpoliert;97.5;-0.63
+Routenpunkt (Way);T;Gunderslachstraße;49.6547791;8.6286379;30.0;;;;;;Interpoliert;97.3;-0.94
+Routenpunkt (Way);T;Gunderslachstraße;49.65480515;8.6288105;30.0;;;;;;Interpoliert;97.1;-1.25
+Routenpunkt (Way);T;Gunderslachstraße;49.6548312;8.6289831;30.0;;;;;;Interpoliert;96.9;-1.57
+Routenpunkt (Way);T;Gunderslachstraße;49.65485725;8.629155699999998;30.0;;;;;;Interpoliert;96.7;-1.41
+Routenpunkt (Way);T;Gunderslachstraße;49.6548833;8.6293283;30.0;;;;;;Original OSM;96.5;-1.25
+Routenpunkt (Way);T;Gunderslachstraße;49.654909333333336;8.6295006;30.0;;;;;;Interpoliert;96.4;-1.1
+Routenpunkt (Way);T;Gunderslachstraße;49.65493536666666;8.6296729;30.0;;;;;;Interpoliert;96.3;-1.06
+Routenpunkt (Way);T;Gunderslachstraße;49.6549614;8.6298452;30.0;;;;;;Original OSM;96.2;-1.01
+Routenpunkt (Way);T;Gunderslachstraße;49.6549911625;8.6300445125;30.0;;;;;;Interpoliert;96.0;-0.99
+Routenpunkt (Way);T;Gunderslachstraße;49.655020925;8.630243825;30.0;;;;;;Interpoliert;95.8;-0.97
+Routenpunkt (Way);T;Gunderslachstraße;49.6550506875;8.6304431375;30.0;;;;;;Interpoliert;95.7;-0.95
+Routenpunkt (Way);T;Gunderslachstraße;49.65508045;8.63064245;30.0;;;;;;Interpoliert;95.6;-0.81
+Routenpunkt (Way);T;Gunderslachstraße;49.6551102125;8.6308417625;30.0;;;;;;Interpoliert;95.5;-0.68
+Routenpunkt (Way);T;Gunderslachstraße;49.655139975;8.631041074999999;30.0;;;;;;Interpoliert;95.4;-0.68
+Routenpunkt (Way);T;Gunderslachstraße;49.6551697375;8.6312403875;30.0;;;;;;Interpoliert;95.3;-0.7
+Routenpunkt (Way);T;Gunderslachstraße;49.6551995;8.6314397;30.0;;;;;;Original OSM;95.2;-0.56
+Routenpunkt (Way);T;Gunderslachstraße;49.6552254;8.631613966666666;30.0;;;;;;Interpoliert;95.1;-0.31
+Routenpunkt (Way);T;Gunderslachstraße;49.6552513;8.631788233333333;30.0;;;;;;Interpoliert;95.1;-0.01
+Routenpunkt (Way);T;Gunderslachstraße;49.6552852;8.632014166666666;30.0;;;;;;Original OSM;95.2;0.29
+Routenpunkt (Way);T;Rebenstraße;49.6551816;8.632077866666666;;;;;;;Interpoliert;95.3;0.61
+Routenpunkt (Way);T;Rebenstraße;49.655074;8.632115733333334;;;;;;;Interpoliert;95.4;1.02
+Routenpunkt (Way);T;Rebenstraße;49.6549664;8.6321536;;;;;;;Original OSM;95.5;1.3
+Routenpunkt (Way);T;Rebenstraße;49.654837675;8.632200475000001;;;;;;;Interpoliert;95.8;1.55
+Routenpunkt (Way);T;Rebenstraße;49.65470895;8.63224735;;;;;;;Interpoliert;96.1;1.79
+Routenpunkt (Way);T;Rebenstraße;49.654580225;8.632294224999999;;;;;;;Interpoliert;96.4;2.1
+Routenpunkt (Way);T;Rebenstraße;49.6544515;8.6323411;;;;;;;Original OSM;96.7;2.17
+Routenpunkt (Way);T;Rebenstraße;49.65447843333333;8.632513166666666;30.0;;;;;;Interpoliert;97.0;2.23
+Routenpunkt (Way);T;Rebenstraße;49.65450536666667;8.632685233333333;30.0;;;;;;Interpoliert;97.3;2.33
+Routenpunkt (Way);T;Rebenstraße;49.6545323;8.6328573;30.0;;;;;;Original OSM;97.6;2.43
+Routenpunkt (Way);T;Rebenstraße;49.6545569;8.633016566666667;30.0;;;;;;Interpoliert;97.9;2.16
+Routenpunkt (Way);T;Rebenstraße;49.6545815;8.633175833333333;30.0;;;;;;Interpoliert;98.2;1.74
+Routenpunkt (Way);T;Rebenstraße;49.65453124444444;8.633587033333335;30.0;;;;;;Original OSM;98.5;1.27
+Routenpunkt (Way);T;Rebenstraße;49.654230625;8.633782499999999;30.0;;;;;;Interpoliert;98.6;0.76
+Haltestelle;W;Heppenheim, Burgunderweg;49.654230625;8.633782499999999;30.0;19:19:00;19:19:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (11m);98.7;0.33
+Routenpunkt (Way);T;Rebenstraße;49.654230625;8.633782499999999;30.0;;;;;;Interpoliert;98.8;0.69
+Routenpunkt (Way);T;Rebenstraße;49.653977075;8.6338039;30.0;;;;;;Interpoliert;98.9;1.18
+Routenpunkt (Way);T;Rebenstraße;49.6538503;8.6338146;30.0;;;;;;Original OSM;99.3;1.72
+Routenpunkt (Way);T;Rebenstraße;49.6537506;8.6338256;30.0;;;;;;Interpoliert;99.6;2.17
+Routenpunkt (Way);T;Rebenstraße;49.6536509;8.6338366;30.0;;;;;;Original OSM;99.9;2.41
+Routenpunkt (Way);T;Rebenstraße;49.65353145;8.6338452;30.0;;;;;;Interpoliert;100.2;2.14
+Routenpunkt (Way);T;Rebenstraße;49.65331524166667;8.633951791666666;30.0;;;;;;Original OSM;100.6;2.27
+Routenpunkt (Way);T;Rebenstraße;49.6530742;8.6340416;30.0;;;;;;Original OSM;101.0;2.23
+Routenpunkt (Way);T;Rebenstraße;49.65297065;8.63408785;30.0;;;;;;Interpoliert;101.4;2.33
+Routenpunkt (Way);T;Rebenstraße;49.65283545;8.63415235;30.0;;;;;;Original OSM;101.8;2.74
+Routenpunkt (Way);T;Rebenstraße;49.65271486666667;8.6342349;30.0;;;;;;Interpoliert;102.2;2.82
+Routenpunkt (Way);T;Rebenstraße;49.65262593333333;8.6342992;30.0;;;;;;Interpoliert;102.6;2.66
+Routenpunkt (Way);T;Rebenstraße;49.652537;8.6343635;30.0;;;;;;Original OSM;102.8;2.66
+Routenpunkt (Way);T;Rebenstraße;49.6524413;8.6344342;30.0;;;;;;Interpoliert;103.1;2.33
+Routenpunkt (Way);T;Rebenstraße;49.6523456;8.6345049;30.0;;;;;;Original OSM;103.4;1.68
+Routenpunkt (Way);T;Rebenstraße;49.65213367857143;8.634716707142857;30.0;;;;;;Original OSM;103.7;1.39
+Routenpunkt (Way);T;Rebenstraße;49.651725635714286;8.635038978571428;30.0;;;;;;Original OSM;103.9;0.88
+Haltestelle;W;Heppenheim, Silvanerweg;49.6512947;8.6350097;30.0;19:20:00;19:20:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (10m);104.1;0.47
+Routenpunkt (Way);T;Rebenstraße;49.6512947;8.6350097;30.0;;;;;;Original OSM;104.2;0.34
+Routenpunkt (Way);T;Rebenstraße;49.65113805000001;8.63486215;30.0;;;;;;Original OSM;104.3;0.33
+Routenpunkt (Way);T;Rebenstraße;49.65096955;8.63464685;30.0;;;;;;Original OSM;104.4;0.25
+Routenpunkt (Way);T;Rebenstraße;49.650856520000005;8.634287330000001;30.0;;;;;;Original OSM;104.5;0.4
+Routenpunkt (Way);T;Rebenstraße;49.6508193;8.6339075;30.0;;;;;;Original OSM;104.5;0.46
+Routenpunkt (Way);T;Rebenstraße;49.6507019;8.633933466666667;30.0;;;;;;Interpoliert;104.6;0.07
+Routenpunkt (Way);T;Rebenstraße;49.6505845;8.633959433333333;30.0;;;;;;Interpoliert;104.7;-0.12
+Routenpunkt (Way);T;Rebenstraße;49.6504671;8.6339854;30.0;;;;;;Original OSM;104.5;-0.27
+Routenpunkt (Way);T;Rebenstraße;49.65018261;8.634055749999998;30.0;;;;;;Original OSM;104.3;-0.46
+Routenpunkt (Way);T;Rebenstraße;49.64995295;8.6341711;30.0;;;;;;Interpoliert;104.1;-0.66
+Routenpunkt (Way);T;Rebenstraße;49.64939317;8.634200952;;;;;;;Original OSM;104.0;-0.49
+Routenpunkt (Way);T;Im Schlüssel;49.64906425;8.634004375;30.0;;;;;;Interpoliert;103.9;-0.5
+Routenpunkt (Way);T;Im Schlüssel;49.6490287;8.633807749999999;30.0;;;;;;Interpoliert;103.8;-0.49
+Routenpunkt (Way);T;Im Schlüssel;49.64899315;8.633611125;30.0;;;;;;Interpoliert;103.7;-0.86
+Routenpunkt (Way);T;Im Schlüssel;49.6489576;8.6334145;30.0;;;;;;Original OSM;103.6;-1.21
+Routenpunkt (Way);T;Im Schlüssel;49.648924475;8.633213425000001;30.0;;;;;;Interpoliert;103.3;-1.08
+Routenpunkt (Way);T;Im Schlüssel;49.64889135;8.633012350000001;30.0;;;;;;Interpoliert;103.0;-0.94
+Routenpunkt (Way);T;Im Schlüssel;49.648858225000005;8.632811275;30.0;;;;;;Interpoliert;103.0;-0.8
+Routenpunkt (Way);T;Im Schlüssel;49.6488251;8.6326102;30.0;;;;;;Original OSM;103.0;-0.68
+Routenpunkt (Way);T;Im Schlüssel;49.64879675;8.632415250000001;30.0;;;;;;Interpoliert;103.0;-0.59
+Routenpunkt (Way);T;Im Schlüssel;49.6487684;8.6322203;30.0;;;;;;Original OSM;102.8;-0.89
+Routenpunkt (Way);T;Im Schlüssel;49.64874365;8.6320439;30.0;;;;;;Interpoliert;102.6;-1.2
+Routenpunkt (Way);T;Im Schlüssel;49.6487189;8.6318675;30.0;;;;;;Interpoliert;102.4;-1.51
+Routenpunkt (Way);T;Im Schlüssel;49.64869415;8.631691100000001;30.0;;;;;;Interpoliert;102.2;-1.39
+Routenpunkt (Way);T;Im Schlüssel;49.6486694;8.6315147;30.0;;;;;;Interpoliert;102.0;-1.23
+Routenpunkt (Way);T;Im Schlüssel;49.64864465;8.6313383;30.0;;;;;;Interpoliert;101.9;-1.04
+Routenpunkt (Way);T;Im Schlüssel;49.6486199;8.6311619;30.0;;;;;;Original OSM;101.8;-0.83
+Routenpunkt (Way);T;Im Schlüssel;49.64851634;8.63097214;30.0;;;;;;Original OSM;101.7;-0.67
+Routenpunkt (Way);T;Kalterer Straße;49.6483396;8.6309647;30.0;;;;;;Original OSM;101.6;-0.37
+Routenpunkt (Way);T;Kalterer Straße;49.648223;8.631016975;30.0;;;;;;Interpoliert;101.5;0.08
+Routenpunkt (Way);T;Kalterer Straße;49.6481064;8.63106925;30.0;;;;;;Interpoliert;101.6;0.49
+Routenpunkt (Way);T;Kalterer Straße;49.6479898;8.631121525;30.0;;;;;;Interpoliert;101.8;0.87
+Routenpunkt (Way);T;Kalterer Straße;49.6478732;8.6311738;30.0;;;;;;Original OSM;102.0;1.29
+Routenpunkt (Way);T;Breslauer Straße;49.64791041428571;8.631368114285713;30.0;;;;;;Interpoliert;102.2;1.28
+Routenpunkt (Way);T;Breslauer Straße;49.64794762857143;8.631562428571428;30.0;;;;;;Interpoliert;102.4;1.12
+Routenpunkt (Way);T;Breslauer Straße;49.64798484285714;8.631756742857142;30.0;;;;;;Interpoliert;102.5;0.96
+Routenpunkt (Way);T;Breslauer Straße;49.64802205714286;8.631951057142857;30.0;;;;;;Interpoliert;102.6;0.82
+Routenpunkt (Way);T;Breslauer Straße;49.64805927142857;8.632145371428571;30.0;;;;;;Interpoliert;102.7;0.69
+Routenpunkt (Way);T;Breslauer Straße;49.64809648571429;8.632339685714285;30.0;;;;;;Interpoliert;102.8;0.71
+Routenpunkt (Way);T;Breslauer Straße;49.6481337;8.632534;30.0;;;;;;Original OSM;102.9;0.57
+Routenpunkt (Way);T;Breslauer Straße;49.64816665;8.6327018;30.0;;;;;;Interpoliert;103.0;0.43
+Routenpunkt (Way);T;Breslauer Straße;49.6481996;8.6328696;30.0;;;;;;Original OSM;103.0;0.3
+Routenpunkt (Way);T;Breslauer Straße;49.64824063333333;8.6330672;30.0;;;;;;Interpoliert;103.0;0.16
+Routenpunkt (Way);T;Breslauer Straße;49.64828166666667;8.633264800000001;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Breslauer Straße;49.6483227;8.6334624;30.0;;;;;;Original OSM;103.0;0.0
+Haltestelle;W;Heppenheim, Briefelstraße;49.6483227;8.6334624;30.0;19:22:00;19:22:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (15m);103.1;0.07
+Routenpunkt (Way);T;Breslauer Straße;49.6483227;8.6334624;30.0;;;;;;Original OSM;103.2;0.21
+Routenpunkt (Way);T;Breslauer Straße;49.648399966666666;8.6338322;30.0;;;;;;Interpoliert;103.3;0.21
+Routenpunkt (Way);T;Breslauer Straße;49.648438600000006;8.634017100000001;30.0;;;;;;Interpoliert;103.4;0.21
+Routenpunkt (Way);T;Breslauer Straße;49.64847723333334;8.634202;30.0;;;;;;Interpoliert;103.4;0.21
+Routenpunkt (Way);T;Breslauer Straße;49.64851586666667;8.634386899999999;30.0;;;;;;Interpoliert;103.4;0.14
+Routenpunkt (Way);T;Breslauer Straße;49.6485545;8.6345718;30.0;;;;;;Original OSM;103.4;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64843605555556;8.634626855555556;30.0;;;;;;Interpoliert;103.4;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64831761111111;8.63468191111111;30.0;;;;;;Interpoliert;103.4;-0.15
+Routenpunkt (Way);T;Schönbacher Straße;49.64819916666667;8.634736966666667;30.0;;;;;;Interpoliert;103.4;-0.29
+Routenpunkt (Way);T;Schönbacher Straße;49.64808072222223;8.634792022222221;30.0;;;;;;Interpoliert;103.3;-0.44
+Routenpunkt (Way);T;Schönbacher Straße;49.64796227777778;8.634847077777778;30.0;;;;;;Interpoliert;103.2;-0.58
+Routenpunkt (Way);T;Schönbacher Straße;49.64784383333333;8.634902133333332;30.0;;;;;;Interpoliert;103.1;-0.58
+Routenpunkt (Way);T;Schönbacher Straße;49.647725388888894;8.634957188888889;30.0;;;;;;Interpoliert;103.0;-0.44
+Routenpunkt (Way);T;Schönbacher Straße;49.64760694444445;8.635012244444443;30.0;;;;;;Interpoliert;103.0;-0.29
+Routenpunkt (Way);T;Schönbacher Straße;49.6474885;8.6350673;30.0;;;;;;Original OSM;103.0;-0.15
+Routenpunkt (Way);T;Schönbacher Straße;49.64737622;8.63512138;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64726394;8.63517546;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64715166;8.63522954;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64703938;8.63528362;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.6469271;8.6353377;30.0;;;;;;Original OSM;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64680266;8.63539286;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64667822;8.63544802;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64655378;8.635503179999999;30.0;;;;;;Interpoliert;103.0;0.0
+Routenpunkt (Way);T;Schönbacher Straße;49.64642934;8.63555834;30.0;;;;;;Interpoliert;103.0;0.55
+Routenpunkt (Way);T;Schönbacher Straße;49.6463049;8.6356135;30.0;;;;;;Original OSM;103.0;0.18
+Routenpunkt (Way);T;Schönbacher Straße;49.6462878;8.6357627;30.0;;;;;;Interpoliert;103.3;0.2
+Routenpunkt (Way);T;Kettelerstraße;49.6462707;8.6359119;30.0;;;;;;Original OSM;103.1;0.2
+Routenpunkt (Way);T;Kettelerstraße;49.6461559;8.635865066666666;30.0;;;;;;Interpoliert;103.11;0.2
+Haltestelle;W;Heppenheim, Gesundheitsamt;49.6461559;8.635865066666666;30.0;19:23:00;19:23:00;Kein Umlauf;Sa,So;1318.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (5m);103.12;-0.35
+Haltestelle;W;Heppenheim, Halber Mond;49.6413028;8.6359405;;19:26:00;19:26:00;Kein Umlauf;Sa,So;1318.0;Luftlinie (Kein OSM-Match) | Auf Route gesnappt (225m);103.14;0.03
+Haltestelle;W;Heppenheim, Bahnhof;49.641174;8.6337985;;19:29:00;19:29:00;Kein Umlauf;Sa,So;1318.0;Luftlinie (Kein OSM-Match) | Auf Route gesnappt (1m);103.17;0.01

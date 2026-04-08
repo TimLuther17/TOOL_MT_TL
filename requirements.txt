@@ -1,0 +1,8 @@
+requests
+folium
+geopy
+pandas
+openpyxl
+srtm.py==0.2.3pip uninstall srtm.py -y
+pip install srtm.py
+scikit-learn

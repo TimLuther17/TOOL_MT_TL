@@ -1,0 +1,30 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Heiligkreuzsteinach, Marktpl.;49.48484;8.796788;06:16:00;06:16:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Altneudorf, Steinachbrücke;49.467068;8.801478;06:20:00;06:20:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Altneudorf, Im Hauskorb;49.46941;8.796878;06:21:00;06:21:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Wilhelmsfeld, Kettenschmiede;49.468857;8.789072;06:22:00;06:22:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Wilhelmsfeld, Unterdorf;49.466602;8.772354;06:24:00;06:24:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Wilhelmsfeld, Autohalle;49.46306;8.763515;06:27:00;06:27:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Wilhelmsfeld, Rathaus;49.465504;8.760928;06:28:00;06:28:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Wilhelmsfeld, Wilhelmshöhe;49.468166;8.758322;06:29:00;06:29:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Wilhelmsfeld, Schriesheim. Hof;49.470215;8.754505;06:30:00;06:30:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Ziegelhausen, Langer Kirschb.;49.45909;8.751253;06:33:00;06:33:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Ziegelhausen, Heidebuckelweg;49.45068;8.75446;06:37:00;06:37:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10
+Haltestelle;Ziegelhausen, Schweizertalstr.;49.44822;8.753265;06:38:00;06:38:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 11
+Haltestelle;Ziegelhausen, Löwen;49.444134;8.753687;06:39:00;06:39:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 12
+Haltestelle;Ziegelhausen, Grüner Baum;49.43755;8.75198;06:41:00;06:41:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 13
+Haltestelle;Ziegelhausen, Peterstaler Str.;49.43461;8.749097;06:42:00;06:42:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 14
+Haltestelle;Ziegelhausen, Kreuzgrundweg;49.431904;8.747381;06:43:00;06:43:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 15
+Haltestelle;Ziegelhausen, Fürstendamm;49.42804;8.749582;06:44:00;06:44:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 16
+Haltestelle;Ziegelhausen, Mühldamm;49.425415;8.751522;06:45:00;06:45:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 17
+Haltestelle;Ziegelhausen, Steinbacher Tal;49.422634;8.753786;06:47:00;06:47:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 18
+Haltestelle;Ziegelhausen, Neckarschule;49.419285;8.756858;06:48:00;06:49:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 19
+Haltestelle;Ziegelhausen, Neuer Weg;49.417355;8.752591;06:50:00;06:50:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 20
+Haltestelle;Ziegelhausen, Neckarhelle;49.417343;8.74942;06:51:00;06:51:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 21
+Haltestelle;Ziegelhausen, Stiftsmühle;49.417404;8.743914;06:52:00;06:52:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 22
+Haltestelle;Ziegelhausen, Stift Neuburg;49.419254;8.735245;06:54:00;06:54:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 23
+Haltestelle;Ziegelhausen, Haarlass;49.420128;8.730547;06:55:00;06:55:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 24
+Haltestelle;Neuenheim, Hirschgasse;49.416004;8.71603;06:58:00;06:58:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 25
+Haltestelle;Neuenheim, Alte Brücke Nord;49.415234;8.708861;07:00:00;07:00:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 26
+Haltestelle;Neuenheim, Bergstraße;49.413757;8.694291;07:03:00;07:03:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 27
+Haltestelle;Heidelberg, Bismarckplatz;49.41015;8.692943;07:06:00;07:06:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 28

@@ -1,0 +1,23 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Heppenheim, Vogelsbergstraße;49.642635;8.614071;12:43:00;12:43:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Heppenheim, Von-Humboldt-Str.;49.64147;8.617476;12:45:00;12:45:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Heppenheim, Langnese;49.636402;8.618302;12:46:00;12:46:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Heppenheim, Donnersbergstraße;49.63332;8.621069;12:47:00;12:47:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Heppenheim, Gießener Straße;49.632275;8.625057;12:48:00;12:48:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Heppenheim, Kreiskrankenhaus;49.62969;8.625578;12:50:00;12:50:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Heppenheim, Hüttenfelder Str.;49.632584;8.630268;12:53:00;12:53:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Heppenheim, Erbachwiesenweg;49.633904;8.633969;12:55:00;12:55:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Heppenheim, Stadion/Freibad;49.637913;8.635199;12:58:00;12:58:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Heppenheim, Bahnhof;49.640984;8.634112;12:59:00;13:00:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Heppenheim, Stadion/Freibad;49.637825;8.635146;13:01:00;13:01:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10
+Haltestelle;Heppenheim,Bgm-Metzendorf-Str.;49.63582;8.639278;13:03:00;13:03:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 11
+Haltestelle;Heppenheim, Zollhausstraße/B3;49.638344;8.641083;13:05:00;13:05:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 12
+Haltestelle;Heppenheim, Niedermühlstraße;49.643467;8.639251;13:08:00;13:08:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 13
+Haltestelle;Heppenheim, Winzergen.;49.648296;8.638721;13:10:00;13:10:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 14
+Haltestelle;Heppenheim, Am Landberg;49.65554;8.636152;13:12:00;13:12:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 15
+Haltestelle;Bensheim, Hemsberg;49.66714;8.629333;13:14:00;13:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 16
+Haltestelle;Bensheim, Arminstraße;49.669964;8.626585;13:15:00;13:15:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 17
+Haltestelle;Bensheim, Caritasheim;49.673466;8.624258;13:17:00;13:17:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 18
+Haltestelle;Bensheim, Heilig-Geist-Hospit.;49.677948;8.620862;13:19:00;13:19:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 19
+Haltestelle;Bensheim, Bahnhof/Amersham-Platz;49.68096;8.617961;13:22:00;13:22:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 20
+Haltestelle;Bensheim, Bahnhof;49.681885;8.617305;13:24:00;13:24:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 21

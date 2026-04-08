@@ -1,0 +1,337 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%);Surface;Highway_Type;OSM_Name
+Haltestelle;W;Darmstadt Alfred-Messel-Weg;49.885945;8.672777;30.0;18:26:00;18:26:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (4m);154.4;0.67;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Alfred-Messel-Weg;49.885916;8.672686;30;;;;;;Interpoliert;154.5;0.62;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;;49.885871;8.672547;30;;;;;;Interpoliert (15m);154.57;0.57;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;;49.885826;8.672407;30;;;;;;Interpoliert (15m);154.62;0.11;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885781;8.672268;30.0;;;;;;Original OSM;154.67;-0.51;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;;49.885745;8.672117;30.0;;;;;;Interpoliert (15m);154.4;-1.14;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885709;8.671967;30.0;;;;;;Interpoliert;154.2;-1.73;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;;49.885684;8.671861;30.0;;;;;;Interpoliert (15m);154.0;-2.44;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885658;8.671755;30.0;;;;;;Original OSM;153.8;-2.82;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;;49.885629;8.671632;30.0;;;;;;Interpoliert (15m);153.5;-3.03;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.8856;8.671508;30.0;;;;;;Original OSM;153.1;-3.09;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885554;8.67132;30.0;;;;;;Interpoliert;152.7;-3.15;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885509;8.671132;30.0;;;;;;Interpoliert;152.3;-3.22;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885464;8.670944;30.0;;;;;;Original OSM;151.9;-2.55;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885424;8.670797;30.0;;;;;;Interpoliert;151.5;-2.18;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885384;8.670651;30.0;;;;;;Interpoliert;151.4;-1.82;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;;49.885354;8.670514;30.0;;;;;;Interpoliert (15m);151.3;-1.44;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885325;8.670377;30.0;;;;;;Original OSM;151.2;-0.91;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;;49.885307;8.670219;30.0;;;;;;Interpoliert (15m);151.1;-0.73;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.88529;8.67006;30.0;;;;;;Original OSM;151.0;-0.54;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885285;8.669886;30.0;;;;;;Interpoliert;151.0;-0.83;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.88528;8.669711;30.0;;;;;;Interpoliert;151.0;-0.65;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885276;8.669537;30.0;;;;;;Original OSM;150.7;-1.04;asphalt;residential;Schwarzer Weg
+Haltestelle;W;Darmstadt Peter-Behrens-Straße;49.885276;8.669537;30.0;18:27:00;18:27:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 0m) | Auf Route gesnappt (0m);150.4;-1.59;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;;49.885284;8.669387;30.0;;;;;;Interpoliert (15m);150.1;-2.19;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885292;8.669237;30.0;;;;;;Original OSM;149.8;-2.31;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;;49.885279;8.669098;30.0;;;;;;Interpoliert (15m);149.5;-2.49;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);A;Schwarzer Weg (Ampel);49.885266;8.668959;30.0;;;;;;Interpoliert;149.2;-2.7;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Schwarzer Weg;49.885266;8.668804;30.0;;;;;;Original OSM;149.1;-2.92;asphalt;residential;Schwarzer Weg
+Routenpunkt (Way);T;Kranichsteiner Straße;49.885194;8.668712;50.0;;;;;;Interpoliert;148.7;-3.1;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.885123;8.668619;50.0;;;;;;Interpoliert;148.3;-2.65;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.885052;8.668526;50.0;;;;;;Original OSM;147.9;-2.62;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88498;8.668376;50.0;;;;;;Interpoliert;147.8;-2.3;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884908;8.668227;50.0;;;;;;Interpoliert;147.7;-1.97;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884837;8.668078;50.0;;;;;;Interpoliert;147.4;-1.65;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884765;8.667928;50.0;;;;;;Interpoliert;147.1;-1.95;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884693;8.667779;50.0;;;;;;Interpoliert;146.8;-2.55;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884621;8.66763;50.0;;;;;;Interpoliert;146.5;-2.56;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884549;8.667481;50.0;;;;;;Interpoliert;146.0;-1.65;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.884496;8.667391;50.0;;;;;;Interpoliert (15m);145.8;-0.71;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884443;8.667301;50.0;;;;;;Original OSM;146.0;0.23;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.884378;8.667249;50.0;;;;;;Interpoliert (15m);146.2;1.31;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884312;8.667197;50.0;;;;;;Interpoliert;146.4;2.44;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884215;8.667124;50.0;;;;;;Interpoliert;146.6;2.58;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884118;8.667051;50.0;;;;;;Original OSM;147.0;2.39;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884008;8.666979;50.0;;;;;;Interpoliert;147.4;2.2;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.883897;8.666907;50.0;;;;;;Interpoliert;147.6;2.92;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.883787;8.666835;50.0;;;;;;Interpoliert;147.8;3.3;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.883676;8.666763;50.0;;;;;;Interpoliert;148.5;3.25;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.883566;8.666692;50.0;;;;;;Original OSM;149.2;3.55;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.883474;8.66664;50.0;;;;;;Interpoliert;149.5;3.84;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.883389;8.666589;50.0;;;;;;Interpoliert (15m);149.8;3.35;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.883303;8.666538;50.0;;;;;;Original OSM;150.1;2.86;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.883215;8.666482;50.0;;;;;;Interpoliert (15m);150.4;2.81;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.883126;8.666427;50.0;;;;;;Interpoliert;150.7;2.93;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.883027;8.666364;50.0;;;;;;Interpoliert;151.0;3.05;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.882933;8.666307;50.0;;;;;;Interpoliert (15m);151.4;2.31;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.882839;8.666249;50.0;;;;;;Interpoliert (15m);151.8;1.62;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.882745;8.666191;50.0;;;;;;Original OSM;151.7;0.84;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.882621;8.666117;50.0;;;;;;Interpoliert (15m);151.6;-0.14;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.882498;8.666043;50.0;;;;;;Interpoliert;151.4;-1.12;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.882376;8.665951;50.0;;;;;;Interpoliert (15m);151.2;-1.35;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.882255;8.665859;50.0;;;;;;Original OSM;151.0;-1.62;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.882168;8.665834;50.0;;;;;;Interpoliert (15m);150.8;-1.35;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.882082;8.66581;50.0;;;;;;Original OSM;150.6;-0.51;asphalt;secondary;Kranichsteiner Straße
+Haltestelle;W;Darmstadt Am Karlshof;49.882082;8.66581;50.0;18:29:00;18:29:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 2m) | Auf Route gesnappt (2m);150.4;0.33;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.881962;8.66575;50.0;;;;;;Interpoliert;150.8;1.67;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.881841;8.665695;50.0;;;;;;Original OSM;151.2;3.02;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.881769;8.665654;50.0;;;;;;Interpoliert (15m);151.6;3.96;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);A;Kranichsteiner Straße (Ampel);49.881697;8.665612;50.0;;;;;;Original OSM;152.0;4.33;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.881608;8.665558;50.0;;;;;;Interpoliert (15m);152.5;4.44;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.881519;8.665504;30.0;;;;;;Interpoliert;153.0;4.19;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.881397;8.665431;30.0;;;;;;Interpoliert;153.5;4.36;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.881275;8.665357;30.0;;;;;;Interpoliert;154.0;4.51;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.881153;8.665284;30.0;;;;;;Interpoliert;154.8;4.03;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.881031;8.66521;30.0;;;;;;Original OSM;155.6;3.93;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.880928;8.665122;30.0;;;;;;Original OSM;155.9;3.66;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88085;8.665046;30.0;;;;;;Original OSM;156.2;2.99;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.880741;8.664943;30.0;;;;;;Interpoliert;156.5;2.42;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.880632;8.664839;30.0;;;;;;Interpoliert;156.8;2.49;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.88055;8.664744;30.0;;;;;;Interpoliert (15m);157.1;2.58;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.880468;8.664649;30.0;;;;;;Original OSM;157.4;2.84;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.880408;8.664569;30.0;;;;;;Interpoliert (15m);157.7;1.79;asphalt;secondary;Kranichsteiner Straße
+Haltestelle;W;Darmstadt Taunusplatz;49.880348;8.664489;30.0;18:30:00;18:30:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 2m) | Auf Route gesnappt (3m);158.0;0.96;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Taunusplatz;49.8803;8.664439;30;;;;;;Interpoliert;157.8;0.13;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.880197;8.664348;30;;;;;;Interpoliert (15m);157.6;-0.96;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.880093;8.664256;30.0;;;;;;Original OSM;157.4;-2.05;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.880017;8.664188;30.0;;;;;;Interpoliert (15m);157.2;-1.81;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879941;8.664119;30.0;;;;;;Interpoliert;157.0;-1.9;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879864;8.664039;30.0;;;;;;Interpoliert;156.8;-1.93;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879788;8.663959;30.0;;;;;;Original OSM;156.6;-1.85;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879698;8.663866;30.0;;;;;;Interpoliert;156.4;-1.61;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879607;8.663772;30.0;;;;;;Interpoliert;156.2;-1.05;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879517;8.663679;30.0;;;;;;Interpoliert;156.1;-0.51;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879426;8.663586;30.0;;;;;;Original OSM;156.2;-0.02;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879338;8.663472;30.0;;;;;;Interpoliert;156.3;0.46;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);A;Ampel;49.879251;8.663347;30.0;;;;;;Interpoliert (15m);156.4;0.76;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879163;8.663222;30.0;;;;;;Original OSM;156.5;0.18;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.879074;8.663075;30.0;;;;;;Interpoliert (15m);156.6;-0.53;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878985;8.662929;30.0;;;;;;Interpoliert;156.3;-1.23;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878919;8.662816;30.0;;;;;;Interpoliert;156.0;-1.78;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878854;8.662703;30.0;;;;;;Original OSM;155.7;-2.46;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878759;8.662557;30.0;;;;;;Interpoliert;155.4;-2.23;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878664;8.66241;30.0;;;;;;Original OSM;155.0;-1.87;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878594;8.662311;30.0;;;;;;Interpoliert;154.9;-1.76;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878524;8.662212;30.0;;;;;;Interpoliert;154.8;-1.8;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.878439;8.662076;30.0;;;;;;Interpoliert (15m);154.5;-1.7;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878354;8.66194;30.0;;;;;;Original OSM;154.2;-1.32;asphalt;secondary;Kranichsteiner Straße
+Haltestelle;W;Darmstadt Kopernikusplatz;49.878248;8.661836;30.0;18:31:00;18:31:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 6m) | Auf Route gesnappt (6m);153.9;-0.95;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878176;8.661734;30.0;;;;;;Original OSM;154.0;-0.33;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.878119;8.661607;30.0;;;;;;Interpoliert (15m);154.1;0.29;asphalt;secondary;Kranichsteiner Straße
+Routenpunkt (Way);T;;49.878061;8.661481;30.0;;;;;;Interpoliert (15m);154.2;1.36;paving_stones;service;
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878003;8.661354;30.0;;;;;;Original OSM;154.3;1.34;paving_stones;service;
+Routenpunkt (Way);T;;49.87789;8.661348;30.0;;;;;;Interpoliert (15m);154.7;1.31;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);A;Ampel;49.877777;8.661342;30.0;;;;;;Interpoliert (15m);154.8;1.55;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.877664;8.661337;30.0;;;;;;Interpoliert;154.9;1.78;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.877535;8.661367;30.0;;;;;;Interpoliert;155.2;1.55;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.877405;8.661398;30.0;;;;;;Interpoliert;155.5;1.8;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.877275;8.661429;30.0;;;;;;Interpoliert;155.8;2.33;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.877145;8.66146;30.0;;;;;;Interpoliert;156.1;3.19;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.877015;8.66149;30.0;;;;;;Interpoliert;156.6;4.06;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;;49.876945;8.661507;30.0;;;;;;Interpoliert (15m);157.1;3.96;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.876876;8.661523;30.0;;;;;;Original OSM;157.6;3.89;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.876762;8.661547;30.0;;;;;;Interpoliert;157.8;3.55;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.876657;8.661569;30.0;;;;;;Interpoliert;158.0;2.58;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.876553;8.661591;30.0;;;;;;Interpoliert;158.2;1.81;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.876437;8.66162;30.0;;;;;;Original OSM;158.4;2.01;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;;49.876366;8.661619;30.0;;;;;;Interpoliert (15m);158.6;2.08;asphalt;secondary;Heinheimer Straße
+Routenpunkt (Way);T;Heinheimer Straße;49.876296;8.661618;30.0;;;;;;Original OSM;158.8;0.92;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.87624;8.661512;30.0;;;;;;Interpoliert (15m);159.0;0.13;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.876184;8.661406;50.0;;;;;;Interpoliert;158.6;-0.8;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.876116;8.661268;50.0;;;;;;Interpoliert;158.3;-1.73;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.876036;8.661111;50.0;;;;;;Interpoliert (15m);158.0;-2.54;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.875956;8.660955;50.0;;;;;;Original OSM;157.7;-2.13;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.875887;8.660778;50.0;;;;;;Interpoliert (15m);157.4;-2.19;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875819;8.660601;50.0;;;;;;Original OSM;157.1;-3.03;asphalt;secondary;Alexanderstraße
+Haltestelle;W;Darmstadt Alexanderstraße/TU;49.875741;8.660502;50.0;18:33:00;18:33:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);156.8;-3.29;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße/TU;49.875778;8.660468;50;;;;;;Original OSM;156.5;-4.2;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875673;8.660341;50.0;;;;;;Original OSM;156.0;-4.06;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.875634;8.660254;50.0;;;;;;Interpoliert (15m);155.5;-3.9;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875595;8.660168;50.0;;;;;;Interpoliert;155.4;-2.94;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875538;8.660047;50.0;;;;;;Original OSM;155.2;-2.57;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.875472;8.659896;50.0;;;;;;Interpoliert (15m);155.0;-1.58;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875406;8.659744;50.0;;;;;;Original OSM;154.8;-1.66;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.875355;8.659598;50.0;;;;;;Interpoliert (15m);154.6;-1.62;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.875305;8.659452;50.0;;;;;;Interpoliert (15m);154.4;-1.81;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875255;8.659305;50.0;;;;;;Original OSM;154.2;-1.5;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.87523;8.659199;50.0;;;;;;Interpoliert (15m);154.0;-1.31;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875206;8.659092;50.0;;;;;;Original OSM;154.0;-1.42;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875164;8.658913;50.0;;;;;;Interpoliert;153.9;-1.6;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875122;8.658734;50.0;;;;;;Original OSM;153.6;-1.6;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.875089;8.658583;50.0;;;;;;Original OSM;153.3;-2.29;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.87505;8.658425;50.0;;;;;;Original OSM;153.0;-2.82;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.875023;8.65831;50.0;;;;;;Interpoliert (15m);152.7;-3.25;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.874996;8.658194;50.0;;;;;;Original OSM;152.4;-3.59;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.874968;8.658073;50.0;;;;;;Interpoliert (15m);152.0;-3.68;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.87494;8.657952;50.0;;;;;;Interpoliert;151.6;-3.72;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.874897;8.65777;50.0;;;;;;Interpoliert;151.2;-3.58;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.874863;8.657626;50.0;;;;;;Interpoliert (15m);150.8;-2.9;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.874829;8.657482;50.0;;;;;;Interpoliert (15m);150.5;-2.21;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.874795;8.657337;50.0;;;;;;Original OSM;150.4;-1.82;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.874762;8.657195;50.0;;;;;;Interpoliert (15m);150.3;-1.3;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.874729;8.657054;50.0;;;;;;Interpoliert;150.2;-0.97;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.874701;8.656927;50.0;;;;;;Interpoliert (15m);150.1;-0.79;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.874673;8.656799;50.0;;;;;;Original OSM;150.0;-0.6;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.87465;8.656654;50.0;;;;;;Interpoliert (15m);150.0;-0.42;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.874627;8.656509;50.0;;;;;;Interpoliert;150.0;-0.21;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.874603;8.656333;50.0;;;;;;Interpoliert;150.0;0.0;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);A;Ampel;49.874586;8.656209;50.0;;;;;;Interpoliert (15m);150.0;0.0;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Alexanderstraße;49.874569;8.656085;50.0;;;;;;Original OSM;150.0;-0.44;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;;49.874543;8.655964;50.0;;;;;;Interpoliert (15m);150.0;-0.77;asphalt;secondary;Alexanderstraße
+Routenpunkt (Way);T;Unbekannt;49.874518;8.655843;50.0;;;;;;Interpoliert;149.8;-1.1;asphalt;busway;
+Routenpunkt (Way);T;;49.874415;8.655901;50.0;;;;;;Interpoliert (15m);149.6;-1.44;asphalt;busway;
+Routenpunkt (Way);T;Unbekannt;49.874313;8.655958;50.0;;;;;;Original OSM;149.4;-1.78;paving_stones;busway;
+Routenpunkt (Way);T;;49.874212;8.656003;50.0;;;;;;Interpoliert (15m);149.2;-1.71;paving_stones;busway;
+Routenpunkt (Way);T;Schlossgraben;49.874111;8.656048;50.0;;;;;;Interpoliert;149.0;-1.76;paving_stones;busway;Schlossgraben
+Routenpunkt (Way);T;Schlossgraben;49.874015;8.656081;50.0;;;;;;Interpoliert;148.8;-1.8;paving_stones;busway;Schlossgraben
+Routenpunkt (Way);T;;49.873921;8.656112;50.0;;;;;;Interpoliert (15m);148.6;-1.46;paving_stones;busway;Schlossgraben
+Routenpunkt (Way);T;;49.873827;8.656144;50.0;;;;;;Interpoliert (15m);148.4;-1.11;paving_stones;busway;Schlossgraben
+Routenpunkt (Way);T;Schlossgraben;49.873734;8.656175;50.0;;;;;;Original OSM;148.4;-0.46;paving_stones;busway;Schlossgraben
+Routenpunkt (Way);T;;49.87361;8.656215;50.0;;;;;;Interpoliert (15m);148.4;0.3;paving_stones;busway;Schlossgraben
+Routenpunkt (Way);T;Schlossgraben;49.873486;8.656255;50.0;;;;;;Interpoliert;148.6;1.51;paving_stones;busway;Schlossgraben
+Routenpunkt (Way);T;Schlossgraben;49.873397;8.656284;50.0;;;;;;Original OSM;148.8;2.34;paving_stones;busway;Schlossgraben
+Routenpunkt (Way);T;;49.873293;8.656237;50.0;;;;;;Interpoliert (15m);149.3;3.17;paving_stones;busway;Schlossgraben
+Routenpunkt (Way);T;;49.873189;8.656191;50.0;;;;;;Interpoliert (15m);149.8;3.6;sett;busway;Schlossgraben
+Routenpunkt (Way);T;Schlossgraben;49.873085;8.656144;50.0;;;;;;Original OSM;150.3;3.92;sett;busway;Schlossgraben
+Routenpunkt (Way);T;;49.873042;8.65596;30;;;;;;Interpoliert (15m);150.8;3.79;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;;49.872998;8.655775;30;;;;;;Interpoliert (15m);151.3;3.45;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;Schloss;49.872955;8.655591;30;;;;;;Original OSM;151.8;2.78;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;;49.872907;8.655436;30;;;;;;Interpoliert (15m);152.1;2.07;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.87286;8.655281;30.0;;;;;;Original OSM;152.2;1.36;paving_stones;unclassified;Marktplatz
+Haltestelle;W;Darmstadt Schloss;49.87286;8.655281;30.0;18:35:00;18:35:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);152.3;0.37;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.87286;8.655281;30.0;;;;;;Original OSM;152.4;-0.4;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.872838;8.655085;30.0;;;;;;Interpoliert;152.2;-1.53;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.872817;8.65489;30.0;;;;;;Original OSM;152.0;-2.59;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.8728;8.65472;30.0;;;;;;Interpoliert;151.4;-3.65;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;;49.872796;8.654562;30.0;;;;;;Interpoliert (15m);150.8;-4.45;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.872792;8.654403;30.0;;;;;;Original OSM;150.2;-5.24;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.872845;8.654271;30.0;;;;;;Interpoliert (15m);149.6;-4.92;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872898;8.654139;30.0;;;;;;Interpoliert;149.0;-4.7;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872965;8.654003;30.0;;;;;;Interpoliert;148.6;-4.47;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.873015;8.653854;30.0;;;;;;Interpoliert (15m);148.1;-4.23;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.873064;8.653706;30.0;;;;;;Interpoliert (15m);147.6;-3.99;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873114;8.653557;30.0;;;;;;Original OSM;147.1;-3.68;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.873106;8.653391;30.0;;;;;;Interpoliert (15m);146.6;-3.18;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.873097;8.653226;30.0;;;;;;Interpoliert (15m);146.4;-2.64;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873089;8.653061;30.0;;;;;;Interpoliert;146.2;-2.09;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873063;8.652872;30.0;;;;;;Interpoliert;146.0;-1.54;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873037;8.652684;30.0;;;;;;Interpoliert;145.8;-1.64;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873011;8.652495;30.0;;;;;;Interpoliert;145.6;-1.62;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872985;8.652306;30.0;;;;;;Interpoliert;145.3;-1.65;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.872977;8.65213;30.0;;;;;;Interpoliert (15m);145.1;-1.67;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.872969;8.651954;30.0;;;;;;Interpoliert (15m);144.9;-1.67;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.87296;8.651778;30.0;;;;;;Original OSM;144.7;-1.38;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.872875;8.651636;30.0;;;;;;Interpoliert (15m);144.5;-1.06;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.872789;8.651494;30.0;;;;;;Interpoliert (15m);144.4;-0.75;paving_stones;unclassified;Luisenplatz
+Haltestelle;W;Darmstadt Luisenplatz;49.872704;8.651351;30.0;18:38:00;18:38:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 21m) | Auf Route gesnappt (21m);144.4;-0.43;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872685;8.651314;30.0;;;;;;Original OSM;144.4;-0.14;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.87269;8.651114;30.0;;;;;;Interpoliert (15m);144.4;0.19;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872695;8.650914;30.0;;;;;;Original OSM;144.4;0.03;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872713;8.650768;30.0;;;;;;Interpoliert;144.5;-0.14;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872733;8.650595;30.0;;;;;;Original OSM;144.4;-0.31;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.872736;8.650429;30.0;;;;;;Interpoliert (15m);144.3;-0.5;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872739;8.650264;30.0;;;;;;Original OSM;144.2;-0.89;asphalt;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.872722;8.650125;30.0;;;;;;Interpoliert (15m);144.1;-1.03;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872705;8.649986;30.0;;;;;;Interpoliert;144.0;-1.15;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872679;8.649801;30.0;;;;;;Interpoliert;143.8;-1.28;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872654;8.649616;30.0;;;;;;Interpoliert;143.6;-1.38;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872628;8.649431;30.0;;;;;;Interpoliert;143.4;-1.62;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872603;8.649246;30.0;;;;;;Interpoliert;143.2;-1.47;asphalt;busway;Rheinstraße
+Routenpunkt (Way);A;Rheinstraße (Ampel);49.872577;8.64906;30;;;;;;Original OSM;142.9;-1.32;asphalt;residential;Grafenstraße
+Routenpunkt (Way);T;Rheinstraße;49.87255;8.648869;30;;;;;;Interpoliert;142.8;-1.16;asphalt;residential;Grafenstraße
+Routenpunkt (Way);T;Rheinstraße;49.872522;8.648677;30;;;;;;Interpoliert;142.7;-1.01;asphalt;residential;
+Routenpunkt (Way);T;Rheinstraße;49.872495;8.648485;30;;;;;;Interpoliert;142.6;-0.57;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872467;8.648294;30;;;;;;Interpoliert;142.5;-0.43;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87244;8.648102;30;;;;;;Interpoliert;142.5;-0.28;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872412;8.64791;30;;;;;;Interpoliert;142.5;-0.14;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872384;8.647719;30;;;;;;Interpoliert;142.5;-0.57;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872357;8.647527;30;;;;;;Interpoliert;142.5;-0.99;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872329;8.647335;30;;;;;;Interpoliert;142.1;-1.42;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872302;8.647144;30;;;;;;Interpoliert;141.8;-1.85;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872274;8.646952;30;;;;;;Interpoliert;141.5;-2.29;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872247;8.64676;30;;;;;;Original OSM;141.2;-1.87;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87222;8.646576;30;;;;;;Interpoliert;140.9;-1.74;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872193;8.646391;30;;;;;;Interpoliert;140.8;-1.61;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872166;8.646207;30;;;;;;Interpoliert;140.6;-1.47;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872138;8.646022;30;;;;;;Interpoliert;140.4;-1.47;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872111;8.645837;30;;;;;;Interpoliert;140.2;-1.18;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872084;8.645653;30;;;;;;Interpoliert;139.9;-0.74;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872057;8.645468;30;;;;;;Interpoliert;140.0;-0.29;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87203;8.645283;30;;;;;;Interpoliert;140.1;0.15;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872003;8.645099;30;;;;;;Interpoliert;140.2;0.75;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871976;8.64492;30;;;;;;Interpoliert (15m);140.3;0.42;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871949;8.644741;30;;;;;;Original OSM;140.4;0.13;asphalt;busway;Rheinstraße
+Haltestelle;W;Darmstadt Rhein-/Neckarstraße;49.871925;8.644589;30;18:40:00;18:40:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 43m) | Auf Route gesnappt (43m);140.3;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871897;8.644404;30;;;;;;Original OSM;140.2;-0.48;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871863;8.644226;30;;;;;;Interpoliert (15m);140.1;-0.78;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.87183;8.644049;30;;;;;;Interpoliert (15m);140.0;-0.76;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871796;8.643871;30;;;;;;Original OSM;139.9;-0.77;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871771;8.643701;30;;;;;;Interpoliert (15m);139.8;-0.78;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871746;8.643531;30;;;;;;Interpoliert (15m);139.7;-0.95;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871721;8.643361;30;;;;;;Interpoliert (15m);139.6;-1.08;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rhein-/Neckarstraße;49.871696;8.64319;30;;;;;;Interpoliert;139.4;-1.2;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871683;8.642993;30;;;;;;Interpoliert (15m);139.2;-1.33;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871671;8.642795;30;;;;;;Interpoliert;139.0;-1.46;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871645;8.642607;30;;;;;;Interpoliert;138.8;-1.29;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871619;8.64242;30;;;;;;Interpoliert;138.6;-1.01;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871594;8.642232;30;;;;;;Interpoliert;138.5;-0.73;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871568;8.642045;30;;;;;;Interpoliert;138.5;-0.44;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871546;8.641887;30;;;;;;Interpoliert (15m);138.5;-0.31;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871524;8.641729;30;;;;;;Original OSM;138.5;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871501;8.641564;30;;;;;;Interpoliert (15m);138.4;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871478;8.641399;30;;;;;;Original OSM;138.4;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871452;8.641207;30;;;;;;Interpoliert;138.4;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871425;8.641015;30;;;;;;Interpoliert;138.4;-0.28;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871399;8.640824;30;;;;;;Interpoliert;138.4;-0.71;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871372;8.640632;30;;;;;;Interpoliert;138.2;-1.14;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871346;8.64044;30;;;;;;Interpoliert;137.9;-1.56;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87132;8.640248;30;;;;;;Interpoliert;137.6;-1.85;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871293;8.640056;30;;;;;;Interpoliert;137.3;-1.71;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871267;8.639864;30;;;;;;Interpoliert;137.1;-1.42;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87124;8.639672;30;;;;;;Original OSM;137.0;-1.13;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871213;8.639477;30;;;;;;Interpoliert;136.9;-0.85;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871186;8.639282;30;;;;;;Interpoliert;136.8;-0.7;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.87116;8.639087;30;;;;;;Interpoliert;136.7;-0.42;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.871133;8.638892;30;;;;;;Interpoliert;136.6;-0.14;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.871106;8.638697;30;;;;;;Interpoliert;136.7;0.14;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.871079;8.638502;30;;;;;;Interpoliert;136.8;0.14;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.871052;8.638307;30;;;;;;Interpoliert;136.9;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871025;8.638112;30;;;;;;Interpoliert;136.8;-0.42;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870998;8.637917;30;;;;;;Interpoliert;136.6;-0.84;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870972;8.637722;30;;;;;;Interpoliert;136.4;-0.98;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870945;8.637526;30;;;;;;Interpoliert;136.2;-0.84;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870918;8.637331;30;;;;;;Interpoliert;136.2;-0.56;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870891;8.637136;30;;;;;;Interpoliert;136.2;-0.28;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870864;8.636941;30;;;;;;Interpoliert;136.2;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870837;8.636746;30;;;;;;Interpoliert;136.2;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.870806;8.636632;30;;;;;;Interpoliert (15m);136.2;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870774;8.636517;30;;;;;;Original OSM;136.2;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.870757;8.636381;30;;;;;;Interpoliert (15m);136.2;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87074;8.636245;30;;;;;;Original OSM;136.2;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.870712;8.636042;30;;;;;;Interpoliert (15m);136.2;-0.37;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Berliner Allee;49.870684;8.635838;30;;;;;;Interpoliert;136.2;-0.82;asphalt;busway;Rheinstraße
+Haltestelle;W;Darmstadt Berliner Allee;49.870692;8.63569;30;18:41:00;18:41:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 8m) | Auf Route gesnappt (8m);136.0;-1.26;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Berliner Allee;49.870647;8.635585;30;;;;;;Original OSM;135.8;-1.71;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.870645;8.63546;30;;;;;;Interpoliert (15m);135.6;-1.98;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870643;8.635334;30;;;;;;Interpoliert;135.4;-1.61;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870615;8.635134;30;;;;;;Interpoliert;135.2;-0.89;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870588;8.634934;30;;;;;;Interpoliert;135.2;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87056;8.634733;30;;;;;;Interpoliert;135.4;0.55;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870533;8.634533;30;;;;;;Interpoliert;135.6;1.09;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870505;8.634333;30;;;;;;Interpoliert;135.8;1.09;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870477;8.634133;30;;;;;;Interpoliert;136.0;0.82;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87045;8.633933;30;;;;;;Original OSM;136.0;0.55;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870425;8.633749;30;;;;;;Interpoliert;136.0;0.27;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870399;8.633564;30;;;;;;Interpoliert;136.0;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.870399;8.633418;30;;;;;;Interpoliert (15m);136.0;-0.38;asphalt;busway;Rheinstraße
+Routenpunkt (Way);A;Ampel;49.870399;8.633272;30;;;;;;Interpoliert (15m);136.0;-1.15;asphalt;busway;Am Hauptbahnhof
+Routenpunkt (Way);T;Rheinstraße;49.870399;8.633126;30;;;;;;Original OSM;135.8;-1.91;asphalt;busway;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.87048;8.632994;30;;;;;;Interpoliert (15m);135.3;-2.64;asphalt;busway;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870561;8.632861;30;;;;;;Interpoliert;134.8;-3.36;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870668;8.632766;30;;;;;;Original OSM;134.3;-3.46;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870777;8.632674;30;;;;;;Interpoliert;133.8;-3.18;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870876;8.63259;30;;;;;;Interpoliert;133.5;-2.89;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870975;8.632506;30;;;;;;Interpoliert;133.2;-2.59;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871073;8.632422;30;;;;;;Interpoliert;132.9;-2.29;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.871184;8.632328;30;;;;;;Interpoliert (15m);132.6;-1.81;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871296;8.632234;30;;;;;;Original OSM;132.3;-0.79;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.871384;8.632158;30;;;;;;Interpoliert (15m);132.3;0.26;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871471;8.632083;30;;;;;;Interpoliert;132.6;0.87;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871554;8.632013;30;;;;;;Original OSM;132.9;1.47;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871638;8.631939;30;;;;;;Interpoliert;133.0;1.7;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.871727;8.631831;30;;;;;;Interpoliert (15m);133.11;1.43;asphalt;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871816;8.631723;30;;;;;;Original OSM;133.25;1.22;asphalt;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.871931;8.631682;30;;;;;;Interpoliert (15m);133.43;1.29;paving_stones;pedestrian;Am Hauptbahnhof
+Haltestelle;W;Darmstadt Hauptbahnhof Ost;49.872047;8.631641;30;18:44:00;18:44:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 37m) | Auf Route gesnappt (37m);133.67;1.42;paving_stones;pedestrian;Am Hauptbahnhof

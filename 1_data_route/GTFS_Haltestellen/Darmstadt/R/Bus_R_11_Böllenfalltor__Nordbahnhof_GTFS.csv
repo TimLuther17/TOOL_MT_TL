@@ -1,0 +1,20 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Böllenfalltor;49.8526;8.669743;08:02:00;08:02:00;Kein Umlauf;Sa,So;1318;Stop Seq 0
+Haltestelle;Darmstadt Marienhospital;49.851143;8.662481;08:03:00;08:03:00;Kein Umlauf;Sa,So;1318;Stop Seq 1
+Haltestelle;Darmstadt Klappacher Straße;49.85317;8.657377;08:04:00;08:04:00;Kein Umlauf;Sa,So;1318;Stop Seq 2
+Haltestelle;Darmstadt Ludwigshöhstraße;49.853405;8.652481;08:05:00;08:05:00;Kein Umlauf;Sa,So;1318;Stop Seq 3
+Haltestelle;Darmstadt Landskronstraße;49.8532;8.646614;08:07:00;08:07:00;Kein Umlauf;Sa,So;1318;Stop Seq 4
+Haltestelle;Darmstadt Schiebelhuthweg;49.85406;8.640976;08:08:00;08:08:00;Kein Umlauf;Sa,So;1318;Stop Seq 5
+Haltestelle;Darmstadt Südbahnhof;49.85497;8.637701;08:09:00;08:09:00;Kein Umlauf;Sa,So;1318;Stop Seq 6
+Haltestelle;Darmstadt Haardtring;49.857975;8.635426;08:10:00;08:10:00;Kein Umlauf;Sa,So;1318;Stop Seq 7
+Haltestelle;Darmstadt Philipp-Röth-Weg NSüdbf;49.863125;8.632619;08:11:00;08:11:00;Kein Umlauf;Sa,So;1318;Stop Seq 8
+Haltestelle;Darmstadt Pfalzweg NHaardtring;49.86593;8.631555;08:12:00;08:12:00;Kein Umlauf;Sa,So;1318;Stop Seq 9
+Haltestelle;Darmstadt Hauptbahnhof Ost;49.87194;8.631148;08:15:00;08:15:00;Kein Umlauf;Sa,So;1318;Stop Seq 10
+Haltestelle;Darmstadt Evonik;49.875854;8.634902;08:17:00;08:17:00;Kein Umlauf;Sa,So;1318;Stop Seq 11
+Haltestelle;Darmstadt Mainzer Straße;49.87958;8.635723;08:18:00;08:18:00;Kein Umlauf;Sa,So;1318;Stop Seq 12
+Haltestelle;Darmstadt Windmühle;49.883354;8.638268;08:19:00;08:19:00;Kein Umlauf;Sa,So;1318;Stop Seq 13
+Haltestelle;Darmstadt Otto-Röhm-Straße;49.88794;8.632793;08:20:00;08:20:00;Kein Umlauf;Sa,So;1318;Stop Seq 14
+Haltestelle;Darmstadt Wöhlerweg;49.88985;8.636522;08:21:00;08:21:00;Kein Umlauf;Sa,So;1318;Stop Seq 15
+Haltestelle;Darmstadt Daimlerweg;49.889908;8.640571;08:22:00;08:22:00;Kein Umlauf;Sa,So;1318;Stop Seq 16
+Haltestelle;Darmstadt Carl-Schenck-Ring;49.888412;8.646343;08:23:00;08:23:00;Kein Umlauf;Sa,So;1318;Stop Seq 17
+Haltestelle;Darmstadt Nordbahnhof;49.891808;8.653374;08:25:00;08:25:00;Kein Umlauf;Sa,So;1318;Stop Seq 18

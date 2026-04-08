@@ -1,0 +1,16 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Pankratiusstraße;49.882313;8.659606;13:11:00;13:11:00;Kein Umlauf;So;1372;Stop Seq 0
+Haltestelle;Darmstadt Heinheimer Straße;49.882343;8.660288;13:12:00;13:12:00;Kein Umlauf;So;1372;Stop Seq 1
+Haltestelle;Darmstadt Friedr.-Ebert-Platz;49.88186;8.655073;13:13:00;13:13:00;Kein Umlauf;So;1372;Stop Seq 2
+Haltestelle;Darmstadt Pallaswiesenstraße;49.88109;8.65046;13:15:00;13:15:00;Kein Umlauf;So;1372;Stop Seq 3
+Haltestelle;Darmstadt Kahlertstraße;49.879894;8.647505;13:16:00;13:16:00;Kein Umlauf;So;1372;Stop Seq 4
+Haltestelle;Darmstadt Klinikum;49.875805;8.647743;13:18:00;13:18:00;Kein Umlauf;So;1372;Stop Seq 5
+Haltestelle;Darmstadt Willy-Brandt-Platz;49.876263;8.650244;13:19:00;13:19:00;Kein Umlauf;So;1372;Stop Seq 6
+Haltestelle;Darmstadt Luisenplatz;49.872883;8.651256;13:21:00;13:21:00;Kein Umlauf;So;1372;Stop Seq 7
+Haltestelle;Darmstadt Schloss;49.872868;8.655235;13:23:00;13:23:00;Kein Umlauf;So;1372;Stop Seq 8
+Haltestelle;Darmstadt Mercksplatz;49.871883;8.662545;13:25:00;13:25:00;Kein Umlauf;So;1372;Stop Seq 9
+Haltestelle;Darmstadt Roßdörfer Platz;49.868954;8.662732;13:27:00;13:27:00;Kein Umlauf;So;1372;Stop Seq 10
+Haltestelle;Darmstadt Beckstraße;49.869366;8.668405;13:28:00;13:28:00;Kein Umlauf;So;1372;Stop Seq 11
+Haltestelle;Darmstadt Heidenreichstraße;49.869007;8.671732;13:29:00;13:29:00;Kein Umlauf;So;1372;Stop Seq 12
+Haltestelle;Darmstadt Bot. Garten/Vivarium;49.86788;8.678291;13:31:00;13:31:00;Kein Umlauf;So;1372;Stop Seq 13
+Haltestelle;Da. TU-Lichtwiese/Campus;49.86163;8.680627;13:34:00;13:34:00;Kein Umlauf;So;1372;Stop Seq 14

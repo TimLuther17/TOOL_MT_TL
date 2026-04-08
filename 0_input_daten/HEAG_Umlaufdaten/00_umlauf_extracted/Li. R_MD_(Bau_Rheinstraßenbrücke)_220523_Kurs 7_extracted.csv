@@ -1,0 +1,331 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Darmstadt Böllenfalltor,5;06:50:00;1;W
+1;Darmstadt Marienhospital,1;06:51:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;06:53:00;1;W
+1;Darmstadt Landskronstraße,3;06:55:00;1;W
+1;Darmstadt Südbahnhof,3;06:57:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;06:59:00;1;W
+1;Darmstadt Hochschule West,1;07:00:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;07:01:00;1;W
+1;Darmstadt Hauptbahnhof,2;07:03:00;1;W
+1;Darmstadt Evonik,1;07:06:00;1;W
+1;Darmstadt Mainzer Straße,1;07:07:00;1;W
+1;Darmstadt Windmühle,2;07:08:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;07:10:00;1;W
+1;Darmstadt Daimlerweg,1;07:12:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;07:13:00;1;W
+1;Darmstadt Nordbahnhof,3;07:15:00;1;W
+1;Darmstadt Nordbahnhof,3;07:17:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;07:19:00;2;W
+1;Darmstadt Daimlerweg,2;07:20:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;07:22:00;2;W
+1;Darmstadt Windmühle,1;07:24:00;2;W
+1;Darmstadt Mainzer Straße,2;07:25:00;2;W
+1;Darmstadt Evonik,2;07:27:00;2;W
+1;Darmstadt Hauptbahnhof,4;07:29:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;07:32:00;2;W
+1;Darmstadt Hochschule West,12;07:33:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;07:35:00;2;W
+1;Darmstadt Haardtring,2;07:37:00;2;W
+1;Darmstadt Südbahnhof,4;07:38:00;2;W
+1;Darmstadt Landskronstraße,4;07:40:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;07:42:00;2;W
+1;Darmstadt Marienhospital,2;07:44:00;2;W
+1;Darmstadt Böllenfalltor,5;07:45:00;2;W
+1;Darmstadt Böllenfalltor,5;08:00:00;1;W
+1;Darmstadt Marienhospital,1;08:01:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;08:03:00;1;W
+1;Darmstadt Landskronstraße,3;08:05:00;1;W
+1;Darmstadt Südbahnhof,3;08:07:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;08:09:00;1;W
+1;Darmstadt Hochschule West,1;08:10:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;08:11:00;1;W
+1;Darmstadt Hauptbahnhof,2;08:13:00;1;W
+1;Darmstadt Evonik,1;08:16:00;1;W
+1;Darmstadt Mainzer Straße,1;08:17:00;1;W
+1;Darmstadt Windmühle,2;08:18:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;08:20:00;1;W
+1;Darmstadt Daimlerweg,1;08:22:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;08:23:00;1;W
+1;Darmstadt Nordbahnhof,3;08:25:00;1;W
+1;Darmstadt Nordbahnhof,3;08:27:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;08:29:00;2;W
+1;Darmstadt Daimlerweg,2;08:30:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;08:32:00;2;W
+1;Darmstadt Windmühle,1;08:34:00;2;W
+1;Darmstadt Mainzer Straße,2;08:35:00;2;W
+1;Darmstadt Evonik,2;08:37:00;2;W
+1;Darmstadt Hauptbahnhof,4;08:39:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;08:42:00;2;W
+1;Darmstadt Hochschule West,12;08:43:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;08:45:00;2;W
+1;Darmstadt Haardtring,2;08:47:00;2;W
+1;Darmstadt Südbahnhof,4;08:48:00;2;W
+1;Darmstadt Landskronstraße,4;08:50:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;08:52:00;2;W
+1;Darmstadt Marienhospital,2;08:54:00;2;W
+1;Darmstadt Böllenfalltor,5;08:55:00;2;W
+1;Darmstadt Böllenfalltor,5;09:00:00;1;W
+1;Darmstadt Marienhospital,1;09:01:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;09:03:00;1;W
+1;Darmstadt Landskronstraße,3;09:05:00;1;W
+1;Darmstadt Südbahnhof,3;09:07:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;09:09:00;1;W
+1;Darmstadt Hochschule West,1;09:10:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;09:11:00;1;W
+1;Darmstadt Hauptbahnhof,2;09:13:00;1;W
+1;Darmstadt Evonik,1;09:16:00;1;W
+1;Darmstadt Mainzer Straße,1;09:17:00;1;W
+1;Darmstadt Windmühle,2;09:18:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;09:20:00;1;W
+1;Darmstadt Daimlerweg,1;09:22:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;09:23:00;1;W
+1;Darmstadt Nordbahnhof,3;09:25:00;1;W
+1;Darmstadt Nordbahnhof,3;09:27:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;09:29:00;2;W
+1;Darmstadt Daimlerweg,2;09:30:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;09:32:00;2;W
+1;Darmstadt Windmühle,1;09:34:00;2;W
+1;Darmstadt Mainzer Straße,2;09:35:00;2;W
+1;Darmstadt Evonik,2;09:37:00;2;W
+1;Darmstadt Hauptbahnhof,4;09:39:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;09:42:00;2;W
+1;Darmstadt Hochschule West,12;09:43:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;09:45:00;2;W
+1;Darmstadt Haardtring,2;09:47:00;2;W
+1;Darmstadt Südbahnhof,4;09:48:00;2;W
+1;Darmstadt Landskronstraße,4;09:50:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;09:52:00;2;W
+1;Darmstadt Marienhospital,2;09:54:00;2;W
+1;Darmstadt Böllenfalltor,5;09:55:00;2;W
+1;Darmstadt Böllenfalltor,5;10:00:00;1;W
+1;Darmstadt Marienhospital,1;10:01:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;10:03:00;1;W
+1;Darmstadt Landskronstraße,3;10:05:00;1;W
+1;Darmstadt Südbahnhof,3;10:07:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;10:09:00;1;W
+1;Darmstadt Hochschule West,1;10:10:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;10:11:00;1;W
+1;Darmstadt Hauptbahnhof,2;10:13:00;1;W
+1;Darmstadt Evonik,1;10:16:00;1;W
+1;Darmstadt Mainzer Straße,1;10:17:00;1;W
+1;Darmstadt Windmühle,2;10:18:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;10:20:00;1;W
+1;Darmstadt Daimlerweg,1;10:22:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;10:23:00;1;W
+1;Darmstadt Nordbahnhof,3;10:25:00;1;W
+1;Darmstadt Nordbahnhof,3;10:27:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;10:29:00;2;W
+1;Darmstadt Daimlerweg,2;10:30:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;10:32:00;2;W
+1;Darmstadt Windmühle,1;10:34:00;2;W
+1;Darmstadt Mainzer Straße,2;10:35:00;2;W
+1;Darmstadt Evonik,2;10:37:00;2;W
+1;Darmstadt Hauptbahnhof,4;10:39:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;10:42:00;2;W
+1;Darmstadt Hochschule West,12;10:43:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;10:45:00;2;W
+1;Darmstadt Haardtring,2;10:47:00;2;W
+1;Darmstadt Südbahnhof,4;10:48:00;2;W
+1;Darmstadt Landskronstraße,4;10:50:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;10:52:00;2;W
+1;Darmstadt Marienhospital,2;10:54:00;2;W
+1;Darmstadt Böllenfalltor,5;10:55:00;2;W
+1;Darmstadt Böllenfalltor,5;11:00:00;1;W
+1;Darmstadt Marienhospital,1;11:01:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;11:03:00;1;W
+1;Darmstadt Landskronstraße,3;11:05:00;1;W
+1;Darmstadt Südbahnhof,3;11:07:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;11:09:00;1;W
+1;Darmstadt Hochschule West,1;11:10:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;11:11:00;1;W
+1;Darmstadt Hauptbahnhof,2;11:13:00;1;W
+1;Darmstadt Evonik,1;11:16:00;1;W
+1;Darmstadt Mainzer Straße,1;11:17:00;1;W
+1;Darmstadt Windmühle,2;11:18:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;11:20:00;1;W
+1;Darmstadt Daimlerweg,1;11:22:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;11:23:00;1;W
+1;Darmstadt Nordbahnhof,3;11:25:00;1;W
+1;Darmstadt Nordbahnhof,3;11:27:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;11:29:00;2;W
+1;Darmstadt Daimlerweg,2;11:30:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;11:32:00;2;W
+1;Darmstadt Windmühle,1;11:34:00;2;W
+1;Darmstadt Mainzer Straße,2;11:35:00;2;W
+1;Darmstadt Evonik,2;11:37:00;2;W
+1;Darmstadt Hauptbahnhof,4;11:39:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;11:42:00;2;W
+1;Darmstadt Hochschule West,12;11:43:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;11:45:00;2;W
+1;Darmstadt Haardtring,2;11:47:00;2;W
+1;Darmstadt Südbahnhof,4;11:48:00;2;W
+1;Darmstadt Landskronstraße,4;11:50:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;11:52:00;2;W
+1;Darmstadt Marienhospital,2;11:54:00;2;W
+1;Darmstadt Böllenfalltor,5;11:55:00;2;W
+1;Darmstadt Böllenfalltor,5;12:00:00;1;W
+1;Darmstadt Marienhospital,1;12:01:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;12:03:00;1;W
+1;Darmstadt Landskronstraße,3;12:05:00;1;W
+1;Darmstadt Südbahnhof,3;12:07:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;12:09:00;1;W
+1;Darmstadt Hochschule West,1;12:10:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;12:11:00;1;W
+1;Darmstadt Hauptbahnhof,2;12:13:00;1;W
+1;Darmstadt Evonik,1;12:16:00;1;W
+1;Darmstadt Mainzer Straße,1;12:17:00;1;W
+1;Darmstadt Windmühle,2;12:18:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;12:20:00;1;W
+1;Darmstadt Daimlerweg,1;12:22:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;12:23:00;1;W
+1;Darmstadt Nordbahnhof,3;12:25:00;1;W
+1;Darmstadt Nordbahnhof,3;12:27:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;12:29:00;2;W
+1;Darmstadt Daimlerweg,2;12:30:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;12:32:00;2;W
+1;Darmstadt Windmühle,1;12:34:00;2;W
+1;Darmstadt Mainzer Straße,2;12:35:00;2;W
+1;Darmstadt Evonik,2;12:37:00;2;W
+1;Darmstadt Hauptbahnhof,4;12:39:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;12:42:00;2;W
+1;Darmstadt Hochschule West,12;12:43:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;12:45:00;2;W
+1;Darmstadt Haardtring,2;12:47:00;2;W
+1;Darmstadt Südbahnhof,4;12:48:00;2;W
+1;Darmstadt Landskronstraße,4;12:50:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;12:52:00;2;W
+1;Darmstadt Marienhospital,2;12:54:00;2;W
+1;Darmstadt Böllenfalltor,5;12:55:00;2;W
+1;Darmstadt Böllenfalltor,5;13:00:00;1;W
+1;Darmstadt Marienhospital,1;13:01:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;13:03:00;1;W
+1;Darmstadt Landskronstraße,3;13:05:00;1;W
+1;Darmstadt Südbahnhof,3;13:07:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;13:09:00;1;W
+1;Darmstadt Hochschule West,1;13:10:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;13:11:00;1;W
+1;Darmstadt Hauptbahnhof,2;13:13:00;1;W
+1;Darmstadt Evonik,1;13:16:00;1;W
+1;Darmstadt Mainzer Straße,1;13:17:00;1;W
+1;Darmstadt Windmühle,2;13:18:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;13:20:00;1;W
+1;Darmstadt Daimlerweg,1;13:22:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;13:23:00;1;W
+1;Darmstadt Nordbahnhof,3;13:25:00;1;W
+1;Darmstadt Nordbahnhof,3;13:27:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;13:29:00;2;W
+1;Darmstadt Daimlerweg,2;13:30:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;13:32:00;2;W
+1;Darmstadt Windmühle,1;13:34:00;2;W
+1;Darmstadt Mainzer Straße,2;13:35:00;2;W
+1;Darmstadt Evonik,2;13:37:00;2;W
+1;Darmstadt Hauptbahnhof,4;13:39:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;13:42:00;2;W
+1;Darmstadt Hochschule West,12;13:43:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;13:45:00;2;W
+1;Darmstadt Haardtring,2;13:47:00;2;W
+1;Darmstadt Südbahnhof,4;13:48:00;2;W
+1;Darmstadt Landskronstraße,4;13:50:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;13:52:00;2;W
+1;Darmstadt Marienhospital,2;13:54:00;2;W
+1;Darmstadt Böllenfalltor,5;13:55:00;2;W
+1;Darmstadt Böllenfalltor,5;14:00:00;1;W
+1;Darmstadt Marienhospital,1;14:01:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;14:03:00;1;W
+1;Darmstadt Landskronstraße,3;14:05:00;1;W
+1;Darmstadt Südbahnhof,3;14:07:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;14:09:00;1;W
+1;Darmstadt Hochschule West,1;14:10:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;14:11:00;1;W
+1;Darmstadt Hauptbahnhof,2;14:13:00;1;W
+1;Darmstadt Evonik,1;14:16:00;1;W
+1;Darmstadt Mainzer Straße,1;14:17:00;1;W
+1;Darmstadt Windmühle,2;14:18:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;14:20:00;1;W
+1;Darmstadt Daimlerweg,1;14:22:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;14:23:00;1;W
+1;Darmstadt Nordbahnhof,3;14:25:00;1;W
+1;Darmstadt Nordbahnhof,3;14:27:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;14:29:00;2;W
+1;Darmstadt Daimlerweg,2;14:30:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;14:32:00;2;W
+1;Darmstadt Windmühle,1;14:34:00;2;W
+1;Darmstadt Mainzer Straße,2;14:35:00;2;W
+1;Darmstadt Evonik,2;14:37:00;2;W
+1;Darmstadt Hauptbahnhof,4;14:39:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;14:42:00;2;W
+1;Darmstadt Hochschule West,12;14:43:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;14:45:00;2;W
+1;Darmstadt Haardtring,2;14:47:00;2;W
+1;Darmstadt Südbahnhof,4;14:48:00;2;W
+1;Darmstadt Landskronstraße,4;14:50:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;14:52:00;2;W
+1;Darmstadt Marienhospital,2;14:54:00;2;W
+1;Darmstadt Böllenfalltor,5;14:55:00;2;W
+1;Darmstadt Böllenfalltor,5;15:10:00;1;W
+1;Darmstadt Marienhospital,1;15:11:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;15:13:00;1;W
+1;Darmstadt Landskronstraße,3;15:15:00;1;W
+1;Darmstadt Südbahnhof,3;15:17:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;15:19:00;1;W
+1;Darmstadt Hochschule West,1;15:20:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;15:21:00;1;W
+1;Darmstadt Hauptbahnhof,2;15:23:00;1;W
+1;Darmstadt Evonik,1;15:26:00;1;W
+1;Darmstadt Mainzer Straße,1;15:27:00;1;W
+1;Darmstadt Windmühle,2;15:28:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;15:30:00;1;W
+1;Darmstadt Daimlerweg,1;15:32:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;15:33:00;1;W
+1;Darmstadt Nordbahnhof,3;15:35:00;1;W
+1;Darmstadt Nordbahnhof,3;15:37:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;15:39:00;2;W
+1;Darmstadt Daimlerweg,2;15:40:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;15:42:00;2;W
+1;Darmstadt Windmühle,1;15:44:00;2;W
+1;Darmstadt Mainzer Straße,2;15:45:00;2;W
+1;Darmstadt Evonik,2;15:47:00;2;W
+1;Darmstadt Hauptbahnhof,4;15:49:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;15:52:00;2;W
+1;Darmstadt Hochschule West,12;15:53:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;15:55:00;2;W
+1;Darmstadt Haardtring,2;15:57:00;2;W
+1;Darmstadt Südbahnhof,4;15:58:00;2;W
+1;Darmstadt Landskronstraße,4;16:00:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;16:02:00;2;W
+1;Darmstadt Marienhospital,2;16:04:00;2;W
+1;Darmstadt Böllenfalltor,5;16:05:00;2;W
+1;Darmstadt Böllenfalltor,5;16:20:00;1;W
+1;Darmstadt Marienhospital,1;16:21:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;16:23:00;1;W
+1;Darmstadt Landskronstraße,3;16:25:00;1;W
+1;Darmstadt Südbahnhof,3;16:27:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;16:29:00;1;W
+1;Darmstadt Hochschule West,1;16:30:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;16:31:00;1;W
+1;Darmstadt Hauptbahnhof,2;16:33:00;1;W
+1;Darmstadt Evonik,1;16:36:00;1;W
+1;Darmstadt Mainzer Straße,1;16:37:00;1;W
+1;Darmstadt Windmühle,2;16:38:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;16:40:00;1;W
+1;Darmstadt Daimlerweg,1;16:42:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;16:43:00;1;W
+1;Darmstadt Nordbahnhof,3;16:45:00;1;W
+1;Darmstadt Nordbahnhof,3;16:47:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;16:49:00;2;W
+1;Darmstadt Daimlerweg,2;16:50:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;16:52:00;2;W
+1;Darmstadt Windmühle,1;16:54:00;2;W
+1;Darmstadt Mainzer Straße,2;16:55:00;2;W
+1;Darmstadt Evonik,2;16:57:00;2;W
+1;Darmstadt Hauptbahnhof,4;16:59:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;17:02:00;2;W
+1;Darmstadt Hochschule West,12;17:03:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;17:05:00;2;W
+1;Darmstadt Haardtring,2;17:07:00;2;W
+1;Darmstadt Südbahnhof,4;17:08:00;2;W
+1;Darmstadt Landskronstraße,4;17:10:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;17:12:00;2;W
+1;Darmstadt Marienhospital,2;17:14:00;2;W
+1;Darmstadt Böllenfalltor,5;17:15:00;2;W

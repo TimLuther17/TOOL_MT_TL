@@ -1,0 +1,865 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%)
+Routenpunkt (Way);T;Grillparzerstraße;49.90312316;8.66337776;30.0;;;;;;Interpoliert;135.0;0.0
+Haltestelle;W;Arheilgen Stadtteilschule;49.90312316;8.66337776;30.0;12:22:00;12:22:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 22m) | Auf Route gesnappt (2m);135.0;0.0
+Routenpunkt (Way);T;Grillparzerstraße;49.90312072;8.66356292;30.0;;;;;;Interpoliert;135.0;0.0
+Routenpunkt (Way);T;Grillparzerstraße;49.90311828;8.66374808;30.0;;;;;;Interpoliert;135.0;0.0
+Routenpunkt (Way);T;Grillparzerstraße;49.903115840000005;8.66393324;30.0;;;;;;Interpoliert;135.0;0.0
+Routenpunkt (Way);T;;49.90311412;8.664044145;30.0;;;;;;Interpoliert (15m);135.0;0.0
+Routenpunkt (Way);T;Grillparzerstraße;49.9031124;8.66415505;30.0;;;;;;Original OSM;135.0;0.73
+Routenpunkt (Way);T;;49.9031092375;8.664270225;30.0;;;;;;Interpoliert (15m);135.0;1.16
+Routenpunkt (Way);T;Grillparzerstraße;49.903106075;8.6643854;30.0;;;;;;Interpoliert;135.3;1.59
+Routenpunkt (Way);T;Grillparzerstraße;49.90310075;8.664579100000001;30.0;;;;;;Interpoliert;135.6;2.02
+Routenpunkt (Way);T;Grillparzerstraße;49.903095425;8.6647728;30.0;;;;;;Interpoliert;135.9;2.17
+Routenpunkt (Way);T;Grillparzerstraße;49.9030901;8.6649665;30.0;;;;;;Interpoliert;136.2;1.58
+Routenpunkt (Way);T;Grillparzerstraße;49.903084775;8.6651602;30.0;;;;;;Interpoliert;136.3;1.3
+Routenpunkt (Way);T;Grillparzerstraße;49.90307945;8.6653539;30.0;;;;;;Interpoliert;136.4;1.01
+Routenpunkt (Way);T;Grillparzerstraße;49.903074125;8.6655476;30.0;;;;;;Interpoliert;136.5;0.72
+Routenpunkt (Way);T;Grillparzerstraße;49.9030688;8.6657413;30.0;;;;;;Interpoliert;136.6;0.72
+Routenpunkt (Way);T;Grillparzerstraße;49.903063475;8.665935000000001;30.0;;;;;;Interpoliert;136.7;0.29
+Routenpunkt (Way);T;Grillparzerstraße;49.90305815;8.666128700000002;30.0;;;;;;Interpoliert;136.8;-0.14
+Routenpunkt (Way);T;Grillparzerstraße;49.903052825;8.6663224;30.0;;;;;;Interpoliert;136.6;-0.68
+Routenpunkt (Way);T;Grillparzerstraße;49.9030475;8.6665161;30.0;;;;;;Original OSM;136.4;-1.21
+Routenpunkt (Way);T;Grillparzerstraße;49.90304205;8.666659;30.0;;;;;;Interpoliert;136.2;-0.94
+Routenpunkt (Way);T;Grillparzerstraße;49.9030366;8.6668019;30.0;;;;;;Original OSM;136.0;-0.06
+Routenpunkt (Way);T;Grillparzerstraße;49.90301795;8.66700045;30.0;;;;;;Interpoliert;136.3;0.81
+Routenpunkt (Way);T;;49.90300316;8.667141466666667;30.0;;;;;;Interpoliert (15m);136.6;1.79
+Routenpunkt (Way);T;;49.90298837;8.667282483333334;30.0;;;;;;Interpoliert (15m);136.9;2.59
+Routenpunkt (Way);T;Grillparzerstraße;49.90297358;8.667423500000002;30.0;;;;;;Original OSM;137.2;2.59
+Routenpunkt (Way);T;;49.90294844;8.667620450000001;30.0;;;;;;Interpoliert (15m);137.5;2.51
+Routenpunkt (Way);T;Grillparzerstraße;49.9029233;8.6678174;30.0;;;;;;Interpoliert;137.8;2.42
+Routenpunkt (Way);T;Grillparzerstraße;49.9029005;8.6679808;30.0;;;;;;Interpoliert;138.1;2.32
+Routenpunkt (Way);T;Grillparzerstraße;49.9028777;8.6681442;30.0;;;;;;Original OSM;138.4;2.38
+Routenpunkt (Way);T;Grillparzerstraße;49.9028537;8.668314466666667;30.0;;;;;;Interpoliert;138.7;1.96
+Routenpunkt (Way);T;Grillparzerstraße;49.9028297;8.668484733333333;30.0;;;;;;Interpoliert;139.0;1.46
+Routenpunkt (Way);T;Grillparzerstraße;49.9028057;8.668655;30.0;;;;;;Original OSM;139.0;0.82
+Routenpunkt (Way);T;Grillparzerstraße;49.902760775;8.66883435;30.0;;;;;;Interpoliert;139.0;0.19
+Routenpunkt (Way);T;Grillparzerstraße;49.90271585;8.6690137;30.0;;;;;;Interpoliert;138.9;-0.43
+Routenpunkt (Way);T;Grillparzerstraße;49.902670925;8.66919305;30.0;;;;;;Interpoliert;138.8;-0.58
+Routenpunkt (Way);T;;49.90262187500001;8.669370575;30.0;;;;;;Interpoliert (15m);138.7;-0.74
+Routenpunkt (Way);T;Grillparzerstraße;49.90257282500001;8.6695481;30.0;;;;;;Original OSM;138.6;-0.76
+Routenpunkt (Way);T;;49.9024864925;8.66965794;30.0;;;;;;Interpoliert (15m);138.5;-0.93
+Routenpunkt (Way);T;Grillparzerstraße;49.90240016;8.669767779999999;30.0;;;;;;Interpoliert;138.4;-1.1
+Routenpunkt (Way);T;Grillparzerstraße;49.90229192;8.66982516;30.0;;;;;;Interpoliert;138.2;-1.27
+Routenpunkt (Way);T;Grillparzerstraße;49.90218368;8.66988254;30.0;;;;;;Interpoliert;138.0;-1.42
+Routenpunkt (Way);T;Grillparzerstraße;49.90207544;8.669939920000001;30.0;;;;;;Interpoliert;137.8;-1.46
+Routenpunkt (Way);T;Grillparzerstraße;49.9019672;8.6699973;30.0;;;;;;Original OSM;137.6;-1.34
+Routenpunkt (Way);T;Grillparzerstraße;49.9018813;8.670042833333333;30.0;;;;;;Interpoliert;137.5;-1.22
+Routenpunkt (Way);T;Grillparzerstraße;49.901795400000005;8.670088366666667;30.0;;;;;;Interpoliert;137.4;-1.06
+Routenpunkt (Way);T;Grillparzerstraße;49.9017095;8.6701339;30.0;;;;;;Original OSM;137.3;-0.93
+Routenpunkt (Way);T;Grillparzerstraße;49.90160025;8.6701918;30.0;;;;;;Interpoliert;137.2;-0.91
+Routenpunkt (Way);T;;49.90150660625;8.67025405;30.0;;;;;;Interpoliert (15m);137.1;-0.71
+Routenpunkt (Way);T;Grillparzerstraße;49.9014129625;8.6703163;30.0;;;;;;Original OSM;137.0;-0.51
+Routenpunkt (Way);T;;49.90133863125;8.6704172;30.0;;;;;;Interpoliert (15m);137.0;-0.35
+Routenpunkt (Way);T;Grillparzerstraße;49.9012643;8.670518099999999;30.0;;;;;;Interpoliert;137.0;-0.0
+Routenpunkt (Way);T;Würzburger Straße;49.901136566666665;8.670513033333334;30.0;;;;;;Interpoliert;137.0;0.35
+Routenpunkt (Way);T;Würzburger Straße;49.90106513333333;8.670397066666666;30.0;;;;;;Interpoliert;137.1;0.53
+Routenpunkt (Way);T;Würzburger Straße;49.9009937;8.6702811;30.0;;;;;;Original OSM;137.2;0.7
+Routenpunkt (Way);T;Würzburger Straße;49.900921925;8.670169725000001;30.0;;;;;;Interpoliert;137.3;0.88
+Routenpunkt (Way);T;Würzburger Straße;49.90085015;8.670058350000001;30.0;;;;;;Interpoliert;137.4;0.88
+Routenpunkt (Way);T;Würzburger Straße;49.900778375;8.669946975;30.0;;;;;;Interpoliert;137.5;0.86
+Routenpunkt (Way);T;Würzburger Straße;49.9007066;8.6698356;30.0;;;;;;Original OSM;137.6;0.83
+Routenpunkt (Way);T;Würzburger Straße;49.90062022;8.66970055;30.0;;;;;;Interpoliert;137.7;0.79
+Routenpunkt (Way);T;Würzburger Straße;49.90053384;8.669565500000001;30.0;;;;;;Interpoliert;137.8;0.76
+Routenpunkt (Way);T;Würzburger Straße;49.90044746;8.66943045;30.0;;;;;;Interpoliert;137.9;0.73
+Routenpunkt (Way);T;Würzburger Straße;49.90036108;8.669295400000001;30.0;;;;;;Interpoliert;138.0;0.73
+Routenpunkt (Way);T;Würzburger Straße;49.9002747;8.66916035;30.0;;;;;;Interpoliert;138.1;0.73
+Routenpunkt (Way);T;Würzburger Straße;49.90018832;8.6690253;30.0;;;;;;Interpoliert;138.2;0.88
+Routenpunkt (Way);T;Würzburger Straße;49.90010194;8.66889025;30.0;;;;;;Interpoliert;138.3;1.03
+Routenpunkt (Way);T;Würzburger Straße;49.90001556;8.6687552;30.0;;;;;;Interpoliert;138.5;1.17
+Routenpunkt (Way);T;Würzburger Straße;49.89992918;8.66862015;30.0;;;;;;Interpoliert;138.7;1.32
+Routenpunkt (Way);T;Würzburger Straße;49.8998428;8.6684851;30.0;;;;;;Original OSM;138.9;1.46
+Routenpunkt (Way);T;Würzburger Straße;49.89975539090909;8.668349272727273;30.0;;;;;;Interpoliert;139.1;1.46
+Routenpunkt (Way);T;Würzburger Straße;49.89966798181818;8.668213445454546;30.0;;;;;;Interpoliert;139.3;1.31
+Routenpunkt (Way);T;Würzburger Straße;49.89958057272728;8.668077618181817;30.0;;;;;;Interpoliert;139.5;1.02
+Routenpunkt (Way);T;Würzburger Straße;49.899493163636365;8.66794179090909;30.0;;;;;;Interpoliert;139.6;0.73
+Routenpunkt (Way);T;Würzburger Straße;49.899405754545455;8.667805963636363;30.0;;;;;;Interpoliert;139.6;0.44
+Routenpunkt (Way);T;Würzburger Straße;49.89931834545455;8.667670136363636;30.0;;;;;;Interpoliert;139.6;0.0
+Routenpunkt (Way);T;Würzburger Straße;49.89923093636364;8.66753430909091;30.0;;;;;;Interpoliert;139.6;-0.29
+Routenpunkt (Way);T;Würzburger Straße;49.89914352727273;8.667398481818182;30.0;;;;;;Interpoliert;139.5;-0.58
+Routenpunkt (Way);T;Würzburger Straße;49.89905611818182;8.667262654545453;30.0;;;;;;Interpoliert;139.4;-0.87
+Routenpunkt (Way);T;Würzburger Straße;49.89896870909091;8.667126827272726;30.0;;;;;;Interpoliert;139.2;-1.16
+Routenpunkt (Way);T;Würzburger Straße;49.8988813;8.666991;30.0;;;;;;Original OSM;139.0;-1.29
+Routenpunkt (Way);T;Würzburger Straße;49.898793242857145;8.666849114285714;30.0;;;;;;Interpoliert;138.8;-1.43
+Routenpunkt (Way);T;Würzburger Straße;49.898705185714284;8.666707228571427;30.0;;;;;;Interpoliert;138.6;-1.42
+Routenpunkt (Way);T;Würzburger Straße;49.89861712857143;8.666565342857142;30.0;;;;;;Interpoliert;138.4;-1.56
+Routenpunkt (Way);T;Würzburger Straße;49.89852907142857;8.666423457142857;30.0;;;;;;Interpoliert;138.2;-1.7
+Routenpunkt (Way);T;Würzburger Straße;49.89844101428572;8.666281571428572;30.0;;;;;;Interpoliert;137.9;-1.84
+Routenpunkt (Way);T;Würzburger Straße;49.898352957142855;8.666139685714285;30.0;;;;;;Interpoliert;137.6;-2.14
+Routenpunkt (Way);T;Würzburger Straße;49.8982649;8.6659978;30.0;;;;;;Original OSM;137.3;-2.24
+Routenpunkt (Way);T;Würzburger Straße;49.89820446666667;8.665887466666666;30.0;;;;;;Interpoliert;137.0;-2.13
+Routenpunkt (Way);T;Würzburger Straße;49.89814403333333;8.665777133333334;30.0;;;;;;Interpoliert;136.8;-2.02
+Routenpunkt (Way);T;;49.89807916666666;8.665632216666667;30.0;;;;;;Interpoliert (15m);136.6;-1.8
+Routenpunkt (Way);T;Würzburger Straße;49.8980143;8.6654873;30.0;;;;;;Original OSM;136.4;-1.22
+Routenpunkt (Way);T;;49.89792724285714;8.66552290952381;30.0;;;;;;Interpoliert (15m);136.3;-0.83
+Routenpunkt (Way);T;;49.89784018571428;8.66555851904762;30.0;;;;;;Interpoliert (15m);136.3;-0.36
+Routenpunkt (Way);T;Maulbeerallee;49.89775312857142;8.66559412857143;30.0;;;;;;Original OSM;136.3;0.12
+Routenpunkt (Way);T;;49.89773390238095;8.66576831904762;30.0;;;;;;Interpoliert (15m);136.4;0.47
+Routenpunkt (Way);T;;49.89771467619047;8.665942509523811;30.0;;;;;;Interpoliert (15m);136.5;0.66
+Routenpunkt (Way);T;Maulbeerallee;49.89769544999999;8.666116700000002;30.0;;;;;;Original OSM;136.6;0.84
+Routenpunkt (Way);T;;49.897657425;8.6662592;30.0;;;;;;Interpoliert (15m);136.7;0.83
+Routenpunkt (Way);T;Maulbeerallee;49.8976194;8.6664017;30.0;;;;;;Original OSM;136.8;0.82
+Routenpunkt (Way);T;;49.89754930000001;8.666553290909091;30.0;;;;;;Interpoliert (15m);136.9;0.66
+Routenpunkt (Way);T;Maulbeerallee;49.897479200000014;8.666704881818182;30.0;;;;;;Original OSM;137.0;0.48
+Routenpunkt (Way);T;;49.89752665;8.66687749090909;30.0;;;;;;Interpoliert (15m);137.0;0.5
+Routenpunkt (Way);T;Hammelstrift;49.8975741;8.6670501;30.0;;;;;;Original OSM;137.0;0.55
+Routenpunkt (Way);T;Hammelstrift;49.89765065;8.667124650000002;30.0;;;;;;Interpoliert;137.1;0.56
+Routenpunkt (Way);T;Hammelstrift;49.8977272;8.6671992;30.0;;;;;;Original OSM;137.2;0.73
+Routenpunkt (Way);T;;49.89781103888889;8.667307695833333;30.0;;;;;;Interpoliert (15m);137.3;0.89
+Routenpunkt (Way);T;;49.89789487777777;8.667416191666668;30.0;;;;;;Interpoliert (15m);137.4;0.86
+Routenpunkt (Way);T;;49.89797871666666;8.6675246875;30.0;;;;;;Interpoliert (15m);137.5;0.81
+Routenpunkt (Way);T;Hammelstrift;49.89806255555556;8.667633183333333;30.0;;;;;;Original OSM;137.6;0.8
+Routenpunkt (Way);T;;49.89813152806713;8.667781935590277;30.0;;;;;;Interpoliert (15m);137.7;0.79
+Routenpunkt (Way);T;;49.8982005005787;8.667930687847221;30.0;;;;;;Interpoliert (15m);137.8;0.77
+Routenpunkt (Way);T;;49.89826947309028;8.668079440104165;30.0;;;;;;Interpoliert (15m);137.9;0.61
+Routenpunkt (Way);T;;49.89833844560186;8.668228192361111;30.0;;;;;;Interpoliert (15m);138.0;0.61
+Routenpunkt (Way);T;;49.89840741811343;8.668376944618055;30.0;;;;;;Interpoliert (15m);138.0;0.62
+Routenpunkt (Way);T;Hammelstrift;49.89847639062501;8.668525696875;30.0;;;;;;Original OSM;138.1;0.62
+Routenpunkt (Way);T;;49.89848073750001;8.6687012475;30.0;;;;;;Interpoliert (15m);138.2;0.63
+Routenpunkt (Way);T;;49.89848508437501;8.668876798125;30.0;;;;;;Interpoliert (15m);138.3;0.79
+Routenpunkt (Way);T;;49.898489431250006;8.66905234875;30.0;;;;;;Interpoliert (15m);138.4;0.95
+Routenpunkt (Way);T;;49.898493778125;8.669227899375;30.0;;;;;;Interpoliert (15m);138.5;1.1
+Routenpunkt (Way);T;Hammelstrift;49.898498125;8.66940345;30.0;;;;;;Interpoliert;138.7;1.26
+Routenpunkt (Way);T;Hammelstrift;49.89852075;8.6695803;30.0;;;;;;Interpoliert;138.9;1.41
+Routenpunkt (Way);T;Hammelstrift;49.898543375;8.669757149999999;30.0;;;;;;Interpoliert;139.1;1.57
+Routenpunkt (Way);T;Hammelstrift;49.898566;8.669934;30.0;;;;;;Original OSM;139.3;1.42
+Routenpunkt (Way);T;Hammelstrift;49.898586525;8.67010225;30.0;;;;;;Interpoliert;139.5;1.27
+Routenpunkt (Way);T;Hammelstrift;49.89860705;8.6702705;30.0;;;;;;Interpoliert;139.6;1.18
+Routenpunkt (Way);T;Hammelstrift;49.898627575000006;8.67043875;30.0;;;;;;Interpoliert;139.7;1.09
+Routenpunkt (Way);T;;49.8986394;8.670564500000001;30.0;;;;;;Interpoliert (15m);139.8;0.99
+Routenpunkt (Way);T;Hammelstrift;49.898651225;8.67069025;30.0;;;;;;Original OSM;139.9;0.83
+Routenpunkt (Way);T;;49.8986579625;8.670813525;30.0;;;;;;Interpoliert (15m);140.0;0.95
+Routenpunkt (Way);T;Hammelstrift;49.8986647;8.6709368;30.0;;;;;;Original OSM;140.0;1.01
+Routenpunkt (Way);T;Hammelstrift;49.8986782;8.671131966666666;30.0;;;;;;Interpoliert;140.2;1.15
+Routenpunkt (Way);T;Hammelstrift;49.8986917;8.671327133333333;30.0;;;;;;Interpoliert;140.4;1.28
+Routenpunkt (Way);T;;49.89870135000001;8.671483791666667;30.0;;;;;;Interpoliert (15m);140.6;1.83
+Routenpunkt (Way);T;Hammelstrift;49.89871100000001;8.67164045;30.0;;;;;;Original OSM;140.8;2.1
+Routenpunkt (Way);T;;49.89872082500001;8.67179105;30.0;;;;;;Interpoliert (15m);141.1;2.27
+Routenpunkt (Way);T;Hammelstrift;49.898730650000005;8.67194165;30.0;;;;;;Interpoliert;141.4;2.33
+Routenpunkt (Way);T;Hammelstrift;49.8987445;8.6721247;30.0;;;;;;Original OSM;141.7;2.39
+Routenpunkt (Way);T;Hammelstrift;49.89875846666666;8.672326533333333;30.0;;;;;;Interpoliert;142.0;2.11
+Routenpunkt (Way);T;Hammelstrift;49.898772433333335;8.672528366666667;30.0;;;;;;Interpoliert;142.3;1.55
+Routenpunkt (Way);T;Hammelstrift;49.8987864;8.6727302;30.0;;;;;;Original OSM;142.5;1.1
+Routenpunkt (Way);T;Hammelstrift;49.89879673333333;8.672911933333333;30.0;;;;;;Interpoliert;142.5;0.69
+Routenpunkt (Way);T;Hammelstrift;49.89880706666666;8.673093666666666;30.0;;;;;;Interpoliert;142.5;0.28
+Routenpunkt (Way);T;Hammelstrift;49.8988174;8.6732754;30.0;;;;;;Original OSM;142.5;-0.56
+Routenpunkt (Way);T;Hammelstrift;49.8988242;8.6734221;30.0;;;;;;Original OSM;142.5;-1.14
+Routenpunkt (Way);T;Hammelstrift;49.898832;8.6735705;30.0;;;;;;Original OSM;142.2;-1.71
+Routenpunkt (Way);T;Hammelstrift;49.89884386666667;8.673714766666667;30.0;;;;;;Interpoliert;141.9;-2.29
+Routenpunkt (Way);T;Hammelstrift;49.898855733333335;8.673859033333335;30.0;;;;;;Interpoliert;141.6;-2.73
+Routenpunkt (Way);T;Hammelstrift;49.8988676;8.6740033;30.0;;;;;;Original OSM;141.3;-2.17
+Routenpunkt (Way);T;Hammelstrift;49.89888096666667;8.674193466666667;30.0;;;;;;Interpoliert;141.0;-1.59
+Routenpunkt (Way);T;Hammelstrift;49.89889433333334;8.674383633333333;30.0;;;;;;Interpoliert;141.0;-1.01
+Routenpunkt (Way);T;Hammelstrift;49.8989077;8.6745738;30.0;;;;;;Original OSM;141.0;-0.44
+Routenpunkt (Way);T;Hammelstrift;49.8989227;8.67476925;30.0;;;;;;Interpoliert;141.0;0.0
+Routenpunkt (Way);T;Hammelstrift;49.8989377;8.6749647;30.0;;;;;;Original OSM;141.0;0.35
+Routenpunkt (Way);T;Hammelstrift;49.8989489;8.6751244;30.0;;;;;;Interpoliert;141.0;0.7
+Routenpunkt (Way);T;Hammelstrift;49.8989601;8.675284099999999;30.0;;;;;;Interpoliert;141.2;1.04
+Routenpunkt (Way);T;Hammelstrift;49.8989713;8.6754438;30.0;;;;;;Interpoliert;141.4;1.32
+Routenpunkt (Way);T;Hammelstrift;49.8989825;8.6756035;30.0;;;;;;Original OSM;141.6;1.6
+Routenpunkt (Way);T;Hammelstrift;49.898995925;8.675803625;30.0;;;;;;Interpoliert;141.8;1.39
+Routenpunkt (Way);T;Hammelstrift;49.89900935;8.67600375;30.0;;;;;;Interpoliert;142.0;1.26
+Routenpunkt (Way);T;Hammelstrift;49.899022775;8.676203874999999;30.0;;;;;;Interpoliert;142.1;1.14
+Routenpunkt (Way);T;;49.8990311125;8.676329487499999;30.0;;;;;;Interpoliert (15m);142.2;1.08
+Routenpunkt (Way);T;Hammelstrift;49.89903945;8.6764551;30.0;;;;;;Original OSM;142.3;1.03
+Routenpunkt (Way);T;;49.8990470375;8.6765798125;30.0;;;;;;Interpoliert (15m);142.4;1.03
+Routenpunkt (Way);T;Hammelstrift;49.899054625000005;8.676704525;30.0;;;;;;Interpoliert;142.5;0.95
+Routenpunkt (Way);T;Hammelstrift;49.89906655;8.676902850000001;30.0;;;;;;Interpoliert;142.6;0.95
+Routenpunkt (Way);T;Hammelstrift;49.899078475;8.677101175;30.0;;;;;;Interpoliert;142.7;0.95
+Routenpunkt (Way);T;;49.8990824125;8.677225;30.0;;;;;;Interpoliert (15m);142.8;0.92
+Routenpunkt (Way);T;Hammelstrift;49.89908635;8.677348825000001;30.0;;;;;;Original OSM;142.9;0.78
+Routenpunkt (Way);T;Jägertorstraße;49.8989907;8.6773615;50.0;;;;;;Original OSM;143.0;1.51
+Routenpunkt (Way);T;Jägertorstraße;49.8988671;8.6773582;50.0;;;;;;Interpoliert;143.0;2.11
+Routenpunkt (Way);T;Jägertorstraße;49.8987435;8.6773549;50.0;;;;;;Original OSM;143.6;2.71
+Routenpunkt (Way);T;Jägertorstraße;49.89861277;8.677349509999999;50.0;;;;;;Interpoliert;144.2;3.35
+Routenpunkt (Way);T;Jägertorstraße;49.898482040000005;8.677344119999999;50.0;;;;;;Interpoliert;144.8;4.17
+Routenpunkt (Way);T;Jägertorstraße;49.89835131;8.677338729999999;50.0;;;;;;Interpoliert;145.4;4.13
+Routenpunkt (Way);T;Jägertorstraße;49.89822058;8.677333339999999;50.0;;;;;;Interpoliert;146.0;3.71
+Routenpunkt (Way);T;Jägertorstraße;49.898089850000005;8.677327949999999;50.0;;;;;;Interpoliert;146.6;3.3
+Routenpunkt (Way);T;Jägertorstraße;49.89795912;8.67732256;50.0;;;;;;Interpoliert;146.9;2.89
+Routenpunkt (Way);T;Jägertorstraße;49.89782839;8.67731717;50.0;;;;;;Interpoliert;147.2;2.48
+Routenpunkt (Way);T;Jägertorstraße;49.89769766;8.67731178;50.0;;;;;;Interpoliert;147.5;0.92
+Routenpunkt (Way);T;Jägertorstraße;49.89756693;8.67730639;50.0;;;;;;Interpoliert;147.8;-0.23
+Routenpunkt (Way);T;;49.89749349833333;8.677303578333333;50.0;;;;;;Interpoliert (15m);147.5;-1.41
+Routenpunkt (Way);T;Jägertorstraße;49.89742006666666;8.677300766666667;50.0;;;;;;Original OSM;147.2;-2.58
+Routenpunkt (Way);T;;49.897349258333335;8.677298183333335;50.0;;;;;;Interpoliert (15m);146.9;-3.49
+Routenpunkt (Way);T;Jägertorstraße;49.89727845;8.6772956;50.0;;;;;;Interpoliert;146.6;-3.94
+Routenpunkt (Way);T;Jägertorstraße;49.8971691;8.6772909;50.0;;;;;;Original OSM;146.3;-3.54
+Routenpunkt (Way);T;Jägertorstraße;49.8970482;8.6772865;50.0;;;;;;Original OSM;145.5;-3.05
+Routenpunkt (Way);T;Jägertorstraße;49.8969413;8.6772831;50.0;;;;;;Original OSM;145.3;-2.58
+Routenpunkt (Way);T;Jägertorstraße;49.8968097;8.6772809;50.0;;;;;;Original OSM;145.1;-2.37
+Routenpunkt (Way);T;;49.89669539166667;8.677367483333335;50.0;;;;;;Interpoliert (15m);144.9;-1.5
+Routenpunkt (Way);T;Jägertorstraße;49.89658108333333;8.677454066666668;50.0;;;;;;Original OSM;144.7;-1.33
+Routenpunkt (Way);T;;49.89657464666666;8.677623653333335;50.0;;;;;;Interpoliert (15m);144.5;-1.22
+Routenpunkt (Way);T;;49.89656821;8.677793240000002;50.0;;;;;;Interpoliert (15m);144.4;-1.1
+Routenpunkt (Way);T;;49.89656177333333;8.677962826666667;50.0;;;;;;Interpoliert (15m);144.3;-0.99
+Routenpunkt (Way);T;;49.896555336666665;8.678132413333334;50.0;;;;;;Interpoliert (15m);144.2;0.07
+Routenpunkt (Way);T;Siemensstraße;49.8965489;8.678302;30.0;;;;;;Original OSM;144.1;0.07
+Routenpunkt (Way);T;Siemensstraße;49.8965227;8.6784494;30.0;;;;;;Original OSM;144.5;0.09
+Routenpunkt (Way);T;Siemensstraße;49.8964843;8.6786082;30.0;;;;;;Original OSM;144.4;0.1
+Routenpunkt (Way);T;Siemensstraße;49.89643895;8.678778399999999;30.0;;;;;;Interpoliert;144.3;0.09
+Routenpunkt (Way);T;Siemensstraße;49.8963936;8.6789486;30.0;;;;;;Original OSM;144.2;-0.85
+Routenpunkt (Way);T;Siemensstraße;49.896355850000006;8.67909905;30.0;;;;;;Interpoliert;144.1;-0.48
+Routenpunkt (Way);T;;49.89632880833334;8.679225091666666;30.0;;;;;;Interpoliert (15m);144.0;-0.19
+Routenpunkt (Way);T;Siemensstraße;49.89630176666666;8.679351133333332;30.0;;;;;;Original OSM;144.1;0.1
+Routenpunkt (Way);T;;49.89629060555555;8.679556365277778;30.0;;;;;;Interpoliert (15m);144.2;0.41
+Routenpunkt (Way);T;;49.896279444444446;8.679761597222221;30.0;;;;;;Interpoliert (15m);144.3;0.83
+Routenpunkt (Way);T;Siemensstraße;49.896268283333335;8.679966829166666;30.0;;;;;;Original OSM;144.4;1.26
+Routenpunkt (Way);T;;49.89627609166666;8.680097814583334;30.0;;;;;;Interpoliert (15m);144.5;1.57
+Haltestelle;W;Kranichstein Siemensstraße;49.8962839;8.6802288;30.0;12:30:00;12:30:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 7m) | Auf Route gesnappt (7m);144.8;2.0
+Routenpunkt (Way);T;Siemensstraße;49.896268840000005;8.680412270000001;;;;;;;Original OSM;145.1;2.43
+Routenpunkt (Way);T;;49.89627238;8.680561105;;;;;;;Interpoliert (15m);145.4;2.71
+Routenpunkt (Way);T;Siemensstraße;49.89627592;8.68070994;30.0;;;;;;Interpoliert;145.7;3.22
+Routenpunkt (Way);T;;49.89627342666667;8.68088021722222;30.0;;;;;;Interpoliert (15m);146.0;3.81
+Routenpunkt (Way);T;Siemensstraße;49.89627093333333;8.681050494444444;30.0;;;;;;Original OSM;146.7;4.29
+Routenpunkt (Way);T;;49.89615671666667;8.681110630555555;30.0;;;;;;Interpoliert (15m);147.4;4.92
+Routenpunkt (Way);T;Bartningstraße;49.8960425;8.681170766666666;50.0;;;;;;Interpoliert;148.1;5.63
+Routenpunkt (Way);T;Bartningstraße;49.8959374;8.681179633333333;50.0;;;;;;Interpoliert;148.8;5.83
+Routenpunkt (Way);T;Bartningstraße;49.8958323;8.6811885;50.0;;;;;;Original OSM;149.5;6.13
+Routenpunkt (Way);T;Bartningstraße;49.89573906666667;8.681199399999999;50.0;;;;;;Interpoliert;150.2;6.43
+Routenpunkt (Way);T;Bartningstraße;49.89564583333333;8.6812103;50.0;;;;;;Interpoliert;150.9;6.39
+Routenpunkt (Way);T;Bartningstraße;49.8955526;8.6812212;50.0;;;;;;Original OSM;151.6;6.68
+Routenpunkt (Way);T;Bartningstraße;49.8954436;8.6812367;50.0;;;;;;Original OSM;152.3;4.91
+Routenpunkt (Way);T;;49.895360475;8.6812586;50.0;;;;;;Interpoliert (15m);153.0;3.07
+Routenpunkt (Way);T;Bartningstraße;49.89527735;8.6812805;50.0;;;;;;Original OSM;152.8;1.23
+Routenpunkt (Way);T;;49.89525725;8.68138955;50.0;;;;;;Interpoliert (15m);152.6;-0.39
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89523715;8.681498600000001;50.0;;;;;;Original OSM;152.4;-2.6
+Routenpunkt (Way);T;;49.89525240454545;8.681613865909092;50.0;;;;;;Interpoliert (15m);152.2;-2.59
+Routenpunkt (Way);T;Kranichsteiner Straße;49.895267659090905;8.681729131818182;50.0;;;;;;Interpoliert;151.9;-2.51
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89529321818181;8.681927163636365;50.0;;;;;;Interpoliert;151.6;-2.43
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89531877727273;8.682125195454546;50.0;;;;;;Interpoliert;151.3;-2.37
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89534433636364;8.682323227272727;50.0;;;;;;Interpoliert;151.0;-2.21
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89536989545454;8.68252125909091;50.0;;;;;;Interpoliert;150.7;-2.07
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89539545454545;8.682719290909091;50.0;;;;;;Interpoliert;150.3;-1.94
+Routenpunkt (Way);T;Kranichsteiner Straße;49.895421013636366;8.682917322727274;50.0;;;;;;Interpoliert;150.1;-1.8
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89544657272727;8.683115354545455;50.0;;;;;;Interpoliert;149.9;-1.52
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89547213181818;8.683313386363636;50.0;;;;;;Interpoliert;149.7;-0.97
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89549769090909;8.68351141818182;50.0;;;;;;Interpoliert;149.6;-0.69
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89552325;8.68370945;50.0;;;;;;Interpoliert;149.6;-0.41
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89554880909091;8.683907481818181;50.0;;;;;;Interpoliert;149.6;-0.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89557436818182;8.684105513636364;50.0;;;;;;Interpoliert;149.6;-0.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89559992727273;8.684303545454545;50.0;;;;;;Interpoliert;149.5;-0.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89562548636364;8.684501577272727;50.0;;;;;;Interpoliert;149.4;-0.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89565104545455;8.68469960909091;50.0;;;;;;Interpoliert;149.4;-0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89567660454546;8.68489764090909;50.0;;;;;;Interpoliert;149.4;0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.895702163636365;8.685095672727273;50.0;;;;;;Interpoliert;149.5;0.41
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89572772272727;8.685293704545455;50.0;;;;;;Interpoliert;149.6;0.55
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89575328181819;8.685491736363636;50.0;;;;;;Interpoliert;149.7;0.69
+Routenpunkt (Way);T;Kranichsteiner Straße;49.895778840909095;8.685689768181819;50.0;;;;;;Interpoliert;149.8;0.73
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8958044;8.6858878;50.0;;;;;;Original OSM;149.9;0.94
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89582345;8.68604405;50.0;;;;;;Interpoliert;150.0;0.8
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8958425;8.6862003;50.0;;;;;;Original OSM;150.2;0.66
+Haltestelle;W;Kranichstein Kesselhutweg;49.8958425;8.6862003;50.0;12:31:00;12:31:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 6m) | Auf Route gesnappt (6m);150.4;0.85
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8958425;8.6862003;50.0;;;;;;Original OSM;150.6;0.84
+Routenpunkt (Way);T;;49.895854;8.68637245;50.0;;;;;;Interpoliert (15m);150.8;0.64
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8958655;8.686544600000001;50.0;;;;;;Original OSM;150.9;0.8
+Routenpunkt (Way);T;;49.895889675;8.6867161875;50.0;;;;;;Interpoliert (15m);151.0;1.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89591385;8.686887774999999;50.0;;;;;;Interpoliert;151.1;0.89
+Routenpunkt (Way);T;;49.895939775;8.6870168375;50.0;;;;;;Interpoliert (15m);151.2;0.87
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8959657;8.6871459;50.0;;;;;;Original OSM;151.3;0.85
+Routenpunkt (Way);T;Kranichsteiner Straße;49.895992525;8.687338925;50.0;;;;;;Interpoliert;151.4;0.7
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89601935;8.68753195;50.0;;;;;;Interpoliert;151.5;0.49
+Routenpunkt (Way);T;Kranichsteiner Straße;49.896046175;8.687724975;50.0;;;;;;Interpoliert;151.5;0.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.896073;8.687918;50.0;;;;;;Original OSM;151.5;0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89609595;8.688099666666666;50.0;;;;;;Interpoliert;151.5;0.0
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8961189;8.688281333333332;50.0;;;;;;Interpoliert;151.5;-0.15
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89614185;8.688462999999999;50.0;;;;;;Interpoliert;151.5;-0.3
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8961648;8.688644666666667;50.0;;;;;;Interpoliert;151.4;-0.45
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89618775;8.688826333333333;50.0;;;;;;Interpoliert;151.3;-0.63
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8962107;8.689008;50.0;;;;;;Original OSM;151.2;-0.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8962413;8.689159;50.0;;;;;;Interpoliert;151.1;-0.65
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8962719;8.689309999999999;50.0;;;;;;Interpoliert;151.0;-0.5
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8963025;8.689461;50.0;;;;;;Interpoliert;151.0;-0.35
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8963331;8.689612;50.0;;;;;;Original OSM;151.0;-0.32
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89638385;8.689792650000001;50.0;;;;;;Interpoliert;151.0;-0.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8964346;8.6899733;50.0;;;;;;Original OSM;150.9;-0.41
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8965005;8.690152300000001;50.0;;;;;;Interpoliert;150.8;-0.97
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8965664;8.6903313;50.0;;;;;;Original OSM;150.7;-1.53
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89662246666666;8.690452633333333;50.0;;;;;;Interpoliert;150.4;-1.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.896678533333336;8.690573966666667;50.0;;;;;;Interpoliert;150.1;-2.39
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8967346;8.6906953;50.0;;;;;;Original OSM;149.8;-2.82
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89679606666667;8.690807533333333;50.0;;;;;;Interpoliert;149.5;-2.83
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89685753333333;8.690919766666667;50.0;;;;;;Interpoliert;149.2;-2.54
+Routenpunkt (Way);T;Kranichsteiner Straße;49.896919;8.691032;50.0;;;;;;Original OSM;148.9;-2.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.897012;8.69117865;50.0;;;;;;Interpoliert;148.7;-1.41
+Routenpunkt (Way);T;Kranichsteiner Straße;49.897105;8.691325299999999;50.0;;;;;;Interpoliert;148.6;-0.7
+Routenpunkt (Way);T;Kranichsteiner Straße;49.897198;8.69147195;50.0;;;;;;Interpoliert;148.7;0.27
+Routenpunkt (Way);T;Kranichsteiner Straße;49.897291;8.6916186;50.0;;;;;;Interpoliert;148.8;0.68
+Routenpunkt (Way);T;Kranichsteiner Straße;49.897384;8.69176525;50.0;;;;;;Interpoliert;149.1;0.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.897477;8.6919119;50.0;;;;;;Original OSM;149.2;0.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.897568675;8.692060374999999;50.0;;;;;;Interpoliert;149.3;0.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89766035;8.69220885;50.0;;;;;;Interpoliert;149.4;0.68
+Routenpunkt (Way);T;Kranichsteiner Straße;49.897752025;8.692357325;50.0;;;;;;Interpoliert;149.5;0.54
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8978437;8.6925058;50.0;;;;;;Original OSM;149.6;1.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89793262;8.6926276;50.0;;;;;;Interpoliert;149.6;1.18
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89802154;8.6927494;50.0;;;;;;Interpoliert;150.0;1.5
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89811046;8.692871199999999;50.0;;;;;;Interpoliert;150.2;1.82
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89819938;8.692993;50.0;;;;;;Interpoliert;150.5;2.77
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8982883;8.6931148;50.0;;;;;;Original OSM;150.8;3.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.898363;8.693205666666667;50.0;;;;;;Interpoliert;151.3;3.75
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8984377;8.693296533333333;50.0;;;;;;Interpoliert;151.8;4.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8985124;8.6933874;50.0;;;;;;Original OSM;152.3;4.8
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8985877;8.6934694;50.0;;;;;;Interpoliert;152.8;4.86
+Routenpunkt (Way);T;Kranichsteiner Straße;49.898663;8.6935514;50.0;;;;;;Interpoliert;153.3;4.11
+Routenpunkt (Way);T;;49.898735675;8.6936319;50.0;;;;;;Interpoliert (15m);153.8;3.16
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89880835;8.6937124;50.0;;;;;;Original OSM;153.9;2.0
+Haltestelle;W;Kranichstein Jagdschloß;49.8988784;8.6937914;50.0;12:32:00;12:32:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 0m) | Auf Route gesnappt (9m);153.9;0.83
+Routenpunkt (Way);T;;49.8989546;8.69387775;50.0;;;;;;Interpoliert (15m);153.8;-0.34
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8990308;8.6939641;50.0;;;;;;Original OSM;153.7;-0.71
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8991171;8.694068;50.0;;;;;;Original OSM;153.6;-0.87
+Routenpunkt (Way);T;Kranichsteiner Straße;49.899204;8.6941749;50.0;;;;;;Original OSM;153.5;-0.83
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8992875;8.6942854;50.0;;;;;;Original OSM;153.4;-0.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8993748;8.69440836;50.0;;;;;;Interpoliert;153.3;-1.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8994621;8.69453132;50.0;;;;;;Interpoliert;153.1;-1.23
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8995494;8.69465428;50.0;;;;;;Interpoliert;152.9;0.46
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8996367;8.694777239999999;50.0;;;;;;Interpoliert;152.7;2.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.899724;8.6949002;50.0;;;;;;Original OSM;153.7;4.35
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8998079;8.6950334;50.0;;;;;;Original OSM;154.7;6.59
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89987296666666;8.695136666666667;50.0;;;;;;Interpoliert;155.7;7.86
+Routenpunkt (Way);T;Kranichsteiner Straße;49.899938033333335;8.695239933333333;50.0;;;;;;Interpoliert;156.7;7.16
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9000031;8.6953432;50.0;;;;;;Original OSM;157.2;6.41
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90007705;8.69546665;50.0;;;;;;Interpoliert;157.7;5.37
+Routenpunkt (Way);T;;49.90015995;8.69560212;50.0;;;;;;Interpoliert (15m);158.2;4.58
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90024285;8.695737590000002;50.0;;;;;;Original OSM;158.8;4.76
+Routenpunkt (Way);T;;49.90030893928572;8.695842145;50.0;;;;;;Interpoliert (15m);159.4;3.21
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90037502857143;8.695946699999999;70.0;;;;;;Interpoliert;160.0;3.04
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90046235714286;8.6960833;70.0;;;;;;Interpoliert;159.5;2.72
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90054968571429;8.6962199;70.0;;;;;;Interpoliert;159.9;2.16
+Routenpunkt (Way);T;Kranichsteiner Straße;49.900637014285714;8.6963565;70.0;;;;;;Interpoliert;160.3;2.32
+Routenpunkt (Way);T;Kranichsteiner Straße;49.900724342857146;8.6964931;70.0;;;;;;Interpoliert;160.7;4.35
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90081167142857;8.6966297;70.0;;;;;;Interpoliert;161.6;5.56
+Routenpunkt (Way);T;Kranichsteiner Straße;49.900899;8.6967663;70.0;;;;;;Original OSM;162.5;6.76
+Routenpunkt (Way);T;Kranichsteiner Straße;49.900961333333335;8.696868666666667;70.0;;;;;;Interpoliert;163.4;8.85
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90102366666667;8.696971033333334;70.0;;;;;;Interpoliert;164.3;10.21
+Routenpunkt (Way);T;;49.901077883333336;8.697064316666667;70.0;;;;;;Interpoliert (15m);165.5;11.19
+Routenpunkt (Way);T;Kranichsteiner Straße;49.901132100000005;8.6971576;70.0;;;;;;Original OSM;166.7;9.98
+Routenpunkt (Way);T;;49.9011908;8.6972721;70.0;;;;;;Interpoliert (15m);167.9;8.78
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9012495;8.6973866;70.0;;;;;;Original OSM;168.2;6.69
+Routenpunkt (Way);T;;49.90130226666666;8.69750575;70.0;;;;;;Interpoliert (15m);168.5;4.47
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90135503333333;8.6976249;70.0;;;;;;Original OSM;168.8;2.63
+Routenpunkt (Way);T;;49.90141447222221;8.69778657;70.0;;;;;;Interpoliert (15m);169.1;2.06
+Routenpunkt (Way);T;;49.90147391111111;8.69794824;70.0;;;;;;Interpoliert (15m);169.4;1.48
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90153335;8.698109910000001;70.0;;;;;;Original OSM;169.4;0.31
+Routenpunkt (Way);T;;49.901576133333336;8.69823624;70.0;;;;;;Interpoliert (15m);169.4;-0.72
+Routenpunkt (Way);T;;49.90161891666666;8.69836257;70.0;;;;;;Interpoliert (15m);169.1;-1.75
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9016617;8.6984889;70.0;;;;;;Original OSM;168.8;-2.32
+Routenpunkt (Way);T;Kranichsteiner Straße;49.901696;8.698625233333333;70.0;;;;;;Interpoliert;168.5;-2.89
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9017303;8.698761566666667;70.0;;;;;;Interpoliert;168.2;-2.75
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9017646;8.6988979;70.0;;;;;;Original OSM;167.9;-2.62
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9018203;8.69906325;70.0;;;;;;Interpoliert;167.6;-2.57
+Routenpunkt (Way);T;Kranichsteiner Straße;49.901876;8.6992286;70.0;;;;;;Original OSM;167.3;-1.5
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90192905;8.6993632;70.0;;;;;;Interpoliert;167.0;-0.43
+Routenpunkt (Way);T;;49.90199278472223;8.699498970833334;70.0;;;;;;Interpoliert (15m);167.3;0.52
+Routenpunkt (Way);T;;49.90205651944444;8.699634741666667;70.0;;;;;;Interpoliert (15m);167.6;1.46
+Routenpunkt (Way);T;;49.90212025416667;8.699770512499999;70.0;;;;;;Interpoliert (15m);167.9;2.33
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90218398888889;8.699906283333332;70.0;;;;;;Original OSM;168.2;2.17
+Routenpunkt (Way);T;;49.90225584166667;8.700027862499999;70.0;;;;;;Interpoliert (15m);168.4;2.01
+Routenpunkt (Way);T;;49.90232769444445;8.700149441666667;70.0;;;;;;Interpoliert (15m);168.6;2.02
+Routenpunkt (Way);T;;49.902399547222224;8.700271020833334;70.0;;;;;;Interpoliert (15m);168.8;1.96
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9024714;8.7003926;70.0;;;;;;Original OSM;169.1;2.05
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9025677;8.700512;70.0;;;;;;Original OSM;169.4;1.71
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9026681;8.700629150000001;70.0;;;;;;Interpoliert;169.7;1.38
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9027685;8.7007463;70.0;;;;;;Original OSM;169.7;1.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9028617;8.7008458;70.0;;;;;;Original OSM;169.7;0.71
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90296824166667;8.700954666666666;70.0;;;;;;Interpoliert;169.8;0.56
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90307478333334;8.701063533333333;70.0;;;;;;Interpoliert;169.9;1.13
+Routenpunkt (Way);T;Kranichsteiner Straße;49.903181325000006;8.7011724;70.0;;;;;;Interpoliert;170.1;1.69
+Routenpunkt (Way);T;Kranichsteiner Straße;49.903287866666666;8.701281266666667;70.0;;;;;;Interpoliert;170.5;1.97
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90339440833333;8.701390133333334;70.0;;;;;;Interpoliert;170.9;2.26
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90350095;8.701499;70.0;;;;;;Interpoliert;171.2;2.4
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90360749166667;8.701607866666667;70.0;;;;;;Interpoliert;171.5;2.4
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90371403333334;8.701716733333333;70.0;;;;;;Interpoliert;171.8;2.4
+Routenpunkt (Way);T;Kranichsteiner Straße;49.903820575;8.7018256;70.0;;;;;;Interpoliert;172.2;2.4
+Routenpunkt (Way);T;Kranichsteiner Straße;49.903927116666665;8.701934466666668;70.0;;;;;;Interpoliert;172.6;2.82
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90403365833333;8.702043333333334;70.0;;;;;;Interpoliert;172.9;3.23
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9041402;8.7021522;70.0;;;;;;Original OSM;173.5;3.22
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90424819166667;8.702264566666667;70.0;;;;;;Interpoliert;174.1;3.21
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90435618333333;8.702376933333333;70.0;;;;;;Interpoliert;174.5;3.34
+Routenpunkt (Way);T;Kranichsteiner Straße;49.904464175;8.7024893;70.0;;;;;;Interpoliert;174.9;3.04
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90457216666667;8.702601666666666;70.0;;;;;;Interpoliert;175.3;2.77
+Routenpunkt (Way);T;Kranichsteiner Straße;49.904680158333335;8.702714033333333;70.0;;;;;;Interpoliert;175.7;3.18
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90478815;8.7028264;70.0;;;;;;Interpoliert;176.1;3.6
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90489614166667;8.702938766666668;70.0;;;;;;Interpoliert;176.8;4.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.905004133333335;8.703051133333334;70.0;;;;;;Interpoliert;177.5;4.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.905112125;8.7031635;70.0;;;;;;Interpoliert;178.2;4.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90522011666667;8.703275866666667;70.0;;;;;;Interpoliert;178.6;3.46
+Routenpunkt (Way);T;Kranichsteiner Straße;49.905328108333336;8.703388233333333;70.0;;;;;;Interpoliert;179.0;2.9
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9054361;8.7035006;70.0;;;;;;Original OSM;179.3;2.88
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90554584285714;8.703614408571429;70.0;;;;;;Interpoliert;179.6;3.29
+Routenpunkt (Way);T;Kranichsteiner Straße;49.905655585714285;8.703728217142856;70.0;;;;;;Interpoliert;180.3;3.69
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90576532857144;8.703842025714286;70.0;;;;;;Interpoliert;181.0;3.68
+Routenpunkt (Way);T;Kranichsteiner Straße;49.905875071428575;8.703955834285715;70.0;;;;;;Interpoliert;181.7;3.68
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90598481428572;8.704069642857142;70.0;;;;;;Interpoliert;182.0;3.13
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90609455714286;8.704183451428571;70.0;;;;;;Interpoliert;182.3;2.04
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9062043;8.70429726;70.0;;;;;;Interpoliert;182.6;0.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90631404285715;8.704411068571428;70.0;;;;;;Interpoliert;182.5;0.68
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90642378571429;8.704524877142857;70.0;;;;;;Interpoliert;182.4;0.41
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90653352857143;8.704638685714286;70.0;;;;;;Interpoliert;182.5;-0.41
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90664327142857;8.704752494285714;70.0;;;;;;Interpoliert;182.6;-0.68
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90675301428571;8.704866302857143;70.0;;;;;;Interpoliert;182.3;-0.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90686275714286;8.704980111428572;70.0;;;;;;Interpoliert;182.0;-1.5
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9069725;8.70509392;70.0;;;;;;Interpoliert;181.7;-2.04
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90708224285714;8.705207728571429;70.0;;;;;;Interpoliert;181.4;-2.32
+Routenpunkt (Way);T;Kranichsteiner Straße;49.907191985714284;8.705321537142858;70.0;;;;;;Interpoliert;181.1;-2.04
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90730172857143;8.705435345714285;70.0;;;;;;Interpoliert;180.6;-1.77
+Routenpunkt (Way);T;Kranichsteiner Straße;49.907411471428574;8.705549154285714;70.0;;;;;;Interpoliert;180.5;-1.64
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90752121428572;8.705662962857142;70.0;;;;;;Interpoliert;180.4;-1.5
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90763095714286;8.705776771428571;70.0;;;;;;Interpoliert;180.2;-1.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9077407;8.70589058;70.0;;;;;;Interpoliert;180.0;-1.5
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90785044285714;8.706004388571428;70.0;;;;;;Interpoliert;179.8;-2.04
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90796018571429;8.706118197142857;70.0;;;;;;Interpoliert;179.4;-2.45
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90806992857143;8.706232005714286;70.0;;;;;;Interpoliert;178.9;-2.86
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90817967142857;8.706345814285713;70.0;;;;;;Interpoliert;178.4;-3.0
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90828941428571;8.706459622857142;70.0;;;;;;Interpoliert;177.9;-2.86
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90839915714285;8.706573431428572;70.0;;;;;;Interpoliert;177.6;-2.59
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9085089;8.706687239999999;70.0;;;;;;Interpoliert;177.3;-2.73
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90861864285714;8.706801048571428;70.0;;;;;;Interpoliert;177.0;-2.86
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90872838571429;8.706914857142857;70.0;;;;;;Interpoliert;176.4;-3.41
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90883812857143;8.707028665714285;70.0;;;;;;Interpoliert;175.8;-3.68
+Routenpunkt (Way);T;Kranichsteiner Straße;49.908947871428566;8.707142474285714;70.0;;;;;;Interpoliert;175.1;-3.82
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90905761428572;8.707256282857143;70.0;;;;;;Interpoliert;174.6;-3.54
+Routenpunkt (Way);T;Kranichsteiner Straße;49.909167357142856;8.70737009142857;70.0;;;;;;Interpoliert;174.2;-3.27
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9092771;8.7074839;70.0;;;;;;Original OSM;173.8;-2.86
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9093872375;8.707596862499999;70.0;;;;;;Interpoliert;173.4;-2.45
+Routenpunkt (Way);T;Kranichsteiner Straße;49.909497375;8.707709825;70.0;;;;;;Interpoliert;173.0;-2.45
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9096075125;8.7078227875;70.0;;;;;;Interpoliert;172.8;-2.04
+Routenpunkt (Way);T;Kranichsteiner Straße;49.90971765;8.70793575;70.0;;;;;;Interpoliert;172.4;-1.64
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9098277875;8.7080487125;70.0;;;;;;Interpoliert;172.3;-1.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.909937925;8.708161675;70.0;;;;;;Interpoliert;172.2;-0.82
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9100480625;8.7082746375;70.0;;;;;;Interpoliert;172.2;-0.27
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9101582;8.7083876;70.0;;;;;;Original OSM;172.2;-0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91026624;8.708498175;70.0;;;;;;Interpoliert;172.2;-0.42
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91037428;8.70860875;70.0;;;;;;Interpoliert;172.2;-0.7
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91048232;8.708719325;70.0;;;;;;Interpoliert;171.9;-1.25
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91059036;8.7088299;70.0;;;;;;Interpoliert;171.7;-1.53
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9106984;8.708940475;70.0;;;;;;Interpoliert;171.3;-1.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91080644;8.70905105;70.0;;;;;;Interpoliert;171.1;-1.67
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91091448;8.709161625;70.0;;;;;;Interpoliert;170.9;-1.67
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91102252;8.7092722;70.0;;;;;;Interpoliert;170.7;-1.53
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91113056;8.709382775;70.0;;;;;;Interpoliert;170.5;-1.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9112386;8.709493349999999;70.0;;;;;;Interpoliert;170.2;-2.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91134664;8.709603925;70.0;;;;;;Interpoliert;169.8;-1.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91145468;8.7097145;70.0;;;;;;Interpoliert;169.4;-1.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91156272;8.709825075;70.0;;;;;;Interpoliert;169.3;-1.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91167076;8.70993565;70.0;;;;;;Interpoliert;169.1;-1.53
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91177879999999;8.710046225;70.0;;;;;;Interpoliert;168.9;-1.25
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91188684;8.7101568;70.0;;;;;;Interpoliert;168.7;-1.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91199488;8.710267374999999;70.0;;;;;;Interpoliert;168.5;-0.83
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91210292;8.71037795;70.0;;;;;;Interpoliert;168.5;-0.42
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91221096;8.710488524999999;70.0;;;;;;Interpoliert;168.5;0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.912319;8.7105991;70.0;;;;;;Original OSM;168.6;0.69
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91242687647058;8.710711629411763;70.0;;;;;;Interpoliert;168.8;0.97
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91253475294117;8.71082415882353;70.0;;;;;;Interpoliert;169.0;1.25
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91264262941176;8.710936688235293;70.0;;;;;;Interpoliert;169.2;1.38
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91275050588235;8.711049217647059;70.0;;;;;;Interpoliert;169.4;0.97
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91285838235294;8.711161747058823;70.0;;;;;;Interpoliert;169.6;0.55
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91296625882352;8.711274276470588;70.0;;;;;;Interpoliert;169.5;-0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91307413529412;8.711386805882352;70.0;;;;;;Interpoliert;169.4;-0.83
+Routenpunkt (Way);T;Kranichsteiner Straße;49.913182011764704;8.711499335294118;70.0;;;;;;Interpoliert;169.1;-1.52
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91328988823529;8.711611864705882;70.0;;;;;;Interpoliert;168.8;-1.8
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91339776470588;8.711724394117647;70.0;;;;;;Interpoliert;168.5;-2.08
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91350564117647;8.711836923529411;70.0;;;;;;Interpoliert;168.2;-2.08
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91361351764706;8.711949452941177;70.0;;;;;;Interpoliert;167.9;-2.77
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91372139411765;8.71206198235294;70.0;;;;;;Interpoliert;167.6;-3.46
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91382927058823;8.712174511764706;70.0;;;;;;Interpoliert;166.8;-3.74
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91393714705882;8.71228704117647;70.0;;;;;;Interpoliert;166.0;-4.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91404502352941;8.712399570588236;70.0;;;;;;Interpoliert;165.5;-4.39
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9141529;8.7125121;70.0;;;;;;Original OSM;165.0;-4.07
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91424774;8.71260978;70.0;;;;;;Interpoliert;164.5;-3.75
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91434258;8.712707459999999;70.0;;;;;;Interpoliert;164.0;-3.85
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91443742;8.71280514;70.0;;;;;;Interpoliert;163.5;-3.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91453226;8.71290282;70.0;;;;;;Interpoliert;163.0;-3.86
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9146271;8.7130005;70.0;;;;;;Original OSM;162.5;-3.07
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91473385;8.713109827777778;70.0;;;;;;Interpoliert;162.0;-2.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9148406;8.713219155555555;70.0;;;;;;Interpoliert;162.0;-1.49
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91494735;8.713328483333333;70.0;;;;;;Interpoliert;162.0;-0.7
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9150541;8.713437811111111;70.0;;;;;;Interpoliert;162.0;0.0
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91516085;8.713547138888888;70.0;;;;;;Interpoliert;162.0;0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9152676;8.713656466666666;70.0;;;;;;Interpoliert;162.0;-0.42
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91537435;8.713765794444445;70.0;;;;;;Interpoliert;162.1;-0.98
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9154811;8.713875122222221;70.0;;;;;;Interpoliert;161.7;-1.55
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91558785;8.71398445;70.0;;;;;;Interpoliert;161.3;-2.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9156946;8.714093777777778;70.0;;;;;;Interpoliert;160.9;-2.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91580135;8.714203105555555;70.0;;;;;;Interpoliert;160.5;-2.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9159081;8.714312433333333;70.0;;;;;;Interpoliert;160.1;-2.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91601485;8.714421761111112;70.0;;;;;;Interpoliert;159.7;-2.39
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9161216;8.714531088888888;70.0;;;;;;Interpoliert;159.3;-2.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91622835;8.714640416666667;70.0;;;;;;Interpoliert;159.2;-3.38
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9163351;8.714749744444445;70.0;;;;;;Interpoliert;158.5;-3.24
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91644185;8.714859072222222;70.0;;;;;;Interpoliert;157.7;-3.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9165486;8.7149684;70.0;;;;;;Original OSM;157.4;-3.36
+Routenpunkt (Way);T;Kranichsteiner Straße;49.916656546153845;8.715080930769231;70.0;;;;;;Interpoliert;157.1;-2.79
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91676449230769;8.715193461538462;70.0;;;;;;Interpoliert;156.8;-1.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91687243846154;8.715305992307693;70.0;;;;;;Interpoliert;156.5;-1.25
+Routenpunkt (Way);T;Kranichsteiner Straße;49.916980384615385;8.715418523076924;70.0;;;;;;Interpoliert;156.4;-0.69
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91708833076923;8.715531053846155;70.0;;;;;;Interpoliert;156.5;-0.55
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91719627692308;8.715643584615385;70.0;;;;;;Interpoliert;156.6;0.42
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91730422307692;8.715756115384615;70.0;;;;;;Interpoliert;156.4;1.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.917412169230765;8.715868646153845;70.0;;;;;;Interpoliert;156.8;1.52
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91752011538461;8.715981176923076;70.0;;;;;;Interpoliert;157.2;1.94
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91762806153846;8.716093707692307;70.0;;;;;;Interpoliert;157.6;2.77
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91773600769231;8.716206238461538;70.0;;;;;;Interpoliert;158.0;2.44
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91784395384615;8.716318769230769;70.0;;;;;;Interpoliert;158.4;1.66
+Routenpunkt (Way);T;;49.91790855192308;8.716385984615385;70.0;;;;;;Interpoliert (15m);158.5;0.63
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91797315;8.7164532;70.0;;;;;;Original OSM;158.4;-0.4
+Routenpunkt (Way);T;;49.91803558863636;8.71651794090909;70.0;;;;;;Interpoliert (15m);158.2;-1.25
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91809802727273;8.716582681818181;70.0;;;;;;Interpoliert;158.0;-1.77
+Routenpunkt (Way);T;Kranichsteiner Straße;49.918201654545456;8.716690263636364;70.0;;;;;;Interpoliert;157.8;-1.82
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91830528181818;8.716797845454545;70.0;;;;;;Interpoliert;157.6;-1.63
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91840890909091;8.716905427272728;70.0;;;;;;Interpoliert;157.4;-1.44
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91851253636364;8.717013009090909;70.0;;;;;;Interpoliert;157.2;-1.44
+Routenpunkt (Way);T;Kranichsteiner Straße;49.918616163636365;8.717120590909092;70.0;;;;;;Interpoliert;157.0;-1.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91871979090909;8.717228172727273;70.0;;;;;;Interpoliert;156.8;-0.58
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91882341818182;8.717335754545456;70.0;;;;;;Interpoliert;156.9;-0.29
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91892704545455;8.717443336363637;70.0;;;;;;Interpoliert;157.0;0.0
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91903067272728;8.71755091818182;70.0;;;;;;Interpoliert;157.0;0.29
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9191343;8.7176585;70.0;;;;;;Original OSM;157.0;0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.919223275;8.717749975;70.0;;;;;;Interpoliert;157.0;-0.51
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91931225;8.71784145;70.0;;;;;;Interpoliert;157.0;-1.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.919401225;8.717932925;70.0;;;;;;Interpoliert;156.7;-1.43
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9194902;8.7180244;70.0;;;;;;Original OSM;156.4;-1.85
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91959774285714;8.7181357;70.0;;;;;;Interpoliert;156.1;-2.26
+Routenpunkt (Way);T;Kranichsteiner Straße;49.919705285714286;8.718247;70.0;;;;;;Interpoliert;155.8;-2.18
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91981282857143;8.7183583;70.0;;;;;;Interpoliert;155.5;-2.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.91992037142857;8.718469599999999;70.0;;;;;;Interpoliert;155.2;-2.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92002791428571;8.7185809;70.0;;;;;;Interpoliert;154.9;-1.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.920135457142855;8.7186922;70.0;;;;;;Interpoliert;154.6;-1.53
+Routenpunkt (Way);T;Kranichsteiner Straße;49.920243;8.7188035;70.0;;;;;;Interpoliert;154.5;-0.7
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92035054285714;8.7189148;70.0;;;;;;Interpoliert;154.4;0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92045808571429;8.7190261;70.0;;;;;;Interpoliert;154.7;0.97
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92056562857143;8.719137400000001;70.0;;;;;;Interpoliert;155.0;1.53
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92067317142857;8.7192487;70.0;;;;;;Interpoliert;155.3;2.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92078071428571;8.71936;70.0;;;;;;Interpoliert;155.6;2.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.920888257142856;8.7194713;70.0;;;;;;Interpoliert;155.9;2.66
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9209958;8.7195826;70.0;;;;;;Original OSM;156.2;3.24
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92107103333333;8.719660900000001;;;;;;;Interpoliert;156.7;3.42
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92114626666667;8.7197392;;;;;;;Interpoliert;157.2;3.82
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9212215;8.7198175;;;;;;;Original OSM;157.5;4.08
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9213318925;8.719930374999999;70.0;;;;;;Interpoliert;158.1;3.77
+Routenpunkt (Way);T;Kranichsteiner Straße;49.921442285;8.72004325;70.0;;;;;;Interpoliert;158.6;3.45
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9215526775;8.720156124999999;70.0;;;;;;Interpoliert;159.1;3.54
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92166307;8.720269;70.0;;;;;;Interpoliert;159.6;3.4
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9217734625;8.720381875;70.0;;;;;;Interpoliert;160.1;3.4
+Routenpunkt (Way);T;Kranichsteiner Straße;49.921883855;8.72049475;70.0;;;;;;Interpoliert;160.6;3.54
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9219942475;8.720607625;70.0;;;;;;Interpoliert;161.1;3.67
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92210464;8.720720499999999;70.0;;;;;;Interpoliert;161.7;3.81
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9222150325;8.720833375;70.0;;;;;;Interpoliert;162.3;3.54
+Routenpunkt (Way);T;Kranichsteiner Straße;49.922325425;8.720946249999999;70.0;;;;;;Interpoliert;162.9;3.27
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9224358175;8.721059125;70.0;;;;;;Interpoliert;163.2;2.86
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92254621;8.721172;70.0;;;;;;Interpoliert;163.5;2.45
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9226566025;8.721284875;70.0;;;;;;Interpoliert;163.8;2.04
+Routenpunkt (Way);T;Kranichsteiner Straße;49.922766995;8.72139775;70.0;;;;;;Interpoliert;164.1;2.31
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9228773875;8.721510624999999;70.0;;;;;;Interpoliert;164.4;2.59
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92298778;8.7216235;70.0;;;;;;Interpoliert;164.9;2.45
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9230981725;8.721736374999999;70.0;;;;;;Interpoliert;165.4;2.31
+Routenpunkt (Way);T;Kranichsteiner Straße;49.923208565;8.72184925;70.0;;;;;;Interpoliert;165.6;2.18
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9233189575;8.721962125;70.0;;;;;;Interpoliert;165.8;1.77
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92342935;8.722075;70.0;;;;;;Interpoliert;166.0;1.36
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9235397425;8.722187875;70.0;;;;;;Interpoliert;166.2;1.91
+Routenpunkt (Way);T;Kranichsteiner Straße;49.923650135;8.722300749999999;70.0;;;;;;Interpoliert;166.4;2.45
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9237605275;8.722413625;70.0;;;;;;Interpoliert;167.0;2.99
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92387092;8.722526499999999;70.0;;;;;;Interpoliert;167.6;3.27
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9239813125;8.722639375;70.0;;;;;;Interpoliert;168.2;3.54
+Routenpunkt (Way);T;Kranichsteiner Straße;49.924091705;8.72275225;70.0;;;;;;Interpoliert;168.6;3.13
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9242020975;8.722865124999998;70.0;;;;;;Interpoliert;169.0;2.72
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92431249;8.722978;70.0;;;;;;Interpoliert;169.3;2.31
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9244228825;8.723090874999999;70.0;;;;;;Interpoliert;169.6;2.45
+Routenpunkt (Way);T;Kranichsteiner Straße;49.924533275;8.72320375;70.0;;;;;;Interpoliert;169.9;2.59
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9246436675;8.723316624999999;70.0;;;;;;Interpoliert;170.4;2.31
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92475406;8.7234295;70.0;;;;;;Interpoliert;170.9;2.04
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9248644525;8.723542375;70.0;;;;;;Interpoliert;171.0;1.91
+Routenpunkt (Way);T;Kranichsteiner Straße;49.924974845;8.723655249999998;70.0;;;;;;Interpoliert;171.1;1.5
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9250852375;8.723768125;70.0;;;;;;Interpoliert;171.3;1.09
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92519563;8.723880999999999;70.0;;;;;;Interpoliert;171.5;0.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9253060225;8.723993875;70.0;;;;;;Interpoliert;171.7;0.82
+Routenpunkt (Way);T;Kranichsteiner Straße;49.925416415;8.724106749999999;70.0;;;;;;Interpoliert;171.7;0.54
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9255268075;8.724219625;70.0;;;;;;Interpoliert;171.7;-0.0
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9256372;8.7243325;70.0;;;;;;Original OSM;171.7;-0.41
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92574477241379;8.724446610344827;70.0;;;;;;Interpoliert;171.5;-0.55
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92585234482758;8.724560720689654;70.0;;;;;;Interpoliert;171.4;-0.69
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92595991724138;8.724674831034482;70.0;;;;;;Interpoliert;171.3;-0.97
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92606748965517;8.724788941379309;70.0;;;;;;Interpoliert;171.2;-1.1
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92617506206896;8.724903051724137;70.0;;;;;;Interpoliert;171.0;-1.38
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92628263448276;8.725017162068966;70.0;;;;;;Interpoliert;170.7;-1.24
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92639020689655;8.725131272413792;70.0;;;;;;Interpoliert;170.4;-1.1
+Routenpunkt (Way);T;Kranichsteiner Straße;49.926497779310345;8.72524538275862;70.0;;;;;;Interpoliert;170.4;-0.55
+Routenpunkt (Way);T;Kranichsteiner Straße;49.926605351724135;8.725359493103447;70.0;;;;;;Interpoliert;170.4;0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92671292413793;8.725473603448275;70.0;;;;;;Interpoliert;170.6;0.69
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92682049655172;8.725587713793102;70.0;;;;;;Interpoliert;170.8;0.83
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92692806896552;8.72570182413793;70.0;;;;;;Interpoliert;170.9;1.38
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92703564137931;8.725815934482759;70.0;;;;;;Interpoliert;171.0;1.66
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9271432137931;8.725930044827585;70.0;;;;;;Interpoliert;171.4;2.07
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9272507862069;8.726044155172413;70.0;;;;;;Interpoliert;171.8;2.9
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92735835862069;8.72615826551724;70.0;;;;;;Interpoliert;172.3;3.73
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92746593103448;8.726272375862068;70.0;;;;;;Interpoliert;173.0;4.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92757350344828;8.726386486206897;70.0;;;;;;Interpoliert;173.7;4.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92768107586207;8.726500596551723;70.0;;;;;;Interpoliert;174.4;4.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.927788648275865;8.726614706896552;70.0;;;;;;Interpoliert;174.9;4.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92789622068965;8.726728817241378;70.0;;;;;;Interpoliert;175.4;4.0
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92800379310345;8.726842927586206;70.0;;;;;;Interpoliert;176.0;3.31
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92811136551724;8.726957037931033;70.0;;;;;;Interpoliert;176.6;2.9
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92821893793104;8.727071148275861;70.0;;;;;;Interpoliert;176.8;2.49
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92832651034483;8.72718525862069;70.0;;;;;;Interpoliert;177.0;1.66
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92843408275862;8.727299368965516;70.0;;;;;;Interpoliert;177.2;0.83
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92854165517242;8.727413479310345;70.0;;;;;;Interpoliert;177.2;0.97
+Routenpunkt (Way);T;Kranichsteiner Straße;49.928649227586206;8.727527589655171;70.0;;;;;;Interpoliert;177.2;1.1
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9287568;8.7276417;70.0;;;;;;Original OSM;177.5;1.22
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92886924814815;8.727752488888889;70.0;;;;;;Interpoliert;177.8;1.49
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9289816962963;8.727863277777777;70.0;;;;;;Interpoliert;178.1;1.77
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92909414444445;8.727974066666667;70.0;;;;;;Interpoliert;178.3;1.76
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92920659259259;8.728084855555554;70.0;;;;;;Interpoliert;178.5;1.76
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92931904074074;8.728195644444444;70.0;;;;;;Interpoliert;178.8;1.76
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92943148888889;8.728306433333334;70.0;;;;;;Interpoliert;179.1;2.43
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92954393703704;8.728417222222221;70.0;;;;;;Interpoliert;179.4;3.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92965638518518;8.728528011111111;70.0;;;;;;Interpoliert;180.1;3.24
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92976883333333;8.728638799999999;70.0;;;;;;Interpoliert;180.8;3.38
+Routenpunkt (Way);T;Kranichsteiner Straße;49.929881281481485;8.728749588888888;70.0;;;;;;Interpoliert;181.2;3.51
+Routenpunkt (Way);T;Kranichsteiner Straße;49.92999372962963;8.728860377777778;70.0;;;;;;Interpoliert;181.6;3.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93010617777778;8.728971166666666;70.0;;;;;;Interpoliert;182.0;2.7
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93021862592592;8.729081955555555;70.0;;;;;;Interpoliert;182.4;3.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93033107407408;8.729192744444443;70.0;;;;;;Interpoliert;182.8;3.51
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93044352222222;8.729303533333333;70.0;;;;;;Interpoliert;183.5;3.92
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93055597037037;8.72941432222222;70.0;;;;;;Interpoliert;184.2;3.51
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93066841851852;8.72952511111111;70.0;;;;;;Interpoliert;184.9;3.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.930780866666666;8.7296359;70.0;;;;;;Interpoliert;185.0;2.3
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93089331481482;8.729746688888888;70.0;;;;;;Interpoliert;185.1;1.49
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93100576296296;8.729857477777777;70.0;;;;;;Interpoliert;185.2;0.95
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93111821111111;8.729968266666665;70.0;;;;;;Interpoliert;185.3;1.22
+Routenpunkt (Way);T;Kranichsteiner Straße;49.931230659259256;8.730079055555555;70.0;;;;;;Interpoliert;185.6;1.49
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93134310740741;8.730189844444444;70.0;;;;;;Interpoliert;185.9;1.35
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93145555555555;8.730300633333332;70.0;;;;;;Interpoliert;186.2;1.35
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9315680037037;8.730411422222222;70.0;;;;;;Interpoliert;186.2;1.08
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93168045185185;8.73052221111111;70.0;;;;;;Interpoliert;186.3;1.11
+Routenpunkt (Way);T;Kranichsteiner Straße;49.9317929;8.730633;70.0;;;;;;Original OSM;186.4;1.13
+Routenpunkt (Way);T;Kranichsteiner Straße;49.931908058333335;8.730708616666666;70.0;;;;;;Interpoliert;186.7;1.28
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93202321666666;8.730784233333333;70.0;;;;;;Interpoliert;187.0;1.29
+Routenpunkt (Way);T;Kranichsteiner Straße;49.932138375;8.73085985;70.0;;;;;;Interpoliert;187.1;1.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93225353333333;8.730935466666667;70.0;;;;;;Interpoliert;187.2;0.43
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93236869166667;8.731011083333334;70.0;;;;;;Interpoliert;187.1;-0.14
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93248385;8.731086699999999;70.0;;;;;;Interpoliert;187.0;-0.43
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93259900833333;8.731162316666666;70.0;;;;;;Interpoliert;186.9;-0.86
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93271416666667;8.731237933333333;70.0;;;;;;Interpoliert;186.8;-1.44
+Routenpunkt (Way);T;Kranichsteiner Straße;49.932829325;8.73131355;70.0;;;;;;Interpoliert;186.6;-2.01
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93294448333334;8.731389166666666;70.0;;;;;;Interpoliert;186.1;-2.71
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93305964166667;8.731464783333333;70.0;;;;;;Interpoliert;185.6;-3.07
+Routenpunkt (Way);T;;49.933158095833335;8.731529404166666;70.0;;;;;;Interpoliert (15m);185.1;-3.2
+Routenpunkt (Way);T;Kranichsteiner Straße;49.93325655;8.731594025;70.0;;;;;;Original OSM;184.8;-2.93
+Routenpunkt (Way);T;Unbekannt;49.93325025;8.731794099999998;70.0;;;;;;Interpoliert;184.5;-2.65
+Routenpunkt (Way);T;Unbekannt;49.9331949;8.731962;70.0;;;;;;Interpoliert;184.2;-2.26
+Routenpunkt (Way);T;Unbekannt;49.93313955;8.7321299;70.0;;;;;;Interpoliert;183.9;-2.2
+Routenpunkt (Way);T;Unbekannt;49.9330842;8.7322978;70.0;;;;;;Interpoliert;183.6;-2.22
+Routenpunkt (Way);T;Unbekannt;49.93302885;8.732465699999999;70.0;;;;;;Interpoliert;183.3;-2.07
+Routenpunkt (Way);T;Unbekannt;49.9329735;8.7326336;70.0;;;;;;Interpoliert;183.0;-1.93
+Routenpunkt (Way);T;Unbekannt;49.93291815;8.7328015;70.0;;;;;;Interpoliert;182.8;-1.77
+Routenpunkt (Way);T;Unbekannt;49.9328628;8.7329694;70.0;;;;;;Original OSM;182.6;-0.6
+Routenpunkt (Way);T;Unbekannt;49.9327984875;8.7331349875;70.0;;;;;;Interpoliert;182.4;0.56
+Routenpunkt (Way);T;Unbekannt;49.932734175;8.733300575;70.0;;;;;;Interpoliert;182.9;1.15
+Routenpunkt (Way);T;Unbekannt;49.9326698625;8.7334661625;70.0;;;;;;Interpoliert;183.4;1.73
+Routenpunkt (Way);T;Unbekannt;49.932605550000005;8.73363175;70.0;;;;;;Interpoliert;183.6;2.31
+Routenpunkt (Way);T;Unbekannt;49.9325412375;8.7337973375;70.0;;;;;;Interpoliert;183.8;1.88
+Routenpunkt (Way);T;Unbekannt;49.932476925;8.733962925;70.0;;;;;;Interpoliert;184.0;1.44
+Routenpunkt (Way);T;Unbekannt;49.9324126125;8.7341285125;70.0;;;;;;Interpoliert;184.2;1.59
+Routenpunkt (Way);T;Unbekannt;49.9323483;8.7342941;70.0;;;;;;Original OSM;184.4;1.73
+Routenpunkt (Way);T;Unbekannt;49.93228165;8.73445954;70.0;;;;;;Interpoliert;184.7;1.87
+Routenpunkt (Way);T;Unbekannt;49.932215;8.73462498;70.0;;;;;;Interpoliert;185.0;1.0
+Routenpunkt (Way);T;Unbekannt;49.93214835;8.73479042;70.0;;;;;;Interpoliert;185.3;0.14
+Routenpunkt (Way);T;Unbekannt;49.9320817;8.73495586;70.0;;;;;;Interpoliert;184.9;-0.72
+Routenpunkt (Way);T;Unbekannt;49.93201505;8.7351213;70.0;;;;;;Interpoliert;184.5;-1.15
+Routenpunkt (Way);T;Unbekannt;49.9319484;8.73528674;70.0;;;;;;Interpoliert;184.2;-1.57
+Routenpunkt (Way);T;Unbekannt;49.93188175;8.73545218;70.0;;;;;;Interpoliert;184.2;-1.0
+Routenpunkt (Way);T;Unbekannt;49.9318151;8.73561762;70.0;;;;;;Interpoliert;184.2;-0.43
+Routenpunkt (Way);T;Unbekannt;49.93174845;8.73578306;70.0;;;;;;Interpoliert;184.2;-0.44
+Routenpunkt (Way);T;Unbekannt;49.9316818;8.7359485;70.0;;;;;;Original OSM;184.2;-0.88
+Routenpunkt (Way);T;Unbekannt;49.93160967142857;8.736101357142857;70.0;;;;;;Interpoliert;183.9;-1.33
+Routenpunkt (Way);T;Unbekannt;49.93153754285714;8.736254214285713;70.0;;;;;;Interpoliert;183.6;-1.77
+Routenpunkt (Way);T;Unbekannt;49.93146541428571;8.736407071428571;70.0;;;;;;Interpoliert;183.3;-2.21
+Routenpunkt (Way);T;Unbekannt;49.931393285714286;8.736559928571427;70.0;;;;;;Interpoliert;183.0;-1.92
+Routenpunkt (Way);T;Unbekannt;49.93132115714285;8.736712785714285;70.0;;;;;;Interpoliert;182.7;-2.21
+Routenpunkt (Way);T;Unbekannt;49.93124902857143;8.736865642857142;70.0;;;;;;Interpoliert;182.6;-2.05
+Routenpunkt (Way);T;Unbekannt;49.9311769;8.7370185;70.0;;;;;;Original OSM;182.1;-1.89
+Routenpunkt (Way);T;Unbekannt;49.93109866666666;8.737174166666666;70.0;;;;;;Interpoliert;181.9;-1.73
+Routenpunkt (Way);T;Unbekannt;49.93102043333333;8.737329833333334;70.0;;;;;;Interpoliert;181.7;-1.3
+Routenpunkt (Way);T;Unbekannt;49.9309422;8.7374855;70.0;;;;;;Interpoliert;181.5;-0.71
+Routenpunkt (Way);T;Unbekannt;49.93086396666666;8.737641166666666;70.0;;;;;;Interpoliert;181.7;-0.57
+Routenpunkt (Way);T;Unbekannt;49.93078573333333;8.737796833333334;70.0;;;;;;Interpoliert;181.6;-0.44
+Routenpunkt (Way);T;Unbekannt;49.9307075;8.7379525;70.0;;;;;;Original OSM;181.5;-0.31
+Routenpunkt (Way);T;Unbekannt;49.93063218333333;8.73809005;70.0;;;;;;Interpoliert;181.4;-0.75
+Routenpunkt (Way);T;Unbekannt;49.93055686666666;8.7382276;70.0;;;;;;Interpoliert;181.3;-0.61
+Routenpunkt (Way);T;Unbekannt;49.93048155;8.73836515;70.0;;;;;;Interpoliert;181.2;-1.24
+Routenpunkt (Way);T;Unbekannt;49.930406233333336;8.7385027;70.0;;;;;;Interpoliert;181.2;-1.39
+Routenpunkt (Way);T;Unbekannt;49.93033091666667;8.73864025;70.0;;;;;;Interpoliert;180.7;-1.54
+Routenpunkt (Way);T;Unbekannt;49.9302556;8.7387778;70.0;;;;;;Original OSM;180.5;-1.68
+Routenpunkt (Way);T;Unbekannt;49.930175266666666;8.738916933333332;70.0;;;;;;Interpoliert;180.3;-1.53
+Routenpunkt (Way);T;Unbekannt;49.930094933333336;8.739056066666667;70.0;;;;;;Interpoliert;180.1;-0.61
+Routenpunkt (Way);T;Unbekannt;49.9300146;8.7391952;70.0;;;;;;Interpoliert;180.2;-0.15
+Routenpunkt (Way);T;Unbekannt;49.92993426666666;8.739334333333332;70.0;;;;;;Interpoliert;180.3;-0.3
+Routenpunkt (Way);T;Unbekannt;49.92985393333333;8.739473466666666;70.0;;;;;;Interpoliert;180.4;-0.49
+Routenpunkt (Way);T;Unbekannt;49.9297736;8.7396126;70.0;;;;;;Original OSM;180.1;-1.13
+Routenpunkt (Way);T;Unbekannt;49.92969508;8.73973208;70.0;;;;;;Interpoliert;179.8;-1.44
+Routenpunkt (Way);T;Unbekannt;49.92961656;8.73985156;70.0;;;;;;Interpoliert;179.5;-1.59
+Routenpunkt (Way);T;Unbekannt;49.92953804;8.739971039999999;70.0;;;;;;Interpoliert;179.4;-1.15
+Routenpunkt (Way);T;Unbekannt;49.92945952;8.740090519999999;70.0;;;;;;Interpoliert;179.4;-0.65
+Routenpunkt (Way);T;Unbekannt;49.929381;8.74021;70.0;;;;;;Original OSM;179.4;-0.7
+Routenpunkt (Way);T;Unbekannt;49.9292814;8.740349933333333;70.0;;;;;;Interpoliert;179.4;-1.07
+Routenpunkt (Way);T;Unbekannt;49.9291818;8.740489866666667;70.0;;;;;;Interpoliert;179.0;-1.75
+Routenpunkt (Way);T;Unbekannt;49.9290822;8.7406298;70.0;;;;;;Original OSM;178.6;-1.75
+Routenpunkt (Way);T;Unbekannt;49.928996600000005;8.74072785;70.0;;;;;;Interpoliert;178.2;-1.75
+Routenpunkt (Way);T;Unbekannt;49.928911;8.7408259;70.0;;;;;;Interpoliert;178.2;-1.21
+Routenpunkt (Way);T;Unbekannt;49.9288254;8.740923949999999;70.0;;;;;;Interpoliert;178.2;-0.68
+Routenpunkt (Way);T;Unbekannt;49.9287398;8.741022;70.0;;;;;;Original OSM;178.2;-0.8
+Routenpunkt (Way);T;Unbekannt;49.9286441;8.7411137;70.0;;;;;;Interpoliert;178.2;-1.6
+Routenpunkt (Way);T;Unbekannt;49.9285484;8.7412054;70.0;;;;;;Interpoliert;177.7;-2.52
+Routenpunkt (Way);T;Unbekannt;49.9284527;8.7412971;70.0;;;;;;Original OSM;177.2;-2.67
+Routenpunkt (Way);T;Unbekannt;49.928373750000006;8.74138765;70.0;;;;;;Interpoliert;176.7;-2.82
+Routenpunkt (Way);T;;49.92839584375001;8.741567946875;70.0;;;;;;Interpoliert (15m);176.6;-2.18
+Routenpunkt (Way);T;Unbekannt;49.92841793750001;8.74174824375;70.0;;;;;;Original OSM;176.5;-1.53
+Routenpunkt (Way);T;;49.928512625;8.741848629166666;70.0;;;;;;Interpoliert (15m);176.4;-0.78
+Routenpunkt (Way);T;;49.928607312500006;8.741949014583332;70.0;;;;;;Interpoliert (15m);176.3;-0.62
+Routenpunkt (Way);T;Roßdörfer Straße;49.928702;8.742049399999999;100.0;;;;;;Interpoliert;176.2;-0.47
+Routenpunkt (Way);T;Roßdörfer Straße;49.9287954;8.7420805;100.0;;;;;;Original OSM;176.2;-0.15
+Routenpunkt (Way);T;Roßdörfer Straße;49.9289064;8.74210105;100.0;;;;;;Interpoliert;176.2;0.14
+Routenpunkt (Way);T;Roßdörfer Straße;49.9290174;8.7421216;100.0;;;;;;Original OSM;176.3;0.45
+Routenpunkt (Way);T;Roßdörfer Straße;49.929146;8.7421275;100.0;;;;;;Interpoliert;176.4;0.61
+Routenpunkt (Way);T;;49.92926345625;8.7421295125;100.0;;;;;;Interpoliert (15m);176.5;0.81
+Routenpunkt (Way);T;Roßdörfer Straße;49.9293809125;8.742131525000001;100.0;;;;;;Original OSM;176.6;0.86
+Routenpunkt (Way);T;;49.92946725625;8.7421148375;100.0;;;;;;Interpoliert (15m);176.7;1.04
+Routenpunkt (Way);T;Roßdörfer Straße;49.9295536;8.74209815;30.0;;;;;;Interpoliert;176.8;1.2
+Routenpunkt (Way);T;Roßdörfer Straße;49.9296625;8.7420659;30.0;;;;;;Original OSM;177.0;1.21
+Routenpunkt (Way);T;Roßdörfer Straße;49.92977153333333;8.742007766666667;30.0;;;;;;Interpoliert;177.2;1.16
+Routenpunkt (Way);T;Roßdörfer Straße;49.92988056666667;8.741949633333332;30.0;;;;;;Interpoliert;177.3;1.1
+Routenpunkt (Way);T;Roßdörfer Straße;49.9299896;8.7418915;30.0;;;;;;Original OSM;177.4;0.93
+Routenpunkt (Way);T;Roßdörfer Straße;49.93009905;8.74181755;30.0;;;;;;Interpoliert;177.5;0.76
+Routenpunkt (Way);T;Roßdörfer Straße;49.9302085;8.7417436;30.0;;;;;;Interpoliert;177.6;0.76
+Routenpunkt (Way);T;Roßdörfer Straße;49.93031795;8.741669649999999;30.0;;;;;;Interpoliert;177.7;0.75
+Routenpunkt (Way);T;Roßdörfer Straße;49.9304274;8.7415957;30.0;;;;;;Interpoliert;177.8;0.74
+Routenpunkt (Way);T;Roßdörfer Straße;49.93053685;8.74152175;30.0;;;;;;Interpoliert;177.9;0.59
+Routenpunkt (Way);T;Im Kleepfad;49.9306685;8.7415236;30.0;;;;;;Original OSM;178.0;0.44
+Routenpunkt (Way);T;;49.93069465;8.741687375;30.0;;;;;;Interpoliert (15m);178.0;0.42
+Routenpunkt (Way);T;Im Kleepfad;49.9307208;8.741851149999999;30.0;;;;;;Original OSM;178.0;0.48
+Routenpunkt (Way);T;Im Kleepfad;49.93074;8.7420552;30.0;;;;;;Interpoliert;178.1;0.56
+Routenpunkt (Way);T;;49.930753075;8.742186725;30.0;;;;;;Interpoliert (15m);178.2;1.18
+Routenpunkt (Way);T;Im Kleepfad;49.93076615;8.742318249999999;30.0;;;;;;Original OSM;178.3;1.81
+Routenpunkt (Way);T;;49.93077865;8.742450575;30.0;;;;;;Interpoliert (15m);178.6;2.56
+Routenpunkt (Way);T;Im Kleepfad;49.93079115;8.7425829;30.0;;;;;;Interpoliert;178.9;3.13
+Routenpunkt (Way);T;Im Kleepfad;49.9308048;8.7427395;30.0;;;;;;Original OSM;179.4;3.7
+Routenpunkt (Way);T;Im Kleepfad;49.930820266666665;8.7429168;30.0;;;;;;Interpoliert;179.9;3.85
+Routenpunkt (Way);T;Im Kleepfad;49.93083573333333;8.7430941;30.0;;;;;;Interpoliert;180.4;4.19
+Routenpunkt (Way);T;Im Kleepfad;49.9308512;8.7432714;30.0;;;;;;Original OSM;180.9;4.25
+Routenpunkt (Way);T;Im Kleepfad;49.9308637;8.74341445;30.0;;;;;;Interpoliert;181.4;4.42
+Routenpunkt (Way);T;;49.930897075;8.74352105;30.0;;;;;;Interpoliert (15m);181.8;4.22
+Routenpunkt (Way);T;Im Kleepfad;49.93093045;8.74362765;30.0;;;;;;Original OSM;182.2;3.74
+Routenpunkt (Way);T;;49.931052275;8.743617125;30.0;;;;;;Interpoliert (15m);182.6;3.12
+Routenpunkt (Way);T;Sudetenstraße;49.9311741;8.743606600000001;30.0;;;;;;Original OSM;182.8;2.18
+Routenpunkt (Way);T;;49.93127483333333;8.743580926666668;30.0;;;;;;Interpoliert (15m);183.0;1.24
+Routenpunkt (Way);T;;49.93137556666667;8.743555253333334;30.0;;;;;;Interpoliert (15m);183.0;0.65
+Routenpunkt (Way);T;Sudetenstraße;49.9314763;8.74352958;30.0;;;;;;Interpoliert;183.0;0.35
+Haltestelle;W;Messel Sudetenstraße;49.9314763;8.74352958;30.0;12:40:00;12:40:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 1m) | Auf Route gesnappt (1m);183.0;0.0
+Routenpunkt (Way);T;Sudetenstraße;49.9315932;8.74350152;30.0;;;;;;Interpoliert;183.0;0.0
+Routenpunkt (Way);T;Sudetenstraße;49.9317101;8.74347346;30.0;;;;;;Interpoliert;183.0;-0.17
+Routenpunkt (Way);T;Sudetenstraße;49.93184143333334;8.743442266666667;30.0;;;;;;Original OSM;183.0;-0.33
+Routenpunkt (Way);T;;49.93194843333333;8.7434183;30.0;;;;;;Interpoliert (15m);182.9;-0.53
+Routenpunkt (Way);T;Sudetenstraße;49.932055433333325;8.743394333333333;30.0;;;;;;Original OSM;182.8;-0.72
+Routenpunkt (Way);T;;49.93214663333333;8.743370416666668;30.0;;;;;;Interpoliert (15m);182.7;-0.89
+Routenpunkt (Way);T;Sudetenstraße;49.93223783333333;8.743346500000001;30.0;;;;;;Interpoliert;182.6;-0.88
+Routenpunkt (Way);T;Sudetenstraße;49.93234536666667;8.7433169;30.0;;;;;;Interpoliert;182.5;-0.91
+Routenpunkt (Way);T;Sudetenstraße;49.9324529;8.7432873;30.0;;;;;;Original OSM;182.4;-0.91
+Routenpunkt (Way);T;Sudetenstraße;49.9325439;8.743266466666666;30.0;;;;;;Interpoliert;182.3;-0.92
+Routenpunkt (Way);T;Sudetenstraße;49.9326349;8.743245633333334;30.0;;;;;;Interpoliert;182.2;-0.9
+Routenpunkt (Way);T;Sudetenstraße;49.9327259;8.7432248;30.0;;;;;;Original OSM;182.1;-0.73
+Routenpunkt (Way);T;Sudetenstraße;49.93284796;8.7432064;30.0;;;;;;Interpoliert;182.0;-0.54
+Routenpunkt (Way);T;Sudetenstraße;49.93297002;8.743188;30.0;;;;;;Interpoliert;182.0;-0.34
+Routenpunkt (Way);T;Sudetenstraße;49.93309208;8.7431696;30.0;;;;;;Interpoliert;182.0;-0.15
+Routenpunkt (Way);T;Sudetenstraße;49.93321414;8.7431512;30.0;;;;;;Interpoliert;182.0;0.0
+Routenpunkt (Way);T;Sudetenstraße;49.9333362;8.7431328;30.0;;;;;;Original OSM;182.0;0.0
+Routenpunkt (Way);T;Sudetenstraße;49.93345868;8.74311876;30.0;;;;;;Interpoliert;182.0;-0.29
+Routenpunkt (Way);T;Sudetenstraße;49.93358116;8.74310472;30.0;;;;;;Interpoliert;182.0;-0.59
+Routenpunkt (Way);T;Sudetenstraße;49.93370364;8.74309068;30.0;;;;;;Interpoliert;181.8;-0.88
+Routenpunkt (Way);T;Sudetenstraße;49.93382612;8.74307664;30.0;;;;;;Interpoliert;181.6;-1.2
+Routenpunkt (Way);T;Sudetenstraße;49.9339486;8.7430626;30.0;;;;;;Original OSM;181.4;-1.52
+Routenpunkt (Way);T;Sudetenstraße;49.93406115;8.743062;30.0;;;;;;Interpoliert;181.2;-1.54
+Routenpunkt (Way);T;Sudetenstraße;49.9341737;8.7430614;30.0;;;;;;Interpoliert;181.0;-1.57
+Routenpunkt (Way);T;Sudetenstraße;49.93428625;8.7430608;30.0;;;;;;Interpoliert;180.8;-1.6
+Routenpunkt (Way);T;Sudetenstraße;49.9343988;8.7430602;30.0;;;;;;Original OSM;180.6;-1.93
+Routenpunkt (Way);T;Sudetenstraße;49.93450955;8.74305925;30.0;;;;;;Interpoliert;180.4;-2.26
+Routenpunkt (Way);T;Sudetenstraße;49.9346203;8.743058300000001;30.0;;;;;;Interpoliert;180.0;-2.27
+Routenpunkt (Way);T;Sudetenstraße;49.93473105;8.74305735;30.0;;;;;;Interpoliert;179.6;-2.25
+Routenpunkt (Way);T;Sudetenstraße;49.9348418;8.7430564;30.0;;;;;;Original OSM;179.4;-2.23
+Routenpunkt (Way);T;Sudetenstraße;49.9349595875;8.7430457;30.0;;;;;;Interpoliert;179.2;-1.89
+Routenpunkt (Way);T;Sudetenstraße;49.935077375;8.743035;30.0;;;;;;Interpoliert;179.0;-1.54
+Routenpunkt (Way);T;Sudetenstraße;49.9351951625;8.7430243;30.0;;;;;;Interpoliert;178.8;-1.68
+Routenpunkt (Way);T;Sudetenstraße;49.93531295;8.743013600000001;30.0;;;;;;Interpoliert;178.6;-1.83
+Routenpunkt (Way);T;Sudetenstraße;49.9354307375;8.7430029;30.0;;;;;;Interpoliert;178.3;-1.98
+Routenpunkt (Way);T;Sudetenstraße;49.935548525;8.7429922;30.0;;;;;;Interpoliert;178.0;-1.83
+Routenpunkt (Way);T;Sudetenstraße;49.9356663125;8.7429815;30.0;;;;;;Interpoliert;177.7;-1.7
+Routenpunkt (Way);T;Sudetenstraße;49.9357841;8.7429708;30.0;;;;;;Original OSM;177.6;-1.41
+Routenpunkt (Way);T;Sudetenstraße;49.93588735;8.742990475;30.0;;;;;;Interpoliert;177.5;-1.13
+Routenpunkt (Way);T;Sudetenstraße;49.9359906;8.74301015;30.0;;;;;;Interpoliert;177.4;-0.84
+Routenpunkt (Way);T;Sudetenstraße;49.93609385;8.743029825;30.0;;;;;;Interpoliert;177.3;-0.87
+Routenpunkt (Way);T;Sudetenstraße;49.9361971;8.7430495;30.0;;;;;;Original OSM;177.2;-0.88
+Routenpunkt (Way);T;Sudetenstraße;49.9362965;8.743068449999999;30.0;;;;;;Interpoliert;177.1;-0.86
+Routenpunkt (Way);T;Sudetenstraße;49.9363959;8.7430874;30.0;;;;;;Original OSM;177.0;-0.84
+Routenpunkt (Way);T;Sudetenstraße;49.936513133333335;8.743106766666667;30.0;;;;;;Interpoliert;176.9;-0.82
+Routenpunkt (Way);T;Sudetenstraße;49.93663036666666;8.743126133333334;30.0;;;;;;Interpoliert;176.8;-0.8
+Routenpunkt (Way);T;Kohlweg;49.9367476;8.7431455;30.0;;;;;;Original OSM;176.7;-0.84
+Routenpunkt (Way);T;Kohlweg;49.9367791;8.7433066;30.0;;;;;;Original OSM;176.6;-0.9
+Routenpunkt (Way);T;;49.936782875;8.743435825;30.0;;;;;;Interpoliert (15m);176.5;-1.08
+Routenpunkt (Way);T;Kohlweg;49.93678665;8.74356505;30.0;;;;;;Original OSM;176.4;-1.26
+Routenpunkt (Way);T;;49.93679155;8.743734850000001;30.0;;;;;;Interpoliert (15m);176.2;-1.37
+Routenpunkt (Way);T;Kohlweg;49.93679645;8.743904650000001;30.0;;;;;;Original OSM;176.0;-1.16
+Routenpunkt (Way);T;Kohlweg;49.9368034;8.7441021;30.0;;;;;;Original OSM;175.8;-1.19
+Haltestelle;W;Messel Rathaus;49.9368034;8.7441021;30.0;12:42:00;12:42:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 1m) | Auf Route gesnappt (4m);175.6;-1.1
+Routenpunkt (Way);T;;49.9368075;8.74421555;30.0;;;;;;Interpoliert (15m);175.5;-1.03
+Routenpunkt (Way);T;Kohlweg;49.9368116;8.744329;30.0;;;;;;Interpoliert;175.4;-1.25
+Routenpunkt (Way);T;;49.936815575;8.74443975;30.0;;;;;;Interpoliert (15m);175.3;-1.75
+Routenpunkt (Way);T;Kohlweg;49.93681955;8.744550499999999;30.0;;;;;;Original OSM;175.1;-2.0
+Routenpunkt (Way);T;;49.936821575;8.74466245;30.0;;;;;;Interpoliert (15m);174.9;-1.89
+Routenpunkt (Way);T;Kohlweg;49.9368236;8.7447744;30.0;;;;;;Original OSM;174.7;-1.79
+Routenpunkt (Way);T;Kohlweg;49.93682635;8.7449748;30.0;;;;;;Interpoliert;174.6;-1.29
+Routenpunkt (Way);T;Kohlweg;49.9368289;8.7451589;30.0;;;;;;Interpoliert;174.5;-0.79
+Routenpunkt (Way);T;Kohlweg;49.93683145;8.745343;30.0;;;;;;Interpoliert;174.5;-0.29
+Routenpunkt (Way);T;Kohlweg;49.936834;8.7455271;30.0;;;;;;Original OSM;174.5;-0.15
+Routenpunkt (Way);T;Kohlweg;49.93683635;8.7456693;30.0;;;;;;Interpoliert;174.5;0.0
+Routenpunkt (Way);T;;49.93683868125;8.745809306249999;30.0;;;;;;Interpoliert (15m);174.5;0.26
+Routenpunkt (Way);T;Kohlweg;49.9368410125;8.7459493125;30.0;;;;;;Original OSM;174.5;0.52
+Routenpunkt (Way);T;;49.93690563402778;8.745988078472223;30.0;;;;;;Interpoliert (15m);174.6;0.66
+Routenpunkt (Way);T;Berliner Straße;49.93697025555556;8.746026844444444;30.0;;;;;;Interpoliert;174.7;0.8
+Routenpunkt (Way);T;Berliner Straße;49.93709811111111;8.746021688888888;30.0;;;;;;Interpoliert;174.8;0.94
+Routenpunkt (Way);T;Berliner Straße;49.93722596666667;8.746016533333332;30.0;;;;;;Interpoliert;174.9;0.68
+Routenpunkt (Way);T;Berliner Straße;49.93735382222222;8.746011377777776;30.0;;;;;;Interpoliert;175.0;0.42
+Routenpunkt (Way);T;Berliner Straße;49.93748167777778;8.746006222222222;30.0;;;;;;Interpoliert;175.0;0.28
+Routenpunkt (Way);T;Berliner Straße;49.93760953333334;8.746001066666667;30.0;;;;;;Interpoliert;175.0;-0.28
+Routenpunkt (Way);T;Berliner Straße;49.93773738888889;8.74599591111111;30.0;;;;;;Interpoliert;175.0;-0.84
+Routenpunkt (Way);T;Berliner Straße;49.937865244444446;8.745990755555555;30.0;;;;;;Interpoliert;174.7;-1.28
+Routenpunkt (Way);T;Berliner Straße;49.9379931;8.7459856;30.0;;;;;;Original OSM;174.4;-1.71
+Routenpunkt (Way);T;Berliner Straße;49.93811734;8.745978679999999;30.0;;;;;;Interpoliert;174.1;-2.15
+Routenpunkt (Way);T;Berliner Straße;49.93824158;8.74597176;30.0;;;;;;Interpoliert;173.8;-2.16
+Routenpunkt (Way);T;Berliner Straße;49.93836582;8.74596484;30.0;;;;;;Interpoliert;173.5;-2.17
+Routenpunkt (Way);T;Berliner Straße;49.93849006;8.74595792;30.0;;;;;;Interpoliert;173.2;-2.2
+Routenpunkt (Way);T;Berliner Straße;49.9386143;8.745951;30.0;;;;;;Original OSM;172.9;-2.22
+Routenpunkt (Way);T;Berliner Straße;49.9387303;8.7459787;30.0;;;;;;Interpoliert;172.6;-2.25
+Routenpunkt (Way);T;Berliner Straße;49.9388463;8.746006399999999;30.0;;;;;;Interpoliert;172.3;-1.81
+Routenpunkt (Way);T;Am Mörsbach;49.9389623;8.7460341;30.0;;;;;;Original OSM;172.0;-1.38
+Routenpunkt (Way);T;Am Mörsbach;49.93908054;8.746051419999999;30.0;;;;;;Interpoliert;172.0;-0.92
+Routenpunkt (Way);T;Am Mörsbach;49.93919878;8.74606874;30.0;;;;;;Interpoliert;172.0;-0.46
+Routenpunkt (Way);T;Am Mörsbach;49.93931702;8.74608606;30.0;;;;;;Interpoliert;172.0;0.0
+Routenpunkt (Way);T;Am Mörsbach;49.93943526;8.746103380000001;30.0;;;;;;Interpoliert;172.0;-0.17
+Routenpunkt (Way);T;Am Mörsbach;49.9395535;8.7461207;30.0;;;;;;Original OSM;172.0;-0.33
+Routenpunkt (Way);T;Am Mörsbach;49.939660880000005;8.74613596;30.0;;;;;;Interpoliert;171.9;-0.5
+Routenpunkt (Way);T;Am Mörsbach;49.93976826;8.74615122;30.0;;;;;;Interpoliert;171.8;-0.67
+Routenpunkt (Way);T;Am Mörsbach;49.93987564;8.746166480000001;30.0;;;;;;Interpoliert;171.7;-0.86
+Routenpunkt (Way);T;Am Mörsbach;49.93998302;8.74618174;30.0;;;;;;Interpoliert;171.6;-0.5
+Routenpunkt (Way);T;;49.94007573500001;8.746195845;30.0;;;;;;Interpoliert (15m);171.5;-0.09
+Routenpunkt (Way);T;Am Mörsbach;49.94016845000001;8.74620995;30.0;;;;;;Original OSM;171.6;0.32
+Routenpunkt (Way);T;;49.940220375;8.746127275;30.0;;;;;;Interpoliert (15m);171.7;0.63
+Routenpunkt (Way);T;Am Mörsbach;49.9402723;8.7460446;30.0;;;;;;Original OSM;171.8;0.82
+Routenpunkt (Way);T;Am Mörsbach;49.9402935;8.74585346;30.0;;;;;;Interpoliert;171.9;0.77
+Routenpunkt (Way);T;Am Mörsbach;49.9403147;8.74566232;30.0;;;;;;Interpoliert;171.9;0.67
+Routenpunkt (Way);T;Am Mörsbach;49.9403359;8.745471180000001;30.0;;;;;;Interpoliert;172.0;0.58
+Routenpunkt (Way);T;Am Mörsbach;49.9403571;8.74528004;30.0;;;;;;Interpoliert;172.1;0.57
+Routenpunkt (Way);T;Am Mörsbach;49.9403783;8.7450889;30.0;;;;;;Original OSM;172.2;0.7
+Routenpunkt (Way);T;Am Mörsbach;49.9403984;8.744885375;30.0;;;;;;Interpoliert;172.3;0.42
+Routenpunkt (Way);T;Am Mörsbach;49.9404185;8.74468185;30.0;;;;;;Interpoliert;172.4;0.17
+Routenpunkt (Way);T;Am Mörsbach;49.9404386;8.744478325;30.0;;;;;;Interpoliert;172.3;-0.16
+Routenpunkt (Way);T;Am Mörsbach;49.9404587;8.7442748;30.0;;;;;;Original OSM;172.22;-0.55
+Routenpunkt (Way);T;Am Mörsbach;49.94050033333333;8.744149633333333;30.0;;;;;;Interpoliert;172.12;-0.68
+Routenpunkt (Way);T;Am Mörsbach;49.940541966666665;8.744024466666668;30.0;;;;;;Interpoliert;172.0;-0.68
+Haltestelle;W;Messel Am Mörsbach;49.940541966666665;8.744024466666668;30.0;12:44:00;12:44:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);172.0;-0.73

@@ -1,0 +1,371 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Darmstadt Haasstraße,1;05:09:00;1;W
+1;Darmstadt Im Harras,1;05:12:00;1;W
+1;Darmstadt Moldenhauerweg,1;05:14:00;1;W
+1;Darmstadt Hauptbahnhof,4;05:18:00;1;W
+1;Darmstadt Berliner Allee,2;05:20:00;1;W
+1;Darmstadt Rhein-/Neckarstraße,2;05:21:00;1;W
+1;Darmstadt Luisenplatz,1;05:24:00;1;W
+1;Darmstadt Schloss,4;05:26:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;05:28:00;1;W
+1;Darmstadt Lucasweg/Mathildenhö,1;05:30:00;1;W
+1;Darmstadt Regerweg,1;05:32:00;1;W
+1;Darmstadt Fasanerie,1;05:34:00;1;W
+1;Darmstadt Oberwaldhaus,1;05:35:00;1;W
+1;Darmstadt Grube Prinz v. Hesse,1;06:38:00;1;W
+1;Darmstadt Einsiedel,1;06:39:00;1;W
+1;Messel Grube Messel Besucherz.,2;06:40:00;1;W
+1;Messel Gru. Messel Am Wildpark,2;06:42:00;1;W
+1;Messel Bahnhof,1;06:43:00;1;W
+1;Messel Sudetenstraße,2;06:45:00;1;W
+1;Messel Rathaus,1;06:47:00;1;W
+2;Darmstadt Oberwaldhaus,1;05:39:00;2;W
+2;Darmstadt Fasanerie,2;05:40:00;2;W
+2;Darmstadt Regerweg,2;05:42:00;2;W
+2;Darmstadt Lucasweg/Mathildenhö,2;05:45:00;2;W
+2;Darmstadt Alexanderstraße/TU,2;05:48:00;2;W
+2;Darmstadt Schloss,3;05:50:00;2;W
+2;Darmstadt Luisenplatz,6;05:53:00;2;W
+2;Darmstadt Rhein-/Neckarstraße,1;05:55:00;2;W
+2;Darmstadt Berliner Allee,1;05:57:00;2;W
+2;Darmstadt Hauptbahnhof,2;05:59:00;2;W
+2;Darmstadt Moldenhauerweg,2;06:02:00;2;W
+2;Darmstadt Im Harras,2;06:04:00;2;W
+2;Darmstadt Haasstraße,2;06:07:00;2;W
+2;Darmstadt Haasstraße,2;06:09:00;1;W
+2;Darmstadt Haasstraße,1;06:09:00;1;W
+2;Darmstadt Im Harras,1;06:12:00;1;W
+2;Darmstadt Moldenhauerweg,1;06:14:00;1;W
+2;Darmstadt Hauptbahnhof,4;06:18:00;1;W
+2;Darmstadt Berliner Allee,2;06:20:00;1;W
+2;Darmstadt Rhein-/Neckarstraße,2;06:21:00;1;W
+2;Darmstadt Luisenplatz,1;06:24:00;1;W
+2;Darmstadt Schloss,4;06:26:00;1;W
+2;Darmstadt Alexanderstraße/TU,1;06:28:00;1;W
+2;Darmstadt Lucasweg/Mathildenhö,1;06:30:00;1;W
+2;Darmstadt Regerweg,1;06:32:00;1;W
+2;Darmstadt Fasanerie,1;06:34:00;1;W
+2;Darmstadt Oberwaldhaus,1;06:35:00;1;W
+3;Messel Rathaus,1;06:49:00;2;W
+3;Messel Sudetenstraße,1;06:51:00;2;W
+3;Messel Bahnhof,2;07:00:00;2;W
+3;Messel Gru. Messel Am Wildpark,1;07:01:00;2;W
+3;Messel Grube Messel Besucherz.,1;07:02:00;2;W
+3;Darmstadt Einsiedel,2;07:04:00;2;W
+3;Darmstadt Grube Prinz v. Hesse,2;07:05:00;2;W
+3;Darmstadt Oberwaldhaus,1;07:09:00;2;W
+3;Darmstadt Fasanerie,2;07:10:00;2;W
+3;Darmstadt Regerweg,2;07:12:00;2;W
+3;Darmstadt Lucasweg/Mathildenhö,2;07:15:00;2;W
+3;Darmstadt Alexanderstraße/TU,2;07:18:00;2;W
+3;Darmstadt Schloss,3;07:20:00;2;W
+3;Darmstadt Luisenplatz,6;07:23:00;2;W
+3;Darmstadt Rhein-/Neckarstraße,1;07:25:00;2;W
+3;Darmstadt Berliner Allee,1;07:27:00;2;W
+3;Darmstadt Hauptbahnhof,2;07:29:00;2;W
+3;Darmstadt Moldenhauerweg,2;07:32:00;2;W
+3;Darmstadt Im Harras,2;07:34:00;2;W
+3;Darmstadt Haasstraße,2;07:37:00;2;W
+3;Darmstadt Haasstraße,2;07:39:00;1;W
+3;Darmstadt Haasstraße,1;07:39:00;1;W
+3;Darmstadt Im Harras,1;07:42:00;1;W
+3;Darmstadt Moldenhauerweg,1;07:44:00;1;W
+3;Darmstadt Hauptbahnhof,4;07:48:00;1;W
+3;Darmstadt Berliner Allee,2;07:50:00;1;W
+3;Darmstadt Rhein-/Neckarstraße,2;07:51:00;1;W
+3;Darmstadt Luisenplatz,1;07:54:00;1;W
+3;Darmstadt Schloss,4;07:56:00;1;W
+3;Darmstadt Alexanderstraße/TU,1;07:58:00;1;W
+3;Darmstadt Lucasweg/Mathildenhö,1;08:00:00;1;W
+3;Darmstadt Regerweg,1;08:02:00;1;W
+3;Darmstadt Fasanerie,1;08:04:00;1;W
+3;Darmstadt Oberwaldhaus,1;08:05:00;1;W
+3;Darmstadt Grube Prinz v. Hesse,1;09:23:00;1;W
+3;Darmstadt Einsiedel,1;09:24:00;1;W
+3;Messel Grube Messel Besucherz.,2;09:25:00;1;W
+3;Messel Gru. Messel Am Wildpark,2;09:27:00;1;W
+3;Messel Bahnhof,1;09:28:00;1;W
+3;Messel Sudetenstraße,2;09:30:00;1;W
+4;Darmstadt Oberwaldhaus,1;08:09:00;2;W
+4;Darmstadt Fasanerie,2;08:10:00;2;W
+4;Darmstadt Regerweg,2;08:12:00;2;W
+4;Darmstadt Lucasweg/Mathildenhö,2;08:15:00;2;W
+4;Darmstadt Alexanderstraße/TU,2;08:18:00;2;W
+4;Darmstadt Schloss,3;08:20:00;2;W
+4;Darmstadt Luisenplatz,6;08:23:00;2;W
+4;Darmstadt Rhein-/Neckarstraße,1;08:25:00;2;W
+4;Darmstadt Berliner Allee,1;08:27:00;2;W
+4;Darmstadt Hauptbahnhof,2;08:29:00;2;W
+4;Darmstadt Moldenhauerweg,2;08:32:00;2;W
+4;Darmstadt Im Harras,2;08:34:00;2;W
+4;Darmstadt Haasstraße,2;08:37:00;2;W
+4;Darmstadt Haasstraße,2;08:54:00;1;W
+4;Darmstadt Haasstraße,1;08:54:00;1;W
+4;Darmstadt Im Harras,1;08:57:00;1;W
+4;Darmstadt Moldenhauerweg,1;08:59:00;1;W
+4;Darmstadt Hauptbahnhof,4;09:03:00;1;W
+4;Darmstadt Berliner Allee,2;09:05:00;1;W
+4;Darmstadt Rhein-/Neckarstraße,2;09:06:00;1;W
+4;Darmstadt Luisenplatz,1;09:09:00;1;W
+4;Darmstadt Schloss,4;09:11:00;1;W
+4;Darmstadt Alexanderstraße/TU,1;09:13:00;1;W
+4;Darmstadt Lucasweg/Mathildenhö,1;09:15:00;1;W
+4;Darmstadt Regerweg,1;09:17:00;1;W
+4;Darmstadt Fasanerie,1;09:19:00;1;W
+4;Darmstadt Oberwaldhaus,1;09:20:00;1;W
+5;Messel Rathaus,2;09:32:00;1;W
+5;Messel Am Mörsbach,2;09:34:00;1;W
+5;Urberach Bienengarten,2;09:40:00;1;W
+5;Urberach Darmstädter Straße,2;09:41:00;1;W
+5;Rödermark-Urberach Bf,1;09:44:00;1;W
+5;Rödermark-Urberach Bf,1;09:53:00;2;W
+5;Urberach Bahnhofstraße 18,1;09:54:00;2;W
+5;Urberach Darmstädter Straße,1;09:55:00;2;W
+5;Urberach Bienengarten,1;09:56:00;2;W
+5;Messel Am Mörsbach,1;10:02:00;2;W
+5;Messel Rathaus,1;10:04:00;2;W
+5;Messel Sudetenstraße,1;10:06:00;2;W
+5;Messel Bahnhof,2;10:15:00;2;W
+5;Messel Gru. Messel Am Wildpark,1;10:16:00;2;W
+5;Messel Grube Messel Besucherz.,1;10:17:00;2;W
+5;Darmstadt Einsiedel,2;10:19:00;2;W
+5;Darmstadt Grube Prinz v. Hesse,2;10:20:00;2;W
+5;Darmstadt Oberwaldhaus,1;10:24:00;2;W
+5;Darmstadt Fasanerie,2;10:25:00;2;W
+5;Darmstadt Regerweg,2;10:27:00;2;W
+5;Darmstadt Lucasweg/Mathildenhö,2;10:30:00;2;W
+5;Darmstadt Alexanderstraße/TU,2;10:33:00;2;W
+5;Darmstadt Schloss,3;10:35:00;2;W
+5;Darmstadt Luisenplatz,6;10:38:00;2;W
+5;Darmstadt Rhein-/Neckarstraße,1;10:40:00;2;W
+5;Darmstadt Berliner Allee,1;10:42:00;2;W
+5;Darmstadt Hauptbahnhof,2;10:44:00;2;W
+5;Darmstadt Moldenhauerweg,2;10:47:00;2;W
+5;Darmstadt Im Harras,2;10:49:00;2;W
+5;Darmstadt Haasstraße,2;10:52:00;2;W
+5;Darmstadt Haasstraße,2;11:09:00;1;W
+5;Darmstadt Haasstraße,1;11:09:00;1;W
+5;Darmstadt Im Harras,1;11:12:00;1;W
+5;Darmstadt Moldenhauerweg,1;11:14:00;1;W
+5;Darmstadt Hauptbahnhof,4;11:18:00;1;W
+5;Darmstadt Berliner Allee,2;11:20:00;1;W
+5;Darmstadt Rhein-/Neckarstraße,2;11:21:00;1;W
+5;Darmstadt Luisenplatz,1;11:24:00;1;W
+5;Darmstadt Schloss,4;11:26:00;1;W
+5;Darmstadt Alexanderstraße/TU,1;11:28:00;1;W
+5;Darmstadt Lucasweg/Mathildenhö,1;11:30:00;1;W
+5;Darmstadt Regerweg,1;11:32:00;1;W
+5;Darmstadt Fasanerie,1;11:34:00;1;W
+5;Darmstadt Oberwaldhaus,1;11:35:00;1;W
+6;Darmstadt Oberwaldhaus,1;11:39:00;2;W
+6;Darmstadt Fasanerie,2;11:40:00;2;W
+6;Darmstadt Regerweg,2;11:42:00;2;W
+6;Darmstadt Lucasweg/Mathildenhö,2;11:45:00;2;W
+6;Darmstadt Alexanderstraße/TU,2;11:48:00;2;W
+6;Darmstadt Schloss,3;11:50:00;2;W
+6;Darmstadt Luisenplatz,6;11:53:00;2;W
+6;Darmstadt Rhein-/Neckarstraße,1;11:55:00;2;W
+6;Darmstadt Berliner Allee,1;11:57:00;2;W
+6;Darmstadt Hauptbahnhof,2;11:59:00;2;W
+6;Darmstadt Moldenhauerweg,2;12:02:00;2;W
+6;Darmstadt Im Harras,2;12:04:00;2;W
+6;Darmstadt Haasstraße,2;12:07:00;2;W
+6;Darmstadt Haasstraße,2;12:09:00;1;W
+6;Darmstadt Haasstraße,1;12:09:00;1;W
+6;Darmstadt Im Harras,1;12:12:00;1;W
+6;Darmstadt Moldenhauerweg,1;12:14:00;1;W
+6;Darmstadt Hauptbahnhof,4;12:18:00;1;W
+6;Darmstadt Berliner Allee,2;12:20:00;1;W
+6;Darmstadt Rhein-/Neckarstraße,2;12:21:00;1;W
+6;Darmstadt Luisenplatz,1;12:24:00;1;W
+6;Darmstadt Schloss,4;12:26:00;1;W
+6;Darmstadt Alexanderstraße/TU,1;12:28:00;1;W
+6;Darmstadt Lucasweg/Mathildenhö,1;12:30:00;1;W
+6;Darmstadt Regerweg,1;12:32:00;1;W
+6;Darmstadt Fasanerie,1;12:34:00;1;W
+6;Darmstadt Oberwaldhaus,1;12:35:00;1;W
+7;Darmstadt Oberwaldhaus,1;12:39:00;2;W
+7;Darmstadt Fasanerie,2;12:40:00;2;W
+7;Darmstadt Regerweg,2;12:42:00;2;W
+7;Darmstadt Lucasweg/Mathildenhö,2;12:45:00;2;W
+7;Darmstadt Alexanderstraße/TU,2;12:48:00;2;W
+7;Darmstadt Schloss,3;12:50:00;2;W
+7;Darmstadt Luisenplatz,6;12:53:00;2;W
+7;Darmstadt Rhein-/Neckarstraße,1;12:55:00;2;W
+7;Darmstadt Berliner Allee,1;12:57:00;2;W
+7;Darmstadt Hauptbahnhof,2;12:59:00;2;W
+7;Darmstadt Moldenhauerweg,2;13:02:00;2;W
+7;Darmstadt Im Harras,2;13:04:00;2;W
+7;Darmstadt Haasstraße,2;13:07:00;2;W
+7;Darmstadt Haasstraße,2;13:09:00;1;W
+7;Darmstadt Haasstraße,1;13:09:00;1;W
+7;Darmstadt Im Harras,1;13:12:00;1;W
+7;Darmstadt Moldenhauerweg,1;13:14:00;1;W
+7;Darmstadt Hauptbahnhof,4;13:18:00;1;W
+7;Darmstadt Berliner Allee,2;13:20:00;1;W
+7;Darmstadt Rhein-/Neckarstraße,2;13:21:00;1;W
+7;Darmstadt Luisenplatz,1;13:24:00;1;W
+7;Darmstadt Schloss,4;13:26:00;1;W
+7;Darmstadt Alexanderstraße/TU,1;13:28:00;1;W
+7;Darmstadt Lucasweg/Mathildenhö,1;13:30:00;1;W
+7;Darmstadt Regerweg,1;13:32:00;1;W
+7;Darmstadt Fasanerie,1;13:34:00;1;W
+7;Darmstadt Oberwaldhaus,1;13:35:00;1;W
+7;Darmstadt Grube Prinz v. Hesse,1;14:53:00;1;W
+7;Darmstadt Einsiedel,1;14:54:00;1;W
+7;Messel Grube Messel Besucherz.,2;14:55:00;1;W
+7;Messel Gru. Messel Am Wildpark,2;14:57:00;1;W
+7;Messel Bahnhof,1;14:58:00;1;W
+7;Messel Sudetenstraße,2;15:00:00;1;W
+8;Darmstadt Oberwaldhaus,1;13:39:00;2;W
+8;Darmstadt Fasanerie,2;13:40:00;2;W
+8;Darmstadt Regerweg,2;13:42:00;2;W
+8;Darmstadt Lucasweg/Mathildenhö,2;13:45:00;2;W
+8;Darmstadt Alexanderstraße/TU,2;13:48:00;2;W
+8;Darmstadt Schloss,3;13:50:00;2;W
+8;Darmstadt Luisenplatz,6;13:53:00;2;W
+8;Darmstadt Rhein-/Neckarstraße,1;13:55:00;2;W
+8;Darmstadt Berliner Allee,1;13:57:00;2;W
+8;Darmstadt Hauptbahnhof,2;13:59:00;2;W
+8;Darmstadt Moldenhauerweg,2;14:02:00;2;W
+8;Darmstadt Im Harras,2;14:04:00;2;W
+8;Darmstadt Haasstraße,2;14:07:00;2;W
+8;Darmstadt Haasstraße,2;14:24:00;1;W
+8;Darmstadt Haasstraße,1;14:24:00;1;W
+8;Darmstadt Im Harras,1;14:27:00;1;W
+8;Darmstadt Moldenhauerweg,1;14:29:00;1;W
+8;Darmstadt Hauptbahnhof,4;14:33:00;1;W
+8;Darmstadt Berliner Allee,2;14:35:00;1;W
+8;Darmstadt Rhein-/Neckarstraße,2;14:36:00;1;W
+8;Darmstadt Luisenplatz,1;14:39:00;1;W
+8;Darmstadt Schloss,4;14:41:00;1;W
+8;Darmstadt Alexanderstraße/TU,1;14:43:00;1;W
+8;Darmstadt Lucasweg/Mathildenhö,1;14:45:00;1;W
+8;Darmstadt Regerweg,1;14:47:00;1;W
+8;Darmstadt Fasanerie,1;14:49:00;1;W
+8;Darmstadt Oberwaldhaus,1;14:50:00;1;W
+9;Messel Rathaus,2;15:02:00;1;W
+9;Messel Am Mörsbach,2;15:04:00;1;W
+9;Urberach Bienengarten,2;15:10:00;1;W
+9;Urberach Darmstädter Straße,2;15:11:00;1;W
+9;Rödermark-Urberach Bf,1;15:14:00;1;W
+9;Rödermark-Urberach Bf,1;15:23:00;2;W
+9;Urberach Bahnhofstraße 18,1;15:24:00;2;W
+9;Urberach Darmstädter Straße,1;15:25:00;2;W
+9;Urberach Bienengarten,1;15:26:00;2;W
+9;Messel Am Mörsbach,1;15:32:00;2;W
+9;Messel Rathaus,1;15:34:00;2;W
+9;Messel Sudetenstraße,1;15:36:00;2;W
+9;Messel Bahnhof,2;15:45:00;2;W
+9;Messel Gru. Messel Am Wildpark,1;15:46:00;2;W
+9;Messel Grube Messel Besucherz.,1;15:47:00;2;W
+9;Darmstadt Einsiedel,2;15:49:00;2;W
+9;Darmstadt Grube Prinz v. Hesse,2;15:50:00;2;W
+9;Darmstadt Oberwaldhaus,1;15:54:00;2;W
+9;Darmstadt Fasanerie,2;15:55:00;2;W
+9;Darmstadt Regerweg,2;15:57:00;2;W
+9;Darmstadt Lucasweg/Mathildenhö,2;16:00:00;2;W
+9;Darmstadt Alexanderstraße/TU,2;16:03:00;2;W
+9;Darmstadt Schloss,3;16:05:00;2;W
+9;Darmstadt Luisenplatz,6;16:08:00;2;W
+9;Darmstadt Rhein-/Neckarstraße,1;16:10:00;2;W
+9;Darmstadt Berliner Allee,1;16:12:00;2;W
+9;Darmstadt Hauptbahnhof,2;16:14:00;2;W
+9;Darmstadt Moldenhauerweg,2;16:17:00;2;W
+9;Darmstadt Im Harras,2;16:19:00;2;W
+9;Darmstadt Haasstraße,2;16:22:00;2;W
+9;Darmstadt Haasstraße,2;16:39:00;1;W
+9;Darmstadt Haasstraße,1;16:39:00;1;W
+9;Darmstadt Im Harras,1;16:42:00;1;W
+9;Darmstadt Moldenhauerweg,1;16:44:00;1;W
+9;Darmstadt Hauptbahnhof,4;16:48:00;1;W
+9;Darmstadt Berliner Allee,2;16:50:00;1;W
+9;Darmstadt Rhein-/Neckarstraße,2;16:51:00;1;W
+9;Darmstadt Luisenplatz,1;16:54:00;1;W
+9;Darmstadt Schloss,4;16:56:00;1;W
+9;Darmstadt Alexanderstraße/TU,1;16:58:00;1;W
+9;Darmstadt Lucasweg/Mathildenhö,1;17:00:00;1;W
+9;Darmstadt Regerweg,1;17:02:00;1;W
+9;Darmstadt Fasanerie,1;17:04:00;1;W
+9;Darmstadt Oberwaldhaus,1;17:05:00;1;W
+9;Darmstadt Grube Prinz v. Hesse,1;18:23:00;1;W
+9;Darmstadt Einsiedel,1;18:24:00;1;W
+9;Messel Grube Messel Besucherz.,2;18:25:00;1;W
+9;Messel Gru. Messel Am Wildpark,2;18:27:00;1;W
+9;Messel Bahnhof,1;18:28:00;1;W
+9;Messel Sudetenstraße,2;18:30:00;1;W
+9;Messel Rathaus,1;18:32:00;1;W
+10;Darmstadt Oberwaldhaus,1;17:09:00;2;W
+10;Darmstadt Fasanerie,2;17:10:00;2;W
+10;Darmstadt Regerweg,2;17:12:00;2;W
+10;Darmstadt Lucasweg/Mathildenhö,2;17:15:00;2;W
+10;Darmstadt Alexanderstraße/TU,2;17:18:00;2;W
+10;Darmstadt Schloss,3;17:20:00;2;W
+10;Darmstadt Luisenplatz,6;17:23:00;2;W
+10;Darmstadt Rhein-/Neckarstraße,1;17:25:00;2;W
+10;Darmstadt Berliner Allee,1;17:27:00;2;W
+10;Darmstadt Hauptbahnhof,2;17:29:00;2;W
+10;Darmstadt Moldenhauerweg,2;17:32:00;2;W
+10;Darmstadt Im Harras,2;17:34:00;2;W
+10;Darmstadt Haasstraße,2;17:37:00;2;W
+10;Darmstadt Haasstraße,2;17:54:00;1;W
+10;Darmstadt Haasstraße,1;17:54:00;1;W
+10;Darmstadt Im Harras,1;17:57:00;1;W
+10;Darmstadt Moldenhauerweg,1;17:59:00;1;W
+10;Darmstadt Hauptbahnhof,4;18:03:00;1;W
+10;Darmstadt Berliner Allee,2;18:05:00;1;W
+10;Darmstadt Rhein-/Neckarstraße,2;18:06:00;1;W
+10;Darmstadt Luisenplatz,1;18:09:00;1;W
+10;Darmstadt Schloss,4;18:11:00;1;W
+10;Darmstadt Alexanderstraße/TU,1;18:13:00;1;W
+10;Darmstadt Lucasweg/Mathildenhö,1;18:15:00;1;W
+10;Darmstadt Regerweg,1;18:17:00;1;W
+10;Darmstadt Fasanerie,1;18:19:00;1;W
+10;Darmstadt Oberwaldhaus,1;18:20:00;1;W
+11;Messel Rathaus,1;18:34:00;2;W
+11;Messel Sudetenstraße,1;18:36:00;2;W
+11;Messel Bahnhof,2;18:45:00;2;W
+11;Messel Gru. Messel Am Wildpark,1;18:46:00;2;W
+11;Messel Grube Messel Besucherz.,1;18:47:00;2;W
+11;Darmstadt Einsiedel,2;18:49:00;2;W
+11;Darmstadt Grube Prinz v. Hesse,2;18:50:00;2;W
+11;Darmstadt Oberwaldhaus,1;18:54:00;2;W
+11;Darmstadt Fasanerie,2;18:55:00;2;W
+11;Darmstadt Regerweg,2;18:57:00;2;W
+11;Darmstadt Lucasweg/Mathildenhö,2;19:00:00;2;W
+11;Darmstadt Alexanderstraße/TU,2;19:03:00;2;W
+11;Darmstadt Schloss,3;19:05:00;2;W
+11;Darmstadt Luisenplatz,6;19:08:00;2;W
+11;Darmstadt Rhein-/Neckarstraße,1;19:10:00;2;W
+11;Darmstadt Berliner Allee,1;19:12:00;2;W
+11;Darmstadt Hauptbahnhof,2;19:14:00;2;W
+11;Darmstadt Moldenhauerweg,2;19:17:00;2;W
+11;Darmstadt Im Harras,2;19:19:00;2;W
+11;Darmstadt Haasstraße,2;19:22:00;2;W
+11;Darmstadt Haasstraße,2;19:39:00;1;W
+11;Darmstadt Haasstraße,1;19:39:00;1;W
+11;Darmstadt Im Harras,1;19:42:00;1;W
+11;Darmstadt Moldenhauerweg,1;19:44:00;1;W
+11;Darmstadt Hauptbahnhof,4;19:48:00;1;W
+11;Darmstadt Berliner Allee,2;19:50:00;1;W
+11;Darmstadt Rhein-/Neckarstraße,2;19:51:00;1;W
+11;Darmstadt Luisenplatz,1;19:54:00;1;W
+11;Darmstadt Schloss,4;19:56:00;1;W
+11;Darmstadt Alexanderstraße/TU,1;19:58:00;1;W
+11;Darmstadt Lucasweg/Mathildenhö,1;20:00:00;1;W
+11;Darmstadt Regerweg,1;20:02:00;1;W
+11;Darmstadt Fasanerie,1;20:04:00;1;W
+11;Darmstadt Oberwaldhaus,1;20:05:00;1;W
+12;Darmstadt Oberwaldhaus,1;20:09:00;2;W
+12;Darmstadt Fasanerie,2;20:10:00;2;W
+12;Darmstadt Regerweg,2;20:12:00;2;W
+12;Darmstadt Lucasweg/Mathildenhö,2;20:15:00;2;W
+12;Darmstadt Alexanderstraße/TU,2;20:18:00;2;W
+12;Darmstadt Schloss,3;20:20:00;2;W
+12;Darmstadt Luisenplatz,6;20:23:00;2;W
+12;Darmstadt Rhein-/Neckarstraße,1;20:25:00;2;W
+12;Darmstadt Berliner Allee,1;20:27:00;2;W
+12;Darmstadt Hauptbahnhof,2;20:29:00;2;W
+12;Darmstadt Moldenhauerweg,2;20:32:00;2;W
+12;Darmstadt Im Harras,2;20:34:00;2;W
+12;Darmstadt Haasstraße,2;20:37:00;2;W

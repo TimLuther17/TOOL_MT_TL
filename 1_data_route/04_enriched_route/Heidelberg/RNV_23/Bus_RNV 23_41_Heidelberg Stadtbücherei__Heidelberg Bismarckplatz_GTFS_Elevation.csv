@@ -1,0 +1,69 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%)
+Routenpunkt (Way);T;Unbekannt;49.40615635;8.6864587;;;;;;;Interpoliert;119.2;-0.51
+Haltestelle;W;Heidelberg, Stadtbücherei;49.40615635;8.6864587;;05:34:00;05:34:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;139.0;Original GTFS (Snap-Distanz 21m) | Auf Route gesnappt (1m);119.0;-0.6
+Routenpunkt (Way);T;Stadtbücherei;49.40616138;8.68658654;;;;;;;Interpoliert;118.86;-0.6
+Routenpunkt (Way);T;Stadtbücherei;49.406199145;8.68675116;;;;;;;Interpoliert;118.75;-0.69
+Routenpunkt (Way);T;;49.40623439035714;8.686934437142856;;;;;;;Interpoliert (15m);118.67;-1.02
+Routenpunkt (Way);T;Unbekannt;49.40626963571429;8.687117714285714;;;;;;;Original OSM;118.6;-1.04
+Routenpunkt (Way);T;;49.40629891269842;8.68728052063492;;;;;;;Interpoliert (15m);118.4;-1.2
+Routenpunkt (Way);T;;49.40632818968254;8.687443326984127;;;;;;;Interpoliert (15m);118.2;-1.56
+Routenpunkt (Way);T;Unbekannt;49.40635746666667;8.687606133333333;;;;;;;Interpoliert;118.0;-1.94
+Routenpunkt (Way);T;Unbekannt;49.40638653333333;8.687773066666667;;;;;;;Interpoliert;117.7;-2.11
+Routenpunkt (Way);T;Unbekannt;49.4064156;8.68794;;;;;;;Original OSM;117.4;-2.27
+Routenpunkt (Way);T;Unbekannt;49.40644398;8.68810282;;;;;;;Interpoliert;117.1;-2.44
+Routenpunkt (Way);T;Unbekannt;49.40647236;8.68826564;;;;;;;Interpoliert;116.8;-2.12
+Routenpunkt (Way);T;Unbekannt;49.40650074;8.68842846;;;;;;;Interpoliert;116.5;-1.48
+Routenpunkt (Way);T;Unbekannt;49.40652912;8.68859128;;;;;;;Interpoliert;116.4;-0.84
+Routenpunkt (Way);T;Unbekannt;49.4065575;8.6887541;;;;;;;Original OSM;116.5;-0.2
+Routenpunkt (Way);T;Unbekannt;49.40658935;8.688937899999999;;;;;;;Interpoliert;116.6;0.45
+Routenpunkt (Way);T;Unbekannt;49.4066212;8.6891217;;;;;;;Original OSM;116.7;1.1
+Routenpunkt (Way);T;Unbekannt;49.406650766666665;8.689286599999999;;;;;;;Interpoliert;116.8;1.37
+Routenpunkt (Way);T;Unbekannt;49.40668033333333;8.6894515;;;;;;;Interpoliert;117.1;1.8
+Routenpunkt (Way);T;Unbekannt;49.4067134;8.689636199999999;;;;;;;Original OSM;117.4;2.22
+Routenpunkt (Way);T;;49.40673705;8.68977655;;;;;;;Interpoliert (15m);117.7;2.71
+Routenpunkt (Way);T;Unbekannt;49.4067607;8.6899169;;;;;;;Original OSM;118.0;1.79
+Routenpunkt (Way);T;;49.40678193;8.69003995;;;;;;;Interpoliert (15m);118.3;0.77
+Routenpunkt (Way);T;Unbekannt;49.40680316;8.690163;;;;;;;Interpoliert;118.1;-0.4
+Routenpunkt (Way);T;Unbekannt;49.40683402;8.6903436;;;;;;;Interpoliert;117.7;-1.56
+Routenpunkt (Way);T;Unbekannt;49.40686488;8.6905242;;;;;;;Interpoliert;117.3;-2.98
+Routenpunkt (Way);T;Unbekannt;49.40689574;8.6907048;;;;;;;Interpoliert;116.9;-3.12
+Routenpunkt (Way);T;;49.406913945;8.690845841666667;;;;;;;Interpoliert (15m);116.5;-3.02
+Routenpunkt (Way);T;Unbekannt;49.40693215;8.690986883333332;;;;;;;Original OSM;116.2;-2.92
+Routenpunkt (Way);T;;49.40695961428571;8.691149826984127;;;;;;;Interpoliert (15m);115.9;-2.82
+Routenpunkt (Way);T;;49.40698707857143;8.69131277063492;;;;;;;Interpoliert (15m);115.6;-2.52
+Routenpunkt (Way);T;Unbekannt;49.40701454285715;8.691475714285714;;;;;;;Interpoliert;115.3;-1.94
+Routenpunkt (Way);T;;49.40704480952381;8.691647714285713;;;;;;;Interpoliert (15m);115.0;-1.45
+Routenpunkt (Way);T;;49.40707507619048;8.691819714285714;;;;;;;Interpoliert (15m);115.0;-0.34
+Routenpunkt (Way);T;Unbekannt;49.40710534285714;8.691991714285713;;;;;;;Interpoliert;115.0;0.77
+Routenpunkt (Way);T;;49.407125801020406;8.692122733673468;;;;;;;Interpoliert (15m);115.3;1.87
+Routenpunkt (Way);T;Unbekannt;49.40714625918367;8.692253753061225;;;;;;;Original OSM;115.6;2.85
+Haltestelle;W;Heidelberg, Seegarten;49.4071759;8.6923751;;05:36:00;05:36:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;139.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);115.9;3.84
+Routenpunkt (Way);T;;49.40724208080809;8.69247224949495;;;;;;;Interpoliert (15m);116.4;4.2
+Routenpunkt (Way);T;;49.40730826161617;8.6925693989899;;;;;;;Interpoliert (15m);116.9;4.34
+Routenpunkt (Way);T;Unbekannt;49.40737444242426;8.69266654848485;;;;;;;Original OSM;117.4;4.46
+Routenpunkt (Way);T;;49.4074934318182;8.692675386363637;;;;;;;Interpoliert (15m);117.9;4.23
+Routenpunkt (Way);T;;49.407612421212136;8.692684224242424;;;;;;;Interpoliert (15m);118.4;4.0
+Routenpunkt (Way);T;;49.40773141060607;8.692693062121212;;;;;;;Interpoliert (15m);118.9;3.48
+Routenpunkt (Way);T;Unbekannt;49.4078504;8.6927019;;;;;;;Interpoliert;119.4;4.33
+Routenpunkt (Way);T;;49.40792803333333;8.6926858;;;;;;;Interpoliert (15m);119.6;4.6
+Routenpunkt (Way);T;Unbekannt;49.40800566666667;8.6926697;;;;;;;Original OSM;120.3;4.78
+Routenpunkt (Way);T;Unbekannt;49.40812806666666;8.692644866666667;;;;;;;Interpoliert;121.0;4.95
+Routenpunkt (Way);T;Unbekannt;49.40822353333333;8.692625533333333;;;;;;;Interpoliert;121.5;5.25
+Routenpunkt (Way);T;Unbekannt;49.408319;8.6926062;;;;;;;Original OSM;122.0;4.4
+Routenpunkt (Way);T;Unbekannt;49.4084365;8.692581050000001;;;;;;;Interpoliert;122.5;4.3
+Routenpunkt (Way);T;Unbekannt;49.408554;8.6925559;;;;;;;Original OSM;123.0;4.28
+Routenpunkt (Way);T;;49.40865215208333;8.69255593125;;;;;;;Interpoliert (15m);123.5;3.35
+Routenpunkt (Way);T;;49.40875030416667;8.6925559625;;;;;;;Interpoliert (15m);124.0;2.59
+Routenpunkt (Way);T;Unbekannt;49.40884845625;8.69255599375;;;;;;;Original OSM;124.0;0.92
+Routenpunkt (Way);T;;49.40893520416667;8.692626695833333;;;;;;;Interpoliert (15m);124.0;-0.92
+Routenpunkt (Way);T;;49.409021952083336;8.692697397916668;;;;;;;Interpoliert (15m);123.5;-2.88
+Routenpunkt (Way);T;Unbekannt;49.4091087;8.6927681;;;;;;;Original OSM;123.0;-3.92
+Routenpunkt (Way);T;;49.409170683333336;8.692859783333333;;;;;;;Interpoliert (15m);122.5;-4.76
+Routenpunkt (Way);T;Unbekannt;49.40923266666667;8.692951466666665;;;;;;;Original OSM;122.0;-4.69
+Routenpunkt (Way);T;;49.40932355;8.693037816666665;;;;;;;Interpoliert (15m);121.5;-4.98
+Routenpunkt (Way);T;Unbekannt;49.40941443333333;8.693124166666665;;;;;;;Original OSM;121.0;-4.84
+Routenpunkt (Way);T;;49.40951268472222;8.693176746527778;;;;;;;Interpoliert (15m);120.3;-3.84
+Routenpunkt (Way);T;;49.40961093611111;8.693229326388888;;;;;;;Interpoliert (15m);119.78;-3.06
+Routenpunkt (Way);T;Unbekannt;49.4097091875;8.69328190625;;;;;;;Original OSM;119.75;-2.28
+Routenpunkt (Way);T;;49.40982879375;8.693310403125;;;;;;;Interpoliert (15m);119.71;-1.34
+Haltestelle;W;Heidelberg, Bismarckplatz;49.4099484;8.6933389;;05:37:00;05:37:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;139.0;Original GTFS (Snap-Distanz 8m) | Auf Route gesnappt (8m);119.67;-0.29

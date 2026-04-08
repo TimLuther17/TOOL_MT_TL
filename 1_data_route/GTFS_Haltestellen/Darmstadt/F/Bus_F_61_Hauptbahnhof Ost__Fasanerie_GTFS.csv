@@ -1,0 +1,12 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Hauptbahnhof Ost;49.87194;8.631148;04:44:00;04:44:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Darmstadt Berliner Allee;49.87076;8.635733;04:46:00;04:46:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Darmstadt Rhein-/Neckarstraße;49.871544;8.6447;04:47:00;04:47:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Darmstadt Luisenplatz;49.872883;8.651256;04:49:00;04:50:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Darmstadt Schloss;49.872868;8.655235;04:52:00;04:52:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Darmstadt Pützerstraße;49.87529;8.662563;04:54:00;04:54:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Darmstadt Alice-Hospital;49.87721;8.66337;04:55:00;04:55:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Darmstadt Mathildenhöhe;49.878677;8.667047;04:56:00;04:56:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Darmstadt Spessartring;49.879395;8.670701;04:57:00;04:57:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Darmstadt Regerweg;49.881638;8.677587;04:58:00;04:58:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Darmstadt Fasanerie;49.88413;8.685279;04:59:00;04:59:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10

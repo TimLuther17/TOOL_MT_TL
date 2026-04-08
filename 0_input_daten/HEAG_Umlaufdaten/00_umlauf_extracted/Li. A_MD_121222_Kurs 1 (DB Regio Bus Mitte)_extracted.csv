@@ -1,0 +1,296 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Arheilgen Löwenplatz,4;05:31:00;2;W
+1;Arheilgen Messeler Straße,1;05:32:00;2;W
+1;Arheilgen Friedhof,1;05:34:00;2;W
+1;Arheilgen Bahnhof,1;05:36:00;2;W
+2;Arheilgen Bahnhof,1;05:40:00;1;W
+2;Arheilgen Friedhof,2;05:42:00;1;W
+2;Arheilgen Messeler Straße,2;05:43:00;1;W
+2;Arheilgen Löwenplatz,3;05:46:00;1;W
+2;Arheilgen Bornstraße,1;05:47:00;1;W
+2;Arheilgen Wildstraße,1;05:48:00;1;W
+2;Arheilgen Am Trinkbrunnenpfad,1;05:49:00;1;W
+2;Kranichstein Fasanenweg,1;05:50:00;1;W
+2;Kranichstein Wachtelweg,1;05:51:00;1;W
+2;Kranichstein Steinstraße,1;05:52:00;1;W
+2;Kranichstein Steinstraße,1;05:53:00;2;W
+2;Kranichstein Arheilg. Mühlchen,2;05:54:00;2;W
+2;Arheilgen Am Trinkbrunnenpfad,2;05:55:00;2;W
+2;Arheilgen Wildstraße,2;05:56:00;2;W
+2;Arheilgen Bornstraße,2;05:57:00;2;W
+2;Arheilgen Löwenplatz,4;06:01:00;2;W
+2;Arheilgen Messeler Straße,1;06:02:00;2;W
+2;Arheilgen Friedhof,1;06:04:00;2;W
+2;Arheilgen Bahnhof,1;06:06:00;2;W
+3;Arheilgen Bahnhof,1;06:10:00;1;W
+3;Arheilgen Friedhof,2;06:12:00;1;W
+3;Arheilgen Messeler Straße,2;06:13:00;1;W
+3;Arheilgen Löwenplatz,3;06:16:00;1;W
+3;Arheilgen Bornstraße,1;06:17:00;1;W
+3;Arheilgen Wildstraße,1;06:18:00;1;W
+3;Arheilgen Am Trinkbrunnenpfad,1;06:19:00;1;W
+3;Kranichstein Fasanenweg,1;06:20:00;1;W
+3;Kranichstein Wachtelweg,1;06:21:00;1;W
+3;Kranichstein Steinstraße,1;06:22:00;1;W
+3;Kranichstein Steinstraße,1;06:23:00;2;W
+3;Kranichstein Arheilg. Mühlchen,2;06:24:00;2;W
+3;Arheilgen Am Trinkbrunnenpfad,2;06:25:00;2;W
+3;Arheilgen Wildstraße,2;06:26:00;2;W
+3;Arheilgen Bornstraße,2;06:27:00;2;W
+3;Arheilgen Löwenplatz,4;06:31:00;2;W
+3;Arheilgen Messeler Straße,1;06:32:00;2;W
+3;Arheilgen Friedhof,1;06:34:00;2;W
+3;Arheilgen Bahnhof,1;06:36:00;2;W
+4;Arheilgen Bahnhof,1;06:40:00;1;W
+4;Arheilgen Friedhof,2;06:42:00;1;W
+4;Arheilgen Messeler Straße,2;06:43:00;1;W
+4;Arheilgen Löwenplatz,3;06:46:00;1;W
+4;Arheilgen Bornstraße,1;06:47:00;1;W
+4;Arheilgen Wildstraße,1;06:48:00;1;W
+4;Arheilgen Am Trinkbrunnenpfad,1;06:49:00;1;W
+4;Kranichstein Fasanenweg,1;06:50:00;1;W
+4;Kranichstein Wachtelweg,1;06:51:00;1;W
+4;Kranichstein Steinstraße,1;06:52:00;1;W
+4;Kranichstein Steinstraße,1;06:53:00;2;W
+4;Kranichstein Arheilg. Mühlchen,2;06:54:00;2;W
+4;Arheilgen Am Trinkbrunnenpfad,2;06:55:00;2;W
+4;Arheilgen Wildstraße,2;06:56:00;2;W
+4;Arheilgen Bornstraße,2;06:57:00;2;W
+4;Arheilgen Löwenplatz,4;07:01:00;2;W
+4;Arheilgen Messeler Straße,1;07:02:00;2;W
+4;Arheilgen Friedhof,1;07:04:00;2;W
+4;Arheilgen Bahnhof,1;07:06:00;2;W
+5;Arheilgen Bahnhof,1;07:10:00;1;W
+5;Arheilgen Friedhof,2;07:12:00;1;W
+5;Arheilgen Messeler Straße,2;07:13:00;1;W
+5;Arheilgen Löwenplatz,3;07:16:00;1;W
+5;Arheilgen Bornstraße,1;07:17:00;1;W
+5;Arheilgen Wildstraße,1;07:18:00;1;W
+5;Arheilgen Am Trinkbrunnenpfad,1;07:19:00;1;W
+5;Kranichstein Fasanenweg,1;07:20:00;1;W
+5;Kranichstein Wachtelweg,1;07:21:00;1;W
+5;Kranichstein Steinstraße,1;07:22:00;1;W
+5;Kranichstein Steinstraße,1;07:23:00;2;W
+5;Kranichstein Arheilg. Mühlchen,2;07:24:00;2;W
+5;Arheilgen Am Trinkbrunnenpfad,2;07:25:00;2;W
+5;Arheilgen Wildstraße,2;07:26:00;2;W
+5;Arheilgen Bornstraße,2;07:27:00;2;W
+5;Arheilgen Löwenplatz,4;07:31:00;2;W
+5;Arheilgen Messeler Straße,1;07:32:00;2;W
+5;Arheilgen Friedhof,1;07:34:00;2;W
+5;Arheilgen Bahnhof,1;07:36:00;2;W
+6;Arheilgen Bahnhof,1;07:40:00;1;W
+6;Arheilgen Friedhof,2;07:42:00;1;W
+6;Arheilgen Messeler Straße,2;07:43:00;1;W
+6;Arheilgen Löwenplatz,3;07:46:00;1;W
+6;Arheilgen Bornstraße,1;07:47:00;1;W
+6;Arheilgen Wildstraße,1;07:48:00;1;W
+6;Arheilgen Am Trinkbrunnenpfad,1;07:49:00;1;W
+6;Kranichstein Fasanenweg,1;07:50:00;1;W
+6;Kranichstein Wachtelweg,1;07:51:00;1;W
+6;Kranichstein Steinstraße,1;07:52:00;1;W
+6;Kranichstein Steinstraße,1;07:53:00;2;W
+6;Kranichstein Arheilg. Mühlchen,2;07:54:00;2;W
+6;Arheilgen Am Trinkbrunnenpfad,2;07:55:00;2;W
+6;Arheilgen Wildstraße,2;07:56:00;2;W
+6;Arheilgen Bornstraße,2;07:57:00;2;W
+6;Arheilgen Löwenplatz,4;08:01:00;2;W
+6;Arheilgen Messeler Straße,1;08:02:00;2;W
+6;Arheilgen Friedhof,1;08:04:00;2;W
+6;Arheilgen Bahnhof,1;08:06:00;2;W
+6;Arheilgen Bahnhof,1;09:40:00;3;W
+6;Arheilgen Friedhof,2;09:42:00;3;W
+6;Arheilgen Messeler Straße,2;09:43:00;3;W
+6;Arheilgen Löwenplatz,3;09:46:00;3;W
+6;Arheilgen Löwenplatz,4;11:42:00;3;W
+6;Arheilgen Bornstraße,1;12:02:00;3;W
+6;Arheilgen Wildstraße,1;12:03:00;3;W
+6;Arheilgen Am Trinkbrunnenpfad,1;12:04:00;3;W
+6;Kranichstein Fasanenweg,1;12:05:00;3;W
+6;Kranichstein Wachtelweg,1;12:06:00;3;W
+6;Kranichstein Steinstraße,1;12:07:00;3;W
+6;Kranichstein Steinstraße,1;12:08:00;4;W
+6;Kranichstein Arheilg. Mühlchen,2;12:09:00;4;W
+6;Arheilgen Am Trinkbrunnenpfad,2;12:10:00;4;W
+6;Arheilgen Wildstraße,2;12:11:00;4;W
+6;Arheilgen Bornstraße,2;12:12:00;4;W
+6;Arheilgen Löwenplatz,4;12:16:00;4;W
+6;Arheilgen Messeler Straße,1;12:17:00;4;W
+6;Arheilgen Friedhof,1;12:19:00;4;W
+6;Arheilgen Bahnhof,1;12:21:00;4;W
+7;Arheilgen Bahnhof,1;08:10:00;1;W
+7;Arheilgen Friedhof,2;08:12:00;1;W
+7;Arheilgen Messeler Straße,2;08:13:00;1;W
+7;Arheilgen Löwenplatz,3;08:16:00;1;W
+7;Arheilgen Bornstraße,1;08:17:00;1;W
+7;Arheilgen Wildstraße,1;08:18:00;1;W
+7;Arheilgen Am Trinkbrunnenpfad,1;08:19:00;1;W
+7;Kranichstein Fasanenweg,1;08:20:00;1;W
+7;Kranichstein Wachtelweg,1;08:21:00;1;W
+7;Kranichstein Steinstraße,1;08:22:00;1;W
+7;Kranichstein Steinstraße,1;08:23:00;2;W
+7;Kranichstein Arheilg. Mühlchen,2;08:24:00;2;W
+7;Arheilgen Am Trinkbrunnenpfad,2;08:25:00;2;W
+7;Arheilgen Wildstraße,2;08:26:00;2;W
+7;Arheilgen Bornstraße,2;08:27:00;2;W
+7;Arheilgen Löwenplatz,4;08:31:00;2;W
+7;Arheilgen Messeler Straße,1;08:32:00;2;W
+7;Arheilgen Friedhof,1;08:34:00;2;W
+7;Arheilgen Bahnhof,1;08:36:00;2;W
+7;Arheilgen Bahnhof,1;10:10:00;3;W
+7;Arheilgen Friedhof,2;10:12:00;3;W
+7;Arheilgen Messeler Straße,2;10:13:00;3;W
+7;Arheilgen Löwenplatz,3;10:16:00;3;W
+8;Arheilgen Bornstraße,1;09:47:00;3;W
+8;Arheilgen Wildstraße,1;09:48:00;3;W
+8;Arheilgen Am Trinkbrunnenpfad,1;09:49:00;3;W
+8;Kranichstein Fasanenweg,1;09:50:00;3;W
+8;Kranichstein Wachtelweg,1;09:51:00;3;W
+8;Kranichstein Steinstraße,1;09:52:00;3;W
+8;Kranichstein Steinstraße,1;09:53:00;4;W
+8;Kranichstein Arheilg. Mühlchen,2;09:54:00;4;W
+8;Arheilgen Am Trinkbrunnenpfad,2;09:55:00;4;W
+8;Arheilgen Wildstraße,2;09:56:00;4;W
+8;Arheilgen Bornstraße,2;09:57:00;4;W
+8;Arheilgen Löwenplatz,4;10:01:00;4;W
+8;Arheilgen Messeler Straße,1;10:02:00;4;W
+8;Arheilgen Friedhof,1;10:04:00;4;W
+8;Arheilgen Bahnhof,1;10:06:00;4;W
+9;Arheilgen Bornstraße,1;10:17:00;3;W
+9;Arheilgen Wildstraße,1;10:18:00;3;W
+9;Arheilgen Am Trinkbrunnenpfad,1;10:19:00;3;W
+9;Kranichstein Fasanenweg,1;10:20:00;3;W
+9;Kranichstein Wachtelweg,1;10:21:00;3;W
+9;Kranichstein Steinstraße,1;10:22:00;3;W
+9;Kranichstein Steinstraße,1;10:23:00;4;W
+9;Kranichstein Arheilg. Mühlchen,2;10:24:00;4;W
+9;Arheilgen Am Trinkbrunnenpfad,2;10:25:00;4;W
+9;Arheilgen Wildstraße,2;10:26:00;4;W
+9;Arheilgen Bornstraße,2;10:27:00;4;W
+9;Arheilgen Löwenplatz,4;10:31:00;4;W
+9;Arheilgen Messeler Straße,1;10:32:00;4;W
+9;Arheilgen Friedhof,1;10:34:00;4;W
+9;Arheilgen Bahnhof,1;10:36:00;4;W
+10;Arheilgen Bahnhof,1;10:40:00;3;W
+10;Arheilgen Friedhof,2;10:42:00;3;W
+10;Arheilgen Messeler Straße,2;10:43:00;3;W
+10;Arheilgen Löwenplatz,3;10:46:00;3;W
+11;Arheilgen Bornstraße,1;10:47:00;3;W
+11;Arheilgen Wildstraße,1;10:48:00;3;W
+11;Arheilgen Am Trinkbrunnenpfad,1;10:49:00;3;W
+11;Kranichstein Fasanenweg,1;10:50:00;3;W
+11;Kranichstein Wachtelweg,1;10:51:00;3;W
+11;Kranichstein Steinstraße,1;10:52:00;3;W
+11;Kranichstein Steinstraße,1;10:53:00;4;W
+11;Kranichstein Arheilg. Mühlchen,2;10:54:00;4;W
+11;Arheilgen Am Trinkbrunnenpfad,2;10:55:00;4;W
+11;Arheilgen Wildstraße,2;10:56:00;4;W
+11;Arheilgen Bornstraße,2;10:57:00;4;W
+11;Arheilgen Löwenplatz,4;11:01:00;4;W
+11;Arheilgen Messeler Straße,1;11:02:00;4;W
+11;Arheilgen Friedhof,1;11:04:00;4;W
+11;Arheilgen Bahnhof,1;11:06:00;4;W
+12;Arheilgen Bahnhof,1;11:10:00;3;W
+12;Arheilgen Friedhof,2;11:12:00;3;W
+12;Arheilgen Messeler Straße,2;11:13:00;3;W
+12;Arheilgen Löwenplatz,3;11:16:00;3;W
+13;Arheilgen Bornstraße,1;11:17:00;3;W
+13;Arheilgen Wildstraße,1;11:18:00;3;W
+13;Arheilgen Am Trinkbrunnenpfad,1;11:19:00;3;W
+13;Kranichstein Fasanenweg,1;11:20:00;3;W
+13;Kranichstein Wachtelweg,1;11:21:00;3;W
+13;Kranichstein Steinstraße,1;11:22:00;3;W
+13;Kranichstein Steinstraße,1;11:23:00;4;W
+13;Kranichstein Arheilg. Mühlchen,2;11:24:00;4;W
+13;Arheilgen Am Trinkbrunnenpfad,2;11:25:00;4;W
+13;Arheilgen Wildstraße,2;11:26:00;4;W
+13;Arheilgen Bornstraße,2;11:27:00;4;W
+13;Arheilgen Löwenplatz,4;11:31:00;4;W
+13;Arheilgen Messeler Straße,1;11:32:00;4;W
+13;Arheilgen Friedhof,1;11:34:00;4;W
+13;Arheilgen Bahnhof,1;11:36:00;4;W
+14;Arheilgen Bahnhof,1;11:36:00;3;W
+14;Arheilgen Friedhof,2;11:57:00;3;W
+14;Arheilgen Messeler Straße,2;11:58:00;3;W
+14;Arheilgen Löwenplatz,3;12:01:00;3;W
+15;Arheilgen Löwenplatz,4;11:46:00;4;W
+15;Arheilgen Messeler Straße,1;11:47:00;4;W
+15;Arheilgen Friedhof,1;11:49:00;4;W
+15;Arheilgen Bahnhof,1;11:51:00;4;W
+16;Arheilgen Bahnhof,1;11:55:00;3;W
+16;Arheilgen Friedhof,2;12:27:00;3;W
+16;Arheilgen Messeler Straße,2;12:28:00;3;W
+16;Arheilgen Löwenplatz,3;12:31:00;3;W
+17;Arheilgen Bahnhof,1;12:25:00;3;W
+17;Arheilgen Friedhof,2;12:57:00;3;W
+17;Arheilgen Messeler Straße,2;12:58:00;3;W
+17;Arheilgen Löwenplatz,3;13:01:00;3;W
+18;Arheilgen Bornstraße,1;12:32:00;3;W
+18;Arheilgen Wildstraße,1;12:33:00;3;W
+18;Arheilgen Am Trinkbrunnenpfad,1;12:34:00;3;W
+18;Kranichstein Fasanenweg,1;12:35:00;3;W
+18;Kranichstein Wachtelweg,1;12:36:00;3;W
+18;Kranichstein Steinstraße,1;12:37:00;3;W
+18;Kranichstein Steinstraße,1;12:38:00;4;W
+18;Kranichstein Arheilg. Mühlchen,2;12:39:00;4;W
+18;Arheilgen Am Trinkbrunnenpfad,2;12:40:00;4;W
+18;Arheilgen Wildstraße,2;12:41:00;4;W
+18;Arheilgen Bornstraße,2;12:42:00;4;W
+18;Arheilgen Löwenplatz,4;12:46:00;4;W
+18;Arheilgen Messeler Straße,1;12:47:00;4;W
+18;Arheilgen Friedhof,1;12:49:00;4;W
+18;Arheilgen Bahnhof,1;12:51:00;4;W
+19;Arheilgen Bahnhof,1;12:55:00;3;W
+19;Arheilgen Friedhof,2;13:27:00;3;W
+19;Arheilgen Messeler Straße,2;13:28:00;3;W
+19;Arheilgen Löwenplatz,3;13:31:00;3;W
+20;Arheilgen Bornstraße,1;13:02:00;3;W
+20;Arheilgen Wildstraße,1;13:03:00;3;W
+20;Arheilgen Am Trinkbrunnenpfad,1;13:04:00;3;W
+20;Kranichstein Fasanenweg,1;13:05:00;3;W
+20;Kranichstein Wachtelweg,1;13:06:00;3;W
+20;Kranichstein Steinstraße,1;13:07:00;3;W
+20;Kranichstein Steinstraße,1;13:08:00;4;W
+20;Kranichstein Arheilg. Mühlchen,2;13:09:00;4;W
+20;Arheilgen Am Trinkbrunnenpfad,2;13:10:00;4;W
+20;Arheilgen Wildstraße,2;13:11:00;4;W
+20;Arheilgen Bornstraße,2;13:12:00;4;W
+20;Arheilgen Löwenplatz,4;13:16:00;4;W
+20;Arheilgen Messeler Straße,1;13:17:00;4;W
+20;Arheilgen Friedhof,1;13:19:00;4;W
+20;Arheilgen Bahnhof,1;13:21:00;4;W
+21;Arheilgen Bahnhof,1;13:25:00;3;W
+21;Arheilgen Friedhof,2;13:57:00;3;W
+21;Arheilgen Messeler Straße,2;13:58:00;3;W
+21;Arheilgen Löwenplatz,3;14:01:00;3;W
+22;Arheilgen Bornstraße,1;13:32:00;3;W
+22;Arheilgen Wildstraße,1;13:33:00;3;W
+22;Arheilgen Am Trinkbrunnenpfad,1;13:34:00;3;W
+22;Kranichstein Fasanenweg,1;13:35:00;3;W
+22;Kranichstein Wachtelweg,1;13:36:00;3;W
+22;Kranichstein Steinstraße,1;13:37:00;3;W
+22;Kranichstein Steinstraße,1;13:38:00;4;W
+22;Kranichstein Arheilg. Mühlchen,2;13:39:00;4;W
+22;Arheilgen Am Trinkbrunnenpfad,2;13:40:00;4;W
+22;Arheilgen Wildstraße,2;13:41:00;4;W
+22;Arheilgen Bornstraße,2;13:42:00;4;W
+22;Arheilgen Löwenplatz,4;13:46:00;4;W
+22;Arheilgen Messeler Straße,1;13:47:00;4;W
+22;Arheilgen Friedhof,1;13:49:00;4;W
+22;Arheilgen Bahnhof,1;13:51:00;4;W
+23;Arheilgen Bahnhof,1;13:55:00;3;W
+24;Arheilgen Bornstraße,1;14:02:00;3;W
+24;Arheilgen Wildstraße,1;14:03:00;3;W
+24;Arheilgen Am Trinkbrunnenpfad,1;14:04:00;3;W
+24;Kranichstein Fasanenweg,1;14:05:00;3;W
+24;Kranichstein Wachtelweg,1;14:06:00;3;W
+24;Kranichstein Steinstraße,1;14:07:00;3;W
+24;Kranichstein Steinstraße,1;14:23:00;4;W
+24;Kranichstein Arheilg. Mühlchen,2;14:24:00;4;W
+24;Arheilgen Am Trinkbrunnenpfad,2;14:25:00;4;W
+24;Arheilgen Wildstraße,2;14:26:00;4;W
+24;Arheilgen Bornstraße,2;14:27:00;4;W
+24;Arheilgen Löwenplatz,4;14:31:00;4;W
+24;Arheilgen Messeler Straße,1;14:32:00;4;W
+24;Arheilgen Friedhof,1;14:34:00;4;W
+24;Arheilgen Bahnhof,1;14:36:00;4;W

@@ -1,0 +1,220 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Seeheim Schuldorf,1;11:41:00;2;W
+1;Jugenheim Ludwigstraße,6;11:44:00;2;W
+1;Jugenheim Kreiskrankenhaus,2;11:45:00;2;W
+1;Balkhausen Schelleklingenweg,2;11:49:00;2;W
+1;Balkhausen Feuerwehr,2;11:50:00;2;W
+1;Balkhausen Bürgerhalle,1;11:51:00;2;W
+1;Balkhausen Feuerwehr,1;11:52:00;2;W
+1;Balkhausen Schelleklingenweg,1;11:53:00;2;W
+1;Jugenh. Balkhäuser Tal Anw. 36,1;11:55:00;2;W
+1;Jugenheim Stettbacher Tal 36,2;11:58:00;2;W
+1;Jugenheim Fischteiche,2;11:59:00;2;W
+1;Jugenheim Brandhof,2;12:00:00;2;W
+1;Stettbach Talstraße,2;12:02:00;2;W
+2;Stettbach Talstraße,1;12:17:00;1;W
+2;Jugenheim Brandhof,1;12:19:00;1;W
+2;Jugenheim Fischteiche,1;12:20:00;1;W
+2;Jugenheim Stettbacher Tal 36,1;12:21:00;1;W
+2;Balkhausen Schelleklingenweg,2;12:26:00;1;W
+2;Balkhausen Feuerwehr,2;12:27:00;1;W
+2;Balkhausen Bürgerhalle,1;12:28:00;1;W
+2;Balkhausen Feuerwehr,1;12:29:00;1;W
+2;Balkhausen Schelleklingenweg,1;12:30:00;1;W
+2;Jugenh. Balkhäuser Tal Anw. 36,1;12:32:00;1;W
+2;Jugenheim Kreiskrankenhaus,1;12:34:00;1;W
+2;Jugenheim Ludwigstraße,7;12:35:00;1;W
+2;Seeheim Schuldorf,1;12:36:00;1;W
+2;Seeheim Schuldorf,1;12:41:00;2;W
+2;Jugenheim Ludwigstraße,6;12:44:00;2;W
+2;Jugenheim Kreiskrankenhaus,2;12:45:00;2;W
+2;Balkhausen Schelleklingenweg,2;12:49:00;2;W
+2;Balkhausen Feuerwehr,2;12:50:00;2;W
+2;Balkhausen Bürgerhalle,1;12:51:00;2;W
+2;Balkhausen Feuerwehr,1;12:52:00;2;W
+2;Balkhausen Schelleklingenweg,1;12:53:00;2;W
+2;Jugenh. Balkhäuser Tal Anw. 36,1;12:55:00;2;W
+2;Jugenheim Stettbacher Tal 36,2;12:58:00;2;W
+2;Jugenheim Fischteiche,2;12:59:00;2;W
+2;Jugenheim Brandhof,2;13:00:00;2;W
+2;Stettbach Talstraße,2;13:02:00;2;W
+3;Stettbach Talstraße,1;13:17:00;1;W
+3;Jugenheim Brandhof,1;13:19:00;1;W
+3;Jugenheim Fischteiche,1;13:20:00;1;W
+3;Jugenheim Stettbacher Tal 36,1;13:21:00;1;W
+3;Balkhausen Schelleklingenweg,2;13:26:00;1;W
+3;Balkhausen Feuerwehr,2;13:27:00;1;W
+3;Balkhausen Bürgerhalle,1;13:28:00;1;W
+3;Balkhausen Feuerwehr,1;13:29:00;1;W
+3;Balkhausen Schelleklingenweg,1;13:30:00;1;W
+3;Jugenh. Balkhäuser Tal Anw. 36,1;13:32:00;1;W
+3;Jugenheim Kreiskrankenhaus,1;13:34:00;1;W
+3;Jugenheim Ludwigstraße,7;13:35:00;1;W
+3;Seeheim Schuldorf,1;13:36:00;1;W
+3;Seeheim Schuldorf,1;13:41:00;2;W
+3;Jugenheim Ludwigstraße,6;13:44:00;2;W
+3;Jugenheim Kreiskrankenhaus,2;13:45:00;2;W
+3;Balkhausen Schelleklingenweg,2;13:49:00;2;W
+3;Balkhausen Feuerwehr,2;13:50:00;2;W
+3;Balkhausen Bürgerhalle,1;13:51:00;2;W
+3;Balkhausen Feuerwehr,1;13:52:00;2;W
+3;Balkhausen Schelleklingenweg,1;13:53:00;2;W
+3;Jugenh. Balkhäuser Tal Anw. 36,1;13:55:00;2;W
+3;Jugenheim Stettbacher Tal 36,2;13:58:00;2;W
+3;Jugenheim Fischteiche,2;13:59:00;2;W
+3;Jugenheim Brandhof,2;14:00:00;2;W
+3;Stettbach Talstraße,2;14:02:00;2;W
+4;Stettbach Talstraße,1;14:17:00;1;W
+4;Jugenheim Brandhof,1;14:19:00;1;W
+4;Jugenheim Fischteiche,1;14:20:00;1;W
+4;Jugenheim Stettbacher Tal 36,1;14:21:00;1;W
+4;Balkhausen Schelleklingenweg,2;14:26:00;1;W
+4;Balkhausen Feuerwehr,2;14:27:00;1;W
+4;Balkhausen Bürgerhalle,1;14:28:00;1;W
+4;Balkhausen Feuerwehr,1;14:29:00;1;W
+4;Balkhausen Schelleklingenweg,1;14:30:00;1;W
+4;Jugenh. Balkhäuser Tal Anw. 36,1;14:32:00;1;W
+4;Jugenheim Kreiskrankenhaus,1;14:34:00;1;W
+4;Jugenheim Ludwigstraße,7;14:35:00;1;W
+4;Seeheim Schuldorf,1;14:36:00;1;W
+4;Seeheim Schuldorf,1;15:11:00;2;W
+4;Jugenheim Ludwigstraße,6;15:14:00;2;W
+4;Jugenheim Kreiskrankenhaus,2;15:15:00;2;W
+4;Balkhausen Schelleklingenweg,2;15:19:00;2;W
+4;Balkhausen Feuerwehr,2;15:20:00;2;W
+4;Balkhausen Bürgerhalle,1;15:21:00;2;W
+4;Balkhausen Feuerwehr,1;15:22:00;2;W
+4;Balkhausen Schelleklingenweg,1;15:23:00;2;W
+4;Jugenh. Balkhäuser Tal Anw. 36,1;15:25:00;2;W
+4;Jugenheim Stettbacher Tal 36,2;15:28:00;2;W
+4;Jugenheim Fischteiche,2;15:29:00;2;W
+4;Jugenheim Brandhof,2;15:30:00;2;W
+4;Stettbach Talstraße,2;15:32:00;2;W
+5;Stettbach Talstraße,1;15:47:00;1;W
+5;Jugenheim Brandhof,1;15:49:00;1;W
+5;Jugenheim Fischteiche,1;15:50:00;1;W
+5;Jugenheim Stettbacher Tal 36,1;15:51:00;1;W
+5;Balkhausen Schelleklingenweg,2;15:56:00;1;W
+5;Balkhausen Feuerwehr,2;15:57:00;1;W
+5;Balkhausen Bürgerhalle,1;15:58:00;1;W
+5;Balkhausen Feuerwehr,1;15:59:00;1;W
+5;Balkhausen Schelleklingenweg,1;16:00:00;1;W
+5;Jugenh. Balkhäuser Tal Anw. 36,1;16:02:00;1;W
+5;Jugenheim Kreiskrankenhaus,1;16:04:00;1;W
+5;Jugenheim Ludwigstraße,7;16:05:00;1;W
+5;Seeheim Schuldorf,1;16:06:00;1;W
+5;Seeheim Schuldorf,1;16:11:00;2;W
+5;Jugenheim Ludwigstraße,6;16:14:00;2;W
+5;Jugenheim Kreiskrankenhaus,2;16:15:00;2;W
+5;Balkhausen Schelleklingenweg,2;16:19:00;2;W
+5;Balkhausen Feuerwehr,2;16:20:00;2;W
+5;Balkhausen Bürgerhalle,1;16:21:00;2;W
+5;Balkhausen Feuerwehr,1;16:22:00;2;W
+5;Balkhausen Schelleklingenweg,1;16:23:00;2;W
+5;Jugenh. Balkhäuser Tal Anw. 36,1;16:25:00;2;W
+5;Jugenheim Stettbacher Tal 36,2;16:28:00;2;W
+5;Jugenheim Fischteiche,2;16:29:00;2;W
+5;Jugenheim Brandhof,2;16:30:00;2;W
+5;Stettbach Talstraße,2;16:32:00;2;W
+6;Stettbach Talstraße,1;16:47:00;1;W
+6;Jugenheim Brandhof,1;16:49:00;1;W
+6;Jugenheim Fischteiche,1;16:50:00;1;W
+6;Jugenheim Stettbacher Tal 36,1;16:51:00;1;W
+6;Balkhausen Schelleklingenweg,2;16:56:00;1;W
+6;Balkhausen Feuerwehr,2;16:57:00;1;W
+6;Balkhausen Bürgerhalle,1;16:58:00;1;W
+6;Balkhausen Feuerwehr,1;16:59:00;1;W
+6;Balkhausen Schelleklingenweg,1;17:00:00;1;W
+6;Jugenh. Balkhäuser Tal Anw. 36,1;17:02:00;1;W
+6;Jugenheim Kreiskrankenhaus,1;17:04:00;1;W
+6;Jugenheim Ludwigstraße,7;17:05:00;1;W
+6;Seeheim Schuldorf,1;17:06:00;1;W
+6;Seeheim Schuldorf,1;17:11:00;2;W
+6;Jugenheim Ludwigstraße,6;17:14:00;2;W
+6;Jugenheim Kreiskrankenhaus,2;17:15:00;2;W
+6;Balkhausen Schelleklingenweg,2;17:19:00;2;W
+6;Balkhausen Feuerwehr,2;17:20:00;2;W
+6;Balkhausen Bürgerhalle,1;17:21:00;2;W
+6;Balkhausen Feuerwehr,1;17:22:00;2;W
+6;Balkhausen Schelleklingenweg,1;17:23:00;2;W
+6;Jugenh. Balkhäuser Tal Anw. 36,1;17:25:00;2;W
+6;Jugenheim Stettbacher Tal 36,2;17:28:00;2;W
+6;Jugenheim Fischteiche,2;17:29:00;2;W
+6;Jugenheim Brandhof,2;17:30:00;2;W
+6;Stettbach Talstraße,2;17:32:00;2;W
+6;Hähnlein Neue Schule,1;19:20:00;3;W
+6;Hähnlein Waage,1;19:22:00;3;W
+6;Alsbach Rheinstraße,1;19:25:00;3;W
+6;Alsbach Brücke,1;19:26:00;3;W
+6;Alsbach Hähnlein-Alsbach Bf,1;19:27:00;3;W
+6;Alsbach In der Pfarrtanne,1;19:30:00;3;W
+6;Alsbach Am Hinkelstein,4;19:34:00;3;W
+6;Alsbach Rathaus,1;19:36:00;3;W
+6;Alsbach Ortsmitte,2;19:37:00;3;W
+6;Alsbach Beuneweg,4;19:38:00;3;W
+6;Bickenbach Hügelstraße,1;19:39:00;3;W
+6;Bickenbach Berliner Straße,1;19:40:00;3;W
+6;Bickenbach August-Bebel-Straße,1;19:41:00;3;W
+6;Bickenbach Pfungstädter Straße,1;19:41:00;3;W
+6;Bickenbach Hartenauer Straße,1;19:42:00;3;W
+6;Bickenbach Bahnhof,1;19:44:00;3;W
+7;Stettbach Talstraße,2;17:32:00;4;W
+7;Bickenbach Bahnhof,1;17:47:00;4;W
+7;Bickenbach August-Bebel-Straße,2;18:56:00;4;W
+7;Bickenbach Berliner Straße,2;18:57:00;4;W
+7;Bickenbach Hügelstraße,2;18:58:00;4;W
+7;Alsbach Beuneweg,3;18:59:00;4;W
+7;Alsbach Ortsmitte,1;19:00:00;4;W
+7;Alsbach Rathaus,2;19:01:00;4;W
+7;Alsbach Am Hinkelstein,3;19:03:00;4;W
+7;Alsbach In der Pfarrtanne,1;19:06:00;4;W
+7;Alsbach Hähnlein-Alsbach Bf,2;19:09:00;4;W
+7;Alsbach Brücke,2;19:10:00;4;W
+7;Alsbach Rheinstraße,2;19:11:00;4;W
+7;Hähnlein Waage,2;19:14:00;4;W
+7;Hähnlein Neue Schule,1;19:16:00;4;W
+8;Bickenbach Bahnhof,1;18:54:00;4;W
+8;Bickenbach August-Bebel-Straße,2;19:56:00;4;W
+8;Bickenbach Berliner Straße,2;19:57:00;4;W
+8;Bickenbach Hügelstraße,2;19:58:00;4;W
+8;Alsbach Beuneweg,3;19:59:00;4;W
+8;Alsbach Ortsmitte,1;20:00:00;4;W
+8;Alsbach Rathaus,2;20:01:00;4;W
+8;Alsbach Am Hinkelstein,3;20:03:00;4;W
+8;Alsbach In der Pfarrtanne,1;20:06:00;4;W
+8;Alsbach Hähnlein-Alsbach Bf,2;20:09:00;4;W
+8;Alsbach Brücke,2;20:10:00;4;W
+8;Alsbach Rheinstraße,2;20:11:00;4;W
+8;Hähnlein Waage,2;20:14:00;4;W
+8;Hähnlein Neue Schule,1;20:16:00;4;W
+9;Bickenbach Bahnhof,1;19:54:00;4;W
+9;Bickenbach August-Bebel-Straße,2;20:56:00;4;W
+9;Bickenbach Berliner Straße,2;20:57:00;4;W
+9;Bickenbach Hügelstraße,2;20:58:00;4;W
+9;Alsbach Beuneweg,3;20:59:00;4;W
+9;Alsbach Ortsmitte,1;21:00:00;4;W
+9;Alsbach Rathaus,2;21:01:00;4;W
+9;Alsbach Am Hinkelstein,3;21:03:00;4;W
+9;Alsbach In der Pfarrtanne,1;21:06:00;4;W
+9;Alsbach Hähnlein-Alsbach Bf,2;21:09:00;4;W
+9;Alsbach Brücke,2;21:10:00;4;W
+9;Alsbach Rheinstraße,2;21:11:00;4;W
+9;Hähnlein Waage,2;21:14:00;4;W
+9;Hähnlein Neue Schule,1;21:16:00;4;W
+10;Hähnlein Neue Schule,1;20:20:00;3;W
+10;Hähnlein Waage,1;20:22:00;3;W
+10;Alsbach Rheinstraße,1;20:25:00;3;W
+10;Alsbach Brücke,1;20:26:00;3;W
+10;Alsbach Hähnlein-Alsbach Bf,1;20:27:00;3;W
+10;Alsbach In der Pfarrtanne,1;20:30:00;3;W
+10;Alsbach Am Hinkelstein,4;20:34:00;3;W
+10;Alsbach Rathaus,1;20:36:00;3;W
+10;Alsbach Ortsmitte,2;20:37:00;3;W
+10;Alsbach Beuneweg,4;20:38:00;3;W
+10;Bickenbach Hügelstraße,1;20:39:00;3;W
+10;Bickenbach Berliner Straße,1;20:40:00;3;W
+10;Bickenbach August-Bebel-Straße,1;20:41:00;3;W
+10;Bickenbach Pfungstädter Straße,1;20:41:00;3;W
+10;Bickenbach Hartenauer Straße,1;20:42:00;3;W
+10;Bickenbach Bahnhof,1;20:44:00;3;W
+11;Bickenbach Bahnhof,1;20:54:00;4;W

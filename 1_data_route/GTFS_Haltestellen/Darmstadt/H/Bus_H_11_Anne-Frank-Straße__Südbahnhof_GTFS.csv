@@ -1,0 +1,7 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Anne-Frank-Straße;49.847946;8.620916;26:35:00;26:35:00;Kein Umlauf;Mi,Do,Sa;1003;Stop Seq 0
+Haltestelle;Darmstadt Klausenburger Straße;49.846752;8.624026;26:37:00;26:37:00;Kein Umlauf;Mi,Do,Sa;1003;Stop Seq 1
+Haltestelle;Darmstadt Buchenlandweg;49.847496;8.628413;26:38:00;26:38:00;Kein Umlauf;Mi,Do,Sa;1003;Stop Seq 2
+Haltestelle;Darmstadt Pulverhäuserweg;49.85056;8.627973;26:39:00;26:39:00;Kein Umlauf;Mi,Do,Sa;1003;Stop Seq 3
+Haltestelle;Darmstadt Am Kaiserschlag;49.851578;8.633916;26:41:00;26:41:00;Kein Umlauf;Mi,Do,Sa;1003;Stop Seq 4
+Haltestelle;Darmstadt Südbahnhof;49.85497;8.637701;26:42:00;26:42:00;Kein Umlauf;Mi,Do,Sa;1003;Stop Seq 5

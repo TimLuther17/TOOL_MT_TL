@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+# Große Daten- und Ergebnisordner ignorieren
+0_input_daten/GTFS/
+5_data_bus_SIM/
+6_results/
+*.geojson

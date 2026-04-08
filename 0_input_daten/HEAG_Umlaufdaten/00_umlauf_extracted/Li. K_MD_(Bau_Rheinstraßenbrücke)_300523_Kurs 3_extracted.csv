@@ -1,0 +1,249 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Darmstadt Alfred-Messel-Weg,1;05:09:00;2;W
+1;Darmstadt Peter-Behrens-Straße,2;05:10:00;2;W
+1;Darmstadt Am Karlshof,2;05:12:00;2;W
+1;Darmstadt Taunusplatz,2;05:13:00;2;W
+1;Darmstadt Kopernikusplatz,2;05:14:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;05:16:00;2;W
+1;Darmstadt Schloss,3;05:18:00;2;W
+1;Darmstadt Luisenplatz,3;05:20:00;2;W
+1;Darmstadt Willy-Brandt-Platz,3;05:22:00;2;W
+1;Darmstadt Klinikum,1;05:23:00;2;W
+1;Darmstadt Kasinostraße,1;05:24:00;2;W
+1;Darmstadt Kirschenallee,1;05:25:00;2;W
+1;Darmstadt Hauptbahnhof,4;05:27:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;06:17:00;2;W
+1;Darmstadt Mina-Rees-Straße,2;06:18:00;2;W
+1;Darmstadt Hilpertstraße,12;06:20:00;2;W
+1;Darmstadt Hauptzollamt,2;06:21:00;2;W
+1;Darmstadt von Taxis,2;06:22:00;2;W
+1;Darmstadt Kleyerstraße,1;06:23:00;2;W
+1;Darmstadt Mahatma-Gandhi-Str.,2;07:40:00;2;W
+1;Darmstadt Fünfkirchner Straße,1;07:43:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;07:46:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;07:49:00;1;W
+1;Darmstadt Klausenburger Straße,1;07:50:00;1;W
+1;Darmstadt Buchenlandweg,1;07:51:00;1;W
+1;Darmstadt Pulverhäuserweg,1;07:53:00;1;W
+1;Darmstadt Hannah-Arendt-Weg,2;07:54:00;1;W
+1;Darmstadt Fünfkirchner Straße,2;07:55:00;1;W
+1;Darmstadt Mahatma-Gandhi-Str.,1;07:58:00;1;W
+1;Darmstadt Kleyerstraße,2;08:00:00;1;W
+1;Darmstadt von Taxis,1;08:00:00;1;W
+1;Darmstadt Hauptzollamt,1;08:01:00;1;W
+1;Darmstadt Hilpertstraße,11;08:02:00;1;W
+1;Darmstadt Hochschule West,1;08:06:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;08:07:00;1;W
+1;Darmstadt Hauptbahnhof,2;08:10:00;1;W
+1;Darmstadt Kirschenallee,2;08:11:00;1;W
+1;Darmstadt Kasinostraße,2;08:13:00;1;W
+1;Darmstadt Klinikum,2;08:14:00;1;W
+1;Darmstadt Willy-Brandt-Platz,4;08:15:00;1;W
+1;Darmstadt Luisenplatz,2;08:17:00;1;W
+1;Darmstadt Schloss,4;08:18:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;08:20:00;1;W
+1;Darmstadt Kopernikusplatz,1;08:21:00;1;W
+1;Darmstadt Taunusplatz,1;08:22:00;1;W
+1;Darmstadt Am Karlshof,1;08:23:00;1;W
+1;Darmstadt Peter-Behrens-Straße,1;08:25:00;1;W
+1;Darmstadt Alfred-Messel-Weg,1;08:27:00;1;W
+1;Darmstadt Alfred-Messel-Weg,1;08:41:00;2;W
+1;Darmstadt Peter-Behrens-Straße,2;08:42:00;2;W
+1;Darmstadt Am Karlshof,2;08:44:00;2;W
+1;Darmstadt Taunusplatz,2;08:45:00;2;W
+1;Darmstadt Kopernikusplatz,2;08:46:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;08:48:00;2;W
+1;Darmstadt Schloss,3;08:50:00;2;W
+1;Darmstadt Luisenplatz,3;08:52:00;2;W
+1;Darmstadt Willy-Brandt-Platz,3;08:54:00;2;W
+1;Darmstadt Klinikum,1;08:55:00;2;W
+1;Darmstadt Kasinostraße,1;08:56:00;2;W
+1;Darmstadt Kirschenallee,1;08:57:00;2;W
+1;Darmstadt Hauptbahnhof,4;08:59:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;09:02:00;2;W
+1;Darmstadt Mina-Rees-Straße,2;09:03:00;2;W
+1;Darmstadt Hilpertstraße,12;09:05:00;2;W
+1;Darmstadt Hauptzollamt,2;09:06:00;2;W
+1;Darmstadt von Taxis,2;09:07:00;2;W
+1;Darmstadt Kleyerstraße,1;09:08:00;2;W
+2;Darmstadt Hauptbahnhof,2;05:30:00;1;W
+2;Darmstadt Kirschenallee,2;05:31:00;1;W
+2;Darmstadt Kasinostraße,2;05:33:00;1;W
+2;Darmstadt Klinikum,2;05:34:00;1;W
+2;Darmstadt Willy-Brandt-Platz,4;05:35:00;1;W
+2;Darmstadt Luisenplatz,2;05:37:00;1;W
+2;Darmstadt Schloss,4;05:38:00;1;W
+2;Darmstadt Alexanderstraße/TU,1;05:40:00;1;W
+2;Darmstadt Kopernikusplatz,1;05:41:00;1;W
+2;Darmstadt Taunusplatz,1;05:42:00;1;W
+2;Darmstadt Am Karlshof,1;05:43:00;1;W
+2;Darmstadt Peter-Behrens-Straße,1;05:45:00;1;W
+2;Darmstadt Alfred-Messel-Weg,1;05:47:00;1;W
+2;Darmstadt Alfred-Messel-Weg,1;05:56:00;2;W
+2;Darmstadt Peter-Behrens-Straße,2;05:57:00;2;W
+2;Darmstadt Am Karlshof,2;05:59:00;2;W
+2;Darmstadt Taunusplatz,2;06:00:00;2;W
+2;Darmstadt Kopernikusplatz,2;06:01:00;2;W
+2;Darmstadt Alexanderstraße/TU,2;06:03:00;2;W
+2;Darmstadt Schloss,3;06:05:00;2;W
+2;Darmstadt Luisenplatz,3;06:07:00;2;W
+2;Darmstadt Willy-Brandt-Platz,3;06:09:00;2;W
+2;Darmstadt Klinikum,1;06:10:00;2;W
+2;Darmstadt Kasinostraße,1;06:11:00;2;W
+2;Darmstadt Kirschenallee,1;06:12:00;2;W
+2;Darmstadt Hauptbahnhof,4;06:14:00;2;W
+2;Darmstadt Heinrich-Hertz-Str.,2;07:32:00;2;W
+2;Darmstadt Mina-Rees-Straße,2;07:33:00;2;W
+2;Darmstadt Hilpertstraße,12;07:35:00;2;W
+2;Darmstadt Hauptzollamt,2;07:36:00;2;W
+2;Darmstadt von Taxis,2;07:37:00;2;W
+2;Darmstadt Kleyerstraße,1;07:38:00;2;W
+3;Darmstadt Kleyerstraße,2;06:30:00;1;W
+3;Darmstadt von Taxis,1;06:30:00;1;W
+3;Darmstadt Hauptzollamt,1;06:31:00;1;W
+3;Darmstadt Hilpertstraße,11;06:32:00;1;W
+3;Darmstadt Hochschule West,1;06:36:00;1;W
+3;Darmstadt Heinrich-Hertz-Str.,1;06:37:00;1;W
+3;Darmstadt Hauptbahnhof,2;06:40:00;1;W
+3;Darmstadt Kirschenallee,2;06:41:00;1;W
+3;Darmstadt Kasinostraße,2;06:43:00;1;W
+3;Darmstadt Klinikum,2;06:44:00;1;W
+3;Darmstadt Willy-Brandt-Platz,4;06:45:00;1;W
+3;Darmstadt Luisenplatz,2;06:47:00;1;W
+3;Darmstadt Schloss,4;06:48:00;1;W
+3;Darmstadt Alexanderstraße/TU,1;06:50:00;1;W
+3;Darmstadt Kopernikusplatz,1;06:51:00;1;W
+3;Darmstadt Taunusplatz,1;06:52:00;1;W
+3;Darmstadt Am Karlshof,1;06:53:00;1;W
+3;Darmstadt Peter-Behrens-Straße,1;06:55:00;1;W
+3;Darmstadt Alfred-Messel-Weg,1;06:57:00;1;W
+3;Darmstadt Alfred-Messel-Weg,1;07:11:00;2;W
+3;Darmstadt Peter-Behrens-Straße,2;07:12:00;2;W
+3;Darmstadt Am Karlshof,2;07:14:00;2;W
+3;Darmstadt Taunusplatz,2;07:15:00;2;W
+3;Darmstadt Kopernikusplatz,2;07:16:00;2;W
+3;Darmstadt Alexanderstraße/TU,2;07:18:00;2;W
+3;Darmstadt Schloss,3;07:20:00;2;W
+3;Darmstadt Luisenplatz,3;07:22:00;2;W
+3;Darmstadt Willy-Brandt-Platz,3;07:24:00;2;W
+3;Darmstadt Klinikum,1;07:25:00;2;W
+3;Darmstadt Kasinostraße,1;07:26:00;2;W
+3;Darmstadt Kirschenallee,1;07:27:00;2;W
+3;Darmstadt Hauptbahnhof,4;07:29:00;2;W
+4;Darmstadt Kleyerstraße,2;09:15:00;1;W
+4;Darmstadt von Taxis,1;09:15:00;1;W
+4;Darmstadt Hauptzollamt,1;09:16:00;1;W
+4;Darmstadt Hilpertstraße,11;09:17:00;1;W
+4;Darmstadt Hochschule West,1;09:21:00;1;W
+4;Darmstadt Heinrich-Hertz-Str.,1;09:22:00;1;W
+4;Darmstadt Hauptbahnhof,2;09:25:00;1;W
+4;Darmstadt Kirschenallee,2;09:26:00;1;W
+4;Darmstadt Kasinostraße,2;09:28:00;1;W
+4;Darmstadt Klinikum,2;09:29:00;1;W
+4;Darmstadt Willy-Brandt-Platz,4;09:30:00;1;W
+4;Darmstadt Luisenplatz,2;09:32:00;1;W
+4;Darmstadt Schloss,4;09:33:00;1;W
+4;Darmstadt Alexanderstraße/TU,1;09:35:00;1;W
+4;Darmstadt Kopernikusplatz,1;09:36:00;1;W
+4;Darmstadt Taunusplatz,1;09:37:00;1;W
+4;Darmstadt Am Karlshof,1;09:38:00;1;W
+4;Darmstadt Peter-Behrens-Straße,1;09:40:00;1;W
+4;Darmstadt Alfred-Messel-Weg,1;09:42:00;1;W
+4;Darmstadt Alfred-Messel-Weg,1;09:56:00;2;W
+4;Darmstadt Peter-Behrens-Straße,2;09:57:00;2;W
+4;Darmstadt Am Karlshof,2;09:59:00;2;W
+4;Darmstadt Taunusplatz,2;10:00:00;2;W
+4;Darmstadt Kopernikusplatz,2;10:01:00;2;W
+4;Darmstadt Alexanderstraße/TU,2;10:03:00;2;W
+4;Darmstadt Schloss,3;10:05:00;2;W
+4;Darmstadt Luisenplatz,3;10:07:00;2;W
+4;Darmstadt Willy-Brandt-Platz,3;10:09:00;2;W
+4;Darmstadt Klinikum,1;10:10:00;2;W
+4;Darmstadt Kasinostraße,1;10:11:00;2;W
+4;Darmstadt Kirschenallee,1;10:12:00;2;W
+4;Darmstadt Hauptbahnhof,4;10:14:00;2;W
+4;Darmstadt Heinrich-Hertz-Str.,2;10:17:00;2;W
+4;Darmstadt Mina-Rees-Straße,2;10:18:00;2;W
+4;Darmstadt Hilpertstraße,12;10:20:00;2;W
+4;Darmstadt Hauptzollamt,2;10:21:00;2;W
+4;Darmstadt von Taxis,2;10:22:00;2;W
+4;Darmstadt Kleyerstraße,1;10:23:00;2;W
+5;Darmstadt Kleyerstraße,2;10:30:00;1;W
+5;Darmstadt von Taxis,1;10:30:00;1;W
+5;Darmstadt Hauptzollamt,1;10:31:00;1;W
+5;Darmstadt Hilpertstraße,11;10:32:00;1;W
+5;Darmstadt Hochschule West,1;10:36:00;1;W
+5;Darmstadt Heinrich-Hertz-Str.,1;10:37:00;1;W
+5;Darmstadt Hauptbahnhof,2;10:40:00;1;W
+5;Darmstadt Kirschenallee,2;10:41:00;1;W
+5;Darmstadt Kasinostraße,2;10:43:00;1;W
+5;Darmstadt Klinikum,2;10:44:00;1;W
+5;Darmstadt Willy-Brandt-Platz,4;10:45:00;1;W
+5;Darmstadt Luisenplatz,2;10:47:00;1;W
+5;Darmstadt Schloss,4;10:48:00;1;W
+5;Darmstadt Alexanderstraße/TU,1;10:50:00;1;W
+5;Darmstadt Kopernikusplatz,1;10:51:00;1;W
+5;Darmstadt Taunusplatz,1;10:52:00;1;W
+5;Darmstadt Am Karlshof,1;10:53:00;1;W
+5;Darmstadt Peter-Behrens-Straße,1;10:55:00;1;W
+5;Darmstadt Alfred-Messel-Weg,1;10:57:00;1;W
+5;Darmstadt Alfred-Messel-Weg,1;11:11:00;2;W
+5;Darmstadt Peter-Behrens-Straße,2;11:12:00;2;W
+5;Darmstadt Am Karlshof,2;11:14:00;2;W
+5;Darmstadt Taunusplatz,2;11:15:00;2;W
+5;Darmstadt Kopernikusplatz,2;11:16:00;2;W
+5;Darmstadt Alexanderstraße/TU,2;11:18:00;2;W
+5;Darmstadt Schloss,3;11:20:00;2;W
+5;Darmstadt Luisenplatz,3;11:22:00;2;W
+5;Darmstadt Willy-Brandt-Platz,3;11:24:00;2;W
+5;Darmstadt Klinikum,1;11:25:00;2;W
+5;Darmstadt Kasinostraße,1;11:26:00;2;W
+5;Darmstadt Kirschenallee,1;11:27:00;2;W
+5;Darmstadt Hauptbahnhof,4;11:29:00;2;W
+5;Darmstadt Heinrich-Hertz-Str.,2;11:32:00;2;W
+5;Darmstadt Mina-Rees-Straße,2;11:33:00;2;W
+5;Darmstadt Hilpertstraße,12;11:35:00;2;W
+5;Darmstadt Hauptzollamt,2;11:36:00;2;W
+5;Darmstadt von Taxis,2;11:37:00;2;W
+5;Darmstadt Kleyerstraße,1;11:38:00;2;W
+5;Darmstadt Mahatma-Gandhi-Str.,2;12:55:00;2;W
+5;Darmstadt Fünfkirchner Straße,1;12:58:00;2;W
+5;Darmstadt Anne-Frank-Straße,2;13:01:00;2;W
+6;Darmstadt Kleyerstraße,2;11:45:00;1;W
+6;Darmstadt von Taxis,1;11:45:00;1;W
+6;Darmstadt Hauptzollamt,1;11:46:00;1;W
+6;Darmstadt Hilpertstraße,11;11:47:00;1;W
+6;Darmstadt Hochschule West,1;11:51:00;1;W
+6;Darmstadt Heinrich-Hertz-Str.,1;11:52:00;1;W
+6;Darmstadt Hauptbahnhof,2;11:55:00;1;W
+6;Darmstadt Kirschenallee,2;11:56:00;1;W
+6;Darmstadt Kasinostraße,2;11:58:00;1;W
+6;Darmstadt Klinikum,2;11:59:00;1;W
+6;Darmstadt Willy-Brandt-Platz,4;12:00:00;1;W
+6;Darmstadt Luisenplatz,2;12:02:00;1;W
+6;Darmstadt Schloss,4;12:03:00;1;W
+6;Darmstadt Alexanderstraße/TU,1;12:05:00;1;W
+6;Darmstadt Kopernikusplatz,1;12:06:00;1;W
+6;Darmstadt Taunusplatz,1;12:07:00;1;W
+6;Darmstadt Am Karlshof,1;12:08:00;1;W
+6;Darmstadt Peter-Behrens-Straße,1;12:10:00;1;W
+6;Darmstadt Alfred-Messel-Weg,1;12:12:00;1;W
+6;Darmstadt Alfred-Messel-Weg,1;12:26:00;2;W
+6;Darmstadt Peter-Behrens-Straße,2;12:27:00;2;W
+6;Darmstadt Am Karlshof,2;12:29:00;2;W
+6;Darmstadt Taunusplatz,2;12:30:00;2;W
+6;Darmstadt Kopernikusplatz,2;12:31:00;2;W
+6;Darmstadt Alexanderstraße/TU,2;12:33:00;2;W
+6;Darmstadt Schloss,3;12:35:00;2;W
+6;Darmstadt Luisenplatz,3;12:37:00;2;W
+6;Darmstadt Willy-Brandt-Platz,3;12:39:00;2;W
+6;Darmstadt Klinikum,1;12:40:00;2;W
+6;Darmstadt Kasinostraße,1;12:41:00;2;W
+6;Darmstadt Kirschenallee,1;12:42:00;2;W
+6;Darmstadt Hauptbahnhof,4;12:44:00;2;W
+6;Darmstadt Heinrich-Hertz-Str.,2;12:47:00;2;W
+6;Darmstadt Mina-Rees-Straße,2;12:48:00;2;W
+6;Darmstadt Hilpertstraße,12;12:50:00;2;W
+6;Darmstadt Hauptzollamt,2;12:51:00;2;W
+6;Darmstadt von Taxis,2;12:52:00;2;W
+6;Darmstadt Kleyerstraße,1;12:53:00;2;W

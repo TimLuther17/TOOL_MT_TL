@@ -1,0 +1,269 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Routenpunkt (Way);T;Luisenplatz;49.8727311;8.6513157;;;;;;;Original OSM
+Haltestelle;W;Darmstadt Luisenplatz;49.8727311;8.6513157;;05:45:00;05:45:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 17m) | Auf Route gesnappt (17m)
+Routenpunkt (Way);T;Luisenplatz;49.87273355000001;8.651429075;;;;;;;Original OSM
+Routenpunkt (Way);T;Luisenplatz;49.87282165;8.651729;;;;;;;Interpoliert
+Routenpunkt (Way);T;Luisenplatz;49.87294067142857;8.652044928571428;;;;;;;Original OSM
+Routenpunkt (Way);T;Rheinstraße;49.87298531666666;8.652306316666667;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Rheinstraße;49.87301123333333;8.652494933333333;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Rheinstraße;49.87303715;8.652683549999999;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Rheinstraße;49.87306306666667;8.652872166666667;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Rheinstraße;49.87308898333333;8.653060783333334;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Rheinstraße;49.87311400625;8.65355683125;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Rheinstraße;49.872964966666665;8.654003233333333;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Rheinstraße;49.87289833333333;8.654139466666667;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Rheinstraße;49.87279227777778;8.654403355555557;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Marktplatz;49.8728004;8.654719700000001;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Marktplatz;49.8728169;8.6548902;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Marktplatz;49.87283825;8.655085450000001;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Marktplatz;49.8728596;8.6552807;30.0;;;;;;Original OSM
+Haltestelle;W;Darmstadt Schloss;49.8728596;8.6552807;30.0;05:46:00;05:46:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m)
+Routenpunkt (Way);T;Marktplatz;49.8728596;8.6552807;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Schloss;49.8729547909091;8.65559103939394;;;;;;;Original OSM
+Routenpunkt (Way);T;Marktplatz;49.873085143478264;8.656144147826087;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Schlossgraben;49.873397;8.6562838;;;;;;;Original OSM
+Routenpunkt (Way);T;Schlossgraben;49.87348645;8.6562552;;;;;;;Interpoliert
+Routenpunkt (Way);T;Schlossgraben;49.873733533333336;8.656175408333333;;;;;;;Original OSM
+Routenpunkt (Way);T;Schlossgraben;49.87401496666667;8.656080933333334;;;;;;;Interpoliert
+Routenpunkt (Way);T;Schlossgraben;49.87411133333333;8.656048266666666;;;;;;;Interpoliert
+Routenpunkt (Way);T;Schlossgraben;49.8743129875;8.6559582;;;;;;;Original OSM
+Routenpunkt (Way);T;Unbekannt;49.874517833333336;8.65584305;;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.87456856666666;8.656085066666666;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.87460316666667;8.656333433333334;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Alexanderstraße;49.87462653333333;8.656508966666667;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Alexanderstraße;49.874673300000005;8.65679935;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.87472925;8.65705375;;;;;;;Interpoliert
+Routenpunkt (Way);T;Alexanderstraße;49.87479546666666;8.657337199999999;;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.87489693333333;8.6577704;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Alexanderstraße;49.87493956666667;8.6579524;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Alexanderstraße;49.874996100000004;8.6581941;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.8750495;8.6584251;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.8750889;8.6585834;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.8751225;8.6587341;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.875164100000006;8.6589133;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Alexanderstraße;49.8752057;8.6590925;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.87525495;8.6593053;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.875405691666664;8.659743958333332;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.8755381;8.6600473;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße;49.87559455;8.66016775;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Alexanderstraße;49.875673199999994;8.6603408;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Alexanderstraße/TU;49.875768575;8.660476225;;;;;;;Original OSM
+Haltestelle;W;Darmstadt Alexanderstraße/TU;49.8757411;8.6605019;50.0;05:48:00;05:48:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m)
+Routenpunkt (Way);T;Alexanderstraße/TU;49.875834010000005;8.66062027;;;;;;;Interpoliert
+Routenpunkt (Way);T;Alexanderstraße;49.875955590000004;8.66095456;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Dieburger Straße;49.87611603333333;8.6612677;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Dieburger Straße;49.876183866666665;8.6614055;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Dieburger Straße;49.876296025;8.661617525;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heinheimer Straße;49.876436850000005;8.661619550000001;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heinheimer Straße;49.876552975;8.66159135;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heinheimer Straße;49.87665735;8.6615693;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heinheimer Straße;49.876761725;8.66154725;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heinheimer Straße;49.876875749999996;8.66152315;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heinheimer Straße;49.87701522857143;8.661490342857142;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heinheimer Straße;49.877145057142855;8.661459585714285;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heinheimer Straße;49.877274885714286;8.661428828571427;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heinheimer Straße;49.87740471428571;8.661398071428572;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heinheimer Straße;49.87753454285714;8.661367314285714;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heinheimer Straße;49.877664371428565;8.661336557142857;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heinheimer Straße;49.87800343181818;8.66135410909091;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8781765;8.6617339;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8782485;8.66183625;30.0;;;;;;Interpoliert
+Haltestelle;W;Darmstadt Kopernikusplatz;49.8782485;8.66183625;30.0;05:49:00;05:49:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 6m) | Auf Route gesnappt (6m)
+Routenpunkt (Way);T;Kopernikusplatz;49.87836466;8.66195057;;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8785244;8.662212033333333;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8785942;8.662311066666668;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878664;8.6624101;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878758950000005;8.6625567;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8788539;8.6627033;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.878919233333335;8.6628162;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.87898456666667;8.662929100000001;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.87916335833333;8.663221791666667;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879338;8.66347195;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8794264;8.6635859;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8795168;8.66367915;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8796072;8.6637724;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8796976;8.66386565;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.879788;8.6639589;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.87986446666667;8.664038866666667;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.87994093333333;8.664118833333333;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88009328333334;8.664256349999999;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Taunusplatz;49.88030045;8.664438916666667;;;;;;;Original OSM
+Haltestelle;W;Darmstadt Taunusplatz;49.88034795;8.6644892;30.0;05:50:00;05:50:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 2m) | Auf Route gesnappt (3m)
+Routenpunkt (Way);T;Taunusplatz;49.88046848571429;8.664648957142859;;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8806319;8.664838966666666;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8807409;8.664942633333334;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8808499;8.6650463;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8809284;8.6651218;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8810308;8.6652103;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88115294;8.66528374;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88127508;8.665357179999999;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88139722;8.66543062;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88151936;8.66550406;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.881697175;8.665612249999999;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8818414;8.6656952;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.881991875;8.665764825;50.0;;;;;;Original OSM
+Haltestelle;W;Darmstadt Am Karlshof;49.8820815;8.6658097;50.0;05:51:00;05:51:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 2m) | Auf Route gesnappt (2m)
+Routenpunkt (Way);T;Am Karlshof (Bussteig Richtung Süd);49.88225519545454;8.665859036363637;;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8824975;8.6660428;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88274509166666;8.666190575;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88302676666667;8.666364466666666;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88312563333333;8.666426533333333;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.883303500000004;8.6665382;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8834741;8.66663975;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8835657;8.6666917;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88367626;8.66676348;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88378682;8.66683526;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88389738;8.66690704;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88400794;8.666978819999999;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8841185;8.6670506;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884215266666665;8.6671237;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88431203333334;8.667196800000001;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884443250000004;8.66730055;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8845494875;8.6674805125;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884621275;8.667629824999999;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8846930625;8.6677791375;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88476485;8.66792845;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8848366375;8.6680777625;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.884908425;8.668227075;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8849802125;8.6683763875;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.885052;8.6685257;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.885123166666666;8.668618633333333;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88519433333334;8.668711566666667;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88546371363636;8.66889370909091;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8856854;8.6690686;50.0;;;;;;Original OSM
+Haltestelle;W;Darmstadt Schwarzer Weg;49.8856854;8.6690686;50.0;05:53:00;05:53:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 1m) | Auf Route gesnappt (8m)
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8858697;8.669193033333334;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8859757;8.6692632;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88607728;8.66933174;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88617886;8.66940028;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88628044;8.66946882;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88638202;8.66953736;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.886592925;8.66963745;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.886817;8.669659;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8869272;8.6696616;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.887038;8.66966525;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.887186033333336;8.669678266666667;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.887393550000006;8.6697863;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.887567950000005;8.6699128625;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8876792;8.669992324999999;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88779045;8.6700717875;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8879017;8.67015125;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88801295;8.6702307125;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8881242;8.670310175000001;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88823545;8.6703896375;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8883467;8.6704691;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.888457933333335;8.6705507;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88856916666666;8.670632300000001;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8886804;8.6707139;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88877125;8.6707791;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8888621;8.6708443;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88898343333333;8.670931366666666;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88910476666667;8.671018433333334;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8892261;8.6711055;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.889326233333335;8.671194833333333;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88942636666667;8.671284166666666;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8895265;8.6713735;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.889616925;8.6714804;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88970735;8.671587299999999;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.889797775000005;8.6716942;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8898882;8.6718011;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.88999575;8.6719247;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8901559125;8.67208745;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8903367;8.6722519;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8904196;8.6723539;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8905259;8.672441249999999;50.0;;;;;;Interpoliert
+Haltestelle;W;Darmstadt Kastanienallee;49.8905275;8.6724489;50.0;05:54:00;05:54:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (6m)
+Routenpunkt (Way);T;Unbekannt;49.89060695;8.67252875;;;;;;;Interpoliert
+Routenpunkt (Way);T;Unbekannt;49.89068128333333;8.672637383333333;;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8908025;8.672843933333334;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8909135;8.6729787;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.891018;8.673098111111111;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8911225;8.673217522222222;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.891227;8.673336933333333;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8913315;8.673456344444444;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.891436000000006;8.673575755555555;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.891540500000005;8.673695166666667;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.891645;8.673814577777778;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8917495;8.673933988888889;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.891854;8.6740534;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.891945775;8.67415965;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89203755;8.6742659;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.892129325;8.67437215;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8922211;8.6744784;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.892429838888894;8.674717616666666;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.892682283333336;8.675009458333333;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.892789666666665;8.675134416666666;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89289705;8.675259375;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89300443333333;8.675384333333334;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89311181666667;8.675509291666666;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8932192;8.67563425;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89332658333333;8.675759208333334;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89343396666667;8.675884166666666;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89354135;8.676009125;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.893648733333336;8.676134083333334;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.893756116666665;8.676259041666667;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8939080875;8.6764329375;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8940565;8.67659585;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8941306;8.6766772;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89422035;8.676791900000001;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8943836;8.67701485;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Jägertorstraße;49.894523199999995;8.6771324;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Jägertorstraße;49.89475085;8.677212366666668;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Jägertorstraße;49.8950224;8.6772289;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Jägertorstraße;49.8951532;8.6772224;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Jägertorstraße;49.895278733333335;8.677227533333333;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Jägertorstraße;49.89540426666667;8.677232666666667;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Jägertorstraße;49.8955298;8.6772378;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Jägertorstraße;49.895631;8.6772457;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Jägertorstraße;49.89584453;8.67725481;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Jägertorstraße;49.896079766666666;8.6772616;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Jägertorstraße;49.89619513333333;8.677264000000001;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Jägertorstraße;49.896532300000004;8.677291938461538;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Siemensstraße;49.896648866666666;8.677602866666666;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Siemensstraße;49.89665303333334;8.677769633333334;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Siemensstraße;49.8966572;8.6779364;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Siemensstraße;49.8966492;8.6781436;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Siemensstraße;49.89657962;8.67856291;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Siemensstraße;49.8964865;8.678927999999999;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Siemensstraße;49.8964488;8.6790673;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Siemensstraße;49.896401;8.6792573;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Siemensstraße;49.8963717;8.6794297;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Siemensstraße;49.8963548;8.6796047;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Siemensstraße;49.89635695;8.67976435;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Siemensstraße;49.896384299999994;8.680002724999998;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Siemensstraße;49.896389758333335;8.680245958333332;;;;;;;Interpoliert
+Haltestelle;W;Kranichstein Siemensstraße;49.896374525;8.680324474999999;30.0;05:56:00;05:56:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (5m)
+Routenpunkt (Way);T;Siemensstraße;49.89639958;8.68048219;;;;;;;Interpoliert
+Routenpunkt (Way);T;Siemensstraße;49.89640461500001;8.680734245;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Siemensstraße;49.89639866;8.681036520000001;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Bartningstraße;49.89624518;8.681153239999999;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Bartningstraße;49.8960425;8.681170766666666;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Bartningstraße;49.8959374;8.681179633333333;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Bartningstraße;49.8958323;8.6811885;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Bartningstraße;49.89573906666667;8.681199399999999;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Bartningstraße;49.89564583333333;8.6812103;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Bartningstraße;49.8955526;8.6812212;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Bartningstraße;49.8954436;8.6812367;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Bartningstraße;49.895358689999995;8.68138459;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89539466666667;8.681676300000001;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89541323333333;8.6818238;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8954318;8.6819713;;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89545466428571;8.68217417857143;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89547752857143;8.682377057142858;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89550039285714;8.682579935714287;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.895523257142855;8.682782814285714;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.895546121428566;8.682985692857143;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89556898571429;8.683188571428571;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89559185;8.68339145;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89561471428571;8.683594328571429;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.895637578571424;8.683797207142858;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89566044285714;8.684000085714286;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89568330714286;8.684202964285713;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89570617142857;8.684405842857142;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89572903571428;8.684608721428571;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.8957519;8.6848116;;;;;;;Original OSM
+Routenpunkt (Way);T;Kranichsteiner Straße;49.895778925;8.685011575;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89580595;8.68521155;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kranichsteiner Straße;49.89586479374999;8.68546085625;;;;;;;Interpoliert
+Routenpunkt (Way);T;Kesselhutweg;49.8958983;8.685657175;;;;;;;Interpoliert
+Haltestelle;W;Kranichstein Kesselhutweg;49.89589125;8.68565955;;05:59:00;05:59:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 36m) | Auf Route gesnappt (36m)

@@ -1,0 +1,73 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Frankenhausen Dr.-W.-Mertz-Str,3;07:27:00;1;W
+1;Frankenhausen Römerweg,2;07:29:00;1;W
+1;Waschenbach Ortsstraße,2;07:32:00;1;W
+1;Waschenbach Sportplatz,1;07:34:00;1;W
+1;Nd-Ramstadt An der Bruchmühle,11;07:39:00;1;W
+1;Nieder-Ramstadt Kohlbergweg,2;07:40:00;1;W
+1;Nieder-Ramstadt Im Hag,2;07:41:00;1;W
+1;Nieder-Ramstadt Im Hag,2;07:42:00;2;W
+1;Nd-Ramstadt Pfaffenbergschule,4;07:46:00;2;W
+1;Trautheim Im Wiesengrund,2;07:48:00;2;W
+1;Trautheim,2;07:50:00;2;W
+1;Darmstadt Böllenfalltor,4;07:53:00;2;W
+2;Nd-Ramstadt Pfaffenbergschule,3;11:40:00;3;W
+2;Nieder-Ramstadt Im Hag,1;11:44:00;3;W
+2;Nieder-Ramstadt Im Hag,1;11:45:00;4;W
+2;Nieder-Ramstadt Kohlbergweg,1;11:46:00;4;W
+2;Nd-Ramstadt An der Bruchmühle,1;11:49:00;4;W
+2;Waschenbach Sportplatz,1;11:53:00;4;W
+2;Waschenbach Ortsstraße,1;11:54:00;4;W
+2;Frankenhausen Römerweg,1;11:57:00;4;W
+2;Frankenhausen Dr.-W.-Mertz-Str,3;12:00:00;4;W
+2;Frankenhausen Dr.-W.-Mertz-Str,3;12:00:00;5;W
+3;Nd-Ramstadt Pfaffenbergschule,3;12:18:00;5;W
+4;Nd-Ramstadt Pfaffenbergschule,3;12:35:00;3;W
+4;Nieder-Ramstadt Im Hag,1;12:39:00;3;W
+4;Nieder-Ramstadt Im Hag,1;12:40:00;4;W
+4;Nieder-Ramstadt Kohlbergweg,1;12:41:00;4;W
+4;Nd-Ramstadt An der Bruchmühle,1;12:44:00;4;W
+4;Waschenbach Sportplatz,1;12:48:00;4;W
+4;Waschenbach Ortsstraße,1;12:49:00;4;W
+4;Frankenhausen Römerweg,1;12:52:00;4;W
+4;Frankenhausen Dr.-W.-Mertz-Str,3;12:55:00;4;W
+4;Frankenhausen Dr.-W.-Mertz-Str,3;12:55:00;5;W
+5;Nd-Ramstadt Pfaffenbergschule,3;13:13:00;5;W
+6;Nd-Ramstadt Pfaffenbergschule,3;13:20:00;3;W
+6;Nieder-Ramstadt Im Hag,1;13:24:00;3;W
+6;Nieder-Ramstadt Im Hag,1;13:25:00;4;W
+6;Nieder-Ramstadt Kohlbergweg,1;13:26:00;4;W
+6;Nd-Ramstadt An der Bruchmühle,1;13:29:00;4;W
+6;Waschenbach Sportplatz,1;13:33:00;4;W
+6;Waschenbach Ortsstraße,1;13:34:00;4;W
+6;Frankenhausen Römerweg,1;13:37:00;4;W
+6;Frankenhausen Dr.-W.-Mertz-Str,3;13:40:00;4;W
+6;Frankenhausen Dr.-W.-Mertz-Str,3;13:40:00;5;W
+7;Nd-Ramstadt Pfaffenbergschule,3;13:58:00;5;W
+7;Nieder-Ramstadt Im Hag,3;15:54:00;6;W
+7;Nd-Ramstadt Pfaffenbergschule,2;15:56:00;6;W
+7;Trautheim Im Wiesengrund,2;15:58:00;6;W
+7;Trautheim,2;16:00:00;6;W
+7;Darmstadt Böllenfalltor,4;16:03:00;6;W
+8;Nd-Ramstadt Pfaffenbergschule,3;14:40:00;3;W
+8;Nieder-Ramstadt Im Hag,1;14:44:00;3;W
+8;Nieder-Ramstadt Im Hag,1;14:45:00;4;W
+8;Nieder-Ramstadt Kohlbergweg,1;14:46:00;4;W
+8;Nd-Ramstadt An der Bruchmühle,1;14:49:00;4;W
+8;Waschenbach Sportplatz,1;14:53:00;4;W
+8;Waschenbach Ortsstraße,1;14:54:00;4;W
+8;Frankenhausen Römerweg,1;14:57:00;4;W
+8;Frankenhausen Dr.-W.-Mertz-Str,3;15:00:00;4;W
+8;Frankenhausen Dr.-W.-Mertz-Str,3;15:00:00;5;W
+8;Nieder-Ramstadt Im Hag,3;15:53:00;5;W
+9;Nd-Ramstadt Pfaffenbergschule,3;15:18:00;5;W
+10;Nd-Ramstadt Pfaffenbergschule,3;15:20:00;3;W
+10;Nieder-Ramstadt Im Hag,1;15:24:00;3;W
+10;Nieder-Ramstadt Im Hag,1;15:25:00;4;W
+10;Nieder-Ramstadt Kohlbergweg,1;15:26:00;4;W
+10;Nd-Ramstadt An der Bruchmühle,1;15:29:00;4;W
+10;Waschenbach Sportplatz,1;15:33:00;4;W
+10;Waschenbach Ortsstraße,1;15:34:00;4;W
+10;Frankenhausen Römerweg,1;15:37:00;4;W
+10;Frankenhausen Dr.-W.-Mertz-Str,3;15:40:00;4;W
+10;Frankenhausen Dr.-W.-Mertz-Str,3;15:40:00;5;W

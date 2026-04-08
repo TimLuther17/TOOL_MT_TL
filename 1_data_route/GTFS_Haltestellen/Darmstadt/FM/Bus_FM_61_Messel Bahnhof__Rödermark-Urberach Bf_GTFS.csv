@@ -1,0 +1,8 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Messel Bahnhof;49.921913;8.745762;07:36:00;07:36:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Messel Sudetenstraße;49.931484;8.743539;07:38:00;07:38:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Messel Rathaus;49.9368;8.744166;07:40:00;07:40:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Messel Am Mörsbach;49.940536;8.744077;07:42:00;07:42:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Rödermark Urberach, Bienengarten Mast 02;49.964706;8.78979;07:48:00;07:48:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Urberach Darmstädter Straße;49.9666;8.792931;07:49:00;07:49:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Rödermark-Urberach Bf;49.975292;8.797746;07:52:00;07:52:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6

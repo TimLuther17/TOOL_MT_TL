@@ -1,0 +1,203 @@
+﻿Typ;Name;Latitude;Longitude;Tempolimit;Details
+Haltestelle;Gablonzer Straße;50.084762;8.6719994;;Bus Stop
+Haltestelle;Stresemannallee/Mörfelder Landstraße;50.0897699;8.6720642;;Bus Stop
+Haltestelle;Beuthener Straße;50.0915207;8.6748096;;Bus Stop
+Haltestelle;Breslauer Straße;50.0927892;8.6771138;;Bus Stop
+Haltestelle;Stresemannallee/Mörfelder Landstraße;50.0897039;8.6720868;;Bus Stop
+Haltestelle;Lerchesberg;50.0831591;8.6809099;;Bus Stop
+Haltestelle;Gablonzer Straße;50.0847817;8.6720323;;Bus Stop
+Haltestelle;Karlsbader Straße;50.0868203;8.6715233;;Bus Stop
+Haltestelle;Lerchesberg;50.0831904;8.6809289;;Bus Stop
+Haltestelle;Lerchesbergring;50.0832675;8.6793631;;Bus Stop
+Haltestelle;Lerchesbergring;50.0832354;8.6793346;;Bus Stop
+Haltestelle;Gablonzer Straße;50.0846764;8.6725883;;Bus Stop
+Haltestelle;Karlsbader Straße;50.0868294;8.6714494;;Bus Stop
+Haltestelle;Lerchesbergring;50.0833365;8.6786906;;Bus Stop
+Haltestelle;Beuthener Straße;50.0914837;8.6748404;;Bus Stop
+Haltestelle;Breslauer Straße;50.0927462;8.6771206;;Bus Stop
+Ampel;Ampel;50.090105;8.6722983;;Traffic Signal
+Routenpunkt (Way);Stresemannallee;50.0877676;8.6716807;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.08785095;8.67169415;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0879343;8.6717076;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0880054;8.671718049999999;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0880765;8.6717285;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.08818985;8.67173825;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0883032;8.671748;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.088412399999996;8.671756266666666;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0885216;8.671764533333333;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0886308;8.6717728;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.088734349999996;8.67176905;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0888379;8.6717653;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.08894145;8.67176155;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.089045;8.6717578;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.089155133333335;8.671747633333334;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.089265266666665;8.671737466666666;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0893754;8.6717273;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0894676;8.6717224;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0894889;8.6717229;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0895064;8.6717247;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0895227;8.6717266;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0852898;8.6710445;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0854037;8.671061925;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0855176;8.67107935;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0856315;8.671096775;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0857454;8.6711142;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0858697;8.671155783333333;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.085994;8.671197366666666;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.086118299999995;8.67123895;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0862426;8.671280533333334;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0863669;8.671322116666667;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0864912;8.6713637;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0865948;8.6713899;50;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.0846401;8.6728014;30;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.084658250000004;8.67269485;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.0846764;8.6725883;30;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.0847025;8.6724351;30;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.08472233333333;8.672289866666667;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.084742166666665;8.672144633333334;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.084762;8.6719994;30;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.08478673333333;8.6717966;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.084811466666665;8.6715938;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.0848362;8.671391;30;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.0848465;8.67126955;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.0848568;8.6711481;30;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.0848775;8.6710763;30;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.0849117;8.6710338;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.0834649;8.6776931;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.0835084;8.6775576;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0835519;8.677422100000001;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0835954;8.6772866;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.0835954;8.6772866;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.08364313333333;8.677127083333334;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.083690866666664;8.676967566666667;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.083738600000004;8.67680805;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.083786333333336;8.676648533333333;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.08383406666667;8.676489016666666;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0838818;8.6763295;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.0839237;8.6761609;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0839656;8.6759923;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0840075;8.6758237;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.084032;8.6757106;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.08407172727273;8.675522745454545;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.08411145454546;8.675334890909092;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.08415118181818;8.675147036363636;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.08419090909091;8.674959181818181;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.084230636363635;8.674771327272728;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.084270363636364;8.674583472727273;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.08431009090909;8.67439561818182;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.08434981818182;8.674207763636364;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.08438954545454;8.674019909090909;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.08442927272727;8.673832054545455;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.084469;8.6736442;30;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0895864;8.671804;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0896158;8.6718494;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0896907;8.6719524;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0897699;8.6720642;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0898052;8.672112;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0898373;8.6721509;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0898643;8.6721805;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0898865;8.6722015;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0899034;8.6722152;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.089921;8.6722254;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0899453;8.6722365;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.089981;8.6722462;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0899995;8.672251;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0899995;8.672251;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0900668;8.6722773;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0900897;8.672289;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.090105;8.6722983;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0901175;8.6723069;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0901287;8.6723162;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0901454;8.672333;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0901605;8.6723495;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0902534;8.6724696;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.090340062500005;8.6726303;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.090426725;8.672791;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0905133875;8.6729517;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.090600050000006;8.6731124;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0906867125;8.6732731;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.090773375000005;8.6734338;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0908600375;8.6735945;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0909467;8.6737552;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.09103;8.673908016666667;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0911133;8.674060833333334;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0911966;8.67421365;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0912799;8.674366466666667;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0913632;8.674519283333334;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0914465;8.6746721;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0915207;8.6748096;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.091605599999994;8.674963824999999;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0916905;8.67511805;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0917754;8.675272275000001;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0918603;8.6754265;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.09194474545455;8.675579890909091;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.09202919090909;8.675733281818182;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.092113636363635;8.675886672727273;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.09219808181818;8.676040063636364;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.09228252727273;8.676193454545455;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.09236697272727;8.676346845454546;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.09245141818182;8.676500236363637;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.092535863636364;8.676653627272728;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.09262030909091;8.676807018181819;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.09270475454545;8.67696040909091;50;Interpoliert
+Routenpunkt (Way);Mörfelder Landstraße;50.0927892;8.6771138;50;Original OSM
+Routenpunkt (Way);Bertha-von-Suttner-Ring;50.0831724;8.6805737;50;Original OSM
+Routenpunkt (Way);Bertha-von-Suttner-Ring;50.083061;8.680468366666666;50;Interpoliert
+Routenpunkt (Way);Bertha-von-Suttner-Ring;50.0829496;8.680363033333334;50;Interpoliert
+Routenpunkt (Way);Bertha-von-Suttner-Ring;50.0828382;8.6802577;50;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.084469;8.6736442;30;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.084501833333334;8.673508766666666;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.08453466666666;8.673373333333334;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.0845675;8.6732379;30;Original OSM
+Routenpunkt (Way);Gablonzer Straße;50.0845917;8.6730924;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.0846159;8.672946900000001;30;Interpoliert
+Routenpunkt (Way);Gablonzer Straße;50.0846401;8.6728014;30;Original OSM
+Routenpunkt (Way);Unbekannt;50.0831591;8.6809099;;Original OSM
+Routenpunkt (Way);Unbekannt;50.0831821;8.6808323;;Original OSM
+Routenpunkt (Way);Unbekannt;50.0831907;8.6807546;;Original OSM
+Routenpunkt (Way);Unbekannt;50.0831724;8.6805737;;Original OSM
+Routenpunkt (Way);Bischofsweg;50.0828382;8.6802577;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.0828918;8.680149400000001;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0829454;8.6800411;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.08300705;8.67991525;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0830687;8.6797894;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.083110649999995;8.67968675;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0831526;8.6795841;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.083194;8.67945935;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0832354;8.6793346;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.08326635;8.679155900000001;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0832973;8.6789772;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.0833169;8.6788339;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0833365;8.6786906;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.0833537;8.6785638;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.083369600000005;8.678367266666665;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0833855;8.678170733333333;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0834014;8.6779742;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.083424;8.677874249999999;30;Interpoliert
+Routenpunkt (Way);Bischofsweg;50.0834466;8.6777743;30;Original OSM
+Routenpunkt (Way);Bischofsweg;50.0834649;8.6776931;30;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0876014;8.671645;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.087684499999995;8.67166285;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0877676;8.6716807;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0849117;8.6710338;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0849651;8.6710126;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.085029;8.6710158;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0851432;8.6710291;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0852211;8.6710373;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0852211;8.6710373;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0852898;8.6710445;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0865948;8.6713899;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.0867121;8.67141965;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0868294;8.6714494;50;Original OSM
+Routenpunkt (Way);Stresemannallee;50.08695806666667;8.671482000000001;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.08708673333333;8.6715146;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0872154;8.6715472;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.08734406666667;8.6715798;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.08747273333333;8.6716124;50;Interpoliert
+Routenpunkt (Way);Stresemannallee;50.0876014;8.671645;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0895227;8.6717266;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0895334;8.671739;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.089548;8.6717549;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.089559;8.6717672;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0895671;8.6717771;50;Original OSM
+Routenpunkt (Way);Mörfelder Landstraße;50.0895864;8.671804;50;Original OSM

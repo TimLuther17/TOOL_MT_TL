@@ -1,0 +1,31 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Lindenhof, Pfalzplatz;49.464664;8.469838;05:51:00;05:51:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Neckarau, Markuskirche;49.46485;8.475317;05:53:00;05:53:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Neckarau, August-Bebel-Straße;49.466713;8.480339;05:54:00;05:54:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Mannheim, Hochschule;49.469894;8.484013;05:55:00;05:55:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Mannheim, Möhlstraße;49.47467;8.487067;05:57:00;05:57:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Mannheim, Mühldorferstraße;49.47713;8.488082;05:58:00;05:58:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Mannheim, Kunstverein;49.479584;8.487543;06:00:00;06:00:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Mannheim, Otto-Beck-Straße;49.48082;8.484309;06:01:00;06:01:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Mannheim, Am Friedrichsplatz;49.482803;8.479423;06:02:00;06:02:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Mannheim, Wasserturm;49.48499;8.474805;06:04:00;06:04:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Mannheim, Kunsthalle;49.482494;8.472479;06:05:00;06:05:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10
+Haltestelle;Mannheim, Hauptbahnhof;49.480343;8.47052;06:07:00;06:07:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 11
+Haltestelle;Mannheim, Universität;49.482918;8.465571;06:09:00;06:09:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 12
+Haltestelle;Mannheim, Schloss;49.48468;8.462498;06:12:00;06:12:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 13
+Haltestelle;Mannheim, Universität West;49.48695;8.45736;06:13:00;06:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 14
+Haltestelle;Mannheim, Akademiestraße;49.492504;8.456812;06:16:00;06:16:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 15
+Haltestelle;Mannheim, Teufelsbrücke;49.494022;8.457099;06:17:00;06:17:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 16
+Haltestelle;Mannheim, Popakademie;49.49704;8.457647;06:18:00;06:18:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 17
+Haltestelle;Mannheim, Am Salzkai;49.496426;8.460827;06:19:00;06:19:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 18
+Haltestelle;Neckarstadt West;49.503864;8.46063;06:22:00;06:22:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 19
+Haltestelle;Mannheim, Zeppelinstraße;49.505676;8.464349;06:24:00;06:24:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 20
+Haltestelle;Mannheim, Neuer Meßplatz;49.505356;8.470008;06:26:00;06:26:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 21
+Haltestelle;Mannheim, Herzogenriedbad;49.503956;8.476638;06:28:00;06:28:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 22
+Haltestelle;Mannheim, Max-Joseph-Straße;49.49964;8.476243;06:30:00;06:30:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 23
+Haltestelle;Mannheim, Ida-Scipio-Heim;49.499084;8.481507;06:31:00;06:31:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 24
+Haltestelle;Mannheim, Moselstraße;49.498775;8.483609;06:32:00;06:32:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 25
+Haltestelle;Mannheim, Bonifatiuskirche;49.49807;8.489295;06:34:00;06:34:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 26
+Haltestelle;Mannheim, Ludolf-Krehl-Straße;49.4972;8.492098;06:35:00;06:35:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 27
+Haltestelle;Mannheim, Eisenlohrplatz;49.500893;8.494065;06:37:00;06:37:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 28
+Haltestelle;Mannheim, Wohlgelegen EKZ;49.503693;8.499635;06:38:00;06:38:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 29

@@ -1,0 +1,181 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Stettbach Talstraße,1;07:17:00;1;W
+1;Jugenheim Brandhof,1;07:19:00;1;W
+1;Jugenheim Fischteiche,1;07:20:00;1;W
+1;Jugenheim Stettbacher Tal 36,1;07:21:00;1;W
+1;Balkhausen Schelleklingenweg,2;07:26:00;1;W
+1;Balkhausen Feuerwehr,2;07:27:00;1;W
+1;Balkhausen Bürgerhalle,1;07:28:00;1;W
+1;Balkhausen Feuerwehr,1;07:29:00;1;W
+1;Balkhausen Schelleklingenweg,1;07:30:00;1;W
+1;Jugenh. Balkhäuser Tal Anw. 36,1;07:32:00;1;W
+1;Jugenheim Kreiskrankenhaus,1;07:34:00;1;W
+1;Jugenheim Ludwigstraße,7;07:35:00;1;W
+1;Seeheim Schuldorf,1;07:36:00;1;W
+2;Seeheim Schuldorf,1;07:41:00;2;W
+2;Jugenheim Ludwigstraße,6;07:44:00;2;W
+2;Jugenheim Kreiskrankenhaus,2;07:45:00;2;W
+2;Balkhausen Schelleklingenweg,2;07:49:00;2;W
+2;Balkhausen Feuerwehr,2;07:50:00;2;W
+2;Balkhausen Bürgerhalle,1;07:51:00;2;W
+2;Balkhausen Feuerwehr,1;07:52:00;2;W
+2;Balkhausen Schelleklingenweg,1;07:53:00;2;W
+2;Jugenh. Balkhäuser Tal Anw. 36,1;07:55:00;2;W
+2;Jugenheim Stettbacher Tal 36,2;07:58:00;2;W
+2;Jugenheim Fischteiche,2;07:59:00;2;W
+2;Jugenheim Brandhof,2;08:00:00;2;W
+2;Stettbach Talstraße,2;08:02:00;2;W
+3;Stettbach Talstraße,1;08:17:00;1;W
+3;Jugenheim Brandhof,1;08:19:00;1;W
+3;Jugenheim Fischteiche,1;08:20:00;1;W
+3;Jugenheim Stettbacher Tal 36,1;08:21:00;1;W
+3;Balkhausen Schelleklingenweg,2;08:26:00;1;W
+3;Balkhausen Feuerwehr,2;08:27:00;1;W
+3;Balkhausen Bürgerhalle,1;08:28:00;1;W
+3;Balkhausen Feuerwehr,1;08:29:00;1;W
+3;Balkhausen Schelleklingenweg,1;08:30:00;1;W
+3;Jugenh. Balkhäuser Tal Anw. 36,1;08:32:00;1;W
+3;Jugenheim Kreiskrankenhaus,1;08:34:00;1;W
+3;Jugenheim Ludwigstraße,7;08:35:00;1;W
+3;Seeheim Schuldorf,1;08:36:00;1;W
+4;Seeheim Schuldorf,1;08:36:00;6;W
+4;Bickenbach Bahnhof,1;08:44:00;6;W
+5;Bickenbach Bahnhof,1;13:18:00;6;W
+5;Bickenbach August-Bebel-Straße,2;13:20:00;6;W
+5;Bickenbach Berliner Straße,2;13:21:00;6;W
+5;Bickenbach Hügelstraße,2;13:22:00;6;W
+5;Alsbach Beuneweg,3;13:23:00;6;W
+5;Alsbach Ortsmitte,1;13:24:00;6;W
+5;Alsbach Rathaus,2;13:25:00;6;W
+5;Alsbach Am Hinkelstein,3;13:27:00;6;W
+5;Alsbach In der Pfarrtanne,1;13:30:00;6;W
+5;Alsbach Hähnlein-Alsbach Bf,2;13:33:00;6;W
+5;Alsbach Brücke,2;13:34:00;6;W
+5;Alsbach Rheinstraße,2;13:35:00;6;W
+5;Hähnlein Waage,2;13:38:00;6;W
+5;Hähnlein Neue Schule,1;13:40:00;6;W
+6;Hähnlein Neue Schule,1;13:50:00;5;W
+6;Hähnlein Waage,1;13:52:00;5;W
+6;Alsbach Rheinstraße,1;13:55:00;5;W
+6;Alsbach Brücke,1;13:56:00;5;W
+6;Alsbach Hähnlein-Alsbach Bf,1;13:57:00;5;W
+6;Alsbach In der Pfarrtanne,1;14:00:00;5;W
+6;Alsbach Am Hinkelstein,4;14:04:00;5;W
+6;Alsbach Rathaus,1;14:06:00;5;W
+6;Alsbach Ortsmitte,2;14:07:00;5;W
+6;Alsbach Beuneweg,4;14:08:00;5;W
+6;Bickenbach Hügelstraße,1;14:09:00;5;W
+6;Bickenbach Berliner Straße,1;14:10:00;5;W
+6;Bickenbach August-Bebel-Straße,1;14:11:00;5;W
+6;Bickenbach Pfungstädter Straße,1;14:11:00;5;W
+6;Bickenbach Hartenauer Straße,1;14:12:00;5;W
+6;Bickenbach Bahnhof,1;14:14:00;5;W
+6;Ob.-Beerbach Ernsth. Str.,1;15:53:00;6;W
+7;Bickenbach Bahnhof,1;14:14:00;2;W
+7;Seeheim Schuldorf,1;14:21:00;2;W
+7;Jugenheim Ludwigstraße,6;14:44:00;2;W
+7;Jugenheim Kreiskrankenhaus,2;14:45:00;2;W
+7;Balkhausen Schelleklingenweg,2;14:49:00;2;W
+7;Balkhausen Feuerwehr,2;14:50:00;2;W
+7;Balkhausen Bürgerhalle,1;14:51:00;2;W
+7;Balkhausen Feuerwehr,1;14:52:00;2;W
+7;Balkhausen Schelleklingenweg,1;14:53:00;2;W
+7;Jugenh. Balkhäuser Tal Anw. 36,1;14:55:00;2;W
+7;Jugenheim Stettbacher Tal 36,2;14:58:00;2;W
+7;Jugenheim Fischteiche,2;14:59:00;2;W
+7;Jugenheim Brandhof,2;15:00:00;2;W
+7;Stettbach Talstraße,2;15:02:00;2;W
+7;Stettbach Talstraße,2;15:02:00;3;W
+7;Eberstadt Wartehalle,3;15:22:00;3;W
+7;Eberstadt Wartehalle,3;15:35:00;4;W
+7;Eberstadt Heinrich-Delp-Straße,2;15:37:00;4;W
+7;Eberstadt Schwimmbad,2;15:38:00;4;W
+7;Eberstadt Kaisermühle,2;15:40:00;4;W
+7;Eberstadt Kühler Grund,2;15:41:00;4;W
+7;Eberstadt Kühler Grund,4;15:41:00;4;W
+7;Eberstadt Kinderheim,2;15:42:00;4;W
+7;Eberst. Frankenbergers Mühle,2;15:43:00;4;W
+7;Nd.-Beerbach Haus Burgwald,2;15:44:00;4;W
+7;Nieder-Beerbach Waldmühle,2;15:45:00;4;W
+7;Nieder-Beerbach Burgweg,2;15:45:00;4;W
+7;Nd.-Beerbach Am Wingertsberg,2;15:46:00;4;W
+7;Nieder-Beerbach Untergasse,2;15:47:00;4;W
+7;Nd.-Beerbach Quergasse,2;15:48:00;4;W
+7;Ober-Beerbach Eberstädter Str.,2;15:51:00;4;W
+7;Ob.-Beerbach Ernsth. Str.,1;15:53:00;4;W
+7;Hähnlein Neue Schule,1;16:50:00;5;W
+7;Hähnlein Waage,1;16:52:00;5;W
+7;Alsbach Rheinstraße,1;16:55:00;5;W
+7;Alsbach Brücke,1;16:56:00;5;W
+7;Alsbach Hähnlein-Alsbach Bf,1;16:57:00;5;W
+7;Alsbach In der Pfarrtanne,1;17:00:00;5;W
+7;Alsbach Am Hinkelstein,4;17:04:00;5;W
+7;Alsbach Rathaus,1;17:06:00;5;W
+7;Alsbach Ortsmitte,2;17:07:00;5;W
+7;Alsbach Beuneweg,4;17:08:00;5;W
+7;Bickenbach Hügelstraße,1;17:09:00;5;W
+7;Bickenbach Berliner Straße,1;17:10:00;5;W
+7;Bickenbach August-Bebel-Straße,1;17:11:00;5;W
+7;Bickenbach Pfungstädter Straße,1;17:11:00;5;W
+7;Bickenbach Hartenauer Straße,1;17:12:00;5;W
+7;Bickenbach Bahnhof,1;17:14:00;5;W
+8;Seeheim Schuldorf,1;14:41:00;2;W
+9;Bickenbach Bahnhof,1;16:08:00;6;W
+9;Bickenbach August-Bebel-Straße,2;16:16:00;6;W
+9;Bickenbach Berliner Straße,2;16:17:00;6;W
+9;Bickenbach Hügelstraße,2;16:18:00;6;W
+9;Alsbach Beuneweg,3;16:19:00;6;W
+9;Alsbach Ortsmitte,1;16:20:00;6;W
+9;Alsbach Rathaus,2;16:21:00;6;W
+9;Alsbach Am Hinkelstein,3;16:23:00;6;W
+9;Alsbach In der Pfarrtanne,1;16:26:00;6;W
+9;Alsbach Hähnlein-Alsbach Bf,2;16:29:00;6;W
+9;Alsbach Brücke,2;16:30:00;6;W
+9;Alsbach Rheinstraße,2;16:31:00;6;W
+9;Hähnlein Waage,2;16:34:00;6;W
+9;Hähnlein Neue Schule,1;16:36:00;6;W
+10;Bickenbach Bahnhof,1;16:14:00;6;W
+10;Bickenbach August-Bebel-Straße,2;17:16:00;6;W
+10;Bickenbach Berliner Straße,2;17:17:00;6;W
+10;Bickenbach Hügelstraße,2;17:18:00;6;W
+10;Alsbach Beuneweg,3;17:19:00;6;W
+10;Alsbach Ortsmitte,1;17:20:00;6;W
+10;Alsbach Rathaus,2;17:21:00;6;W
+10;Alsbach Am Hinkelstein,3;17:23:00;6;W
+10;Alsbach In der Pfarrtanne,1;17:26:00;6;W
+10;Alsbach Hähnlein-Alsbach Bf,2;17:29:00;6;W
+10;Alsbach Brücke,2;17:30:00;6;W
+10;Alsbach Rheinstraße,2;17:31:00;6;W
+10;Hähnlein Waage,2;17:34:00;6;W
+10;Hähnlein Neue Schule,1;17:36:00;6;W
+11;Bickenbach Bahnhof,1;17:14:00;6;W
+11;Bickenbach August-Bebel-Straße,2;18:16:00;6;W
+11;Bickenbach Berliner Straße,2;18:17:00;6;W
+11;Bickenbach Hügelstraße,2;18:18:00;6;W
+11;Alsbach Beuneweg,3;18:19:00;6;W
+11;Alsbach Ortsmitte,1;18:20:00;6;W
+11;Alsbach Rathaus,2;18:21:00;6;W
+11;Alsbach Am Hinkelstein,3;18:23:00;6;W
+11;Alsbach In der Pfarrtanne,1;18:26:00;6;W
+11;Alsbach Hähnlein-Alsbach Bf,2;18:29:00;6;W
+11;Alsbach Brücke,2;18:30:00;6;W
+11;Alsbach Rheinstraße,2;18:31:00;6;W
+11;Hähnlein Waage,2;18:34:00;6;W
+11;Hähnlein Neue Schule,1;18:36:00;6;W
+12;Hähnlein Neue Schule,1;17:50:00;5;W
+12;Hähnlein Waage,1;17:52:00;5;W
+12;Alsbach Rheinstraße,1;17:55:00;5;W
+12;Alsbach Brücke,1;17:56:00;5;W
+12;Alsbach Hähnlein-Alsbach Bf,1;17:57:00;5;W
+12;Alsbach In der Pfarrtanne,1;18:00:00;5;W
+12;Alsbach Am Hinkelstein,4;18:04:00;5;W
+12;Alsbach Rathaus,1;18:06:00;5;W
+12;Alsbach Ortsmitte,2;18:07:00;5;W
+12;Alsbach Beuneweg,4;18:08:00;5;W
+12;Bickenbach Hügelstraße,1;18:09:00;5;W
+12;Bickenbach Berliner Straße,1;18:10:00;5;W
+12;Bickenbach August-Bebel-Straße,1;18:11:00;5;W
+12;Bickenbach Pfungstädter Straße,1;18:11:00;5;W
+12;Bickenbach Hartenauer Straße,1;18:12:00;5;W
+12;Bickenbach Bahnhof,1;18:14:00;5;W
+13;Bickenbach Bahnhof,1;18:14:00;6;W

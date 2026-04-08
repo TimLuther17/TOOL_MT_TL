@@ -1,0 +1,129 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Routenpunkt (Way);T;Rüdesheimer Straße;49.85514286666666;8.637767866666666;50.0;;;;;;Interpoliert
+Haltestelle;W;Darmstadt Südbahnhof;49.85514286666666;8.637767866666666;50.0;09:13:00;09:13:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 19m) | Auf Route gesnappt (19m)
+Routenpunkt (Way);T;Haardtring;49.8548764;8.6372827;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Haardtring;49.854725349999995;8.63737145;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Haardtring;49.85458114;8.63745624;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.85447578;8.63751818;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.85437042;8.637580119999999;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.85426506;8.63764206;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.8541597;8.637704;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Haardtring;49.85405356666666;8.6377664;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.85394743333333;8.6378288;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.8538413;8.637891199999999;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.85373516666667;8.6379536;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.85362903333333;8.638016;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.8535229;8.6380784;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Haardtring;49.853411066666666;8.638144149999999;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.85329923333333;8.6382099;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.8531874;8.63827565;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.85307556666667;8.6383414;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.85296373333333;8.638407149999999;50.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Haardtring;49.852803800000004;8.63846568;50.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.85267;8.6383221;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.852602425;8.63818015;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85253485;8.6380382;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.852467275;8.637896249999999;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.852392949999995;8.637741349999999;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.85232345;8.6375666;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8522607;8.6374048;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.852199033333335;8.637245866666667;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85213736666667;8.637086933333332;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85202305;8.63671899;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.85194565;8.6363109;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8519167;8.6361209;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85188775;8.6359309;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.851854900000006;8.6357111;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.851821183333335;8.635484633333334;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85179136666667;8.635287966666667;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.851761550000006;8.6350913;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85173173333334;8.634894633333333;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85170191666667;8.634697966666668;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.851640092857146;8.634211821428572;30.0;;;;;;Original OSM
+Haltestelle;W;Darmstadt Am Kaiserschlag;49.8516325;8.6339345;;09:15:00;09:15:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 6m) | Auf Route gesnappt (6m)
+Routenpunkt (Way);T;Am Kaiserschlag;49.851589986363635;8.633709322727272;;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.85150755;8.6333445;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8514801;8.6331619;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.8514593;8.6330238;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8514385;8.6328857;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.851409875;8.632696025;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85138125;8.63250635;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.851352625;8.632316675;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.851301812500004;8.6319800625;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.8512658;8.631737;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.851237275;8.631547399999999;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85120875;8.6313578;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.851180225;8.631168200000001;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8511517;8.6309786;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.851122;8.6307811;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.851096775;8.63061345;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85107155;8.6304458;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.851046325;8.63027815;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8510211;8.6301105;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.8509932;8.629920033333335;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8509653;8.629729566666667;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8509374;8.6295391;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.8509144;8.62939105;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8508914;8.629243;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.850860925;8.629040700000001;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85083045;8.6288384;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.850799975;8.6286361;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.850761750000004;8.62838215;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.8507307;8.6281761;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.85069765;8.62795475;30.0;;;;;;Original OSM
+Haltestelle;W;Darmstadt Pulverhäuserweg;49.8506944;8.627933;30.0;09:16:00;09:16:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 15m) | Auf Route gesnappt (15m)
+Routenpunkt (Way);T;Pulverhäuserweg (Bussteig Richtung West);49.8507341;8.627898250000001;;;;;;;Original OSM
+Routenpunkt (Way);T;Pulverhäuserweg (Bussteig Richtung West);49.850710500000005;8.62775455;;;;;;;Interpoliert
+Routenpunkt (Way);T;Pulverhäuserweg (Bussteig Richtung West);49.85067848999999;8.627609575000001;;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.85061502;8.6274247;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85058568;8.6272401;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85055634;8.6270555;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.850527;8.6268709;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.85049595;8.62667555;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.850461499999994;8.626460999999999;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.8504311;8.62625866;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8504041;8.62607552;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8503771;8.62589238;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8503501;8.62570924;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8503231;8.6255261;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.85029316666667;8.6253347;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85026323333333;8.6251433;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8502333;8.6249519;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.85020465;8.624768549999999;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.85017345;8.624569600000001;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.8501434;8.624386300000001;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8501159;8.6242186;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.850085;8.624030000000001;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8500541;8.6238414;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.8500242;8.623663;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8499761;8.623413900000001;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.849924;8.6231911;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8498934;8.623052;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.84985946;8.62288058;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.84982552;8.62270916;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.84979158;8.62253774;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.84975764;8.62236632;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.8497237;8.6221949;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.84968852;8.62202576;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.84965334;8.621856619999999;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.84961816;8.62168748;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.84958298;8.62151834;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.84955133333333;8.621263566666668;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Hannah-Arendt-Weg;49.84952275;8.62104895;;;;;;;Original OSM
+Haltestelle;W;Darmstadt Hannah-Arendt-Weg;49.8495274;8.621047;;09:18:00;09:18:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m)
+Routenpunkt (Way);T;Hannah-Arendt-Weg;49.84950765;8.62103205;;;;;;;Original OSM
+Routenpunkt (Way);T;Heimstättenweg;49.849456325;8.62084035;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.84942475;8.6206636;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Heimstättenweg;49.849393175;8.620486849999999;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Anne-Frank-Straße;49.8493013;8.6203365;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Anne-Frank-Straße;49.84902576666667;8.620457133333334;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Anne-Frank-Straße;49.84884235;8.62053745;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Anne-Frank-Straße;49.8487376;8.6205833;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Anne-Frank-Straße;49.84864796666667;8.620622533333334;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Anne-Frank-Straße;49.84855833333333;8.620661766666666;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Anne-Frank-Straße;49.84845145;8.62070855;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Anne-Frank-Straße;49.8483412;8.6207568;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Anne-Frank-Straße;49.8482368;8.620802300000001;30.0;;;;;;Interpoliert
+Routenpunkt (Way);T;Anne-Frank-Straße;49.8481324;8.6208478;30.0;;;;;;Original OSM
+Routenpunkt (Way);T;Anne-Frank-Straße;49.8479885;8.62091135;30.0;;;;;;Original OSM
+Haltestelle;W;Darmstadt Anne-Frank-Straße;49.847974;8.6209177;30.0;09:19:00;09:19:00;Kein Umlauf;So;1372.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m)

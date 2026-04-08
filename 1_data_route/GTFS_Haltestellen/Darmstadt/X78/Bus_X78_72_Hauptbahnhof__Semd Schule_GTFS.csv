@@ -1,0 +1,21 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Hauptbahnhof;49.871353;8.632028;16:08:00;16:08:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Darmstadt Kirschenallee;49.87478;8.635658;16:11:00;16:11:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Darmstadt Kasinostraße;49.87497;8.642862;16:12:00;16:12:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Darmstadt Mathildenplatz;49.874947;8.64986;16:14:00;16:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Darmstadt Luisenplatz;49.87269;8.651549;16:17:00;16:17:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Darmstadt Schloss;49.873047;8.655609;16:20:00;16:20:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Darmstadt Jugendstilbad;49.872852;8.662104;16:22:00;16:22:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Darmstadt Elisabethenst./Woog;49.87336;8.666919;16:23:00;16:23:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Darmstadt Ostbahnhof;49.87458;8.671914;16:24:00;16:24:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Gundernhausen Aussiedlerhöfe;49.872707;8.801343;16:37:00;16:37:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Groß-Zimmern Reithalle;49.871223;8.812212;16:39:00;16:39:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10
+Haltestelle;Groß-Zimmern Johannes-Ohl-Str.;49.872696;8.81983;16:41:00;16:41:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 11
+Haltestelle;Groß-Zimmern Ponthierry-Platz;49.87211;8.828122;16:42:00;16:42:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 12
+Haltestelle;Groß-Zimmern Friedensschule;49.874084;8.830484;16:45:00;16:45:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 13
+Haltestelle;Groß-Zimmern Friedensschule;49.87412;8.830313;16:47:00;16:47:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 14
+Haltestelle;Groß-Zimmern Friedhof;49.87024;8.832865;16:49:00;16:49:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 15
+Haltestelle;Groß-Zimmern Gersprenzbrücke;49.87188;8.83635;16:50:00;16:50:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 16
+Haltestelle;Klein-Zimmern Markstraße;49.868927;8.847139;16:53:00;16:53:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 17
+Haltestelle;Semd Kirche;49.87409;8.886198;17:02:00;17:02:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 18
+Haltestelle;Semd Schule;49.876106;8.890563;17:03:00;17:03:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 19

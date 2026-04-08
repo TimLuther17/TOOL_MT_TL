@@ -1,0 +1,36 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Darmstadt Schloss,3;22:15:00;1;W
+1;Darmstadt Luisenplatz,3;22:17:00;1;W
+1;Darmstadt Pallaswiesenstraße,4;22:22:00;1;W
+1;Darmstadt Windmühle,2;22:25:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;22:28:00;1;W
+1;Riedbahn Robert-Bosch-Str./B42,1;22:31:00;1;W
+1;Wst. Sudetenstraße,1;22:33:00;1;W
+1;Weiterstadt Hallenbad,1;22:38:00;1;W
+1;Braunshardt Dornhecke,2;22:40:00;1;W
+1;Braunshardt Sportplatz,1;22:43:00;1;W
+1;Worfelden Neumühle,1;22:46:00;1;W
+1;Worfelden Siedlung Hesselrod,1;22:51:00;1;W
+1;Worfelden Siedlung Hesselrod,1;23:04:00;2;W
+1;Worfelden Neumühle,2;23:09:00;2;W
+1;Braunshardt Sportplatz,1;23:12:00;2;W
+1;Braunshardt Dornhecke,3;23:15:00;2;W
+1;Weiterstadt Hallenbad,1;23:18:00;2;W
+1;Wst. Sudetenstraße,2;23:24:00;2;W
+1;Riedbahn Robert-Bosch-Str./B42,2;23:26:00;2;W
+1;Darmstadt Pallaswiesenstraße,3;23:36:00;2;W
+1;Darmstadt Luisenplatz,2;23:40:00;2;W
+1;Darmstadt Schloss,4;23:42:00;2;W
+1;Darmstadt Schloss,3;23:45:00;3;W
+1;Darmstadt Luisenplatz,3;23:47:00;3;W
+1;Darmstadt Pallaswiesenstraße,4;23:52:00;3;W
+1;Darmstadt Windmühle,2;23:55:00;3;W
+1;Darmstadt Otto-Röhm-Straße,2;23:58:00;3;W
+1;Riedbahn Robert-Bosch-Str./B42,1;00:01:00;3;W
+1;Wst. Sudetenstraße,1;00:03:00;3;W
+1;Weiterstadt Hallenbad,1;00:08:00;3;W
+1;Braunshardt Dornhecke,1;00:10:00;3;W
+1;Schnepphausen Schulstraße,1;00:12:00;3;W
+1;Schneppenhausen Feuerwehr,1;00:13:00;3;W
+1;Gräfenh. Schneppenhäuser Str.,2;00:15:00;3;W
+1;Gräfenhausen Postplatz,1;00:17:00;3;W

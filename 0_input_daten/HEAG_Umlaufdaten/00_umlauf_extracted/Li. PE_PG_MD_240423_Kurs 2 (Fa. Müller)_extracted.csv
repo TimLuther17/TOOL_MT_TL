@@ -1,0 +1,508 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Eberstadt Wartehalle,4;04:42:00;1;W
+1;Eberstadt Modaubrücke,3;04:43:00;1;W
+1;Eberstadt Alte Post,1;04:44:00;1;W
+1;Eberstadt Walther-Rathenau-Str,1;04:45:00;1;W
+1;Eberstadt Bahnhof,2;04:46:00;1;W
+1;Pfungstadt Ostendstraße,2;04:48:00;1;W
+1;Pfungstadt Bahnübergang,1;04:50:00;1;W
+1;Pfungstadt Bahnhof,3;04:54:00;1;W
+1;Pfungstadt Friedhof,1;04:56:00;1;W
+1;Pfungstadt Waldstraße,2;04:57:00;1;W
+1;Pfungstadt Friedr-Ebert-Schule,2;04:58:00;1;W
+1;Pfungstadt Europakreisel,2;04:59:00;1;W
+1;Hahn Eicher Straße,1;05:04:00;1;W
+1;Hahn Rathaus,1;05:05:00;1;W
+1;Hahn Hirtenstraße,2;05:06:00;1;W
+1;Eich,2;05:10:00;1;W
+1;Escholl. Pfungstädter Str.,2;05:11:00;1;W
+1;Eschollbrücken Römer,1;05:12:00;1;W
+2;Eschollbrücken Crumstädter Str,2;05:13:00;1;W
+2;Eschollbr. In der Gänsweide,2;05:14:00;1;W
+2;Pfungstadt Pfungstädter Kreuz,1;05:19:00;1;W
+2;Pfungstadt Pfungstädter Kreuz,1;05:33:00;2;W
+2;Eschollbr. In der Gänsweide,1;05:35:00;2;W
+2;Eschollbrücken Crumstädter Str,1;05:36:00;2;W
+2;Eschollbrücken Römer,2;05:37:00;2;W
+2;Escholl. Pfungstädter Str.,1;05:38:00;2;W
+2;Eich,1;05:39:00;2;W
+2;Hahn Hirtenstraße,1;05:43:00;2;W
+2;Hahn Rathaus,2;05:44:00;2;W
+2;Hahn Eicher Straße,2;05:45:00;2;W
+2;Pfungstadt Europakreisel,1;05:50:00;2;W
+2;Pfungstadt Friedr-Ebert-Schule,1;05:51:00;2;W
+2;Pfungstadt Waldstraße,1;05:52:00;2;W
+2;Pfungstadt Friedhof,2;05:53:00;2;W
+2;Pfungstadt Bahnhof,2;06:01:00;2;W
+2;Pfungstadt Ostendstraße,1;06:03:00;2;W
+2;Eberstadt Bahnhof,1;06:05:00;2;W
+2;Eberstadt Walther-Rathenau-Str,2;06:07:00;2;W
+2;Eberstadt Thüringerstraße,1;06:08:00;2;W
+2;Eberstadt Wartehalle,4;06:10:00;2;W
+2;Eberstadt Wartehalle,4;06:12:00;3;W
+2;Eberstadt Modaubrücke,3;06:13:00;3;W
+2;Eberstadt Alte Post,1;06:14:00;3;W
+2;Eberstadt Walther-Rathenau-Str,1;06:15:00;3;W
+2;Eberstadt Bahnhof,2;06:16:00;3;W
+2;Pfungstadt Ostendstraße,2;06:18:00;3;W
+2;Pfungstadt Bahnübergang,1;06:20:00;3;W
+2;Pfungstadt Bahnhof,3;06:24:00;3;W
+2;Pfungstadt Eberstädter Straße,1;06:25:00;3;W
+2;Pfungstadt Zieglerstraße,1;06:26:00;3;W
+2;Pfungstadt Mainstraße,2;06:28:00;3;W
+2;Pfungstadt Neumühle,2;06:30:00;3;W
+2;Hahn Rathaus,1;06:33:00;3;W
+2;Hahn Hirtenstraße,2;06:34:00;3;W
+2;Crumstadt Bruchackerhof,2;06:37:00;3;W
+2;Biebesheim Bahnhof Ostseite,1;06:42:00;3;W
+2;Gernsheim Robert-Bunsen-Str.,2;06:47:00;3;W
+2;Gernsheim Otto-Hahn-Straße,2;06:48:00;3;W
+2;Gernsheim J.-Gutenberg-Schule,2;06:49:00;3;W
+2;Gernsheim Magdeburger Straße,2;06:50:00;3;W
+2;Gernsheim Freih.-v.-Stein-Str.,1;06:51:00;3;W
+2;Gernsheim Stadthalle,2;06:52:00;3;W
+2;Gernsheim Georg-Schäfer-Platz,1;06:53:00;3;W
+2;Gernsheim Bahnhof,2;06:55:00;3;W
+2;Gernsheim Bahnhof,2;06:56:00;4;W
+2;Gernsheim Georg-Schäfer-Platz,2;06:58:00;4;W
+2;Gernsheim Stadthalle,1;06:59:00;4;W
+2;Gernsheim Freih.-v.-Stein-Str.,2;07:00:00;4;W
+2;Gernsheim Magdeburger Straße,1;07:01:00;4;W
+2;Gernsheim J.-Gutenberg-Schule,1;07:02:00;4;W
+2;Gernsheim Otto-Hahn-Straße,1;07:03:00;4;W
+2;Gernsheim Robert-Bunsen-Str.,1;07:04:00;4;W
+2;Biebesheim Bahnhof Ostseite,1;07:10:00;4;W
+2;Crumstadt Bruchackerhof,1;07:15:00;4;W
+2;Hahn Hirtenstraße,1;07:18:00;4;W
+2;Hahn Rathaus,2;07:19:00;4;W
+2;Pfungstadt Neumühle,1;07:22:00;4;W
+2;Pfungstadt Mainstraße,1;07:24:00;4;W
+2;Pfungstadt Lindenstraße,1;07:25:00;4;W
+2;Pfungstadt Friedr-Ebert-Schule,1;07:26:00;4;W
+2;Pfungstadt Ringstraße,1;07:27:00;4;W
+2;Pfungstadt Zieglerstraße,2;07:29:00;4;W
+2;Pfungstadt Eberstädter Straße,2;07:30:00;4;W
+2;Pfungstadt Bahnhof,2;07:31:00;4;W
+2;Pfungstadt Ostendstraße,1;07:33:00;4;W
+2;Eberstadt Bahnhof,1;07:35:00;4;W
+2;Eberstadt Walther-Rathenau-Str,2;07:37:00;4;W
+2;Eberstadt Thüringerstraße,1;07:38:00;4;W
+2;Eberstadt Wartehalle,4;07:40:00;4;W
+2;Eberstadt Wartehalle,4;07:42:00;1;W
+2;Eberstadt Modaubrücke,3;07:43:00;1;W
+2;Eberstadt Alte Post,1;07:44:00;1;W
+2;Eberstadt Walther-Rathenau-Str,1;07:45:00;1;W
+2;Eberstadt Bahnhof,2;07:46:00;1;W
+2;Pfungstadt Ostendstraße,2;07:48:00;1;W
+2;Pfungstadt Bahnübergang,1;07:50:00;1;W
+2;Pfungstadt Bahnhof,3;07:54:00;1;W
+2;Pfungstadt Friedhof,1;07:56:00;1;W
+2;Pfungstadt Waldstraße,2;07:57:00;1;W
+2;Pfungstadt Friedr-Ebert-Schule,2;07:58:00;1;W
+2;Pfungstadt Europakreisel,2;07:59:00;1;W
+2;Hahn Eicher Straße,1;08:04:00;1;W
+2;Hahn Rathaus,1;08:05:00;1;W
+2;Hahn Hirtenstraße,2;08:06:00;1;W
+2;Eich,2;08:10:00;1;W
+2;Escholl. Pfungstädter Str.,2;08:11:00;1;W
+2;Eschollbrücken Römer,1;08:12:00;1;W
+3;Eschollbrücken Crumstädter Str,2;08:13:00;1;W
+3;Eschollbr. In der Gänsweide,2;08:14:00;1;W
+3;Pfungstadt Pfungstädter Kreuz,1;08:19:00;1;W
+3;Pfungstadt Pfungstädter Kreuz,1;08:20:00;2;W
+3;Eschollbr. In der Gänsweide,1;08:22:00;2;W
+3;Eschollbrücken Crumstädter Str,1;08:23:00;2;W
+3;Eschollbrücken Römer,2;08:24:00;2;W
+3;Escholl. Pfungstädter Str.,1;08:25:00;2;W
+3;Eich,1;08:26:00;2;W
+3;Hahn Hirtenstraße,1;08:30:00;2;W
+3;Hahn Rathaus,2;08:31:00;2;W
+3;Hahn Eicher Straße,2;08:32:00;2;W
+3;Pfungstadt Europakreisel,1;08:37:00;2;W
+3;Pfungstadt Friedr-Ebert-Schule,1;08:38:00;2;W
+3;Pfungstadt Waldstraße,1;08:39:00;2;W
+3;Pfungstadt Friedhof,2;08:40:00;2;W
+3;Pfungstadt Bahnhof,2;09:01:00;2;W
+3;Pfungstadt Ostendstraße,1;09:03:00;2;W
+3;Eberstadt Bahnhof,1;09:05:00;2;W
+3;Eberstadt Walther-Rathenau-Str,2;09:07:00;2;W
+3;Eberstadt Thüringerstraße,1;09:08:00;2;W
+3;Eberstadt Wartehalle,4;09:10:00;2;W
+3;Eberstadt Wartehalle,4;09:12:00;3;W
+3;Eberstadt Modaubrücke,3;09:13:00;3;W
+3;Eberstadt Alte Post,1;09:14:00;3;W
+3;Eberstadt Walther-Rathenau-Str,1;09:15:00;3;W
+3;Eberstadt Bahnhof,2;09:16:00;3;W
+3;Pfungstadt Ostendstraße,2;09:18:00;3;W
+3;Pfungstadt Bahnübergang,1;09:20:00;3;W
+3;Pfungstadt Bahnhof,3;09:24:00;3;W
+3;Pfungstadt Eberstädter Straße,1;09:25:00;3;W
+3;Pfungstadt Zieglerstraße,1;09:26:00;3;W
+3;Pfungstadt Mainstraße,2;09:28:00;3;W
+3;Pfungstadt Neumühle,2;09:30:00;3;W
+3;Hahn Rathaus,1;09:33:00;3;W
+3;Hahn Hirtenstraße,2;09:34:00;3;W
+3;Crumstadt Bruchackerhof,2;09:37:00;3;W
+3;Biebesheim Bahnhof Ostseite,1;09:42:00;3;W
+3;Gernsheim Robert-Bunsen-Str.,2;09:47:00;3;W
+3;Gernsheim Otto-Hahn-Straße,2;09:48:00;3;W
+3;Gernsheim J.-Gutenberg-Schule,2;09:49:00;3;W
+3;Gernsheim Magdeburger Straße,2;09:50:00;3;W
+3;Gernsheim Freih.-v.-Stein-Str.,1;09:51:00;3;W
+3;Gernsheim Stadthalle,2;09:52:00;3;W
+3;Gernsheim Georg-Schäfer-Platz,1;09:53:00;3;W
+3;Gernsheim Bahnhof,2;09:55:00;3;W
+3;Gernsheim Bahnhof,2;10:00:00;4;W
+3;Gernsheim Georg-Schäfer-Platz,2;10:02:00;4;W
+3;Gernsheim Stadthalle,1;10:03:00;4;W
+3;Gernsheim Freih.-v.-Stein-Str.,2;10:04:00;4;W
+3;Gernsheim Magdeburger Straße,1;10:05:00;4;W
+3;Gernsheim J.-Gutenberg-Schule,1;10:06:00;4;W
+3;Gernsheim Otto-Hahn-Straße,1;10:07:00;4;W
+3;Gernsheim Robert-Bunsen-Str.,1;10:08:00;4;W
+3;Biebesheim Bahnhof Ostseite,1;10:14:00;4;W
+3;Crumstadt Bruchackerhof,1;10:19:00;4;W
+3;Hahn Hirtenstraße,1;10:22:00;4;W
+3;Hahn Rathaus,2;10:23:00;4;W
+3;Pfungstadt Neumühle,1;10:26:00;4;W
+3;Pfungstadt Mainstraße,1;10:28:00;4;W
+4;Pfungstadt Zieglerstraße,2;10:29:00;4;W
+4;Pfungstadt Eberstädter Straße,2;10:30:00;4;W
+4;Pfungstadt Bahnhof,2;10:31:00;4;W
+4;Pfungstadt Ostendstraße,1;10:33:00;4;W
+4;Eberstadt Bahnhof,1;10:35:00;4;W
+4;Eberstadt Walther-Rathenau-Str,2;10:37:00;4;W
+4;Eberstadt Thüringerstraße,1;10:38:00;4;W
+4;Eberstadt Wartehalle,4;10:40:00;4;W
+4;Eberstadt Wartehalle,4;10:42:00;1;W
+4;Eberstadt Modaubrücke,3;10:43:00;1;W
+4;Eberstadt Alte Post,1;10:44:00;1;W
+4;Eberstadt Walther-Rathenau-Str,1;10:45:00;1;W
+4;Eberstadt Bahnhof,2;10:46:00;1;W
+4;Pfungstadt Ostendstraße,2;10:48:00;1;W
+4;Pfungstadt Bahnübergang,1;10:50:00;1;W
+4;Pfungstadt Bahnhof,3;10:54:00;1;W
+4;Pfungstadt Friedhof,1;10:56:00;1;W
+4;Pfungstadt Waldstraße,2;10:57:00;1;W
+4;Pfungstadt Friedr-Ebert-Schule,2;10:58:00;1;W
+4;Pfungstadt Europakreisel,2;10:59:00;1;W
+4;Hahn Eicher Straße,1;11:04:00;1;W
+4;Hahn Rathaus,1;11:05:00;1;W
+4;Hahn Hirtenstraße,2;11:06:00;1;W
+4;Eich,2;11:10:00;1;W
+4;Escholl. Pfungstädter Str.,2;11:11:00;1;W
+4;Eschollbrücken Römer,1;11:12:00;1;W
+5;Eschollbrücken Crumstädter Str,2;11:13:00;1;W
+5;Eschollbr. In der Gänsweide,2;11:14:00;1;W
+5;Pfungstadt Pfungstädter Kreuz,1;11:19:00;1;W
+5;Pfungstadt Pfungstädter Kreuz,1;11:33:00;2;W
+5;Eschollbr. In der Gänsweide,1;11:35:00;2;W
+5;Eschollbrücken Crumstädter Str,1;11:36:00;2;W
+5;Eschollbrücken Römer,2;11:37:00;2;W
+5;Escholl. Pfungstädter Str.,1;11:38:00;2;W
+5;Eich,1;11:39:00;2;W
+5;Hahn Hirtenstraße,1;11:43:00;2;W
+5;Hahn Rathaus,2;11:44:00;2;W
+5;Hahn Eicher Straße,2;11:45:00;2;W
+5;Pfungstadt Europakreisel,1;11:50:00;2;W
+5;Pfungstadt Friedr-Ebert-Schule,1;11:51:00;2;W
+5;Pfungstadt Waldstraße,1;11:52:00;2;W
+5;Pfungstadt Friedhof,2;11:53:00;2;W
+5;Pfungstadt Bahnhof,2;12:01:00;2;W
+5;Pfungstadt Ostendstraße,1;12:03:00;2;W
+5;Eberstadt Bahnhof,1;12:05:00;2;W
+5;Eberstadt Walther-Rathenau-Str,2;12:07:00;2;W
+5;Eberstadt Thüringerstraße,1;12:08:00;2;W
+5;Eberstadt Wartehalle,4;12:10:00;2;W
+5;Eberstadt Wartehalle,4;12:12:00;3;W
+5;Eberstadt Modaubrücke,3;12:13:00;3;W
+5;Eberstadt Alte Post,1;12:14:00;3;W
+5;Eberstadt Walther-Rathenau-Str,1;12:15:00;3;W
+5;Eberstadt Bahnhof,2;12:16:00;3;W
+5;Pfungstadt Ostendstraße,2;12:18:00;3;W
+5;Pfungstadt Bahnübergang,1;12:20:00;3;W
+5;Pfungstadt Bahnhof,3;12:24:00;3;W
+5;Pfungstadt Eberstädter Straße,1;12:25:00;3;W
+5;Pfungstadt Zieglerstraße,1;12:26:00;3;W
+5;Pfungstadt Mainstraße,2;12:28:00;3;W
+5;Pfungstadt Neumühle,2;12:30:00;3;W
+5;Hahn Rathaus,1;12:33:00;3;W
+5;Hahn Hirtenstraße,2;12:34:00;3;W
+5;Crumstadt Bruchackerhof,2;12:37:00;3;W
+5;Biebesheim Bahnhof Ostseite,1;12:42:00;3;W
+5;Gernsheim Robert-Bunsen-Str.,2;12:47:00;3;W
+5;Gernsheim Otto-Hahn-Straße,2;12:48:00;3;W
+5;Gernsheim J.-Gutenberg-Schule,2;12:49:00;3;W
+5;Gernsheim Magdeburger Straße,2;12:50:00;3;W
+5;Gernsheim Freih.-v.-Stein-Str.,1;12:51:00;3;W
+5;Gernsheim Stadthalle,2;12:52:00;3;W
+5;Gernsheim Georg-Schäfer-Platz,1;12:53:00;3;W
+5;Gernsheim Bahnhof,2;12:55:00;3;W
+5;Gernsheim Bahnhof,2;13:00:00;4;W
+5;Gernsheim Georg-Schäfer-Platz,2;13:02:00;4;W
+5;Gernsheim Stadthalle,1;13:03:00;4;W
+5;Gernsheim Freih.-v.-Stein-Str.,2;13:04:00;4;W
+5;Gernsheim Magdeburger Straße,1;13:05:00;4;W
+5;Gernsheim J.-Gutenberg-Schule,1;13:06:00;4;W
+5;Gernsheim Otto-Hahn-Straße,1;13:07:00;4;W
+5;Gernsheim Robert-Bunsen-Str.,1;13:08:00;4;W
+5;Biebesheim Bahnhof Ostseite,1;13:14:00;4;W
+5;Crumstadt Bruchackerhof,1;13:19:00;4;W
+5;Hahn Hirtenstraße,1;13:22:00;4;W
+5;Hahn Rathaus,2;13:23:00;4;W
+5;Pfungstadt Neumühle,1;13:26:00;4;W
+5;Pfungstadt Mainstraße,1;13:28:00;4;W
+6;Pfungstadt Zieglerstraße,2;13:29:00;4;W
+6;Pfungstadt Eberstädter Straße,2;13:30:00;4;W
+6;Pfungstadt Bahnhof,2;13:31:00;4;W
+6;Pfungstadt Ostendstraße,1;13:33:00;4;W
+6;Eberstadt Bahnhof,1;13:35:00;4;W
+6;Eberstadt Walther-Rathenau-Str,2;13:37:00;4;W
+6;Eberstadt Thüringerstraße,1;13:38:00;4;W
+6;Eberstadt Wartehalle,4;13:40:00;4;W
+6;Eberstadt Wartehalle,4;13:42:00;1;W
+6;Eberstadt Modaubrücke,3;13:43:00;1;W
+6;Eberstadt Alte Post,1;13:44:00;1;W
+6;Eberstadt Walther-Rathenau-Str,1;13:45:00;1;W
+6;Eberstadt Bahnhof,2;13:46:00;1;W
+6;Pfungstadt Ostendstraße,2;13:48:00;1;W
+6;Pfungstadt Bahnübergang,1;13:50:00;1;W
+6;Pfungstadt Bahnhof,3;13:54:00;1;W
+6;Pfungstadt Friedhof,1;13:56:00;1;W
+6;Pfungstadt Waldstraße,2;13:57:00;1;W
+6;Pfungstadt Friedr-Ebert-Schule,2;13:58:00;1;W
+6;Pfungstadt Europakreisel,2;13:59:00;1;W
+6;Hahn Eicher Straße,1;14:04:00;1;W
+6;Hahn Rathaus,1;14:05:00;1;W
+6;Hahn Hirtenstraße,2;14:06:00;1;W
+6;Eich,2;14:10:00;1;W
+6;Escholl. Pfungstädter Str.,2;14:11:00;1;W
+6;Eschollbrücken Römer,1;14:12:00;1;W
+7;Eschollbrücken Crumstädter Str,2;14:13:00;1;W
+7;Eschollbr. In der Gänsweide,2;14:14:00;1;W
+7;Pfungstadt Pfungstädter Kreuz,1;14:19:00;1;W
+7;Pfungstadt Pfungstädter Kreuz,1;14:33:00;2;W
+7;Eschollbr. In der Gänsweide,1;14:35:00;2;W
+7;Eschollbrücken Crumstädter Str,1;14:36:00;2;W
+7;Eschollbrücken Römer,2;14:37:00;2;W
+7;Escholl. Pfungstädter Str.,1;14:38:00;2;W
+7;Eich,1;14:39:00;2;W
+7;Hahn Hirtenstraße,1;14:43:00;2;W
+7;Hahn Rathaus,2;14:44:00;2;W
+7;Hahn Eicher Straße,2;14:45:00;2;W
+7;Pfungstadt Europakreisel,1;14:50:00;2;W
+7;Pfungstadt Friedr-Ebert-Schule,1;14:51:00;2;W
+7;Pfungstadt Waldstraße,1;14:52:00;2;W
+7;Pfungstadt Friedhof,2;14:53:00;2;W
+7;Pfungstadt Bahnhof,2;15:01:00;2;W
+7;Pfungstadt Ostendstraße,1;15:03:00;2;W
+7;Eberstadt Bahnhof,1;15:05:00;2;W
+7;Eberstadt Walther-Rathenau-Str,2;15:07:00;2;W
+7;Eberstadt Thüringerstraße,1;15:08:00;2;W
+7;Eberstadt Wartehalle,4;15:10:00;2;W
+7;Eberstadt Wartehalle,4;15:12:00;3;W
+7;Eberstadt Modaubrücke,3;15:13:00;3;W
+7;Eberstadt Alte Post,1;15:14:00;3;W
+7;Eberstadt Walther-Rathenau-Str,1;15:15:00;3;W
+7;Eberstadt Bahnhof,2;15:16:00;3;W
+7;Pfungstadt Ostendstraße,2;15:18:00;3;W
+7;Pfungstadt Bahnübergang,1;15:20:00;3;W
+7;Pfungstadt Bahnhof,3;15:24:00;3;W
+7;Pfungstadt Eberstädter Straße,1;15:25:00;3;W
+7;Pfungstadt Zieglerstraße,1;15:26:00;3;W
+7;Pfungstadt Mainstraße,2;15:28:00;3;W
+7;Pfungstadt Neumühle,2;15:30:00;3;W
+7;Hahn Rathaus,1;15:33:00;3;W
+7;Hahn Hirtenstraße,2;15:34:00;3;W
+7;Crumstadt Bruchackerhof,2;15:37:00;3;W
+7;Biebesheim Bahnhof Ostseite,1;15:42:00;3;W
+7;Gernsheim Robert-Bunsen-Str.,2;15:47:00;3;W
+7;Gernsheim Otto-Hahn-Straße,2;15:48:00;3;W
+7;Gernsheim J.-Gutenberg-Schule,2;15:49:00;3;W
+7;Gernsheim Magdeburger Straße,2;15:50:00;3;W
+7;Gernsheim Freih.-v.-Stein-Str.,1;15:51:00;3;W
+7;Gernsheim Stadthalle,2;15:52:00;3;W
+7;Gernsheim Georg-Schäfer-Platz,1;15:53:00;3;W
+7;Gernsheim Bahnhof,2;15:55:00;3;W
+7;Gernsheim Bahnhof,2;16:00:00;4;W
+7;Gernsheim Georg-Schäfer-Platz,2;16:02:00;4;W
+7;Gernsheim Stadthalle,1;16:03:00;4;W
+7;Gernsheim Freih.-v.-Stein-Str.,2;16:04:00;4;W
+7;Gernsheim Magdeburger Straße,1;16:05:00;4;W
+7;Gernsheim J.-Gutenberg-Schule,1;16:06:00;4;W
+7;Gernsheim Otto-Hahn-Straße,1;16:07:00;4;W
+7;Gernsheim Robert-Bunsen-Str.,1;16:08:00;4;W
+7;Biebesheim Bahnhof Ostseite,1;16:14:00;4;W
+7;Crumstadt Bruchackerhof,1;16:19:00;4;W
+7;Hahn Hirtenstraße,1;16:22:00;4;W
+7;Hahn Rathaus,2;16:23:00;4;W
+7;Pfungstadt Neumühle,1;16:26:00;4;W
+7;Pfungstadt Mainstraße,1;16:28:00;4;W
+8;Pfungstadt Zieglerstraße,2;16:29:00;4;W
+8;Pfungstadt Eberstädter Straße,2;16:30:00;4;W
+8;Pfungstadt Bahnhof,2;16:31:00;4;W
+8;Pfungstadt Ostendstraße,1;16:33:00;4;W
+8;Eberstadt Bahnhof,1;16:35:00;4;W
+8;Eberstadt Walther-Rathenau-Str,2;16:37:00;4;W
+8;Eberstadt Thüringerstraße,1;16:38:00;4;W
+8;Eberstadt Wartehalle,4;16:40:00;4;W
+8;Eberstadt Wartehalle,4;16:42:00;1;W
+8;Eberstadt Modaubrücke,3;16:43:00;1;W
+8;Eberstadt Alte Post,1;16:44:00;1;W
+8;Eberstadt Walther-Rathenau-Str,1;16:45:00;1;W
+8;Eberstadt Bahnhof,2;16:46:00;1;W
+8;Pfungstadt Ostendstraße,2;16:48:00;1;W
+8;Pfungstadt Bahnübergang,1;16:50:00;1;W
+8;Pfungstadt Bahnhof,3;16:54:00;1;W
+8;Pfungstadt Friedhof,1;16:56:00;1;W
+8;Pfungstadt Waldstraße,2;16:57:00;1;W
+8;Pfungstadt Friedr-Ebert-Schule,2;16:58:00;1;W
+8;Pfungstadt Europakreisel,2;16:59:00;1;W
+8;Hahn Eicher Straße,1;17:04:00;1;W
+8;Hahn Rathaus,1;17:05:00;1;W
+8;Hahn Hirtenstraße,2;17:06:00;1;W
+8;Eich,2;17:10:00;1;W
+8;Escholl. Pfungstädter Str.,2;17:11:00;1;W
+8;Eschollbrücken Römer,1;17:12:00;1;W
+9;Eschollbrücken Crumstädter Str,2;17:13:00;1;W
+9;Eschollbr. In der Gänsweide,2;17:14:00;1;W
+9;Pfungstadt Pfungstädter Kreuz,1;17:19:00;1;W
+9;Pfungstadt Pfungstädter Kreuz,1;17:33:00;2;W
+9;Eschollbr. In der Gänsweide,1;17:35:00;2;W
+9;Eschollbrücken Crumstädter Str,1;17:36:00;2;W
+9;Eschollbrücken Römer,2;17:37:00;2;W
+9;Escholl. Pfungstädter Str.,1;17:38:00;2;W
+9;Eich,1;17:39:00;2;W
+9;Hahn Hirtenstraße,1;17:43:00;2;W
+9;Hahn Rathaus,2;17:44:00;2;W
+9;Hahn Eicher Straße,2;17:45:00;2;W
+9;Pfungstadt Europakreisel,1;17:50:00;2;W
+9;Pfungstadt Friedr-Ebert-Schule,1;17:51:00;2;W
+9;Pfungstadt Waldstraße,1;17:52:00;2;W
+9;Pfungstadt Friedhof,2;17:53:00;2;W
+9;Pfungstadt Bahnhof,2;18:01:00;2;W
+9;Pfungstadt Ostendstraße,1;18:03:00;2;W
+9;Eberstadt Bahnhof,1;18:05:00;2;W
+9;Eberstadt Walther-Rathenau-Str,2;18:07:00;2;W
+9;Eberstadt Thüringerstraße,1;18:08:00;2;W
+9;Eberstadt Wartehalle,4;18:10:00;2;W
+9;Eberstadt Wartehalle,4;18:12:00;3;W
+9;Eberstadt Modaubrücke,3;18:13:00;3;W
+9;Eberstadt Alte Post,1;18:14:00;3;W
+9;Eberstadt Walther-Rathenau-Str,1;18:15:00;3;W
+9;Eberstadt Bahnhof,2;18:16:00;3;W
+9;Pfungstadt Ostendstraße,2;18:18:00;3;W
+9;Pfungstadt Bahnübergang,1;18:20:00;3;W
+9;Pfungstadt Bahnhof,3;18:24:00;3;W
+9;Pfungstadt Eberstädter Straße,1;18:25:00;3;W
+9;Pfungstadt Zieglerstraße,1;18:26:00;3;W
+9;Pfungstadt Mainstraße,2;18:28:00;3;W
+9;Pfungstadt Neumühle,2;18:30:00;3;W
+9;Hahn Rathaus,1;18:33:00;3;W
+9;Hahn Hirtenstraße,2;18:34:00;3;W
+9;Crumstadt Bruchackerhof,2;18:37:00;3;W
+9;Biebesheim Bahnhof Ostseite,1;18:42:00;3;W
+9;Gernsheim Robert-Bunsen-Str.,2;18:47:00;3;W
+9;Gernsheim Otto-Hahn-Straße,2;18:48:00;3;W
+9;Gernsheim J.-Gutenberg-Schule,2;18:49:00;3;W
+9;Gernsheim Magdeburger Straße,2;18:50:00;3;W
+9;Gernsheim Freih.-v.-Stein-Str.,1;18:51:00;3;W
+9;Gernsheim Stadthalle,2;18:52:00;3;W
+9;Gernsheim Georg-Schäfer-Platz,1;18:53:00;3;W
+9;Gernsheim Bahnhof,2;18:55:00;3;W
+9;Gernsheim Bahnhof,2;19:00:00;4;W
+9;Gernsheim Georg-Schäfer-Platz,2;19:02:00;4;W
+9;Gernsheim Stadthalle,1;19:03:00;4;W
+9;Gernsheim Freih.-v.-Stein-Str.,2;19:04:00;4;W
+9;Gernsheim Magdeburger Straße,1;19:05:00;4;W
+9;Gernsheim J.-Gutenberg-Schule,1;19:06:00;4;W
+9;Gernsheim Otto-Hahn-Straße,1;19:07:00;4;W
+9;Gernsheim Robert-Bunsen-Str.,1;19:08:00;4;W
+9;Biebesheim Bahnhof Ostseite,1;19:14:00;4;W
+9;Crumstadt Bruchackerhof,1;19:19:00;4;W
+9;Hahn Hirtenstraße,1;19:22:00;4;W
+9;Hahn Rathaus,2;19:23:00;4;W
+9;Pfungstadt Neumühle,1;19:26:00;4;W
+9;Pfungstadt Mainstraße,1;19:28:00;4;W
+10;Pfungstadt Zieglerstraße,2;19:29:00;4;W
+10;Pfungstadt Eberstädter Straße,2;19:30:00;4;W
+10;Pfungstadt Bahnhof,2;19:31:00;4;W
+10;Pfungstadt Ostendstraße,1;19:33:00;4;W
+10;Eberstadt Bahnhof,1;19:35:00;4;W
+10;Eberstadt Walther-Rathenau-Str,2;19:37:00;4;W
+10;Eberstadt Thüringerstraße,1;19:38:00;4;W
+10;Eberstadt Wartehalle,4;19:40:00;4;W
+10;Eberstadt Wartehalle,4;19:42:00;1;W
+10;Eberstadt Modaubrücke,3;19:43:00;1;W
+10;Eberstadt Alte Post,1;19:44:00;1;W
+10;Eberstadt Walther-Rathenau-Str,1;19:45:00;1;W
+10;Eberstadt Bahnhof,2;19:46:00;1;W
+10;Pfungstadt Ostendstraße,2;19:48:00;1;W
+10;Pfungstadt Bahnübergang,1;19:50:00;1;W
+10;Pfungstadt Bahnhof,3;19:54:00;1;W
+10;Pfungstadt Friedhof,1;19:56:00;1;W
+10;Pfungstadt Waldstraße,2;19:57:00;1;W
+10;Pfungstadt Friedr-Ebert-Schule,2;19:58:00;1;W
+10;Pfungstadt Europakreisel,2;19:59:00;1;W
+10;Hahn Eicher Straße,1;20:04:00;1;W
+10;Hahn Rathaus,1;20:05:00;1;W
+10;Hahn Hirtenstraße,2;20:06:00;1;W
+10;Eich,2;20:10:00;1;W
+10;Escholl. Pfungstädter Str.,2;20:11:00;1;W
+10;Eschollbrücken Römer,1;20:12:00;1;W
+10;Eschollbrücken Römer,2;21:35:00;1;W
+11;Eschollbrücken Crumstädter Str,2;20:13:00;1;W
+11;Eschollbr. In der Gänsweide,2;20:14:00;1;W
+11;Pfungstadt Pfungstädter Kreuz,1;20:19:00;1;W
+11;Pfungstadt Pfungstädter Kreuz,1;20:33:00;2;W
+11;Eschollbr. In der Gänsweide,1;20:35:00;2;W
+11;Eschollbrücken Crumstädter Str,1;20:36:00;2;W
+11;Eschollbrücken Römer,2;20:37:00;2;W
+11;Escholl. Pfungstädter Str.,1;20:38:00;2;W
+11;Eich,1;20:39:00;2;W
+11;Hahn Hirtenstraße,1;20:43:00;2;W
+11;Hahn Rathaus,2;20:44:00;2;W
+11;Hahn Eicher Straße,2;20:45:00;2;W
+11;Pfungstadt Europakreisel,1;20:50:00;2;W
+11;Pfungstadt Friedr-Ebert-Schule,1;20:51:00;2;W
+11;Pfungstadt Waldstraße,1;20:52:00;2;W
+11;Pfungstadt Friedhof,2;20:53:00;2;W
+11;Pfungstadt Bahnhof,2;21:01:00;2;W
+11;Pfungstadt Ostendstraße,1;21:03:00;2;W
+11;Eberstadt Bahnhof,1;21:05:00;2;W
+11;Eberstadt Walther-Rathenau-Str,2;21:07:00;2;W
+11;Eberstadt Thüringerstraße,1;21:08:00;2;W
+11;Eberstadt Wartehalle,4;21:10:00;2;W
+12;Eberstadt Wartehalle,4;21:10:00;1;W
+12;Eberstadt Modaubrücke,3;21:11:00;1;W
+12;Eberstadt Alte Post,1;21:12:00;1;W
+12;Eberstadt Walther-Rathenau-Str,1;21:13:00;1;W
+12;Eberstadt Bahnhof,2;21:14:00;1;W
+12;Pfungstadt Ostendstraße,2;21:16:00;1;W
+12;Pfungstadt Bahnübergang,1;21:18:00;1;W
+12;Pfungstadt Bahnhof,3;21:19:00;1;W
+12;Pfungstadt Friedhof,1;21:21:00;1;W
+12;Pfungstadt Waldstraße,2;21:22:00;1;W
+12;Pfungstadt Friedr-Ebert-Schule,2;21:23:00;1;W
+12;Pfungstadt Europakreisel,2;21:24:00;1;W
+12;Hahn Eicher Straße,1;21:28:00;1;W
+12;Hahn Rathaus,1;21:29:00;1;W
+12;Hahn Hirtenstraße,2;21:30:00;1;W
+12;Eich,2;21:33:00;1;W
+12;Escholl. Pfungstädter Str.,2;21:34:00;1;W
+13;Eschollbrücken Römer,2;21:40:00;2;W
+13;Escholl. Pfungstädter Str.,1;21:41:00;2;W
+13;Eich,1;21:42:00;2;W
+13;Hahn Hirtenstraße,1;21:45:00;2;W
+13;Hahn Rathaus,2;21:46:00;2;W
+13;Hahn Eicher Straße,2;21:47:00;2;W
+13;Pfungstadt Europakreisel,1;21:51:00;2;W
+13;Pfungstadt Friedr-Ebert-Schule,1;21:52:00;2;W
+13;Pfungstadt Waldstraße,1;21:53:00;2;W
+13;Pfungstadt Friedhof,2;21:54:00;2;W
+13;Pfungstadt Bahnhof,2;21:56:00;2;W
+13;Pfungstadt Ostendstraße,1;21:58:00;2;W
+13;Eberstadt Bahnhof,1;22:00:00;2;W
+13;Eberstadt Walther-Rathenau-Str,2;22:02:00;2;W
+13;Eberstadt Thüringerstraße,1;22:03:00;2;W
+13;Eberstadt Wartehalle,4;22:05:00;2;W

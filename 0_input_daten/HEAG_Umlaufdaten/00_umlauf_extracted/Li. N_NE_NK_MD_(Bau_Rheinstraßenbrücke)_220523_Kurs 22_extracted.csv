@@ -1,0 +1,27 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Frankenhausen Dr.-W.-Mertz-Str,3;08:03:00;1;W
+1;Frankenhausen Römerweg,2;08:05:00;1;W
+1;Waschenbach Sportplatz,1;08:10:00;1;W
+1;Nieder-Ramstadt Friedhof,2;08:13:00;1;W
+1;Nd-Ramstadt An der Bruchmühle,11;08:16:00;1;W
+1;Nd.-Ramstadt Schneckenmühle,1;08:17:00;1;W
+1;Trautheim Im Wiesengrund,2;08:21:00;1;W
+1;Trautheim Im Sandwingert,1;08:23:00;1;W
+1;Trautheim Mathildenweg,1;08:26:00;1;W
+1;Nd-Ramstadt Pfaffenbergschule,3;08:29:00;1;W
+1;Nd.-Ramstadt Großsporth.,1;08:31:00;1;W
+1;Nd.-Ramstadt KIGA Stiftstraße,1;08:33:00;1;W
+1;Nd.-Ramstadt KIGA Kirchstraße,1;08:38:00;1;W
+2;Nd-Ramstadt Pfaffenbergschule,3;12:00:00;2;W
+2;Nd.-Ramstadt Großsporth.,1;12:02:00;2;W
+2;Nd.-Ramstadt KIGA Stiftstraße,1;12:04:00;2;W
+2;Nd.-Ramstadt KIGA Kirchstraße,1;12:09:00;2;W
+2;Trautheim Im Wiesengrund,2;12:12:00;2;W
+2;Trautheim Im Sandwingert,1;12:14:00;2;W
+2;Trautheim Mathildenweg,1;12:17:00;2;W
+2;Nd.-Ramstadt Schneckenmühle,2;12:22:00;2;W
+2;Nd-Ramstadt An der Bruchmühle,1;12:25:00;2;W
+2;Nieder-Ramstadt Friedhof,1;12:27:00;2;W
+2;Waschenbach Sportplatz,1;12:29:00;2;W
+2;Frankenhausen Römerweg,1;12:32:00;2;W
+2;Frankenhausen Dr.-W.-Mertz-Str,3;12:35:00;2;W

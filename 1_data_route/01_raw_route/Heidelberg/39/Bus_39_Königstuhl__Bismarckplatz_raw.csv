@@ -1,0 +1,1420 @@
+﻿Typ;Name;Latitude;Longitude;Tempolimit;Details
+Ampel;Ampel;49.407586;8.6943269;;Traffic Signal
+Ampel;Ampel;49.4096042;8.6935587;;Traffic Signal
+Ampel;Ampel;49.4062184;8.6927658;;Traffic Signal
+Haltestelle;Kühruhweg;49.3938243;8.7086763;;Bus Stop
+Ampel;Ampel;49.4038765;8.6921475;;Traffic Signal
+Haltestelle;Alois-Link-Platz;49.4002825;8.6911005;;Bus Stop
+Haltestelle;Bismarckplatz;49.4099846;8.6928532;;Bus Stop
+Haltestelle;Kaiserstraße;49.4020509;8.6915578;;Bus Stop
+Haltestelle;Steigerweg;49.3969527;8.6948626;;Bus Stop
+Haltestelle;Rohrbacher Grenzweg;49.3961279;8.6969793;;Bus Stop
+Haltestelle;MPI Kernphysik;49.3889677;8.7075106;;Bus Stop
+Haltestelle;Bierhelderhof/Ehrenfriedhof;49.3899181;8.7053132;;Bus Stop
+Haltestelle;Drei Eichen;49.3802417;8.7237658;;Bus Stop
+Haltestelle;Posseltslust;49.3847445;8.7335121;;Bus Stop
+Haltestelle;Alter Kohlhof;49.3885016;8.7310689;;Bus Stop
+Haltestelle;Kohlhof Fachklinik;49.3896097;8.7352909;;Bus Stop
+Haltestelle;Sternwarte;49.4007968;8.7272657;;Bus Stop
+Haltestelle;Königstuhl;49.4030748;8.7277354;;Bus Stop
+Ampel;Ampel;49.4051061;8.6924913;;Traffic Signal
+Haltestelle;Steigerweg;49.3969252;8.6947754;;Bus Stop
+Haltestelle;Speyererhof;49.3954971;8.7094612;;Bus Stop
+Haltestelle;Kühruhweg;49.3938023;8.7085948;;Bus Stop
+Haltestelle;Rohrbacher Grenzweg;49.3960951;8.6970307;;Bus Stop
+Haltestelle;Bierhelderhof/Ehrenfriedhof;49.3900979;8.7051118;;Bus Stop
+Ampel;Ampel;49.401828;8.6913785;;Traffic Signal
+Ampel;Ampel;49.4068645;8.6928669;;Traffic Signal
+Ampel;Ampel;49.4002508;8.6909883;;Traffic Signal
+Haltestelle;Bismarckplatz (Steig H);49.4099745;8.6929145;;Bus Stop
+Haltestelle;Gaisbergstraße;49.4069306;8.6935212;;Bus Stop
+Haltestelle;Hans-Böckler-Straße;49.4054478;8.6925756;;Bus Stop
+Haltestelle;Hans-Böckler-Straße;49.4055662;8.6926048;;Bus Stop
+Ampel;Ampel;49.4088432;8.6938358;;Traffic Signal
+Ampel;Ampel;49.400396;8.6907495;;Traffic Signal
+Haltestelle;Kaiserstraße;49.4027834;8.6917627;;Bus Stop
+Haltestelle;Kaiserstraße;49.4020259;8.6914571;;Bus Stop
+Haltestelle;Alois-Link-Platz;49.4002273;8.6911203;;Bus Stop
+Haltestelle;Königstuhl;49.4030733;8.7277638;;Bus Stop
+Routenpunkt (Way);Königstuhl;49.4006945;8.727319;50;Original OSM
+Routenpunkt (Way);Königstuhl;49.400764550000005;8.72733775;50;Interpoliert
+Routenpunkt (Way);Königstuhl;49.4008346;8.7273565;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3799676;8.7242663;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3799959;8.7242114;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3800242;8.7241508;50;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3951247;8.7034209;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3951294;8.7034322;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3951699;8.7035309;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.39521965;8.703686950000002;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3952694;8.703843;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.39532325;8.7040067;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3953771;8.7041704;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.39543956666667;8.704346866666667;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.39550203333333;8.704523333333334;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3955645;8.7046998;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.39561775;8.704831200000001;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.395671;8.7049626;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.39573045;8.705089300000001;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3957899;8.705216;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3958447;8.7053152;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3959181;8.7054416;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3959828;8.7055427;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3960557;8.7056456;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.396140566666666;8.705752866666668;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.396225433333335;8.705860133333333;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3963103;8.7059674;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.396325;8.7059882;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963407;8.7060104;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963639;8.7060478;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963805;8.7060854;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963898;8.7061173;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963945;8.7061533;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963958;8.7061844;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963945;8.7062107;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.396389;8.7062513;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963827;8.7062756;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.396376;8.7062956;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963646;8.7063222;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963486;8.70635;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963311;8.7063747;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3963155;8.7063923;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3962888;8.7064191;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.396257;8.7064466;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3962262;8.7064698;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3961792;8.7064969;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3961341;8.7065231;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3960937;8.7065437;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3960336;8.7065677;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3959658;8.7065859;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3959087;8.7065924;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.395857;8.7065912;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3958219;8.7065883;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3957688;8.7065806;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3956784;8.706555366666667;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.395588;8.706530133333334;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3954976;8.7065049;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3954408;8.706493;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3953947;8.7064843;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.395341;8.7064805;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3953024;8.706483;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3952472;8.7064926;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.395178;8.7065161;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3950974;8.7065573;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3950412;8.7065853;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3950001;8.7065978;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3949639;8.7066063;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3949297;8.7066129;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3948878;8.7066148;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3948488;8.7066096;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3947998;8.7065938;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3947692;8.7065796;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3947245;8.7065521;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.394685;8.7065236;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.394652;8.7064931;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.394611;8.7064512;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3945744;8.7063992;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3945042;8.7062936;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3944191;8.7061686;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3943251;8.7060425;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3942762;8.7059874;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3942351;8.7059457;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3941886;8.7059067;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3941527;8.7058816;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3940962;8.7058455;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3940032;8.7058085;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.393913233333336;8.705779033333334;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.393823266666665;8.705749566666666;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3937333;8.7057201;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.393637;8.7056732;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3935469;8.7056251;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3934645;8.7055787;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3934348;8.7055643;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3934063;8.7055544;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3933851;8.70555;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.393357;8.7055478;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.393333;8.7055511;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3933108;8.7055569;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932879;8.705569;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932614;8.7055947;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932453;8.7056154;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932315;8.7056384;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932191;8.7056686;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932112;8.7056974;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932055;8.7057236;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.393203;8.7057513;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932031;8.7057778;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932042;8.7058055;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932078;8.7058512;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932221;8.7059945;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3932364;8.7061378;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932494;8.7062487;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932622;8.7063401;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932785;8.7064415;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3932973;8.7065221;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.393316;8.7065834;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3933443;8.7066594;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.39338615;8.70677015;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.393428;8.7068809;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.393485133333336;8.7070287;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.393542266666664;8.7071765;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3935994;8.7073243;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.393653875;8.707467725;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.39370835;8.70761115;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.393762825;8.707754575;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3938173;8.707898;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3938724;8.708038949999999;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3939275;8.7081799;;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4071667;8.6942785;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4072477;8.6942965;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4073646;8.694308849999999;50;Interpoliert
+Routenpunkt (Way);Adenauerplatz;49.4074815;8.6943212;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.407586;8.6943269;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4069056;8.6938767;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.40693855;8.6939802;50;Interpoliert
+Routenpunkt (Way);Adenauerplatz;49.4069715;8.6940837;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4070259;8.6941974;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4070941;8.6942524;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4071667;8.6942785;50;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.3995983;8.69181;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.3996437;8.6918035;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.3996842;8.6917971;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.3997207;8.6917934;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.3997629;8.6917919;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.3998121;8.6917941;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.3998503;8.6917987;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.3999027;8.6918106;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.3999709;8.6918298;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.4000152;8.6918433;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.4000354;8.6918449;30;Original OSM
+Routenpunkt (Way);Gaisbergstraße;49.4000503;8.6918413;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3995983;8.69181;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.399583;8.6918325;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3821372;8.7192295;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3821927;8.7191108;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38225505;8.7189655;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3823174;8.7188202;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.382388199999994;8.718653199999999;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.382459;8.7184862;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.382524599999996;8.718338225;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.382590199999996;8.71819025;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3826558;8.718042274999998;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3827214;8.7178943;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.382779;8.7177682;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3828483;8.7176267;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.382925;8.7174754;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3829893;8.7173642;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3830349;8.717296;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.383117;8.7171824;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.383171399999995;8.717118;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3832258;8.7170536;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3833082;8.716967499999999;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3833906;8.7168814;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3834876;8.71678;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3835431;8.7167186;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3836179;8.7166464;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3836758;8.7165805;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3837379;8.7165367;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3837794;8.7165046;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3838372;8.7164647;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.383944;8.71639525;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3840508;8.7163258;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3841422;8.7162721;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3842454;8.7162115;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38433066666666;8.7161622;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38441593333334;8.7161129;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3845012;8.7160636;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38457495;8.7160191;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3846487;8.7159746;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38472245;8.7159301;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3847962;8.7158856;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.384896866666665;8.715824633333334;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38499753333333;8.715763666666666;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3850982;8.7157027;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38519875;8.71564345;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3852993;8.7155842;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3854153;8.71551585;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3855313;8.7154475;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38562176666667;8.715396333333333;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38571223333333;8.715345166666667;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3858027;8.715294;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38589965;8.715236625;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3859966;8.71517925;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38609355;8.715121875000001;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3861905;8.7150645;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38629723333333;8.714997566666668;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38640396666667;8.714930633333333;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3865107;8.7148637;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38657905;8.71482115;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3866474;8.7147786;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3867333;8.7147261;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3868192;8.7146736;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.386905866666666;8.714622799999999;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.386992533333334;8.714572;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3870792;8.7145212;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.387166;8.7144666;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3872528;8.714412;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38734775;8.71435005;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3874427;8.7142881;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3875658;8.7142098;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38764095;8.71416525;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3877161;8.7141207;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.387833;8.7140537;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3879306;8.7140065;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3880399;8.7139574;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3881199;8.7139196;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3881999;8.7138818;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3882989;8.7138259;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3883772;8.7137744;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3884592;8.713713;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38855545;8.7136407;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3886517;8.7135684;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38872205;8.7135128;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3887924;8.7134572;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.388858400000004;8.71339995;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3889244;8.7133427;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.388998;8.7132768;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.389057;8.7132155;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3891037;8.713165;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3891463;8.7131173;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3891918;8.7130641;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3892793;8.7129578;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3893507;8.7128779;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3894206;8.7128126;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3894696;8.7127756;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3895421;8.712733;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3896006;8.7127059;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3896479;8.7126906;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3897289;8.7126765;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3898416;8.7126579;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.38991615;8.7126453;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3899907;8.7126327;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.390072599999996;8.7126152;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3901545;8.7125977;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.390269599999996;8.71256885;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3903847;8.71254;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3904897;8.7125093;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3905358;8.7124977;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3905814;8.7124804;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3906054;8.7124686;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.390634;8.7124514;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3906707;8.7124246;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3907087;8.7123891;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3907518;8.7123468;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.390786;8.7123001;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3908122;8.7122572;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3908226;8.7122347;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3908271;8.7122181;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3908295;8.7121993;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3908289;8.712181;30;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006945;8.727319;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006896;8.7273347;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006835;8.7273508;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006782;8.7273627;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006723;8.7273733;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006633;8.7273871;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006526;8.7273997;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3993247;8.6920917;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3993099;8.6921067;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3992173;8.6921712;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3991438;8.6922271;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3990582;8.6922688;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3990201;8.6922861;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3989713;8.6923082;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.398888;8.6923539;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3988126;8.6924007;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3987626;8.6924451;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3987216;8.6924814;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3986523;8.6925425;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3985887;8.6926078;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.39851265;8.69269885;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3984366;8.6927899;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3983896;8.6928314;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.398353;8.6928632;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3983262;8.6928812;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3982963;8.6929029;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3982118;8.6929497;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3981273;8.6929965;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3981091;8.6930071;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3980169;8.6930605;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3979521;8.6931035;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3979216;8.693126;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3978936;8.6931497;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3978691;8.69318;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3978166;8.693255;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3977789;8.6933244;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.397732;8.6934132;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3976911;8.6935037;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3976595;8.6935903;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3976059;8.6937757;30;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3908304;8.7352272;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3907822;8.7352754;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3907033;8.73541415;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3906244;8.7355529;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3905442;8.7356722;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.390455;8.7357774;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3903652;8.7358666;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3902803;8.7359246;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3901894;8.7359637;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.390122649999995;8.73598635;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3900559;8.736009;;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4002982;8.6907072;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.400396;8.6907495;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.400501840000004;8.6907996;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40060768;8.690849700000001;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.400713520000004;8.6908998;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40081936;8.690949900000001;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4009252;8.691;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4009392;8.6910063;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.40106;8.6910575;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.401127;8.6910859;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.401201;8.6911173;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.401313125;8.69116485;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40142525;8.691212400000001;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.401537375;8.691259950000001;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4016495;8.6913075;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.40173875;8.691343;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.401828;8.6913785;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.401926950000004;8.6914178;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4020259;8.6914571;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4021157;8.6914927;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4021906;8.6915225;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4022655;8.6915523;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.402307;8.6915687;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4023805;8.6915979;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.402454;8.6916271;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3899479;8.704999;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.390022900000005;8.705055399999999;50;Interpoliert
+Routenpunkt (Way);Speyererhofweg;49.3900979;8.7051118;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3901687;8.7051687;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.39025;8.7052413;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3902922;8.7052838;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3903316;8.7053293;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3903681;8.7053809;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3903983;8.7054311;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.390429;8.7054923;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3904577;8.7055637;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3904833;8.7056464;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3905311;8.7058122;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3905577;8.705899;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3905859;8.7059719;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3906103;8.7060205;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3906367;8.7060565;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3906613;8.7060831;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3906868;8.7061041;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3907069;8.7061182;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3907313;8.7061296;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3907547;8.7061367;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3907849;8.7061412;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3908152;8.706138;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3908509;8.7061281;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3909244;8.7060914;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3910408;8.7060257;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3910988;8.7059998;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3911516;8.7059836;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3912268;8.7059729;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3912884;8.7059707;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.391364;8.7059848;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3914337;8.7060088;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3914838;8.7060322;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3915308;8.7060609;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3915857;8.7061012;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3916485;8.7061532;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.391760149999996;8.70625885;50;Interpoliert
+Routenpunkt (Way);Speyererhofweg;49.3918718;8.7063645;50;Original OSM
+Routenpunkt (Way);Dantestraße;49.4000503;8.6918413;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4000685;8.6918289;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4000902;8.6918014;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4001038;8.6917797;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.400111;8.691765;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4001201;8.6917387;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4001301;8.6916937;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4001625;8.691502566666667;30;Interpoliert
+Routenpunkt (Way);Dantestraße;49.400194899999995;8.691311433333333;30;Interpoliert
+Routenpunkt (Way);Dantestraße;49.4002273;8.6911203;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4002333;8.6910866;30;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3918718;8.7063645;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.391967019999996;8.70645828;50;Interpoliert
+Routenpunkt (Way);Speyererhofweg;49.392062239999994;8.70655206;50;Interpoliert
+Routenpunkt (Way);Speyererhofweg;49.39215746;8.70664584;50;Interpoliert
+Routenpunkt (Way);Speyererhofweg;49.39225268;8.70673962;50;Interpoliert
+Routenpunkt (Way);Speyererhofweg;49.3923479;8.7068334;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3924255;8.7069168;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3924585;8.7069586;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3924897;8.7070011;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3925119;8.7070371;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3925351;8.7070792;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3925547;8.7071189;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3925753;8.7071654;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3925983;8.7072241;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3926189;8.7072845;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3926484;8.7073769;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.392671;8.7074428;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3927003;8.7075167;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3927268;8.7075752;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3927493;8.7076198;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3927748;8.7076608;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3928035;8.7076968;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3928486;8.707751;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3929274;8.7078367;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3930192;8.7079304;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3931264;8.7080395;50;Interpoliert
+Routenpunkt (Way);Speyererhofweg;49.393233599999995;8.708148600000001;50;Interpoliert
+Routenpunkt (Way);Speyererhofweg;49.3933408;8.7082577;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3934331;8.708346;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3935093;8.7084149;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3935823;8.7084756;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3936278;8.7085077;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3936668;8.7085318;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3937155;8.7085593;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3938023;8.7085948;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.39389145;8.70863265;50;Interpoliert
+Routenpunkt (Way);Speyererhofweg;49.3939806;8.7086705;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3940211;8.7086873;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3940514;8.7087042;50;Original OSM
+Routenpunkt (Way);Speyererhofweg;49.3940651;8.7087138;50;Original OSM
+Routenpunkt (Way);Sofienstraße;49.4087655;8.6938647;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.4088432;8.6938358;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.4089241;8.69380635;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.409005;8.6937769;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.4091239;8.6937348;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.4092428;8.6936927;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.4093617;8.6936506;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.40948295;8.693604650000001;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.4096042;8.6935587;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3940651;8.7087138;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.394099;8.7087474;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3941377;8.7087978;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3941733;8.708859;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.394209;8.7089257;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3942268;8.7089519;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3942455;8.7089762;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3942698;8.709002;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3942986;8.7090291;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3943255;8.7090479;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3943547;8.7090645;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.394381;8.7090766;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3943921;8.7090818;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.394470749999996;8.7091148;30;Interpoliert
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3945494;8.7091478;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.39465545;8.709194275;30;Interpoliert
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3947615;8.70924075;30;Interpoliert
+Routenpunkt (Way);Johannes-Hoops-Weg;49.39486755;8.709287225;30;Interpoliert
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3949736;8.7093337;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3950821;8.7093745;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3951605;8.7094007;30;Interpoliert
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3952389;8.7094269;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3952798;8.7094315;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3953235;8.709431;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3953596;8.7094249;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3953957;8.7094131;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3954568;8.7093805;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3955274;8.7093409;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3955481;8.7093261;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3955527;8.7093228;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.395605;8.7092849;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3892074;8.7069477;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38925815;8.7068662;50;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3893089;8.7067847;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38935855;8.7066976;50;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3894082;8.7066105;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3894885;8.7064613;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38952825;8.7063722;50;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.389568;8.7062831;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3896071;8.706189;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3896437;8.7060871;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3896917;8.7059629;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38973705;8.7058261;50;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3897824;8.7056893;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38982245;8.70554935;50;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3898625;8.7054094;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3898883;8.7053;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887124;8.7085374;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887161;8.7084277;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.388724;8.7083182;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887299;8.7082579;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887372;8.7081872;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887483;8.7081003;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887569;8.7080481;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967113;8.6982892;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967043;8.6983309;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3966926;8.6983844;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3966823;8.6984248;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3966653;8.6984815;;Original OSM
+Routenpunkt (Way);Steigerweg;49.396645;8.6985333;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3966191;8.6985929;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3965857;8.6986588;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3965444;8.6987251;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3964838;8.6988021;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3964212;8.6988649;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3964035;8.6988816;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3963896;8.6988928;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3963771;8.6989012;;Original OSM
+Routenpunkt (Way);Steigerweg;49.396359;8.6989107;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3963492;8.6989144;;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4062184;8.6927658;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4063347;8.69277935;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.406451;8.6927929;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4065666;8.6927964;50;Original OSM
+Routenpunkt (Way);Turmweg;49.4008346;8.7273565;50;Original OSM
+Routenpunkt (Way);Turmweg;49.4008807;8.7273811;50;Original OSM
+Routenpunkt (Way);Turmweg;49.4009144;8.7274023;50;Original OSM
+Routenpunkt (Way);Turmweg;49.4009525;8.7274283;50;Original OSM
+Routenpunkt (Way);Turmweg;49.40106721666667;8.727493683333332;50;Interpoliert
+Routenpunkt (Way);Turmweg;49.40118193333333;8.727559066666666;50;Interpoliert
+Routenpunkt (Way);Turmweg;49.401296650000006;8.72762445;50;Interpoliert
+Routenpunkt (Way);Turmweg;49.40141136666667;8.727689833333333;50;Interpoliert
+Routenpunkt (Way);Turmweg;49.40152608333334;8.727755216666665;50;Interpoliert
+Routenpunkt (Way);Turmweg;49.4016408;8.7278206;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4065666;8.6927964;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4066442;8.6928327;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4067528;8.6928362;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4068109;8.6928448;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4068398;8.6928534;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4068645;8.6928669;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4068839;8.6928817;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4069148;8.6929195;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4069358;8.6929547;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4069979;8.6930674;50;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3878389;8.731006;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.387749033333336;8.731011933333333;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.387659166666666;8.731017866666667;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3875693;8.7310238;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38744806666667;8.731050733333333;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.38732683333333;8.731077666666666;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3872056;8.7311046;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.387089599999996;8.731144050000001;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3869736;8.7311835;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38686755;8.73125055;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3867615;8.7313176;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.386661875;8.731420275000001;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.38656225;8.73152295;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.386462625;8.731625625;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.386363;8.7317283;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3862861;8.731834066666666;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3862092;8.731939833333334;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3861323;8.7320456;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38604228333333;8.732190566666667;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.38595226666666;8.732335533333332;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.38586225;8.7324805;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.385772233333334;8.732625466666667;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.385682216666666;8.732770433333332;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3855922;8.7329154;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3855197;8.733012800000001;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3854472;8.7331102;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3853918;8.733182450000001;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3853364;8.7332547;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3852802;8.7333178;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3852327;8.7333665;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3851961;8.7333966;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3851506;8.73343;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3850878;8.7334743;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3850123;8.7335205;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3849783;8.7335384;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.384951;8.7335505;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.384918;8.7335617;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3849016;8.7335667;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.384881;8.7335722;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3848608;8.7335756;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3848371;8.7335784;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3848093;8.7335802;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3847792;8.73358;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3847488;8.7335772;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3847203;8.733573;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3847049;8.7335685;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3846871;8.7335619;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3846708;8.7335524;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3846584;8.7335447;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3846466;8.7335354;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3900559;8.736009;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3900252;8.7359535;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3900117;8.7359281;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3899794;8.7358795;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.389942;8.7358242;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3899017;8.7357664;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3898481;8.7356925;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3897808;8.7356011;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3897236;8.7355239;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.389665;8.735441;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3896144;8.7353731;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3895646;8.7353045;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3895279;8.735256;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.389511;8.7352316;100;Original OSM
+Routenpunkt (Way);Unbekannt;49.4096042;8.6935587;;Original OSM
+Routenpunkt (Way);Unbekannt;49.40966985;8.69350715;;Interpoliert
+Routenpunkt (Way);Unbekannt;49.4097355;8.6934556;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4098304;8.6933797;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4099484;8.6933389;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101512;8.6929542;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101313;8.6929419;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101058;8.6929332;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4099745;8.6929145;;Original OSM
+Routenpunkt (Way);Sofienstraße;49.407586;8.6943269;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.40765465;8.6943058;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.4077233;8.6942847;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.4078083;8.69425595;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.4078933;8.6942272;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.4079791;8.6941921;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.408074033333335;8.694151266666667;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.408168966666665;8.694110433333334;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.4082639;8.6940696;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.4083852;8.69401985;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.4085065;8.6939701;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.4086356;8.693917599999999;30;Interpoliert
+Routenpunkt (Way);Sofienstraße;49.4087647;8.6938651;30;Original OSM
+Routenpunkt (Way);Sofienstraße;49.4087655;8.6938647;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.395605;8.7092849;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3956328;8.7092602;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3957099;8.7091904;30;Original OSM
+Routenpunkt (Way);Unbekannt;49.3957384;8.7091647;;Original OSM
+Routenpunkt (Way);Unbekannt;49.395718;8.7090985;;Original OSM
+Routenpunkt (Way);Unbekannt;49.3957044;8.7090614;;Original OSM
+Routenpunkt (Way);Unbekannt;49.3956857;8.709033;;Original OSM
+Routenpunkt (Way);Unbekannt;49.395662;8.7090157;;Original OSM
+Routenpunkt (Way);Unbekannt;49.3956358;8.7090115;;Original OSM
+Routenpunkt (Way);Unbekannt;49.3956102;8.7090208;;Original OSM
+Routenpunkt (Way);Unbekannt;49.3955881;8.7090428;;Original OSM
+Routenpunkt (Way);Unbekannt;49.395572;8.7090747;;Original OSM
+Routenpunkt (Way);Unbekannt;49.3955637;8.7091131;;Original OSM
+Routenpunkt (Way);Unbekannt;49.3955642;8.7091535;;Original OSM
+Routenpunkt (Way);Unbekannt;49.3955743;8.709198;;Original OSM
+Routenpunkt (Way);Unbekannt;49.3955892;8.7092445;;Original OSM
+Routenpunkt (Way);Unbekannt;49.395605;8.7092849;;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3801213;8.7246434;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3801046;8.7246049;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3800764;8.7245456;100;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3908289;8.712181;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.390825;8.7121617;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3908193;8.7121464;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3908115;8.7121312;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3907971;8.7121151;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3907825;8.712105;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3907601;8.7120957;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3907192;8.7120942;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3906565;8.7121061;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3905768;8.7121233;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3905273;8.7121347;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3904565;8.7121432;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3903868;8.7121445;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3903171;8.7121334;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3902557;8.7121112;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3901971;8.7120837;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.390125600000005;8.712051850000002;30;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3900541;8.71202;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3899621;8.7119748;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3898701;8.7119296;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38974615;8.71186125;30;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3896222;8.7117929;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3895098;8.711739;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38944385;8.71170845;30;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3893779;8.7116779;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38925615;8.71161755;30;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3891344;8.7115572;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38903835;8.711511699999999;30;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3889423;8.7114662;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3888684;8.7114332;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3888435;8.7114221;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.388823;8.7114107;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887622;8.7113702;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887326;8.7113492;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887043;8.7113261;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3886678;8.7112908;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3886354;8.7112554;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3886112;8.7112237;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3885882;8.7111909;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3885653;8.7111557;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3885392;8.7111093;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.388514;8.7110563;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884907;8.710997;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884704;8.7109341;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884536;8.7108708;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884399;8.7108043;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884289;8.7107341;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884186;8.7106448;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884124;8.7105865;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884072;8.7105157;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884048;8.7104332;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3963492;8.6989144;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3963374;8.6989173;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3963208;8.6989182;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3963017;8.6989145;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962842;8.698906;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962648;8.6988899;;Original OSM
+Routenpunkt (Way);Steigerweg;49.396252;8.6988756;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962384;8.6988534;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962283;8.6988311;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962202;8.6988012;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962161;8.6987689;;Original OSM
+Routenpunkt (Way);Steigerweg;49.396217;8.6987305;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962211;8.6986792;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962347;8.6985843;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962534;8.6984721;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962668;8.6983904;;Original OSM
+Routenpunkt (Way);Steigerweg;49.396278;8.6982712;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962828;8.6981851;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962856;8.6980876;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962861;8.6979321;;Original OSM
+Routenpunkt (Way);Steigerweg;49.39628405;8.6978103;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.396282;8.6976885;;Original OSM
+Routenpunkt (Way);Steigerweg;49.39627745;8.69757435;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3962729;8.6974602;;Original OSM
+Routenpunkt (Way);Steigerweg;49.396266600000004;8.69733595;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3962603;8.6972117;;Original OSM
+Routenpunkt (Way);Steigerweg;49.39625345;8.6971056;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3962466;8.6969995;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962309;8.6968128;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962199;8.6967222;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962127;8.6966886;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3962055;8.6966622;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961987;8.696643;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961866;8.6966203;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961738;8.6966029;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961578;8.6965857;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961485;8.6965793;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961372;8.6965753;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961209;8.696575;;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3899316;8.7050714;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3899479;8.704999;50;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3846466;8.7335354;;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3846264;8.7335165;;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3846264;8.7335165;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3846164;8.7335055;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.384599;8.7334829;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3845812;8.7334573;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3845597;8.7334198;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.384537;8.733374;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3845165;8.7333269;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3844968;8.733274;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3844663;8.7331842;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3844337;8.7330812;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.384413;8.7330078;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3843784;8.7328589;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3843589;8.732756949999999;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3843394;8.732655;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.384327;8.73258;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3843142;8.7324931;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3843043;8.7324154;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842955;8.7323372;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842845;8.7322312;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.384276;8.7321341;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842666;8.7320301;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842584;8.7319271;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842491;8.731797;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842405;8.7316634;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842337;8.731545;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842281;8.7314045;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38422505;8.73129895;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.384222;8.7311934;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842156;8.7310487;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842132;8.7310003;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842111;8.7309553;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842082;8.7308955;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3842038;8.730839;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3841965;8.7307553;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3841881;8.7306676;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3841808;8.730597;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3841633;8.7304655;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3841465;8.7303452;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3841246;8.7301911;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3841004;8.730023466666667;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.384076199999996;8.729855833333334;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.384052;8.7296882;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3840393;8.7296066;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3840221;8.7295059;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3840035;8.7294021;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.383976;8.7292796;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3839277;8.7290886;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3839003;8.7289832;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3838734;8.7288615;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3838516;8.7287632;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3838316;8.7286672;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3838014;8.7285182;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3837866;8.7284331;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3837723;8.7283392;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3837494;8.728156;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.383733;8.7280173;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3837192;8.7279314;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3837094;8.7278826;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3836989;8.7278407;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3836889;8.7278073;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3836786;8.727777;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3836572;8.7277277;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3836338;8.7276781;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3836159;8.7276469;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3835958;8.7276159;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3835769;8.7275921;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.383549;8.7275596;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38351;8.7275206;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3834596;8.7274768;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3834111;8.7274428;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38337;8.7274178;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3833204;8.7273921;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3832628;8.727366;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3832099;8.7273454;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3831612;8.7273287;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.383082;8.7273053;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3830305;8.7272941;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3829735;8.7272831;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3829275;8.7272781;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3828705;8.7272731;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.382764;8.7272695;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3827025;8.7272697;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3826028;8.7272721;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38252595;8.72727625;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3824491;8.7272804;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3823725;8.7272865;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3822959;8.7272926;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.382182549999996;8.727301050000001;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3820692;8.7273095;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3819609;8.7273161;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3818999;8.7273158;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.381873;8.7273148;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3818411;8.727312;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3818161;8.727309;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3817861;8.7273043;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3817127;8.7272863;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3816487;8.7272583;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3816062;8.7272348;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.381565;8.727207;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.381496;8.7271529;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3814605;8.72712;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3814411;8.7271011;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3814102;8.727066;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3813834;8.7270326;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3813581;8.7269977;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3812883;8.7268806;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3812148;8.7267518;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38115316666667;8.726632866666668;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.38109153333333;8.726513933333333;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3810299;8.726395;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.380965;8.7262695;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.380900100000005;8.726144;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3808352;8.726018499999999;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3807703;8.725893;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.380716050000004;8.725787350000001;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3806618;8.7256817;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3806268;8.7256155;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.380557475;8.725481375;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.380488150000005;8.725347249999999;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.380418825;8.725213125;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3803495;8.725079;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38028735;8.72496045;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3802252;8.7248419;100;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3800242;8.7241508;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3800463;8.7241028;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3800799;8.7240168;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3801423;8.7238521;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3801979;8.7237052;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3802602;8.7235441;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3803225;8.723383;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3803848;8.7232219;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.38043543333333;8.723089033333334;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.38048606666667;8.722956166666666;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3805367;8.7228233;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.380598033333335;8.722659633333333;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.38065936666666;8.722495966666667;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3807207;8.7223323;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.380773366666666;8.722196933333333;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.38082603333333;8.722061566666667;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3808787;8.7219262;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3809329;8.721786633333334;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3809871;8.721647066666666;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3810413;8.7215075;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3811112;8.721339050000001;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3811811;8.7211706;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3812474;8.7210271;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3813256;8.7208619;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.38139163333333;8.720733633333333;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.38145766666667;8.720605366666666;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3815237;8.7204771;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3815853;8.720368350000001;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3816469;8.7202596;50;Original OSM
+Routenpunkt (Way);Unbekannt;49.4099484;8.6933389;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4100289;8.6933063;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101385;8.693248;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101568;8.693228;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101731;8.6931899;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101861;8.6931407;;Original OSM
+Routenpunkt (Way);Unbekannt;49.41019;8.6931221;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101929;8.693095;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101907;8.6930614;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101831;8.6930288;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101704;8.6929916;;Original OSM
+Routenpunkt (Way);Unbekannt;49.4101512;8.6929542;;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4069979;8.6930674;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4069645;8.6932554;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4069365;8.6934577;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4069306;8.6935212;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.40692035;8.69366785;50;Interpoliert
+Routenpunkt (Way);Adenauerplatz;49.4069101;8.6938145;50;Original OSM
+Routenpunkt (Way);Adenauerplatz;49.4069056;8.6938767;50;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3997641;8.7282979;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3996796;8.728413;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3995951;8.7285281;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3994982;8.7286529;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3994389;8.7287196;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3993715;8.728789;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3992569;8.7288884;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39918975;8.7289372;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3991226;8.728986;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3990115;8.7290549;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3989451;8.7290911;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3988787;8.7291273;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39881345;8.7291604;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3987482;8.7291935;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39867715;8.7292244;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3986061;8.7292553;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3985141;8.7292896;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3984056;8.7293254;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.398326850000004;8.72934325;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3982481;8.7293611;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3981652;8.7293731;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3980809;8.7293741;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3980132;8.7293694;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.397941;8.7293534;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3978612;8.7293274;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3978037;8.7293055;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3977119;8.72926625;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3976201;8.729227;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3975425;8.7291999;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3974614;8.7291777;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3973821;8.7291647;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39731;8.72916;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3972492;8.7291592;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3971883;8.7291628;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3971308;8.7291675;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3970589;8.7291793;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3970054;8.7291907;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3969448;8.7292084;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3968691;8.7292341;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3967741;8.7292749;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3966669;8.7293243;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3965628;8.7293791;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3964587;8.7294339;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39633546666666;8.7295028;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.39621223333334;8.7295717;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.396089;8.7296406;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.395998500000005;8.7296895;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.395908;8.7297384;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.395817449999996;8.72978565;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3957269;8.7298329;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3956209;8.7298845;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3955076;8.7299347;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3953992;8.7299813;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3952852;8.7300262;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3952032;8.73005725;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3951212;8.7300883;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3950328;8.7301255;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3949165;8.7301804;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3948485;8.730217;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3947805;8.7302536;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39466754;8.730321799999999;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.39455458;8.73039;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.39444162;8.7304582;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.39432866;8.7305264;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3942157;8.7305946;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3940972;8.73066026;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3939787;8.73072592;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3938602;8.73079158;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3937417;8.730857239999999;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3936232;8.7309229;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3935089;8.7309919;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3934616;8.7310236;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3934071;8.7310663;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3933435;8.7311324;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3932706;8.7312226;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.393204850000004;8.731336800000001;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3931391;8.731451;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39308;8.7315717;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3930109;8.7316982;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3929717;8.7317622;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3929341;8.7318197;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39283825;8.731951550000002;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3927424;8.7320834;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.392646400000004;8.73221395;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3925504;8.7323445;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39248675;8.73244155;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3924231;8.7325386;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3923605;8.7326449;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3922819;8.7327966;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39221273333333;8.732932233333333;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.39214356666667;8.733067866666667;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3920744;8.7332035;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39200305;8.7333227;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3919317;8.7334419;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.391850250000005;8.7335641;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3917688;8.7336863;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3916865;8.7338177;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.391628266666665;8.733923233333332;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.39157003333334;8.734028766666666;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3915118;8.7341343;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.39145516666667;8.7342458;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.39139853333334;8.7343573;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3913419;8.7344688;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3912935;8.7345518;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.391207725;8.734672875000001;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.39112195;8.73479395;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.391036175;8.734915025;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3909504;8.7350361;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3909171;8.7350869;30;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3908436;8.735204;30;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3908304;8.7352272;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3976059;8.6937757;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3975601;8.6939236;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3975324;8.6939879;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3974984;8.6940561;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3974529;8.694123;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.397404;8.6941765;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3973449;8.6942152;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3972291;8.6943024;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3971546;8.694372;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3971011;8.6944364;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3970265;8.6945448;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3969597;8.6946811;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3969252;8.6947754;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3968794;8.694897;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3968558;8.6949682;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3968302;8.6950589;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3968137;8.6951397;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3968044;8.6952086;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967955;8.6952943;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967893;8.695375;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967854;8.6955363;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.396791300000004;8.69566125;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3967972;8.6957862;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3968011;8.6959328;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3968005;8.6960817;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967976;8.696213;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967876;8.696416;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967748;8.696550349999999;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.396762;8.6966847;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967514;8.6968269;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967447;8.6970297;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967408;8.6971744;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3967369;8.6973191;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.396735899999996;8.69745715;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3967349;8.6975952;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.39673285;8.697734650000001;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3967308;8.6978741;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960195;8.6980356;;Original OSM
+Routenpunkt (Way);Steigerweg;49.395992500000006;8.69814475;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3959655;8.6982539;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3959263;8.69838525;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3958871;8.6985166;;Original OSM
+Routenpunkt (Way);Steigerweg;49.39583035;8.69870315;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3957736;8.6988897;;Original OSM
+Routenpunkt (Way);Steigerweg;49.39572585;8.6990458;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3956781;8.6992019;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3956275;8.69935015;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3955769;8.6994984;;Original OSM
+Routenpunkt (Way);Steigerweg;49.395527900000005;8.69963915;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3954789;8.6997799;;Original OSM
+Routenpunkt (Way);Steigerweg;49.39542333333333;8.699930266666666;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.395367766666666;8.700080633333334;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3953122;8.700231;;Original OSM
+Routenpunkt (Way);Steigerweg;49.39527615;8.700324349999999;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3952401;8.7004177;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3951784;8.7005826;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3951253;8.700734;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950755;8.7009128;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950417;8.7010649;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950244;8.7011529;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950124;8.7012162;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949993;8.7013052;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949934;8.7013816;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949897;8.7014627;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949899;8.7015409;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949926;8.7016205;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949975;8.7017041;;Original OSM
+Routenpunkt (Way);Steigerweg;49.395004;8.7017879;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950168;8.7018713;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950186;8.7019527;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950204;8.701984;;Original OSM
+Routenpunkt (Way);Steigerweg;49.395021;8.7020144;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950217;8.7020692;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950215;8.7020929;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950189;8.7021324;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950147;8.7021879;;Original OSM
+Routenpunkt (Way);Steigerweg;49.395006;8.7022838;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949993;8.7023543;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949914;8.7024481;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949871;8.7025122;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949845;8.7025758;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949844;8.702635;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949864;8.7026925;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949884;8.7027239;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3949926;8.7027654;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950024;8.7028354;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950261;8.7029594;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3950536;8.7030915;;Original OSM
+Routenpunkt (Way);Steigerweg;49.39507745;8.703196349999999;;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3951013;8.7033012;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3951247;8.7034209;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006526;8.7273997;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006422;8.7274119;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4006337;8.7274199;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.400624;8.7274281;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4005939;8.727451;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.400521;8.72750045;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.4004481;8.7275499;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.400363150000004;8.72762575;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.4002782;8.7277016;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4001851;8.7277943;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4000998;8.7278871;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.4000075;8.7279886;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.399929650000004;8.72808615;;Interpoliert
+Routenpunkt (Way);Königstuhlweg;49.3998518;8.7281837;;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3997641;8.7282979;;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3894967;8.735211;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3894912;8.7352032;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3894864;8.7351959;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3894681;8.7351677;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.389447;8.7351325;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3894236;8.7350915;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3894043;8.7350503;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3893752;8.7349889;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3893572;8.7349508;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.389346;8.7349269;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3893124;8.7348519;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3892805;8.7347827;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3892805;8.7347827;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3892505;8.7347063;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3892215;8.7346195;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.389202;8.7345631;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3891786;8.7344921;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3891335;8.7343555;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3891091;8.7342811;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3890798;8.7341816;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3890516;8.7340803;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3890324;8.7340014;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3890177;8.7339322;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3890042;8.7338586;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3889924;8.7337747;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3889826;8.7336922;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3889738;8.7336082;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3889669;8.733536;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.388958;8.7334594;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3889473;8.7333828;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3889394;8.733318;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3889303;8.7332415;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3889198;8.7331486;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.388909;8.733044;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.388902;8.7329483;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.388896;8.732854;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.388891;8.7327764;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.388884;8.7326811;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888776;8.7325753;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888712;8.7324721;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888657;8.7323558;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.388862;8.7322837;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888589;8.73222;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888576;8.732161;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888575;8.7320947;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888585;8.7320252;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888606;8.7319642;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888659;8.7318887;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888724;8.7317855;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888769;8.7317289;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888812;8.7316656;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888835;8.73161;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888825;8.7315703;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888805;8.7315437;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888748;8.731504;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888707;8.731476;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888636;8.7314418;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888558;8.7314138;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888447;8.7313852;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888349;8.7313654;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888205;8.7313419;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3888058;8.7313225;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3887885;8.7313055;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3887673;8.7312879;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3887491;8.7312762;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3887423;8.7312718;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3887262;8.7312643;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3887034;8.7312531;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3886612;8.7312342;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3885681;8.7311982;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3884555;8.7311557;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3883715;8.7311246;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3883388;8.7311119;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.388307;8.7311013;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3882049;8.7310654;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.388124;8.7310408;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3880908;8.7310314;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3880648;8.7310237;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3880375;8.7310172;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3880119;8.7310113;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3879823;8.7310067;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3879571;8.7310044;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3879339;8.7310033;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3879102;8.7310034;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3878661;8.7310049;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3878389;8.731006;100;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884048;8.7104332;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884061;8.7103782;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884078;8.7103472;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884107;8.7103103;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884158;8.7102721;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884209;8.7102453;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884341;8.7101933;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884551;8.7101277;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3884824;8.710062;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.388524950000004;8.7099696;30;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3885675;8.7098772;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3886246;8.7097528;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3886525;8.7096851;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3886731;8.70962;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3886864;8.709565;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3886932;8.70952;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3886994;8.7094751;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887039;8.7094184;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.388709;8.7093148;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887082;8.7092051;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887088;8.70903075;30;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3887094;8.7088564;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.38871090000001;8.7086969;30;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3887124;8.7085374;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3888574;8.7076505;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3889185;8.7074789;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3889638;8.7073675;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3890066;8.70728705;30;Interpoliert
+Routenpunkt (Way);Saupfercheckweg;49.3890494;8.7072066;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3891331;8.7070645;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3892074;8.7069477;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887569;8.7080481;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887731;8.7079636;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3887856;8.7079096;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.388798;8.707862;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.388817;8.7077904;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3888574;8.7076505;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967308;8.6978741;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967279;8.698004449999999;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.396725;8.6981348;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967208;8.6981992;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967167;8.6982479;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3967113;8.6982892;30;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4038765;8.6921475;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.40400062222223;8.69218278888889;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.404124744444445;8.692218077777778;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40424886666667;8.692253366666668;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40437298888889;8.692288655555556;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40449711111111;8.692323944444444;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40462123333333;8.692359233333333;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.404745355555555;8.692394522222223;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40486947777777;8.692429811111111;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4049936;8.6924651;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4051061;8.6924913;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.40522;8.6925194;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.405333899999995;8.6925475;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4054478;8.6925756;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4055662;8.6926048;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.405693;8.6926361;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4058198;8.6926674;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4059466;8.692698700000001;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.406073400000004;8.692730000000001;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4062002;8.6927613;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4062184;8.6927658;50;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3802252;8.7248419;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.38017325;8.72474265;100;Interpoliert
+Routenpunkt (Way);Drei-Eichen-Weg;49.3801213;8.7246434;100;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3957099;8.7091904;30;Original OSM
+Routenpunkt (Way);Johannes-Hoops-Weg;49.3957384;8.7091647;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.399583;8.6918325;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3994969;8.691918900000001;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3994108;8.6920053;30;Interpoliert
+Routenpunkt (Way);Steigerweg;49.3993247;8.6920917;30;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.389511;8.7352316;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3894967;8.735211;100;Original OSM
+Routenpunkt (Way);Königstuhl;49.4017627;8.7278222;30;Original OSM
+Routenpunkt (Way);Königstuhl;49.4016408;8.7278206;30;Original OSM
+Routenpunkt (Way);Königstuhl;49.4029042;8.727772;30;Original OSM
+Routenpunkt (Way);Königstuhl;49.402785825;8.727777775;30;Interpoliert
+Routenpunkt (Way);Königstuhl;49.402667449999996;8.72778355;30;Interpoliert
+Routenpunkt (Way);Königstuhl;49.402549074999996;8.727789325;30;Interpoliert
+Routenpunkt (Way);Königstuhl;49.4024307;8.7277951;30;Original OSM
+Routenpunkt (Way);Königstuhl;49.402307119999996;8.72780026;30;Interpoliert
+Routenpunkt (Way);Königstuhl;49.402183539999996;8.72780542;30;Interpoliert
+Routenpunkt (Way);Königstuhl;49.40205996;8.72781058;30;Interpoliert
+Routenpunkt (Way);Königstuhl;49.40193638;8.727815739999999;30;Interpoliert
+Routenpunkt (Way);Königstuhl;49.4018128;8.7278209;30;Original OSM
+Routenpunkt (Way);Königstuhl;49.4017627;8.7278222;30;Original OSM
+Routenpunkt (Way);Königstuhl;49.4030733;8.7277638;30;Original OSM
+Routenpunkt (Way);Königstuhl;49.402988750000006;8.7277679;30;Interpoliert
+Routenpunkt (Way);Königstuhl;49.4029042;8.727772;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3818813;8.7198601;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3818787;8.7198144;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3818826;8.7197721;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.381893;8.7197298;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.381914;8.7196764;30;Original OSM
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.381988400000004;8.719527433333335;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3820628;8.719378466666667;30;Interpoliert
+Routenpunkt (Way);Unterer Sankt Nikolausweg;49.3821372;8.7192295;30;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.402454;8.6916271;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.402563799999996;8.6916723;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4026736;8.6917175;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4027834;8.6917627;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.402886233333334;8.6918051;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40298906666666;8.6918475;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4030919;8.6918899;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4031151;8.6918994;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4031248;8.6919034;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4031518;8.6919122;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.4032074;8.6919302;50;Original OSM
+Routenpunkt (Way);Rohrbacher Straße;49.40331891666666;8.691966416666666;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.403430433333334;8.692002633333333;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.403541950000005;8.69203885;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40365346666667;8.692075066666668;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.40376498333333;8.692111283333334;50;Interpoliert
+Routenpunkt (Way);Rohrbacher Straße;49.4038765;8.6921475;50;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3909504;8.7350361;30;Original OSM
+Routenpunkt (Way);Königstuhlweg;49.3909171;8.7350869;30;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3898883;8.7053;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3899015;8.7052441;50;Original OSM
+Routenpunkt (Way);Saupfercheckweg;49.3899316;8.7050714;50;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3800764;8.7245456;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3800358;8.7244527;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3800103;8.7243893;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3799899;8.7243345;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3799742;8.7242866;100;Original OSM
+Routenpunkt (Way);Drei-Eichen-Weg;49.3799676;8.7242663;100;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.3816469;8.7202596;50;Original OSM
+Routenpunkt (Way);Gaiberger Weg;49.38172503333333;8.720126433333334;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.38180316666667;8.719993266666666;50;Interpoliert
+Routenpunkt (Way);Gaiberger Weg;49.3818813;8.7198601;50;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3939275;8.7081799;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.393980049999996;8.7083204;;Interpoliert
+Routenpunkt (Way);Kühruhweg;49.3940326;8.7084609;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3940454;8.7084989;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3940544;8.7085336;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3940616;8.7085684;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.394065;8.7086029;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3940682;8.7086575;;Original OSM
+Routenpunkt (Way);Kühruhweg;49.3940651;8.7087138;;Original OSM
+Routenpunkt (Way);Dantestraße;49.4002333;8.6910866;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4002508;8.6909883;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.400258;8.6909487;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4002652;8.6909091;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4002829;8.6907966;30;Original OSM
+Routenpunkt (Way);Dantestraße;49.4002982;8.6907072;30;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961209;8.696575;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961127;8.6965767;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961042;8.6965816;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960883;8.6965964;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960725;8.6966193;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960611;8.696645;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960525;8.696679;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960506;8.696707;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960517;8.6967367;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960594;8.6968015;;Original OSM
+Routenpunkt (Way);Steigerweg;49.396075;8.6968933;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960951;8.6970307;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961034;8.6971092;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961077;8.6971779;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961113;8.6972627;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961108;8.697329;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961091;8.6973787;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3961037;8.6974709;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960964;8.6975485;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960768;8.6977156;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960487;8.697886;;Original OSM
+Routenpunkt (Way);Steigerweg;49.3960195;8.6980356;;Original OSM

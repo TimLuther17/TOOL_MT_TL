@@ -1,0 +1,12 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Luisenplatz;49.87269;8.651549;14:17:00;14:17:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Darmstadt Schloss;49.873047;8.655609;14:20:00;14:20:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Darmstadt Jugendstilbad;49.872852;8.662104;14:22:00;14:22:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Darmstadt Elisabethenst./Woog;49.87336;8.666919;14:23:00;14:23:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Darmstadt Ostbahnhof;49.87458;8.671914;14:24:00;14:24:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Gundernhausen Aussiedlerhöfe;49.872707;8.801343;14:37:00;14:37:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Groß-Zimmern Reithalle;49.871223;8.812212;14:39:00;14:39:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Groß-Zimmern Johannes-Ohl-Str.;49.872696;8.81983;14:41:00;14:41:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Groß-Zimmern Ponthierry-Platz;49.87211;8.828122;14:42:00;14:42:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Groß-Zimmern Friedensschule;49.874084;8.830484;14:45:00;14:45:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Groß-Zimmern B.-v.-Suttner-Str;49.87858;8.830233;14:46:00;14:46:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10

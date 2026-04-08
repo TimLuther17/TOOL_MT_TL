@@ -1,0 +1,360 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Kranichstein Kesselhutweg,1;04:59:00;2;W
+1;Kranichstein Siemensstraße,1;05:01:00;2;W
+1;Darmstadt Schwarzer Weg,2;05:04:00;2;W
+1;Darmstadt Am Karlshof,2;05:06:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;05:10:00;2;W
+1;Darmstadt Schloss,3;05:12:00;2;W
+1;Darmstadt Luisenplatz,6;05:15:00;2;W
+1;Darmstadt Berliner Allee,1;05:18:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;05:21:00;2;W
+1;Darmstadt Hochschule West,12;05:22:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;05:25:00;2;W
+1;Darmstadt Haardtring,2;05:27:00;2;W
+1;Darmstadt Südbahnhof,2;05:28:00;2;W
+1;Darmstadt Pulverhäuserweg,2;05:31:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;05:34:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;05:50:00;1;W
+1;Darmstadt Pulverhäuserweg,1;05:54:00;1;W
+1;Darmstadt Südbahnhof,1;05:57:00;1;W
+1;Darmstadt Haardtring,1;05:59:00;1;W
+1;Darmstadt Holzhofallee,1;06:01:00;1;W
+1;Darmstadt Berliner Allee,2;06:05:00;1;W
+1;Darmstadt Luisenplatz,1;06:10:00;1;W
+1;Darmstadt Schloss,4;06:11:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;06:13:00;1;W
+1;Darmstadt Am Karlshof,1;06:16:00;1;W
+1;Darmstadt Schwarzer Weg,1;06:18:00;1;W
+1;Kranichstein Siemensstraße,2;06:21:00;1;W
+1;Kranichstein Kesselhutweg,1;06:24:00;1;W
+1;Kranichstein Kesselhutweg,1;06:24:00;2;W
+1;Kranichstein Siemensstraße,1;06:26:00;2;W
+1;Darmstadt Schwarzer Weg,2;06:29:00;2;W
+1;Darmstadt Am Karlshof,2;06:31:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;06:35:00;2;W
+1;Darmstadt Schloss,3;06:37:00;2;W
+1;Darmstadt Luisenplatz,6;06:40:00;2;W
+1;Darmstadt Berliner Allee,1;06:43:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;06:46:00;2;W
+1;Darmstadt Hochschule West,12;06:47:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;06:50:00;2;W
+1;Darmstadt Haardtring,2;06:52:00;2;W
+1;Darmstadt Südbahnhof,2;06:53:00;2;W
+1;Darmstadt Pulverhäuserweg,2;06:56:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;06:59:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;07:05:00;1;W
+1;Darmstadt Pulverhäuserweg,1;07:09:00;1;W
+1;Darmstadt Südbahnhof,1;07:12:00;1;W
+1;Darmstadt Haardtring,1;07:14:00;1;W
+1;Darmstadt Holzhofallee,1;07:16:00;1;W
+1;Darmstadt Berliner Allee,2;07:20:00;1;W
+1;Darmstadt Luisenplatz,1;07:25:00;1;W
+1;Darmstadt Schloss,4;07:26:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;07:28:00;1;W
+1;Darmstadt Am Karlshof,1;07:31:00;1;W
+1;Darmstadt Schwarzer Weg,1;07:33:00;1;W
+1;Kranichstein Siemensstraße,2;07:36:00;1;W
+1;Kranichstein Kesselhutweg,1;07:39:00;1;W
+1;Kranichstein Kesselhutweg,1;07:44:00;2;W
+1;Kranichstein Siemensstraße,1;07:46:00;2;W
+1;Darmstadt Schwarzer Weg,2;07:49:00;2;W
+1;Darmstadt Am Karlshof,2;07:51:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;07:55:00;2;W
+1;Darmstadt Schloss,3;07:57:00;2;W
+1;Darmstadt Luisenplatz,6;08:00:00;2;W
+1;Darmstadt Berliner Allee,1;08:03:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;08:06:00;2;W
+1;Darmstadt Hochschule West,12;08:07:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;08:10:00;2;W
+1;Darmstadt Haardtring,2;08:12:00;2;W
+1;Darmstadt Südbahnhof,2;08:13:00;2;W
+1;Darmstadt Pulverhäuserweg,2;08:16:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;08:19:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;08:25:00;1;W
+1;Darmstadt Pulverhäuserweg,1;08:29:00;1;W
+1;Darmstadt Südbahnhof,1;08:32:00;1;W
+1;Darmstadt Haardtring,1;08:34:00;1;W
+1;Darmstadt Holzhofallee,1;08:36:00;1;W
+1;Darmstadt Berliner Allee,2;08:40:00;1;W
+1;Darmstadt Luisenplatz,1;08:45:00;1;W
+1;Darmstadt Schloss,4;08:46:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;08:48:00;1;W
+1;Darmstadt Am Karlshof,1;08:51:00;1;W
+1;Darmstadt Schwarzer Weg,1;08:53:00;1;W
+1;Kranichstein Siemensstraße,2;08:56:00;1;W
+1;Kranichstein Kesselhutweg,1;08:59:00;1;W
+1;Kranichstein Kesselhutweg,1;09:04:00;2;W
+1;Kranichstein Siemensstraße,1;09:06:00;2;W
+1;Darmstadt Schwarzer Weg,2;09:09:00;2;W
+1;Darmstadt Am Karlshof,2;09:11:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;09:15:00;2;W
+1;Darmstadt Schloss,3;09:17:00;2;W
+1;Darmstadt Luisenplatz,6;09:20:00;2;W
+1;Darmstadt Berliner Allee,1;09:23:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;09:26:00;2;W
+1;Darmstadt Hochschule West,12;09:27:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;09:30:00;2;W
+1;Darmstadt Haardtring,2;09:32:00;2;W
+1;Darmstadt Südbahnhof,2;09:33:00;2;W
+1;Darmstadt Pulverhäuserweg,2;09:36:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;09:39:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;09:45:00;1;W
+1;Darmstadt Pulverhäuserweg,1;09:49:00;1;W
+1;Darmstadt Südbahnhof,1;09:52:00;1;W
+1;Darmstadt Haardtring,1;09:54:00;1;W
+1;Darmstadt Holzhofallee,1;09:56:00;1;W
+1;Darmstadt Berliner Allee,2;10:00:00;1;W
+1;Darmstadt Luisenplatz,1;10:05:00;1;W
+1;Darmstadt Schloss,4;10:06:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;10:08:00;1;W
+1;Darmstadt Am Karlshof,1;10:11:00;1;W
+1;Darmstadt Schwarzer Weg,1;10:13:00;1;W
+1;Kranichstein Siemensstraße,2;10:16:00;1;W
+1;Kranichstein Kesselhutweg,1;10:19:00;1;W
+1;Kranichstein Kesselhutweg,1;10:24:00;2;W
+1;Kranichstein Siemensstraße,1;10:26:00;2;W
+1;Darmstadt Schwarzer Weg,2;10:29:00;2;W
+1;Darmstadt Am Karlshof,2;10:31:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;10:35:00;2;W
+1;Darmstadt Schloss,3;10:37:00;2;W
+1;Darmstadt Luisenplatz,6;10:40:00;2;W
+1;Darmstadt Berliner Allee,1;10:43:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;10:46:00;2;W
+1;Darmstadt Hochschule West,12;10:47:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;10:50:00;2;W
+1;Darmstadt Haardtring,2;10:52:00;2;W
+1;Darmstadt Südbahnhof,2;10:53:00;2;W
+1;Darmstadt Pulverhäuserweg,2;10:56:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;10:59:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;11:05:00;1;W
+1;Darmstadt Pulverhäuserweg,1;11:09:00;1;W
+1;Darmstadt Südbahnhof,1;11:12:00;1;W
+1;Darmstadt Haardtring,1;11:14:00;1;W
+1;Darmstadt Holzhofallee,1;11:16:00;1;W
+1;Darmstadt Berliner Allee,2;11:20:00;1;W
+1;Darmstadt Luisenplatz,1;11:25:00;1;W
+1;Darmstadt Schloss,4;11:26:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;11:28:00;1;W
+1;Darmstadt Am Karlshof,1;11:31:00;1;W
+1;Darmstadt Schwarzer Weg,1;11:33:00;1;W
+1;Kranichstein Siemensstraße,2;11:36:00;1;W
+1;Kranichstein Kesselhutweg,1;11:39:00;1;W
+1;Kranichstein Kesselhutweg,1;11:44:00;2;W
+1;Kranichstein Siemensstraße,1;11:46:00;2;W
+1;Darmstadt Schwarzer Weg,2;11:49:00;2;W
+1;Darmstadt Am Karlshof,2;11:51:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;11:55:00;2;W
+1;Darmstadt Schloss,3;11:57:00;2;W
+1;Darmstadt Luisenplatz,6;12:00:00;2;W
+1;Darmstadt Berliner Allee,1;12:03:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;12:06:00;2;W
+1;Darmstadt Hochschule West,12;12:07:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;12:10:00;2;W
+1;Darmstadt Haardtring,2;12:12:00;2;W
+1;Darmstadt Südbahnhof,2;12:13:00;2;W
+1;Darmstadt Pulverhäuserweg,2;12:16:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;12:19:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;12:25:00;1;W
+1;Darmstadt Pulverhäuserweg,1;12:29:00;1;W
+1;Darmstadt Südbahnhof,1;12:32:00;1;W
+1;Darmstadt Haardtring,1;12:34:00;1;W
+1;Darmstadt Holzhofallee,1;12:36:00;1;W
+1;Darmstadt Berliner Allee,2;12:40:00;1;W
+1;Darmstadt Luisenplatz,1;12:45:00;1;W
+1;Darmstadt Schloss,4;12:46:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;12:48:00;1;W
+1;Darmstadt Am Karlshof,1;12:51:00;1;W
+1;Darmstadt Schwarzer Weg,1;12:53:00;1;W
+1;Kranichstein Siemensstraße,2;12:56:00;1;W
+1;Kranichstein Kesselhutweg,1;12:59:00;1;W
+1;Kranichstein Kesselhutweg,1;13:04:00;2;W
+1;Kranichstein Siemensstraße,1;13:06:00;2;W
+1;Darmstadt Schwarzer Weg,2;13:09:00;2;W
+1;Darmstadt Am Karlshof,2;13:11:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;13:15:00;2;W
+1;Darmstadt Schloss,3;13:17:00;2;W
+1;Darmstadt Luisenplatz,6;13:20:00;2;W
+1;Darmstadt Berliner Allee,1;13:23:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;13:26:00;2;W
+1;Darmstadt Hochschule West,12;13:27:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;13:30:00;2;W
+1;Darmstadt Haardtring,2;13:32:00;2;W
+1;Darmstadt Südbahnhof,2;13:33:00;2;W
+1;Darmstadt Pulverhäuserweg,2;13:36:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;13:39:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;13:45:00;1;W
+1;Darmstadt Pulverhäuserweg,1;13:49:00;1;W
+1;Darmstadt Südbahnhof,1;13:52:00;1;W
+1;Darmstadt Haardtring,1;13:54:00;1;W
+1;Darmstadt Holzhofallee,1;13:56:00;1;W
+1;Darmstadt Berliner Allee,2;14:00:00;1;W
+1;Darmstadt Luisenplatz,1;14:05:00;1;W
+1;Darmstadt Schloss,4;14:06:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;14:08:00;1;W
+1;Darmstadt Am Karlshof,1;14:11:00;1;W
+1;Darmstadt Schwarzer Weg,1;14:13:00;1;W
+1;Kranichstein Siemensstraße,2;14:16:00;1;W
+1;Kranichstein Kesselhutweg,1;14:19:00;1;W
+1;Kranichstein Kesselhutweg,1;14:24:00;2;W
+1;Kranichstein Siemensstraße,1;14:26:00;2;W
+1;Darmstadt Schwarzer Weg,2;14:29:00;2;W
+1;Darmstadt Am Karlshof,2;14:31:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;14:35:00;2;W
+1;Darmstadt Schloss,3;14:37:00;2;W
+1;Darmstadt Luisenplatz,6;14:40:00;2;W
+1;Darmstadt Berliner Allee,1;14:43:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;14:46:00;2;W
+1;Darmstadt Hochschule West,12;14:47:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;14:50:00;2;W
+1;Darmstadt Haardtring,2;14:52:00;2;W
+1;Darmstadt Südbahnhof,2;14:53:00;2;W
+1;Darmstadt Pulverhäuserweg,2;14:56:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;14:59:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;15:05:00;1;W
+1;Darmstadt Pulverhäuserweg,1;15:09:00;1;W
+1;Darmstadt Südbahnhof,1;15:12:00;1;W
+1;Darmstadt Haardtring,1;15:14:00;1;W
+1;Darmstadt Holzhofallee,1;15:16:00;1;W
+1;Darmstadt Berliner Allee,2;15:20:00;1;W
+1;Darmstadt Luisenplatz,1;15:25:00;1;W
+1;Darmstadt Schloss,4;15:26:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;15:28:00;1;W
+1;Darmstadt Am Karlshof,1;15:31:00;1;W
+1;Darmstadt Schwarzer Weg,1;15:33:00;1;W
+1;Kranichstein Siemensstraße,2;15:36:00;1;W
+1;Kranichstein Kesselhutweg,1;15:39:00;1;W
+1;Kranichstein Kesselhutweg,1;15:44:00;2;W
+1;Kranichstein Siemensstraße,1;15:46:00;2;W
+1;Darmstadt Schwarzer Weg,2;15:49:00;2;W
+1;Darmstadt Am Karlshof,2;15:51:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;15:55:00;2;W
+1;Darmstadt Schloss,3;15:57:00;2;W
+1;Darmstadt Luisenplatz,6;16:00:00;2;W
+1;Darmstadt Berliner Allee,1;16:03:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;16:06:00;2;W
+1;Darmstadt Hochschule West,12;16:07:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;16:10:00;2;W
+1;Darmstadt Haardtring,2;16:12:00;2;W
+1;Darmstadt Südbahnhof,2;16:13:00;2;W
+1;Darmstadt Pulverhäuserweg,2;16:16:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;16:19:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;16:25:00;1;W
+1;Darmstadt Pulverhäuserweg,1;16:29:00;1;W
+1;Darmstadt Südbahnhof,1;16:32:00;1;W
+1;Darmstadt Haardtring,1;16:34:00;1;W
+1;Darmstadt Holzhofallee,1;16:36:00;1;W
+1;Darmstadt Berliner Allee,2;16:40:00;1;W
+1;Darmstadt Luisenplatz,1;16:45:00;1;W
+1;Darmstadt Schloss,4;16:46:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;16:48:00;1;W
+1;Darmstadt Am Karlshof,1;16:51:00;1;W
+1;Darmstadt Schwarzer Weg,1;16:53:00;1;W
+1;Kranichstein Siemensstraße,2;16:56:00;1;W
+1;Kranichstein Kesselhutweg,1;16:59:00;1;W
+1;Kranichstein Kesselhutweg,1;17:04:00;2;W
+1;Kranichstein Siemensstraße,1;17:06:00;2;W
+1;Darmstadt Schwarzer Weg,2;17:09:00;2;W
+1;Darmstadt Am Karlshof,2;17:11:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;17:15:00;2;W
+1;Darmstadt Schloss,3;17:17:00;2;W
+1;Darmstadt Luisenplatz,6;17:20:00;2;W
+1;Darmstadt Berliner Allee,1;17:23:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;17:26:00;2;W
+1;Darmstadt Hochschule West,12;17:27:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;17:30:00;2;W
+1;Darmstadt Haardtring,2;17:32:00;2;W
+1;Darmstadt Südbahnhof,2;17:33:00;2;W
+1;Darmstadt Pulverhäuserweg,2;17:36:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;17:39:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;17:45:00;1;W
+1;Darmstadt Pulverhäuserweg,1;17:49:00;1;W
+1;Darmstadt Südbahnhof,1;17:52:00;1;W
+1;Darmstadt Haardtring,1;17:54:00;1;W
+1;Darmstadt Holzhofallee,1;17:56:00;1;W
+1;Darmstadt Berliner Allee,2;18:00:00;1;W
+1;Darmstadt Luisenplatz,1;18:05:00;1;W
+1;Darmstadt Schloss,4;18:06:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;18:08:00;1;W
+1;Darmstadt Am Karlshof,1;18:11:00;1;W
+1;Darmstadt Schwarzer Weg,1;18:13:00;1;W
+1;Kranichstein Siemensstraße,2;18:16:00;1;W
+1;Kranichstein Kesselhutweg,1;18:19:00;1;W
+1;Kranichstein Kesselhutweg,1;18:24:00;2;W
+1;Kranichstein Siemensstraße,1;18:26:00;2;W
+1;Darmstadt Schwarzer Weg,2;18:29:00;2;W
+1;Darmstadt Am Karlshof,2;18:31:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;18:35:00;2;W
+1;Darmstadt Schloss,3;18:37:00;2;W
+1;Darmstadt Luisenplatz,6;18:40:00;2;W
+1;Darmstadt Berliner Allee,1;18:43:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;18:46:00;2;W
+1;Darmstadt Hochschule West,12;18:47:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;18:50:00;2;W
+1;Darmstadt Haardtring,2;18:52:00;2;W
+1;Darmstadt Südbahnhof,2;18:53:00;2;W
+1;Darmstadt Pulverhäuserweg,2;18:56:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;18:59:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;19:10:00;1;W
+1;Darmstadt Pulverhäuserweg,1;19:14:00;1;W
+1;Darmstadt Südbahnhof,1;19:17:00;1;W
+1;Darmstadt Haardtring,1;19:19:00;1;W
+1;Darmstadt Holzhofallee,1;19:21:00;1;W
+1;Darmstadt Berliner Allee,2;19:25:00;1;W
+1;Darmstadt Luisenplatz,1;19:30:00;1;W
+1;Darmstadt Schloss,4;19:31:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;19:33:00;1;W
+1;Darmstadt Am Karlshof,1;19:36:00;1;W
+1;Darmstadt Schwarzer Weg,1;19:38:00;1;W
+1;Kranichstein Siemensstraße,2;19:41:00;1;W
+1;Kranichstein Kesselhutweg,1;19:44:00;1;W
+1;Kranichstein Kesselhutweg,1;19:59:00;2;W
+1;Kranichstein Siemensstraße,1;20:01:00;2;W
+1;Darmstadt Schwarzer Weg,2;20:04:00;2;W
+1;Darmstadt Am Karlshof,2;20:06:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;20:10:00;2;W
+1;Darmstadt Schloss,3;20:12:00;2;W
+1;Darmstadt Luisenplatz,6;20:15:00;2;W
+1;Darmstadt Berliner Allee,1;20:18:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;20:21:00;2;W
+1;Darmstadt Hochschule West,12;20:22:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;20:25:00;2;W
+1;Darmstadt Haardtring,2;20:27:00;2;W
+1;Darmstadt Südbahnhof,2;20:28:00;2;W
+1;Darmstadt Pulverhäuserweg,2;20:31:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;20:34:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;20:40:00;1;W
+1;Darmstadt Pulverhäuserweg,1;20:44:00;1;W
+1;Darmstadt Südbahnhof,1;20:47:00;1;W
+1;Darmstadt Haardtring,1;20:49:00;1;W
+1;Darmstadt Holzhofallee,1;20:51:00;1;W
+1;Darmstadt Berliner Allee,2;20:55:00;1;W
+1;Darmstadt Luisenplatz,1;21:00:00;1;W
+1;Darmstadt Schloss,4;21:01:00;1;W
+1;Darmstadt Alexanderstraße/TU,1;21:03:00;1;W
+1;Darmstadt Am Karlshof,1;21:06:00;1;W
+1;Darmstadt Schwarzer Weg,1;21:08:00;1;W
+1;Kranichstein Siemensstraße,2;21:11:00;1;W
+1;Kranichstein Kesselhutweg,1;21:14:00;1;W
+1;Kranichstein Kesselhutweg,1;21:29:00;2;W
+1;Kranichstein Siemensstraße,1;21:31:00;2;W
+1;Darmstadt Schwarzer Weg,2;21:34:00;2;W
+1;Darmstadt Am Karlshof,2;21:36:00;2;W
+1;Darmstadt Alexanderstraße/TU,2;21:40:00;2;W
+1;Darmstadt Schloss,3;21:42:00;2;W
+1;Darmstadt Luisenplatz,6;21:45:00;2;W
+1;Darmstadt Berliner Allee,1;21:48:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;21:51:00;2;W
+1;Darmstadt Hochschule West,12;21:52:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;21:55:00;2;W
+1;Darmstadt Haardtring,2;21:57:00;2;W
+1;Darmstadt Südbahnhof,2;21:58:00;2;W
+1;Darmstadt Pulverhäuserweg,2;22:01:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;22:04:00;2;W
+1;Darmstadt Anne-Frank-Straße,2;22:10:00;1;W
+1;Darmstadt Pulverhäuserweg,1;22:14:00;1;W
+1;Darmstadt Südbahnhof,1;22:17:00;1;W
+1;Darmstadt Haardtring,1;22:19:00;1;W
+1;Darmstadt Holzhofallee,1;22:21:00;1;W
+1;Darmstadt Berliner Allee,2;22:25:00;1;W
+1;Darmstadt Luisenplatz,1;22:30:00;1;W
+1;Darmstadt Schloss,4;22:31:00;1;W

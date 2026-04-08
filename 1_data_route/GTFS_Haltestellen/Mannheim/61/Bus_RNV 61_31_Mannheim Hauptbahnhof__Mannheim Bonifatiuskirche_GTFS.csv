@@ -1,0 +1,17 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Mannheim, Hauptbahnhof;49.480343;8.47052;20:21:00;20:21:00;Kein Umlauf;Sa,So;1318;Stop Seq 0
+Haltestelle;Mannheim, Universität;49.482918;8.465571;20:23:00;20:23:00;Kein Umlauf;Sa,So;1318;Stop Seq 1
+Haltestelle;Mannheim, Schloss;49.48468;8.462498;20:25:00;20:25:00;Kein Umlauf;Sa,So;1318;Stop Seq 2
+Haltestelle;Mannheim, Universität West;49.48695;8.45736;20:26:00;20:26:00;Kein Umlauf;Sa,So;1318;Stop Seq 3
+Haltestelle;Mannheim, Akademiestraße;49.492504;8.456812;20:27:00;20:27:00;Kein Umlauf;Sa,So;1318;Stop Seq 4
+Haltestelle;Mannheim, Teufelsbrücke;49.494022;8.457099;20:28:00;20:28:00;Kein Umlauf;Sa,So;1318;Stop Seq 5
+Haltestelle;Mannheim, Popakademie;49.49704;8.457647;20:29:00;20:29:00;Kein Umlauf;Sa,So;1318;Stop Seq 6
+Haltestelle;Mannheim, Am Salzkai;49.496426;8.460827;20:30:00;20:30:00;Kein Umlauf;Sa,So;1318;Stop Seq 7
+Haltestelle;Neckarstadt West;49.503864;8.46063;20:33:00;20:33:00;Kein Umlauf;Sa,So;1318;Stop Seq 8
+Haltestelle;Mannheim, Zeppelinstraße;49.505676;8.464349;20:35:00;20:35:00;Kein Umlauf;Sa,So;1318;Stop Seq 9
+Haltestelle;Mannheim, Neuer Meßplatz;49.505356;8.470008;20:37:00;20:37:00;Kein Umlauf;Sa,So;1318;Stop Seq 10
+Haltestelle;Mannheim, Herzogenriedbad;49.503956;8.476638;20:39:00;20:39:00;Kein Umlauf;Sa,So;1318;Stop Seq 11
+Haltestelle;Mannheim, Max-Joseph-Straße;49.49964;8.476243;20:41:00;20:41:00;Kein Umlauf;Sa,So;1318;Stop Seq 12
+Haltestelle;Mannheim, Ida-Scipio-Heim;49.499084;8.481507;20:42:00;20:42:00;Kein Umlauf;Sa,So;1318;Stop Seq 13
+Haltestelle;Mannheim, Moselstraße;49.498775;8.483609;20:43:00;20:43:00;Kein Umlauf;Sa,So;1318;Stop Seq 14
+Haltestelle;Mannheim, Bonifatiuskirche;49.49807;8.489295;20:45:00;20:45:00;Kein Umlauf;Sa,So;1318;Stop Seq 15

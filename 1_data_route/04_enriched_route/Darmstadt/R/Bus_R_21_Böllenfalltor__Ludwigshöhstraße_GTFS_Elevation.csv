@@ -1,0 +1,127 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%)
+Routenpunkt (Way);T;Böllenfalltor;49.85259;8.669732849999999;;;;;;;Interpoliert;194.8;1.14
+Haltestelle;W;Darmstadt Böllenfalltor;49.85259;8.669732849999999;;07:14:00;07:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 21m) | Auf Route gesnappt (1m);195.5;0.86
+Routenpunkt (Way);T;Böllenfalltor;49.852576685;8.66993561;;;;;;;Original OSM;196.0;0.68
+Routenpunkt (Way);T;;49.85248104555556;8.669998717777776;;;;;;;Interpoliert (15m);196.0;0.68
+Routenpunkt (Way);T;;49.85238540611111;8.670061825555555;;;;;;;Interpoliert (15m);196.0;1.41
+Routenpunkt (Way);T;Klappacher Straße;49.85228976666667;8.670124933333332;50.0;;;;;;Original OSM;196.0;1.46
+Routenpunkt (Way);T;;49.852270233333336;8.670014291666664;50.0;;;;;;Interpoliert (15m);196.3;1.87
+Routenpunkt (Way);T;Klappacher Straße;49.8522507;8.669903649999998;50.0;;;;;;Interpoliert;196.6;1.87
+Routenpunkt (Way);T;Klappacher Straße;49.8522157;8.6697081;50.0;;;;;;Original OSM;196.9;1.41
+Routenpunkt (Way);T;Klappacher Straße;49.85218381428572;8.669531757142856;50.0;;;;;;Interpoliert;196.9;0.23
+Routenpunkt (Way);T;Klappacher Straße;49.85215192857143;8.669355414285715;50.0;;;;;;Interpoliert;196.6;-1.42
+Routenpunkt (Way);T;Klappacher Straße;49.852120042857145;8.669179071428571;50.0;;;;;;Interpoliert;196.3;-2.28
+Routenpunkt (Way);T;Klappacher Straße;49.85208815714286;8.669002728571428;50.0;;;;;;Interpoliert;195.7;-2.74
+Routenpunkt (Way);T;Klappacher Straße;49.85205627142857;8.668826385714285;50.0;;;;;;Interpoliert;195.4;-2.74
+Routenpunkt (Way);T;Klappacher Straße;49.85202438571429;8.668650042857143;50.0;;;;;;Interpoliert;195.1;-2.7
+Routenpunkt (Way);T;Klappacher Straße;49.8519925;8.6684737;50.0;;;;;;Original OSM;194.8;-2.91
+Routenpunkt (Way);T;Klappacher Straße;49.851957850000005;8.6682818375;50.0;;;;;;Interpoliert;194.5;-3.57
+Routenpunkt (Way);T;Klappacher Straße;49.8519232;8.668089975000001;50.0;;;;;;Interpoliert;193.7;-4.24
+Routenpunkt (Way);T;Klappacher Straße;49.85188855;8.6678981125;50.0;;;;;;Interpoliert;192.9;-4.9
+Routenpunkt (Way);T;Klappacher Straße;49.8518539;8.66770625;50.0;;;;;;Interpoliert;192.1;-5.6
+Routenpunkt (Way);T;Klappacher Straße;49.851819250000005;8.6675143875;50.0;;;;;;Interpoliert;191.3;-5.18
+Routenpunkt (Way);T;Klappacher Straße;49.8517846;8.667322525;50.0;;;;;;Interpoliert;190.5;-2.84
+Routenpunkt (Way);T;Klappacher Straße;49.85174995;8.6671306625;50.0;;;;;;Interpoliert;190.0;-0.51
+Routenpunkt (Way);T;;49.85172915;8.66702065625;50.0;;;;;;Interpoliert (15m);190.5;1.91
+Routenpunkt (Way);T;Klappacher Straße;49.85170835;8.66691065;50.0;;;;;;Original OSM;191.0;4.33
+Routenpunkt (Way);T;;49.8516875375;8.666808012499999;50.0;;;;;;Interpoliert (15m);191.5;6.38
+Routenpunkt (Way);T;Klappacher Straße;49.851666725;8.666705375;50.0;;;;;;Interpoliert;192.0;6.52
+Routenpunkt (Way);T;Klappacher Straße;49.851632050000006;8.666528249999999;50.0;;;;;;Interpoliert;192.9;6.66
+Routenpunkt (Way);T;Klappacher Straße;49.851597375;8.666351125;50.0;;;;;;Interpoliert;193.8;6.68
+Routenpunkt (Way);T;Klappacher Straße;49.8515627;8.666174;50.0;;;;;;Original OSM;194.7;6.71
+Routenpunkt (Way);T;Klappacher Straße;49.85152957272727;8.665990672727272;50.0;;;;;;Interpoliert;195.6;6.67
+Routenpunkt (Way);T;Klappacher Straße;49.85149644545455;8.665807345454546;50.0;;;;;;Interpoliert;196.5;5.17
+Routenpunkt (Way);T;Klappacher Straße;49.85146331818182;8.665624018181818;50.0;;;;;;Interpoliert;197.4;3.66
+Routenpunkt (Way);T;Klappacher Straße;49.85143019090909;8.66544069090909;50.0;;;;;;Interpoliert;197.3;2.2
+Routenpunkt (Way);T;Klappacher Straße;49.85139706363636;8.665257363636364;50.0;;;;;;Interpoliert;197.2;0.73
+Routenpunkt (Way);T;Klappacher Straße;49.85136393636364;8.665074036363636;50.0;;;;;;Interpoliert;197.1;-1.03
+Routenpunkt (Way);T;Klappacher Straße;49.85133080909091;8.66489070909091;50.0;;;;;;Interpoliert;197.0;-1.32
+Routenpunkt (Way);T;Klappacher Straße;49.85129768181818;8.664707381818182;50.0;;;;;;Interpoliert;196.7;-1.61
+Routenpunkt (Way);T;Klappacher Straße;49.85126455454545;8.664524054545454;50.0;;;;;;Interpoliert;196.4;-2.02
+Routenpunkt (Way);T;Klappacher Straße;49.85123142727273;8.664340727272728;50.0;;;;;;Interpoliert;196.1;-2.43
+Routenpunkt (Way);T;;49.85120501363636;8.664195663636365;50.0;;;;;;Interpoliert (15m);195.8;-3.14
+Routenpunkt (Way);T;Klappacher Straße;49.8511786;8.664050600000001;50.0;;;;;;Original OSM;195.5;-3.84
+Routenpunkt (Way);T;;49.851159275;8.663907625;50.0;;;;;;Interpoliert (15m);194.9;-4.32
+Routenpunkt (Way);T;Klappacher Straße;49.85113995;8.663764650000001;50.0;;;;;;Interpoliert;194.3;-4.88
+Routenpunkt (Way);T;Klappacher Straße;49.851121;8.6635855;50.0;;;;;;Original OSM;193.7;-5.43
+Routenpunkt (Way);T;Klappacher Straße;49.85111405;8.66343485;50.0;;;;;;Interpoliert;193.1;-4.86
+Routenpunkt (Way);T;Klappacher Straße;49.8511071;8.6632842;50.0;;;;;;Original OSM;192.5;-5.16
+Routenpunkt (Way);T;Klappacher Straße;49.8511085;8.6631383;50.0;;;;;;Interpoliert;192.2;-5.69
+Routenpunkt (Way);T;;49.85110568888889;8.662945927777777;50.0;;;;;;Interpoliert (15m);191.2;-7.21
+Routenpunkt (Way);T;Klappacher Straße;49.85110287777778;8.662753555555556;50.0;;;;;;Original OSM;190.2;-8.73
+Routenpunkt (Way);T;;49.85111218888889;8.662648427777778;50.0;;;;;;Interpoliert (15m);189.2;-9.36
+Haltestelle;W;Darmstadt Marienhospital;49.8511215;8.6625433;50.0;07:15:00;07:15:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (5m);188.2;-10.95
+Routenpunkt (Way);T;Marienhospital;49.851115025;8.662381125000001;;;;;;;Original OSM;187.5;-12.55
+Routenpunkt (Way);T;;49.8511429375;8.662280012500002;;;;;;;Interpoliert (15m);186.3;-12.18
+Routenpunkt (Way);T;Klappacher Straße;49.85117085;8.6621789;50.0;;;;;;Interpoliert;185.1;-11.2
+Routenpunkt (Way);T;Klappacher Straße;49.8511945;8.6620353;50.0;;;;;;Original OSM;183.9;-11.66
+Routenpunkt (Way);T;Klappacher Straße;49.85122895;8.661840349999999;50.0;;;;;;Interpoliert;182.7;-9.3
+Routenpunkt (Way);T;Klappacher Straße;49.8512634;8.6616454;50.0;;;;;;Interpoliert;181.5;-7.01
+Routenpunkt (Way);T;Klappacher Straße;49.85129785;8.66145045;50.0;;;;;;Interpoliert;181.0;-5.49
+Routenpunkt (Way);T;;49.85132946875;8.66127005;50.0;;;;;;Interpoliert (15m);180.5;-4.74
+Routenpunkt (Way);T;Klappacher Straße;49.8513610875;8.661089650000001;50.0;;;;;;Original OSM;180.0;-3.98
+Routenpunkt (Way);T;;49.85138606041667;8.660939241666668;50.0;;;;;;Interpoliert (15m);179.5;-3.29
+Routenpunkt (Way);T;Klappacher Straße;49.851411033333335;8.660788833333333;50.0;;;;;;Interpoliert;179.0;-2.99
+Routenpunkt (Way);T;Klappacher Straße;49.85143386666667;8.660649866666667;50.0;;;;;;Interpoliert;179.0;-2.69
+Routenpunkt (Way);T;;49.85145385833333;8.660528233333334;50.0;;;;;;Interpoliert (15m);178.8;-2.17
+Routenpunkt (Way);T;Klappacher Straße;49.85147385;8.6604066;50.0;;;;;;Original OSM;178.6;-1.66
+Routenpunkt (Way);T;;49.8514965;8.6602671375;50.0;;;;;;Interpoliert (15m);178.4;-1.97
+Routenpunkt (Way);T;Klappacher Straße;49.85151915;8.660127675;50.0;;;;;;Interpoliert;178.2;-2.31
+Routenpunkt (Way);T;Klappacher Straße;49.8515473;8.659953049999999;50.0;;;;;;Interpoliert;178.0;-2.64
+Routenpunkt (Way);T;Klappacher Straße;49.85157545;8.659778424999999;50.0;;;;;;Interpoliert;177.5;-3.21
+Routenpunkt (Way);T;Klappacher Straße;49.8516036;8.6596038;50.0;;;;;;Original OSM;177.0;-3.79
+Routenpunkt (Way);T;Klappacher Straße;49.85163;8.659465149999999;50.0;;;;;;Interpoliert;176.5;-4.29
+Routenpunkt (Way);T;Klappacher Straße;49.8516564;8.6593265;50.0;;;;;;Original OSM;176.0;-4.0
+Routenpunkt (Way);T;Klappacher Straße;49.8516918;8.65916355;50.0;;;;;;Interpoliert;175.5;-3.81
+Routenpunkt (Way);T;Klappacher Straße;49.8517272;8.6590006;50.0;;;;;;Original OSM;175.2;-3.62
+Routenpunkt (Way);T;Klappacher Straße;49.8517722;8.658875;50.0;;;;;;Interpoliert;174.9;-3.39
+Routenpunkt (Way);T;Klappacher Straße;49.8518172;8.658749400000001;50.0;;;;;;Interpoliert;174.5;-3.31
+Routenpunkt (Way);T;;49.85187332;8.658623810000002;50.0;;;;;;Interpoliert (15m);174.1;-2.98
+Routenpunkt (Way);T;Klappacher Straße;49.85192944;8.65849822;50.0;;;;;;Original OSM;173.7;-2.4
+Routenpunkt (Way);T;;49.852019895;8.658394035;50.0;;;;;;Interpoliert (15m);173.6;-1.62
+Routenpunkt (Way);T;Klappacher Straße;49.85211035;8.65828985;50.0;;;;;;Interpoliert;173.6;-0.89
+Routenpunkt (Way);T;Klappacher Straße;49.8522063;8.6581973;50.0;;;;;;Original OSM;173.6;-0.16
+Routenpunkt (Way);T;Klappacher Straße;49.85230704;8.65811132;50.0;;;;;;Interpoliert;173.6;0.0
+Routenpunkt (Way);T;Klappacher Straße;49.85240778;8.65802534;50.0;;;;;;Interpoliert;173.6;0.0
+Routenpunkt (Way);T;Klappacher Straße;49.85250852;8.657939359999999;50.0;;;;;;Interpoliert;173.6;0.0
+Routenpunkt (Way);T;Klappacher Straße;49.85260926;8.657853379999999;50.0;;;;;;Interpoliert;173.6;0.0
+Routenpunkt (Way);T;Klappacher Straße;49.85271;8.6577674;50.0;;;;;;Original OSM;173.6;0.0
+Routenpunkt (Way);T;Klappacher Straße;49.85279715;8.65769135;50.0;;;;;;Interpoliert;173.6;0.0
+Routenpunkt (Way);T;;49.852884842424245;8.657603354545454;50.0;;;;;;Interpoliert (15m);173.6;0.0
+Routenpunkt (Way);T;;49.85297253484848;8.65751535909091;50.0;;;;;;Interpoliert (15m);173.6;0.0
+Routenpunkt (Way);T;Klappacher Straße;49.85306022727273;8.657427363636364;50.0;;;;;;Original OSM;173.6;0.0
+Haltestelle;W;Darmstadt Klappacher Straße;49.8531677;8.6573646;50.0;07:16:00;07:16:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 0m) | Auf Route gesnappt (0m);173.6;0.0
+Routenpunkt (Way);T;Klappacher Straße;49.8532171;8.6573211;50.0;;;;;;Original OSM;173.6;0.0
+Routenpunkt (Way);T;Klappacher Straße;49.853321175000005;8.6572291;50.0;;;;;;Interpoliert;173.6;-0.3
+Routenpunkt (Way);T;Klappacher Straße;49.85342525;8.6571371;50.0;;;;;;Interpoliert;173.6;-0.48
+Routenpunkt (Way);T;Klappacher Straße;49.853529325;8.657045100000001;50.0;;;;;;Interpoliert;173.4;-0.66
+Routenpunkt (Way);T;;49.8536161;8.656968975000002;50.0;;;;;;Interpoliert (15m);173.3;-0.84
+Routenpunkt (Way);T;Klappacher Straße;49.853702875;8.65689285;50.0;;;;;;Original OSM;173.2;-1.03
+Routenpunkt (Way);T;Landskronstraße;49.853699633333335;8.656734266666666;30.0;;;;;;Interpoliert;173.1;-1.13
+Routenpunkt (Way);T;Landskronstraße;49.85365376666667;8.656612233333334;30.0;;;;;;Interpoliert;173.0;-1.26
+Routenpunkt (Way);T;Landskronstraße;49.8536079;8.6564902;30.0;;;;;;Original OSM;172.8;-1.39
+Routenpunkt (Way);T;Landskronstraße;49.853556;8.65633075;30.0;;;;;;Interpoliert;172.6;-1.61
+Routenpunkt (Way);T;Landskronstraße;49.8535041;8.6561713;30.0;;;;;;Original OSM;172.4;-1.81
+Routenpunkt (Way);T;Landskronstraße;49.853483;8.656033650000001;30.0;;;;;;Interpoliert;172.2;-1.41
+Routenpunkt (Way);T;Landskronstraße;49.8534619;8.655896;30.0;;;;;;Original OSM;172.0;-1.1
+Routenpunkt (Way);T;Landskronstraße;49.853459125;8.655694975;30.0;;;;;;Interpoliert;172.0;-0.79
+Routenpunkt (Way);T;Landskronstraße;49.85345635;8.65549395;30.0;;;;;;Interpoliert;172.0;-0.39
+Routenpunkt (Way);T;Landskronstraße;49.853453575;8.655292925000001;30.0;;;;;;Interpoliert;172.0;0.0
+Routenpunkt (Way);T;;49.85344241666667;8.655114191666668;30.0;;;;;;Interpoliert (15m);172.0;0.0
+Routenpunkt (Way);T;Landskronstraße;49.85343125833333;8.654935458333334;30.0;;;;;;Original OSM;172.0;0.0
+Routenpunkt (Way);T;;49.85342557916667;8.654797379166666;30.0;;;;;;Interpoliert (15m);172.0;-0.46
+Routenpunkt (Way);T;Landskronstraße;49.8534199;8.654659299999999;30.0;;;;;;Interpoliert;172.0;-0.93
+Routenpunkt (Way);T;;49.85342696666667;8.654539666666665;30.0;;;;;;Interpoliert (15m);171.8;-1.37
+Routenpunkt (Way);T;Landskronstraße;49.853434033333336;8.654420033333333;30.0;;;;;;Original OSM;171.6;-1.81
+Routenpunkt (Way);T;;49.85343500416667;8.654293679166667;30.0;;;;;;Interpoliert (15m);171.4;-2.08
+Routenpunkt (Way);T;Landskronstraße;49.853435975;8.654167325;30.0;;;;;;Interpoliert;171.2;-1.88
+Routenpunkt (Way);T;Landskronstraße;49.85343245;8.653959050000001;30.0;;;;;;Interpoliert;171.0;-1.69
+Routenpunkt (Way);T;Landskronstraße;49.853428925;8.653750775;30.0;;;;;;Interpoliert;170.8;-1.52
+Routenpunkt (Way);T;Landskronstraße;49.8534254;8.6535425;30.0;;;;;;Original OSM;170.6;-1.36
+Routenpunkt (Way);T;Landskronstraße;49.8534236;8.65334005;30.0;;;;;;Interpoliert;170.4;-1.55
+Routenpunkt (Way);T;Ludwigshöhstraße (Bussteig Südseite);49.853383;8.653150166666668;;;;;;;Original OSM;170.2;-1.28
+Routenpunkt (Way);T;;49.85338170714286;8.653028140476192;;;;;;;Interpoliert (15m);170.0;-1.01
+Routenpunkt (Way);T;Ludwigshöhstraße (Bussteig Südseite);49.85338041428571;8.652906114285715;;;;;;;Interpoliert;170.0;-0.74
+Routenpunkt (Way);T;Landskronstraße;49.8534201;8.6527355;30.0;;;;;;Original OSM;170.0;-0.46
+Routenpunkt (Way);T;Landskronstraße;49.8534187;8.652556800000001;30.0;;;;;;Interpoliert;170.0;0.0
+Haltestelle;W;Darmstadt Ludwigshöhstraße;49.8534187;8.652556800000001;30.0;07:17:00;07:17:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (5m);170.0;0.0

@@ -1,0 +1,182 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%)
+Routenpunkt (Way);T;Speyerer Straße;49.3981089;8.6737037;50.0;;;;;;Original OSM;111.0;0.0
+Haltestelle;W;Rohrbach, Süd;49.3981089;8.6737037;50.0;10:09:00;10:09:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 3768m) | Auf Route gesnappt (3748m);111.0;0.0
+Haltestelle;W;Rohrbach, Freiburger Straße;49.3981089;8.6737037;50.0;10:11:00;10:11:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 2905m) | Auf Route gesnappt (2905m);111.0;0.0
+Haltestelle;W;Rohrbach, Ortenauer Straße;49.3981089;8.6737037;50.0;10:13:00;10:13:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 2580m) | Auf Route gesnappt (2580m);111.0;0.0
+Haltestelle;W;Rohrbach, Markt;49.3981089;8.6737037;50.0;10:14:00;10:14:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 2221m) | Auf Route gesnappt (2221m);111.0;-0.17
+Haltestelle;W;Rohrbach, Eichendorffplatz;49.3981089;8.6737037;50.0;10:15:00;10:15:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 2043m) | Auf Route gesnappt (2043m);110.9;-0.43
+Routenpunkt (Way);T;Speyerer Straße;49.3981759;8.673826550000001;50.0;;;;;;Original OSM;110.8;-0.58
+Ampel;A;Ampel;49.3982216;8.6739085;50.0;;;;;;Original OSM;110.7;-0.75
+Routenpunkt (Way);T;Speyerer Straße;49.3982945;8.6740456;50.0;;;;;;Interpoliert;110.6;-0.91
+Routenpunkt (Way);T;;49.39836385;8.674175616666666;50.0;;;;;;Interpoliert (15m);110.5;-0.91
+Routenpunkt (Way);T;;49.3984332;8.674305633333335;50.0;;;;;;Interpoliert (15m);110.4;-0.27
+Routenpunkt (Way);T;Speyerer Straße;49.39850255;8.674435650000001;50.0;;;;;;Original OSM;110.3;0.27
+Routenpunkt (Way);T;;49.398561416666666;8.674548733333333;50.0;;;;;;Interpoliert (15m);110.5;0.82
+Routenpunkt (Way);T;;49.39862028333333;8.674661816666667;50.0;;;;;;Interpoliert (15m);110.7;1.39
+Routenpunkt (Way);T;Speyerer Straße;49.39867915;8.6747749;50.0;;;;;;Interpoliert;110.9;2.11
+Routenpunkt (Way);T;Speyerer Straße;49.3987624;8.6749338;50.0;;;;;;Original OSM;111.2;2.28
+Routenpunkt (Way);T;Speyerer Straße;49.3988203;8.675053066666667;50.0;;;;;;Interpoliert;111.5;2.83
+Routenpunkt (Way);T;Speyerer Straße;49.3988782;8.675172333333332;50.0;;;;;;Interpoliert;111.8;3.19
+Routenpunkt (Way);T;Speyerer Straße;49.3989361;8.6752916;50.0;;;;;;Original OSM;112.3;3.75
+Routenpunkt (Way);T;Speyerer Straße;49.3990101;8.6754407;50.0;;;;;;Interpoliert;112.8;4.17
+Routenpunkt (Way);T;;49.39906673125;8.675552731249999;50.0;;;;;;Interpoliert (15m);113.3;3.96
+Routenpunkt (Way);T;Speyerer Straße;49.3991233625;8.675664762499999;50.0;;;;;;Original OSM;113.8;3.32
+Ampel;A;Ampel;49.3991888;8.6757897;50.0;;;;;;Original OSM;114.0;2.88
+Routenpunkt (Way);T;Speyerer Straße;49.39926526666667;8.675937433333333;50.0;;;;;;Interpoliert;114.2;2.2
+Routenpunkt (Way);T;Speyerer Straße;49.39934173333333;8.676085166666667;50.0;;;;;;Interpoliert;114.4;1.55
+Routenpunkt (Way);T;Speyerer Straße;49.3994182;8.6762329;50.0;;;;;;Original OSM;114.6;1.52
+Routenpunkt (Way);T;Speyerer Straße;49.39948915;8.67636555;50.0;;;;;;Interpoliert;114.8;1.23
+Routenpunkt (Way);T;;49.399559825;8.676497675;50.0;;;;;;Interpoliert (15m);115.0;0.94
+Routenpunkt (Way);T;Speyerer Straße;49.3996305;8.676629799999999;50.0;;;;;;Interpoliert;115.0;0.48
+Routenpunkt (Way);T;Speyerer Straße;49.3997009;8.6767614;50.0;;;;;;Interpoliert;115.0;-0.01
+Routenpunkt (Way);T;;49.39977106333333;8.676890711666667;50.0;;;;;;Interpoliert (15m);114.9;-0.82
+Routenpunkt (Way);T;;49.39984122666666;8.677020023333332;50.0;;;;;;Interpoliert (15m);114.8;-1.26
+Routenpunkt (Way);T;Speyerer Straße;49.39991138999999;8.677149335;50.0;;;;;;Original OSM;114.5;-1.69
+Routenpunkt (Way);T;;49.399937045;8.6773361175;50.0;;;;;;Interpoliert (15m);114.2;-1.53
+Routenpunkt (Way);T;Speyerer Straße;49.3999627;8.6775229;50.0;;;;;;Original OSM;113.9;-1.91
+Haltestelle;W;Rohrbach, Markscheide;49.3999627;8.6775229;50.0;10:16:00;10:16:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 1729m) | Auf Route gesnappt (1729m);113.6;-1.96
+Routenpunkt (Way);T;;49.400019456818185;8.6776472;50.0;;;;;;Interpoliert (15m);113.3;-2.1
+Routenpunkt (Way);T;Speyerer Straße;49.40007621363636;8.677771499999999;50.0;;;;;;Original OSM;113.0;-2.25
+Routenpunkt (Way);T;;49.400131006818185;8.6778875;50.0;;;;;;Interpoliert (15m);112.7;-3.12
+Haltestelle;W;Heidelberg, Rheinstraße;49.4001858;8.6780035;50.0;10:17:00;10:17:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 1463m) | Auf Route gesnappt (1463m);112.4;-2.86
+Ampel;A;Ampel;49.4002126;8.678052;50.0;;;;;;Original OSM;112.2;-2.32
+Routenpunkt (Way);T;Speyerer Straße;49.4002924;8.6781968;50.0;;;;;;Original OSM;112.0;-1.74
+Haltestelle;W;Heidelberg, Bethanien-Krankh.;49.4003047;8.6782192;50.0;10:18:00;10:18:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 1220m) | Auf Route gesnappt (1220m);112.0;-1.16
+Routenpunkt (Way);T;Speyerer Straße;49.400368150000006;8.678307725;50.0;;;;;;Original OSM;112.0;-0.29
+Routenpunkt (Way);T;;49.400417675;8.6783785625;50.0;;;;;;Interpoliert (15m);112.0;-0.77
+Routenpunkt (Way);T;Speyerer Straße;49.4004672;8.6784494;50.0;;;;;;Interpoliert;112.0;-1.54
+Routenpunkt (Way);T;Speyerer Straße;49.4005529;8.6785713;50.0;;;;;;Interpoliert;111.5;-2.54
+Routenpunkt (Way);T;Speyerer Straße;49.4006386;8.6786932;50.0;;;;;;Original OSM;111.0;-3.54
+Routenpunkt (Way);T;Speyerer Straße;49.40070833333333;8.678780633333334;50.0;;;;;;Interpoliert;110.5;-4.09
+Routenpunkt (Way);T;Speyerer Straße;49.40077806666667;8.678868066666666;50.0;;;;;;Interpoliert;110.0;-4.3
+Routenpunkt (Way);T;Speyerer Straße;49.4008782;8.678994166666667;50.0;;;;;;Original OSM;109.6;-4.5
+Routenpunkt (Way);T;;49.40093615000001;8.679064308333334;50.0;;;;;;Interpoliert (15m);109.2;-3.51
+Routenpunkt (Way);T;Speyerer Straße;49.400994100000005;8.67913445;50.0;;;;;;Interpoliert;108.8;-3.07
+Haltestelle;W;Heidelberg, Bergfriedhof;49.400994100000005;8.67913445;50.0;10:19:00;10:19:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 992m) | Auf Route gesnappt (992m);108.4;-3.06
+Routenpunkt (Way);T;Speyerer Straße;49.4010948;8.6792554;50.0;;;;;;Original OSM;108.0;-1.93
+Routenpunkt (Way);T;Speyerer Straße;49.40119765;8.6793788;50.0;;;;;;Interpoliert;107.6;-0.13
+Routenpunkt (Way);T;;49.4012841375;8.679482437499999;50.0;;;;;;Interpoliert (15m);107.7;2.29
+Routenpunkt (Way);T;Speyerer Straße;49.401370625000006;8.679586075;50.0;;;;;;Original OSM;108.2;5.27
+Routenpunkt (Way);T;;49.4014346125;8.679664187499998;50.0;;;;;;Interpoliert (15m);109.3;7.46
+Routenpunkt (Way);T;Speyerer Straße;49.4014986;8.6797423;50.0;;;;;;Interpoliert;110.4;8.93
+Routenpunkt (Way);T;Speyerer Straße;49.4015845;8.6798482;50.0;;;;;;Interpoliert;111.4;9.74
+Routenpunkt (Way);T;Speyerer Straße;49.4016704;8.6799541;50.0;;;;;;Interpoliert;112.4;8.95
+Routenpunkt (Way);T;Speyerer Straße;49.4017563;8.680060000000001;50.0;;;;;;Interpoliert;113.4;14.56
+Ampel;A;Ampel;49.4018422;8.6801659;50.0;;;;;;Original OSM;114.4;14.75
+Routenpunkt (Way);T;Speyerer Straße;49.4018597;8.6801874;50.0;;;;;;Original OSM;115.4;13.12
+Routenpunkt (Way);T;Speyerer Straße;49.40194;8.6802756;50.0;;;;;;Original OSM;116.4;11.48
+Haltestelle;W;Heidelberg, Weststadt/Südstadt;49.40194;8.6802756;50.0;10:20:00;10:20:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 759m) | Auf Route gesnappt (759m);117.4;10.12
+Haltestelle;W;Heidelberg, Christuskirche;49.40194;8.6802756;50.0;10:22:00;10:22:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 346m) | Auf Route gesnappt (346m);118.0;2.1
+Routenpunkt (Way);T;;49.402039896875;8.680407229166667;50.0;;;;;;Interpoliert (15m);118.2;0.27
+Routenpunkt (Way);T;;49.40213979375;8.680538858333334;50.0;;;;;;Interpoliert (15m);118.2;0.27
+Routenpunkt (Way);T;;49.402239690625;8.6806704875;50.0;;;;;;Interpoliert (15m);118.2;0.27
+Routenpunkt (Way);T;;49.4023395875;8.680802116666666;50.0;;;;;;Interpoliert (15m);118.2;0.0
+Routenpunkt (Way);T;;49.402439484375;8.680933745833332;50.0;;;;;;Interpoliert (15m);118.2;-0.14
+Routenpunkt (Way);T;;49.40253938125;8.681065375;50.0;;;;;;Interpoliert (15m);118.2;-0.27
+Routenpunkt (Way);T;;49.402639278125;8.681197004166666;50.0;;;;;;Interpoliert (15m);118.1;-0.41
+Routenpunkt (Way);T;;49.40273917500001;8.681328633333333;50.0;;;;;;Interpoliert (15m);118.0;-0.68
+Routenpunkt (Way);T;;49.40283907187501;8.6814602625;50.0;;;;;;Interpoliert (15m);117.9;-1.23
+Routenpunkt (Way);T;;49.40293896875001;8.681591891666667;50.0;;;;;;Interpoliert (15m);117.7;-1.37
+Routenpunkt (Way);T;;49.40303886562501;8.681723520833334;50.0;;;;;;Interpoliert (15m);117.3;-1.37
+Routenpunkt (Way);T;;49.40313876250001;8.68185515;50.0;;;;;;Interpoliert (15m);117.1;-1.37
+Routenpunkt (Way);T;;49.403238659375006;8.681986779166666;50.0;;;;;;Interpoliert (15m);117.0;-1.23
+Routenpunkt (Way);T;;49.403338556250006;8.682118408333332;50.0;;;;;;Interpoliert (15m);116.9;-0.82
+Routenpunkt (Way);T;;49.403438453125005;8.6822500375;50.0;;;;;;Interpoliert (15m);116.8;-0.55
+Routenpunkt (Way);T;;49.403538350000005;8.682381666666666;50.0;;;;;;Interpoliert (15m);116.7;-0.41
+Routenpunkt (Way);T;;49.403638246875005;8.682513295833333;50.0;;;;;;Interpoliert (15m);116.7;-0.55
+Routenpunkt (Way);T;;49.40373814375;8.682644925;50.0;;;;;;Interpoliert (15m);116.7;-0.27
+Routenpunkt (Way);T;;49.40383804062501;8.682776554166667;50.0;;;;;;Interpoliert (15m);116.5;0.0
+Routenpunkt (Way);T;;49.4039379375;8.682908183333332;50.0;;;;;;Interpoliert (15m);116.6;0.14
+Routenpunkt (Way);T;;49.404037834375;8.683039812499999;50.0;;;;;;Interpoliert (15m);116.7;0.14
+Routenpunkt (Way);T;;49.40413773125;8.683171441666666;50.0;;;;;;Interpoliert (15m);116.8;0.41
+Routenpunkt (Way);T;;49.404237628125;8.683303070833333;50.0;;;;;;Interpoliert (15m);116.8;0.27
+Routenpunkt (Way);T;;49.404337525;8.6834347;50.0;;;;;;Interpoliert (15m);116.8;-0.0
+Routenpunkt (Way);T;;49.40443742187501;8.683566329166666;50.0;;;;;;Interpoliert (15m);116.8;-0.27
+Routenpunkt (Way);T;;49.40453731875001;8.683697958333333;50.0;;;;;;Interpoliert (15m);116.7;-0.41
+Routenpunkt (Way);T;;49.40463721562501;8.6838295875;50.0;;;;;;Interpoliert (15m);116.6;-0.27
+Routenpunkt (Way);T;;49.40473711250001;8.683961216666667;50.0;;;;;;Interpoliert (15m);116.5;-0.41
+Routenpunkt (Way);T;;49.40483700937501;8.684092845833332;50.0;;;;;;Interpoliert (15m);116.6;-0.41
+Routenpunkt (Way);T;;49.40493690625001;8.684224474999999;50.0;;;;;;Interpoliert (15m);116.5;-0.41
+Routenpunkt (Way);T;;49.40503680312501;8.684356104166666;50.0;;;;;;Interpoliert (15m);116.4;-0.95
+Routenpunkt (Way);T;Römerkreis;49.40513670000001;8.684487733333333;50.0;;;;;;Original OSM;116.3;-1.22
+Haltestelle;W;Heidelberg, Römerkreis Süd;49.4051411;8.6845283;50.0;10:23:00;10:23:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 63m) | Auf Route gesnappt (43m);116.2;-1.23
+Routenpunkt (Way);T;;49.40522045227273;8.68468388181818;50.0;;;;;;Interpoliert (15m);116.1;-1.09
+Routenpunkt (Way);T;Römerkreis;49.40529980454546;8.684839463636363;50.0;;;;;;Original OSM;116.0;-0.95
+Routenpunkt (Way);T;;49.405382703409096;8.684942797727272;50.0;;;;;;Interpoliert (15m);116.0;0.56
+Routenpunkt (Way);T;;49.40546560227273;8.685046131818183;50.0;;;;;;Interpoliert (15m);116.0;1.55
+Routenpunkt (Way);T;;49.405548501136366;8.685149465909092;50.0;;;;;;Interpoliert (15m);116.5;2.78
+Ampel;A;Ampel;49.4056314;8.6852528;50.0;;;;;;Original OSM;117.0;3.33
+Routenpunkt (Way);T;Kurfürsten-Anlage;49.4056822;8.6853173;50.0;;;;;;Original OSM;117.4;3.89
+Routenpunkt (Way);T;;49.40576808722222;8.685466075555556;50.0;;;;;;Interpoliert (15m);117.8;3.6
+Routenpunkt (Way);T;;49.40585397444444;8.685614851111112;50.0;;;;;;Interpoliert (15m);118.2;3.32
+Routenpunkt (Way);T;;49.40593986166666;8.685763626666667;50.0;;;;;;Interpoliert (15m);118.6;2.51
+Routenpunkt (Way);T;Unbekannt;49.40602574888888;8.685912402222224;;;;;;;Original OSM;119.0;2.24
+Routenpunkt (Way);T;;49.40606928259259;8.686094501481483;;;;;;;Interpoliert (15m);119.2;1.97
+Routenpunkt (Way);T;;49.40611281629629;8.68627660074074;;;;;;;Interpoliert (15m);119.4;0.76
+Haltestelle;W;Heidelberg, Stadtbücherei;49.40615635;8.6864587;;10:24:00;10:24:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 1m) | Auf Route gesnappt (1m);119.6;-0.27
+Routenpunkt (Way);T;Stadtbücherei;49.40616138;8.68658654;;;;;;;Interpoliert;119.3;-0.84
+Routenpunkt (Way);T;Stadtbücherei;49.406199145;8.68675116;;;;;;;Interpoliert;119.0;-1.42
+Routenpunkt (Way);T;;49.40623439035714;8.686934437142856;;;;;;;Interpoliert (15m);118.8;-2.03
+Routenpunkt (Way);T;Unbekannt;49.40626963571429;8.687117714285714;;;;;;;Original OSM;118.6;-1.71
+Routenpunkt (Way);T;;49.40629891269842;8.68728052063492;;;;;;;Interpoliert (15m);118.4;-1.56
+Routenpunkt (Way);T;;49.40632818968254;8.687443326984127;;;;;;;Interpoliert (15m);118.2;-1.75
+Routenpunkt (Way);T;Unbekannt;49.40635746666667;8.687606133333333;;;;;;;Interpoliert;118.0;-1.94
+Routenpunkt (Way);T;Unbekannt;49.40638653333333;8.687773066666667;;;;;;;Interpoliert;117.7;-2.11
+Routenpunkt (Way);T;Unbekannt;49.4064156;8.68794;;;;;;;Original OSM;117.4;-2.27
+Routenpunkt (Way);T;Unbekannt;49.40644398;8.68810282;;;;;;;Interpoliert;117.1;-2.44
+Routenpunkt (Way);T;Unbekannt;49.40647236;8.68826564;;;;;;;Interpoliert;116.8;-2.12
+Routenpunkt (Way);T;Unbekannt;49.40650074;8.68842846;;;;;;;Interpoliert;116.5;-1.48
+Routenpunkt (Way);T;Unbekannt;49.40652912;8.68859128;;;;;;;Interpoliert;116.4;-0.84
+Routenpunkt (Way);T;Unbekannt;49.4065575;8.6887541;;;;;;;Original OSM;116.5;-0.2
+Routenpunkt (Way);T;Unbekannt;49.40658935;8.688937899999999;;;;;;;Interpoliert;116.6;0.45
+Routenpunkt (Way);T;Unbekannt;49.4066212;8.6891217;;;;;;;Original OSM;116.7;1.1
+Routenpunkt (Way);T;Unbekannt;49.406650766666665;8.689286599999999;;;;;;;Interpoliert;116.8;1.37
+Routenpunkt (Way);T;Unbekannt;49.40668033333333;8.6894515;;;;;;;Interpoliert;117.1;1.8
+Routenpunkt (Way);T;Unbekannt;49.4067134;8.689636199999999;;;;;;;Original OSM;117.4;2.22
+Routenpunkt (Way);T;;49.40673705;8.68977655;;;;;;;Interpoliert (15m);117.7;2.71
+Routenpunkt (Way);T;Unbekannt;49.4067607;8.6899169;;;;;;;Original OSM;118.0;1.79
+Routenpunkt (Way);T;;49.40678193;8.69003995;;;;;;;Interpoliert (15m);118.3;0.77
+Routenpunkt (Way);T;Unbekannt;49.40680316;8.690163;;;;;;;Interpoliert;118.1;-0.4
+Routenpunkt (Way);T;Unbekannt;49.40683402;8.6903436;;;;;;;Interpoliert;117.7;-1.56
+Routenpunkt (Way);T;Unbekannt;49.40686488;8.6905242;;;;;;;Interpoliert;117.3;-2.98
+Routenpunkt (Way);T;Unbekannt;49.40689574;8.6907048;;;;;;;Interpoliert;116.9;-3.12
+Routenpunkt (Way);T;;49.406913945;8.690845841666667;;;;;;;Interpoliert (15m);116.5;-3.02
+Routenpunkt (Way);T;Unbekannt;49.40693215;8.690986883333332;;;;;;;Original OSM;116.2;-2.92
+Routenpunkt (Way);T;;49.40695961428571;8.691149826984127;;;;;;;Interpoliert (15m);115.9;-2.82
+Routenpunkt (Way);T;;49.40698707857143;8.69131277063492;;;;;;;Interpoliert (15m);115.6;-2.52
+Routenpunkt (Way);T;Unbekannt;49.40701454285715;8.691475714285714;;;;;;;Interpoliert;115.3;-1.94
+Routenpunkt (Way);T;;49.40704480952381;8.691647714285713;;;;;;;Interpoliert (15m);115.0;-1.45
+Routenpunkt (Way);T;;49.40707507619048;8.691819714285714;;;;;;;Interpoliert (15m);115.0;-0.34
+Routenpunkt (Way);T;Unbekannt;49.40710534285714;8.691991714285713;;;;;;;Interpoliert;115.0;0.77
+Routenpunkt (Way);T;;49.407125801020406;8.692122733673468;;;;;;;Interpoliert (15m);115.3;1.87
+Routenpunkt (Way);T;Unbekannt;49.40714625918367;8.692253753061225;;;;;;;Original OSM;115.6;2.85
+Haltestelle;W;Heidelberg, Seegarten;49.4071759;8.6923751;;10:25:00;10:25:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);115.9;3.84
+Routenpunkt (Way);T;;49.40724208080809;8.69247224949495;;;;;;;Interpoliert (15m);116.4;4.2
+Routenpunkt (Way);T;;49.40730826161617;8.6925693989899;;;;;;;Interpoliert (15m);116.9;4.34
+Routenpunkt (Way);T;Unbekannt;49.40737444242426;8.69266654848485;;;;;;;Original OSM;117.4;4.46
+Routenpunkt (Way);T;;49.4074934318182;8.692675386363637;;;;;;;Interpoliert (15m);117.9;4.23
+Routenpunkt (Way);T;;49.407612421212136;8.692684224242424;;;;;;;Interpoliert (15m);118.4;4.0
+Routenpunkt (Way);T;;49.40773141060607;8.692693062121212;;;;;;;Interpoliert (15m);118.9;3.48
+Routenpunkt (Way);T;Unbekannt;49.4078504;8.6927019;;;;;;;Interpoliert;119.4;4.33
+Routenpunkt (Way);T;;49.40792803333333;8.6926858;;;;;;;Interpoliert (15m);119.6;4.6
+Routenpunkt (Way);T;Unbekannt;49.40800566666667;8.6926697;;;;;;;Original OSM;120.3;4.78
+Routenpunkt (Way);T;Unbekannt;49.40812806666666;8.692644866666667;;;;;;;Interpoliert;121.0;4.95
+Routenpunkt (Way);T;Unbekannt;49.40822353333333;8.692625533333333;;;;;;;Interpoliert;121.5;5.25
+Routenpunkt (Way);T;Unbekannt;49.408319;8.6926062;;;;;;;Original OSM;122.0;4.4
+Routenpunkt (Way);T;Unbekannt;49.4084365;8.692581050000001;;;;;;;Interpoliert;122.5;4.3
+Routenpunkt (Way);T;Unbekannt;49.408554;8.6925559;;;;;;;Original OSM;123.0;4.28
+Routenpunkt (Way);T;;49.40865215208333;8.69255593125;;;;;;;Interpoliert (15m);123.5;3.35
+Routenpunkt (Way);T;;49.40875030416667;8.6925559625;;;;;;;Interpoliert (15m);124.0;2.59
+Routenpunkt (Way);T;Unbekannt;49.40884845625;8.69255599375;;;;;;;Original OSM;124.0;0.92
+Routenpunkt (Way);T;;49.40893520416667;8.692626695833333;;;;;;;Interpoliert (15m);124.0;-0.92
+Routenpunkt (Way);T;;49.409021952083336;8.692697397916668;;;;;;;Interpoliert (15m);123.5;-2.88
+Routenpunkt (Way);T;Unbekannt;49.4091087;8.6927681;;;;;;;Original OSM;123.0;-3.92
+Routenpunkt (Way);T;;49.409170683333336;8.692859783333333;;;;;;;Interpoliert (15m);122.5;-4.76
+Routenpunkt (Way);T;Unbekannt;49.40923266666667;8.692951466666665;;;;;;;Original OSM;122.0;-4.69
+Routenpunkt (Way);T;;49.40932355;8.693037816666665;;;;;;;Interpoliert (15m);121.5;-4.98
+Routenpunkt (Way);T;Unbekannt;49.40941443333333;8.693124166666665;;;;;;;Original OSM;121.0;-4.84
+Routenpunkt (Way);T;;49.40951268472222;8.693176746527778;;;;;;;Interpoliert (15m);120.3;-3.84
+Routenpunkt (Way);T;;49.40961093611111;8.693229326388888;;;;;;;Interpoliert (15m);119.78;-3.06
+Routenpunkt (Way);T;Unbekannt;49.4097091875;8.69328190625;;;;;;;Original OSM;119.75;-2.28
+Routenpunkt (Way);T;;49.40982879375;8.693310403125;;;;;;;Interpoliert (15m);119.71;-1.34
+Haltestelle;W;Heidelberg, Bismarckplatz;49.4099484;8.6933389;;10:27:00;10:27:00;Kein Umlauf;Sa;1474.0;Original GTFS (Snap-Distanz 8m) | Auf Route gesnappt (8m);119.67;-0.29

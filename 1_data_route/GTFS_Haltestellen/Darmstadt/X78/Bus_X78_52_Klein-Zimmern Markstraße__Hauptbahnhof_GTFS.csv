@@ -1,0 +1,16 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Klein-Zimmern Markstraße;49.868763;8.847031;06:06:00;06:06:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Groß-Zimmern Gersprenzbrücke;49.871956;8.836386;06:09:00;06:09:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Groß-Zimmern Friedhof;49.87034;8.832865;06:11:00;06:11:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Groß-Zimmern Friedensschule;49.87412;8.830313;06:15:00;06:15:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Groß-Zimmern Ponthierry-Platz;49.872227;8.827106;06:17:00;06:17:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Groß-Zimmern Johannes-Ohl-Str.;49.87272;8.819498;06:18:00;06:18:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Groß-Zimmern Reithalle;49.87129;8.811997;06:20:00;06:20:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Gundernhausen Aussiedlerhöfe;49.87269;8.801621;06:22:00;06:22:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
+Haltestelle;Darmstadt Ostbahnhof;49.874775;8.672929;06:35:00;06:35:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 8
+Haltestelle;Darmstadt Elisabethenst./Woog;49.873596;8.667611;06:36:00;06:36:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 9
+Haltestelle;Darmstadt Jugendstilbad;49.8729;8.661996;06:37:00;06:37:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 10
+Haltestelle;Darmstadt Schloss;49.87299;8.65587;06:40:00;06:40:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 11
+Haltestelle;Darmstadt Luisenplatz;49.87276;8.650911;06:43:00;06:43:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 12
+Haltestelle;Darmstadt Kirschenallee;49.874912;8.635011;06:47:00;06:47:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 13
+Haltestelle;Darmstadt Hauptbahnhof;49.8723;8.63148;06:50:00;06:50:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 14

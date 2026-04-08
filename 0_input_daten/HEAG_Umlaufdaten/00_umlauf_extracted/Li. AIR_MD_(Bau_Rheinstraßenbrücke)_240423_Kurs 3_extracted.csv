@@ -1,0 +1,131 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Da Kongresszentr. darmstadtium,1;05:02:00;1;W
+1;Darmstadt Luisenplatz,8;05:06:00;1;W
+1;Darmstadt Hauptbahnhof,20;05:15:00;1;W
+1;Ffm Flughafen Terminal 1,14;05:41:00;1;W
+1;Ffm Flughafen Terminal 1,14;05:44:00;2;W
+1;Ffm Flughafen Tor 3,2;05:47:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;05:50:00;2;W
+1;Darmstadt Hauptbahnhof,11;06:16:00;2;W
+1;Darmstadt Luisenplatz,7;06:22:00;2;W
+1;Da Kongresszentr. darmstadtium,1;06:25:00;2;W
+1;Da Kongresszentr. darmstadtium,1;06:32:00;1;W
+1;Darmstadt Luisenplatz,8;06:36:00;1;W
+1;Darmstadt Hauptbahnhof,20;06:45:00;1;W
+1;Ffm Flughafen Terminal 1,14;07:11:00;1;W
+1;Ffm Flughafen Terminal 1,14;07:14:00;2;W
+1;Ffm Flughafen Tor 3,2;07:17:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;07:20:00;2;W
+1;Darmstadt Hauptbahnhof,11;07:46:00;2;W
+1;Darmstadt Luisenplatz,7;07:52:00;2;W
+1;Da Kongresszentr. darmstadtium,1;07:55:00;2;W
+1;Da Kongresszentr. darmstadtium,1;08:02:00;1;W
+1;Darmstadt Luisenplatz,8;08:06:00;1;W
+1;Darmstadt Hauptbahnhof,20;08:15:00;1;W
+1;Ffm Flughafen Terminal 1,14;08:41:00;1;W
+1;Ffm Flughafen Terminal 1,14;08:44:00;2;W
+1;Ffm Flughafen Tor 3,2;08:47:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;08:50:00;2;W
+1;Darmstadt Hauptbahnhof,11;09:16:00;2;W
+1;Darmstadt Luisenplatz,7;09:22:00;2;W
+1;Da Kongresszentr. darmstadtium,1;09:25:00;2;W
+1;Da Kongresszentr. darmstadtium,1;09:32:00;1;W
+1;Darmstadt Luisenplatz,8;09:36:00;1;W
+1;Darmstadt Hauptbahnhof,20;09:45:00;1;W
+1;Ffm Flughafen Terminal 1,14;10:11:00;1;W
+1;Ffm Flughafen Terminal 1,14;10:14:00;2;W
+1;Ffm Flughafen Tor 3,2;10:17:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;10:20:00;2;W
+1;Darmstadt Hauptbahnhof,11;10:46:00;2;W
+1;Darmstadt Luisenplatz,7;10:52:00;2;W
+1;Da Kongresszentr. darmstadtium,1;10:55:00;2;W
+1;Da Kongresszentr. darmstadtium,1;11:02:00;1;W
+1;Darmstadt Luisenplatz,8;11:06:00;1;W
+1;Darmstadt Hauptbahnhof,20;11:15:00;1;W
+1;Ffm Flughafen Terminal 1,14;11:41:00;1;W
+1;Ffm Flughafen Terminal 1,14;11:44:00;2;W
+1;Ffm Flughafen Tor 3,2;11:47:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;11:50:00;2;W
+1;Darmstadt Hauptbahnhof,11;12:16:00;2;W
+1;Darmstadt Luisenplatz,7;12:22:00;2;W
+1;Da Kongresszentr. darmstadtium,1;12:25:00;2;W
+1;Da Kongresszentr. darmstadtium,1;12:32:00;1;W
+1;Darmstadt Luisenplatz,8;12:36:00;1;W
+1;Darmstadt Hauptbahnhof,20;12:45:00;1;W
+1;Ffm Flughafen Terminal 1,14;13:11:00;1;W
+1;Ffm Flughafen Terminal 1,14;13:14:00;2;W
+1;Ffm Flughafen Tor 3,2;13:17:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;13:20:00;2;W
+1;Darmstadt Hauptbahnhof,11;13:46:00;2;W
+1;Darmstadt Luisenplatz,7;13:52:00;2;W
+1;Da Kongresszentr. darmstadtium,1;13:55:00;2;W
+1;Da Kongresszentr. darmstadtium,1;14:02:00;1;W
+1;Darmstadt Luisenplatz,8;14:06:00;1;W
+1;Darmstadt Hauptbahnhof,20;14:15:00;1;W
+1;Ffm Flughafen Terminal 1,14;14:41:00;1;W
+1;Ffm Flughafen Terminal 1,14;14:44:00;2;W
+1;Ffm Flughafen Tor 3,2;14:47:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;14:50:00;2;W
+1;Darmstadt Hauptbahnhof,11;15:16:00;2;W
+1;Darmstadt Luisenplatz,7;15:22:00;2;W
+1;Da Kongresszentr. darmstadtium,1;15:25:00;2;W
+1;Da Kongresszentr. darmstadtium,1;15:32:00;1;W
+1;Darmstadt Luisenplatz,8;15:36:00;1;W
+1;Darmstadt Hauptbahnhof,20;15:45:00;1;W
+1;Ffm Flughafen Terminal 1,14;16:11:00;1;W
+1;Ffm Flughafen Terminal 1,14;16:14:00;2;W
+1;Ffm Flughafen Tor 3,2;16:17:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;16:20:00;2;W
+1;Darmstadt Hauptbahnhof,11;16:46:00;2;W
+1;Darmstadt Luisenplatz,7;16:52:00;2;W
+1;Da Kongresszentr. darmstadtium,1;16:55:00;2;W
+1;Da Kongresszentr. darmstadtium,1;17:02:00;1;W
+1;Darmstadt Luisenplatz,8;17:06:00;1;W
+1;Darmstadt Hauptbahnhof,20;17:15:00;1;W
+1;Ffm Flughafen Terminal 1,14;17:41:00;1;W
+1;Ffm Flughafen Terminal 1,14;17:44:00;2;W
+1;Ffm Flughafen Tor 3,2;17:47:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;17:50:00;2;W
+1;Darmstadt Hauptbahnhof,11;18:16:00;2;W
+1;Darmstadt Luisenplatz,7;18:22:00;2;W
+1;Da Kongresszentr. darmstadtium,1;18:25:00;2;W
+1;Da Kongresszentr. darmstadtium,1;18:32:00;1;W
+1;Darmstadt Luisenplatz,8;18:36:00;1;W
+1;Darmstadt Hauptbahnhof,20;18:45:00;1;W
+1;Ffm Flughafen Terminal 1,14;19:11:00;1;W
+1;Ffm Flughafen Terminal 1,14;19:14:00;2;W
+1;Ffm Flughafen Tor 3,2;19:17:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;19:20:00;2;W
+1;Darmstadt Hauptbahnhof,11;19:46:00;2;W
+1;Darmstadt Luisenplatz,7;19:52:00;2;W
+1;Da Kongresszentr. darmstadtium,1;19:55:00;2;W
+1;Da Kongresszentr. darmstadtium,1;20:17:00;1;W
+1;Darmstadt Luisenplatz,8;20:21:00;1;W
+1;Darmstadt Hauptbahnhof,20;20:30:00;1;W
+1;Ffm Flughafen Terminal 1,14;20:56:00;1;W
+1;Ffm Flughafen Terminal 1,14;20:59:00;2;W
+1;Ffm Flughafen Tor 3,2;21:02:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;21:05:00;2;W
+1;Darmstadt Hauptbahnhof,11;21:31:00;2;W
+1;Darmstadt Luisenplatz,7;21:37:00;2;W
+1;Da Kongresszentr. darmstadtium,1;21:40:00;2;W
+1;Da Kongresszentr. darmstadtium,1;21:47:00;1;W
+1;Darmstadt Luisenplatz,8;21:51:00;1;W
+1;Darmstadt Hauptbahnhof,20;22:00:00;1;W
+1;Ffm Flughafen Terminal 1,14;22:26:00;1;W
+1;Ffm Flughafen Terminal 1,14;22:29:00;2;W
+1;Ffm Flughafen Tor 3,2;22:32:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;22:35:00;2;W
+1;Darmstadt Hauptbahnhof,11;23:01:00;2;W
+1;Darmstadt Luisenplatz,7;23:07:00;2;W
+1;Da Kongresszentr. darmstadtium,1;23:10:00;2;W
+1;Da Kongresszentr. darmstadtium,1;23:17:00;1;W
+1;Darmstadt Luisenplatz,8;23:21:00;1;W
+1;Darmstadt Hauptbahnhof,20;23:30:00;1;W
+1;Ffm Flughafen Terminal 1,14;23:56:00;1;W
+1;Ffm Flughafen Terminal 1,14;23:59:00;2;W
+1;Ffm Flughafen Tor 3,2;00:02:00;2;W
+1;Ffm Hugo-Eckener-Ring,41;00:05:00;2;W
+1;Darmstadt Hauptbahnhof,11;00:31:00;2;W
+1;Darmstadt Luisenplatz,7;00:37:00;2;W
+1;Da Kongresszentr. darmstadtium,1;00:40:00;2;W

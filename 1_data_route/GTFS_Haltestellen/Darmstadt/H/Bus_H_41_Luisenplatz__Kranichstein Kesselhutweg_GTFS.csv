@@ -1,0 +1,11 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Luisenplatz;49.872883;8.651256;05:45:00;05:45:00;Kein Umlauf;So;1372;Stop Seq 0
+Haltestelle;Darmstadt Schloss;49.872868;8.655235;05:46:00;05:46:00;Kein Umlauf;So;1372;Stop Seq 1
+Haltestelle;Darmstadt Alexanderstraße/TU;49.875763;8.660542;05:48:00;05:48:00;Kein Umlauf;So;1372;Stop Seq 2
+Haltestelle;Darmstadt Kopernikusplatz;49.878193;8.661847;05:49:00;05:49:00;Kein Umlauf;So;1372;Stop Seq 3
+Haltestelle;Darmstadt Taunusplatz;49.88036;8.664531;05:50:00;05:50:00;Kein Umlauf;So;1372;Stop Seq 4
+Haltestelle;Darmstadt Am Karlshof;49.882107;8.665799;05:51:00;05:51:00;Kein Umlauf;So;1372;Stop Seq 5
+Haltestelle;Darmstadt Schwarzer Weg;49.88575;8.669128;05:53:00;05:53:00;Kein Umlauf;So;1372;Stop Seq 6
+Haltestelle;Darmstadt Kastanienallee;49.890533;8.672546;05:54:00;05:54:00;Kein Umlauf;So;1372;Stop Seq 7
+Haltestelle;Kranichstein Siemensstraße;49.896336;8.680287;05:56:00;05:56:00;Kein Umlauf;So;1372;Stop Seq 8
+Haltestelle;Kranichstein Kesselhutweg;49.8959;8.686163;05:59:00;05:59:00;Kein Umlauf;So;1372;Stop Seq 9

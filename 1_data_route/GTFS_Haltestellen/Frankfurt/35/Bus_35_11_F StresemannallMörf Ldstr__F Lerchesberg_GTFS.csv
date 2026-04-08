@@ -1,0 +1,5 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;F Stresemannall./Mörf. Ldstr.;50.089443;8.671503;14:38:00;14:38:00;Kein Umlauf;So;1372;Stop Seq 0
+Haltestelle;F Gablonzer Str.;50.084743;8.672317;14:40:00;14:40:00;Kein Umlauf;So;1372;Stop Seq 1
+Haltestelle;F Lerchesbergring;50.083298;8.678964;14:41:00;14:41:00;Kein Umlauf;So;1372;Stop Seq 2
+Haltestelle;F Lerchesberg;50.083103;8.681075;14:43:00;14:43:00;Kein Umlauf;So;1372;Stop Seq 3

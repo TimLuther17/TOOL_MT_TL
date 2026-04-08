@@ -1,0 +1,17 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Heidelberg, Bismarckplatz;49.40995;8.692907;13:30:00;13:30:00;Kein Umlauf;Sa,So;1318;Stop Seq 0
+Haltestelle;Heidelberg, Hans-Böckler-Str.;49.40551;8.692512;13:32:00;13:32:00;Kein Umlauf;Sa,So;1318;Stop Seq 1
+Haltestelle;Heidelberg, Kaiserstraße;49.402435;8.691596;13:33:00;13:33:00;Kein Umlauf;Sa,So;1318;Stop Seq 2
+Haltestelle;Heidelberg, Alois-Link-Platz;49.39998;8.691254;13:34:00;13:34:00;Kein Umlauf;Sa,So;1318;Stop Seq 3
+Haltestelle;Heidelberg, Steigerweg;49.396904;8.694776;13:35:00;13:35:00;Kein Umlauf;Sa,So;1318;Stop Seq 4
+Haltestelle;Heidelberg, Rohrbacher Grenzw.;49.396233;8.696761;13:37:00;13:37:00;Kein Umlauf;Sa,So;1318;Stop Seq 5
+Haltestelle;Heidelberg, Speyererhof;49.39553;8.709346;13:41:00;13:41:00;Kein Umlauf;Sa,So;1318;Stop Seq 6
+Haltestelle;Heidelberg, Kühruhweg;49.393795;8.708583;13:42:00;13:42:00;Kein Umlauf;Sa,So;1318;Stop Seq 7
+Haltestelle;Heidelberg, Bierhelderhhof;49.3901;8.705088;13:43:00;13:43:00;Kein Umlauf;Sa,So;1318;Stop Seq 8
+Haltestelle;Heidelberg, MPI Kernphysik;49.38884;8.707622;13:44:00;13:44:00;Kein Umlauf;Sa,So;1318;Stop Seq 9
+Haltestelle;Heidelberg, Drei Eichen;49.380157;8.723854;13:49:00;13:49:00;Kein Umlauf;Sa,So;1318;Stop Seq 10
+Haltestelle;Heidelberg, Posseltslust;49.384655;8.733574;13:51:00;13:51:00;Kein Umlauf;Sa,So;1318;Stop Seq 11
+Haltestelle;Heidelberg, Alter Kohlhof;49.388214;8.731077;13:52:00;13:52:00;Kein Umlauf;Sa,So;1318;Stop Seq 12
+Haltestelle;Heidelberg, Kohlhof-Fachklinik;49.38941;8.735101;13:53:00;13:53:00;Kein Umlauf;Sa,So;1318;Stop Seq 13
+Haltestelle;Heidelberg, Sternwarte;49.400692;8.727376;13:56:00;13:56:00;Kein Umlauf;Sa,So;1318;Stop Seq 14
+Haltestelle;Heidelberg, Königstuhl;49.402645;8.72778;13:58:00;13:58:00;Kein Umlauf;Sa,So;1318;Stop Seq 15

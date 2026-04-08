@@ -1,0 +1,12 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Alfred-Messel-Weg;49.88591;8.672744;18:26:00;18:26:00;Kein Umlauf;So;1372;Stop Seq 0
+Haltestelle;Darmstadt Peter-Behrens-Straße;49.88528;8.669534;18:27:00;18:27:00;Kein Umlauf;So;1372;Stop Seq 1
+Haltestelle;Darmstadt Am Karlshof;49.882107;8.665799;18:29:00;18:29:00;Kein Umlauf;So;1372;Stop Seq 2
+Haltestelle;Darmstadt Taunusplatz;49.88036;8.664531;18:30:00;18:30:00;Kein Umlauf;So;1372;Stop Seq 3
+Haltestelle;Darmstadt Kopernikusplatz;49.878193;8.661847;18:31:00;18:31:00;Kein Umlauf;So;1372;Stop Seq 4
+Haltestelle;Darmstadt Alexanderstraße/TU;49.875763;8.660542;18:33:00;18:33:00;Kein Umlauf;So;1372;Stop Seq 5
+Haltestelle;Darmstadt Schloss;49.872868;8.655235;18:35:00;18:35:00;Kein Umlauf;So;1372;Stop Seq 6
+Haltestelle;Darmstadt Luisenplatz;49.872883;8.651256;18:38:00;18:38:00;Kein Umlauf;So;1372;Stop Seq 7
+Haltestelle;Darmstadt Rhein-/Neckarstraße;49.871544;8.6447;18:40:00;18:40:00;Kein Umlauf;So;1372;Stop Seq 8
+Haltestelle;Darmstadt Berliner Allee;49.87076;8.635733;18:41:00;18:41:00;Kein Umlauf;So;1372;Stop Seq 9
+Haltestelle;Darmstadt Hauptbahnhof Ost;49.87194;8.631148;18:44:00;18:44:00;Kein Umlauf;So;1372;Stop Seq 10

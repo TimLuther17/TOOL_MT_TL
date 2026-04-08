@@ -1,0 +1,8 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Lindenhof (MA), Moll-Gymnasium;49.46335;8.46937;13:35:00;13:35:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Lindenhof, Pfalzplatz;49.464664;8.469838;13:36:00;13:36:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Neckarau, Markuskirche;49.46485;8.475317;13:38:00;13:38:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Neckarau, August-Bebel-Straße;49.466713;8.480339;13:39:00;13:39:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Mannheim, Hochschule;49.46822;8.48333;13:40:00;13:40:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Neckarau, Friedrichstraße;49.453243;8.495197;13:43:00;13:43:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Rheinau, Karlsplatz;49.438828;8.522739;13:48:00;13:48:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6

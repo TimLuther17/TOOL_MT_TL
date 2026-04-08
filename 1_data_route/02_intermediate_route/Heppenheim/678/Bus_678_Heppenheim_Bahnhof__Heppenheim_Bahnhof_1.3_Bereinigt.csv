@@ -1,0 +1,577 @@
+﻿Typ;Name;Latitude;Longitude;Tempolimit;Details;Type
+Routenpunkt (Way);Steig 3;49.6410045;8.6339381;;Original OSM;T
+Routenpunkt (Way);Steig 3;49.6410045;8.6339381;;Original OSM;T
+Routenpunkt (Way);Steig 3;49.6410375;8.6338764;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6410533;8.6338323;;Original OSM;T
+Routenpunkt (Way);Steig 3;49.6410533;8.6338323;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6410992;8.6338121;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6411461;8.6337995;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.641174;8.6337985;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6411904;8.6338032;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6412145;8.6338194;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6412299;8.6338374;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6412428;8.6338605;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6412428;8.6338605;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.641258;8.6339004;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.641258;8.6339004;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6412635;8.6339267;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6412773;8.6340041;;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6412773;8.6340041;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6412773;8.6340041;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6412505;8.634016;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6412505;8.634016;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6412241;8.6340277;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6411131;8.634077;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6411131;8.634077;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6410957;8.6340848;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6410231;8.6341171;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6410231;8.6341171;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6409179;8.6341639;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6408822;8.634179;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6408403;8.6341917;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6408403;8.6341917;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6408216;8.6340608;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6408216;8.6340608;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6408214;8.6340139;;Original OSM;T
+Routenpunkt (Way);Steig 3;49.6408233;8.6340039;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6408233;8.6340039;;Original OSM;T
+Routenpunkt (Way);Steig 3;49.6408447;8.6339716;;Original OSM;T
+Routenpunkt (Way);Steig 3;49.6408638;8.6339568;;Original OSM;T
+Routenpunkt (Way);Steig 3;49.6408882;8.6339501;;Original OSM;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.6405478;8.6341391;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6405478;8.6341391;30.0;Original OSM;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.64061516666667;8.634273666666667;30.0;Interpoliert;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.64068253333333;8.634408233333334;30.0;Interpoliert;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.6407499;8.6345428;30.0;Original OSM;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.6408246;8.6347052;30.0;Original OSM;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.64087916666666;8.634844733333335;30.0;Interpoliert;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.64093373333333;8.634984266666667;30.0;Interpoliert;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.6409883;8.6351238;30.0;Original OSM;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.6409883;8.6351238;30.0;Original OSM;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.6410512;8.63528714;30.0;Interpoliert;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.6411141;8.635450480000001;30.0;Interpoliert;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.641177;8.63561382;30.0;Interpoliert;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.6412399;8.63577716;30.0;Interpoliert;T
+Routenpunkt (Way);Ernst-Schneider-Straße;49.6413028;8.6359405;30.0;Original OSM;T
+Routenpunkt (Way);Neckarstraße;49.6413028;8.6359405;30.0;Original OSM;T
+Routenpunkt (Way);Neckarstraße;49.641412083333336;8.6358908;30.0;Interpoliert;T
+Routenpunkt (Way);Neckarstraße;49.641521366666666;8.6358411;30.0;Interpoliert;T
+Routenpunkt (Way);Neckarstraße;49.64163065;8.6357914;30.0;Interpoliert;T
+Routenpunkt (Way);Neckarstraße;49.64173993333333;8.6357417;30.0;Interpoliert;T
+Routenpunkt (Way);Neckarstraße;49.64184921666667;8.635692;30.0;Interpoliert;T
+Routenpunkt (Way);Bahnhofstraße;49.6419585;8.6356423;30.0;Original OSM;T
+Routenpunkt (Way);Neckarstraße;49.6419585;8.6356423;30.0;Original OSM;T
+Routenpunkt (Way);Bahnhofstraße;49.64192268888889;8.6354433;30.0;Interpoliert;T
+Routenpunkt (Way);Bahnhofstraße;49.64188687777778;8.6352443;30.0;Interpoliert;T
+Routenpunkt (Way);Bahnhofstraße;49.64185106666667;8.6350453;30.0;Interpoliert;T
+Routenpunkt (Way);Bahnhofstraße;49.64181525555556;8.6348463;30.0;Interpoliert;T
+Routenpunkt (Way);Bahnhofstraße;49.641779444444445;8.634647300000001;30.0;Interpoliert;T
+Routenpunkt (Way);Bahnhofstraße;49.64174363333333;8.6344483;30.0;Interpoliert;T
+Routenpunkt (Way);Bahnhofstraße;49.64170782222222;8.6342493;30.0;Interpoliert;T
+Routenpunkt (Way);Bahnhofstraße;49.64167201111111;8.6340503;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.6416362;8.6338513;30.0;Original OSM;T
+Routenpunkt (Way);Bahnhofstraße;49.6416362;8.6338513;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6416362;8.6338513;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.64172735;8.633812299999999;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.6418185;8.6337733;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.64193173333333;8.6337247;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.64204496666667;8.633676099999999;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.6421582;8.6336275;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.642251;8.6335869;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.64237235;8.63353175;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.6424937;8.6334766;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6424937;8.6334766;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6425272;8.6334645;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6425272;8.6334645;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.642604;8.6334368;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.642604;8.6334368;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6426277;8.6334282;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6426277;8.6334282;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6426912;8.6333995;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.64276425;8.63336655;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.6428373;8.6333336;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6428824;8.6333133;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6428824;8.6333133;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6429913;8.633268399999999;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.6431002;8.6332235;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6431805;8.6331904;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6431805;8.6331904;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.643199;8.6332971;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.643206;8.6334367;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6431933;8.6336121;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6431933;8.6336121;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6432175;8.6337289;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.643255100000005;8.633873;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6432927;8.6340171;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6433356;8.6341335;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6433356;8.6341335;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6433895;8.6342057;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6434729;8.6342902;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.64357103333333;8.6343698;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.64366916666667;8.634449400000001;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6437673;8.634529;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6437852;8.6345435;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.64388266666667;8.634619733333333;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.643980133333336;8.634695966666667;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6440776;8.6347722;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.64414695;8.63482765;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6442163;8.6348831;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6443127;8.6349459;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6444091;8.6350087;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6445055;8.6350715;30.0;Original OSM;T
+Haltestelle;Lindenstraße;49.64462175714286;8.635140657142857;30.0;Interpoliert;W
+Routenpunkt (Way);Kettelerstraße;49.644738014285714;8.635209814285714;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.64485427142857;8.635278971428571;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.64497052857143;8.63534812857143;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.64508678571429;8.635417285714286;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.64520304285714;8.635486442857143;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6453193;8.6355556;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.64545;8.635600975;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6455807;8.63564635;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6457114;8.635691725000001;30.0;Interpoliert;T
+Routenpunkt (Way);Kettelerstraße;49.6458421;8.6357371;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6459263;8.6357714;30.0;Original OSM;T
+Haltestelle;Gesundheitsamt;49.6460411;8.635818233333334;30.0;Interpoliert;W
+Routenpunkt (Way);Kettelerstraße;49.6461559;8.635865066666666;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.6462707;8.6359119;30.0;Original OSM;T
+Routenpunkt (Way);Kettelerstraße;49.6462707;8.6359119;30.0;Original OSM;T
+Routenpunkt (Way);Schönbacher Straße;49.6462878;8.6357627;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.6463049;8.6356135;30.0;Original OSM;T
+Routenpunkt (Way);Schönbacher Straße;49.64642934;8.63555834;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64655378;8.635503179999999;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64667822;8.63544802;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64680266;8.63539286;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.6469271;8.6353377;30.0;Original OSM;T
+Routenpunkt (Way);Schönbacher Straße;49.6469271;8.6353377;30.0;Original OSM;T
+Routenpunkt (Way);Schönbacher Straße;49.64703938;8.63528362;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64715166;8.63522954;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64726394;8.63517546;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64737622;8.63512138;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.6474885;8.6350673;30.0;Original OSM;T
+Routenpunkt (Way);Schönbacher Straße;49.64760694444445;8.635012244444443;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.647725388888894;8.634957188888889;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64784383333333;8.634902133333332;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64796227777778;8.634847077777778;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64808072222223;8.634792022222221;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64819916666667;8.634736966666667;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64831761111111;8.63468191111111;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.64843605555556;8.634626855555556;30.0;Interpoliert;T
+Routenpunkt (Way);Schönbacher Straße;49.6485545;8.6345718;30.0;Original OSM;T
+Routenpunkt (Way);Breslauer Straße;49.6485545;8.6345718;30.0;Original OSM;T
+Routenpunkt (Way);Breslauer Straße;49.64851586666667;8.634386899999999;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.64847723333334;8.634202;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.648438600000006;8.634017100000001;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.648399966666666;8.6338322;30.0;Interpoliert;T
+Haltestelle;Briefelstraße;49.64836133333333;8.6336473;30.0;Interpoliert;W
+Routenpunkt (Way);Breslauer Straße;49.6483227;8.6334624;30.0;Original OSM;T
+Routenpunkt (Way);Breslauer Straße;49.64828166666667;8.633264800000001;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.64824063333333;8.6330672;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.6481996;8.6328696;30.0;Original OSM;T
+Routenpunkt (Way);Breslauer Straße;49.64816665;8.6327018;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.6481337;8.632534;30.0;Original OSM;T
+Routenpunkt (Way);Breslauer Straße;49.64809648571429;8.632339685714285;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.64805927142857;8.632145371428571;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.64802205714286;8.631951057142857;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.64798484285714;8.631756742857142;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.64794762857143;8.631562428571428;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.64791041428571;8.631368114285713;30.0;Interpoliert;T
+Routenpunkt (Way);Breslauer Straße;49.6478732;8.6311738;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6478732;8.6311738;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6479898;8.631121525;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.6481064;8.63106925;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.648223;8.631016975;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.6483396;8.6309647;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6484325;8.630935;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.648493;8.6309411;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.6485376;8.6309758;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6485376;8.6309758;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.648581;8.631033;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.6486199;8.6311619;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.64864465;8.6313383;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.6486694;8.6315147;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.64869415;8.631691100000001;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.6487189;8.6318675;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.64874365;8.6320439;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.6487684;8.6322203;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.64879675;8.632415250000001;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.6488251;8.6326102;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.648858225000005;8.632811275;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.64889135;8.633012350000001;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.648924475;8.633213425000001;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.6489576;8.6334145;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.64899315;8.633611125;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.6490287;8.633807749999999;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.64906425;8.634004375;30.0;Interpoliert;T
+Routenpunkt (Way);Im Schlüssel;49.6490998;8.634201;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.649119;8.6342462;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.6491512;8.6342812;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.6491832;8.6342985;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.6492151;8.6342984;30.0;Original OSM;T
+Routenpunkt (Way);Im Schlüssel;49.6492349;8.6342983;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6492349;8.6342983;50.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.64924;8.6342495;50.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6492539;8.6342051;50.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6492756;8.6341689;50.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6493031;8.6341437;50.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6493341;8.6341319;50.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6493642;8.6341339;50.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6493642;8.6341339;50.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6493928;8.6341484;50.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6494178;8.6341744;50.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6494178;8.6341744;;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.649438;8.6342117;50.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6494623;8.634173;;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6495358;8.6341699;;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6496145;8.6341687;;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6496932;8.6341675;;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.649774050000005;8.634176400000001;;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6498549;8.6341853;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6498549;8.6341853;;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.64995295;8.6341711;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.650051;8.6341569;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.650051;8.6341569;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6500823;8.6340843;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6501006;8.6340562;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6501329;8.6340324;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6501842;8.6340154;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6502424;8.6340109;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6502885;8.6340091;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6503466;8.6340177;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6503466;8.6340177;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6504671;8.6339854;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6505845;8.633959433333333;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6507019;8.633933466666667;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6508193;8.6339075;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6508193;8.6339075;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6508209;8.6341058;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6508352;8.6341994;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6508483;8.6342735;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6508755;8.63437715;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6509027;8.6344808;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6509496;8.6346201;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6509895;8.6346736;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6510705;8.6347876;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.65113805;8.63486215;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6512056;8.6349367;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6512947;8.6350097;30.0;Original OSM;T
+Haltestelle;Silvanerweg;49.6514014;8.6350558;30.0;Original OSM;W
+Routenpunkt (Way);Rebenstraße;49.651509;8.6350739;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6515907;8.635082;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6516659;8.6350765;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.65173845;8.63504975;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.651811;8.635023;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.651852;8.6350033;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6519124;8.6349644;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6520249;8.6348845;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6520249;8.6348845;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.65206595;8.6347863;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.652107;8.6346881;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6521854;8.63462995;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6522638;8.6345718;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6522638;8.6345718;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6523456;8.6345049;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6524413;8.6344342;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.652537;8.6343635;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.65262593333333;8.6342992;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.65271486666667;8.6342349;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6528038;8.6341706;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6528671;8.6341341;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.65297065;8.63408785;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6530742;8.6340416;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6531932;8.6340054;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.65326045;8.633991949999999;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6533277;8.6339785;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6533277;8.6339785;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6533704;8.6339026;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.653412;8.6338538;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.65353145;8.6338452;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6536509;8.6338366;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6536509;8.6338366;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6537506;8.6338256;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6538503;8.6338146;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.653977075;8.6338039;30.0;Interpoliert;T
+Haltestelle;Burgunderweg;49.65410385;8.6337932;30.0;Interpoliert;W
+Routenpunkt (Way);Rebenstraße;49.654230625;8.633782499999999;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6543574;8.6337718;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6544235;8.6337599;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6544751;8.6337411;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.65452;8.6337009;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.654564;8.6336308;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6546053;8.6335224;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6546164;8.6334372;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6546134;8.6333841;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6546061;8.6333351;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6545815;8.633175833333333;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6545569;8.633016566666667;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6545323;8.6328573;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.65450536666667;8.632685233333333;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.65447843333333;8.632513166666666;30.0;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6544515;8.6323411;30.0;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.6544515;8.6323411;;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.654580225;8.632294224999999;;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.65470895;8.63224735;;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.654837675;8.632200475000001;;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6549664;8.6321536;;Original OSM;T
+Routenpunkt (Way);Rebenstraße;49.655074;8.632115733333334;;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6551816;8.632077866666666;;Interpoliert;T
+Routenpunkt (Way);Rebenstraße;49.6552892;8.63204;;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6552892;8.63204;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6552772;8.6319625;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6552513;8.631788233333333;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6552254;8.631613966666666;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6551995;8.6314397;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6551697375;8.6312403875;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.655139975;8.631041074999999;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6551102125;8.6308417625;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65508045;8.63064245;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6550506875;8.6304431375;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.655020925;8.630243825;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6549911625;8.6300445125;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6549614;8.6298452;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6549614;8.6298452;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.65493536666666;8.6296729;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.654909333333336;8.6295006;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6548833;8.6293283;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.65485725;8.629155699999998;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6548312;8.6289831;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65480515;8.6288105;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6547791;8.6286379;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65475305;8.628465299999998;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.654727;8.6282927;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6546987;8.628105349999998;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6546704;8.627918;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6546664;8.6278915;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6546664;8.6278915;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.65463135;8.627729250000002;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6545963;8.627567;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6545963;8.627567;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6546029;8.6273949;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.654578425;8.627229625;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65455395;8.627064350000001;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.654529475;8.626899075;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.654505;8.6267338;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6544834;8.6265927;30.0;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6544618;8.6264516;;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6544618;8.6264516;30.0;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.65439315;8.6264787;;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.6543245;8.6265058;;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.65420043636364;8.626555645454546;;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65407637272728;8.62660549090909;;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65395230909091;8.626655336363637;;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65382824545455;8.626705181818183;;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.653704181818185;8.626755027272727;;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65358011818181;8.626804872727273;;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65345605454545;8.626854718181818;;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65333199090909;8.626904563636364;;Interpoliert;T
+Routenpunkt (Way);Gunderslachstraße;49.65320792727272;8.62695440909091;;Interpoliert;T
+Haltestelle;Gunderslache;49.65308386363636;8.627004254545454;;Interpoliert;W
+Routenpunkt (Way);Gunderslachstraße;49.6529598;8.6270541;;Original OSM;T
+Routenpunkt (Way);Gunderslachstraße;49.6528916;8.6271071;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6528916;8.6271071;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6528638;8.6272161;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65283085;8.6273976;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6527979;8.6275791;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6527527;8.6276895;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6526699;8.627767;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6526699;8.627767;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65255392;8.62781316;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65243794;8.62785932;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65232196;8.627905479999999;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65220598;8.62795164;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65209;8.6279978;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6519891;8.628038499999999;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6518882;8.6280792;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65184;8.6281213;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6518005;8.6281731;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6517632;8.6282232;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6517197;8.6282578;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.651589275;8.628308925;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65145885;8.628360050000001;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.651328425;8.628411175;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.651198;8.6284623;;Original OSM;T
+Haltestelle;Hans-Kohl-Straße;49.65106998;8.62851298;;Interpoliert;W
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65094196;8.628563660000001;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65081394;8.62861434;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65068592;8.628665020000001;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6505579;8.6287157;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6505119;8.6287403;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6504989;8.6287523;;Original OSM;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.650410066666666;8.628834066666666;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.65032123333334;8.628915833333334;;Interpoliert;T
+Routenpunkt (Way);Vala-Lamberger-Straße;49.6502324;8.6289976;;Original OSM;T
+Routenpunkt (Way);Am Tonwerk;49.6502324;8.6289976;;Original OSM;T
+Routenpunkt (Way);Am Tonwerk;49.6501232;8.6290944;;Original OSM;T
+Routenpunkt (Way);Am Tonwerk;49.650012966666665;8.629145733333333;;Interpoliert;T
+Routenpunkt (Way);Am Tonwerk;49.64990273333333;8.629197066666666;;Interpoliert;T
+Routenpunkt (Way);Am Tonwerk;49.6497925;8.6292484;;Original OSM;T
+Routenpunkt (Way);Am Tonwerk;49.64973215;8.6293246;;Interpoliert;T
+Routenpunkt (Way);Am Tonwerk;49.6496718;8.6294008;;Original OSM;T
+Routenpunkt (Way);Am Tonwerk;49.64960755;8.629511;;Interpoliert;T
+Routenpunkt (Way);Am Tonwerk;49.6495433;8.6296212;;Original OSM;T
+Routenpunkt (Way);Am Tonwerk;49.64943185;8.62967575;;Interpoliert;T
+Routenpunkt (Way);Am Tonwerk;49.6493204;8.6297303;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6493204;8.6297303;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6492242;8.6297693;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6492242;8.6297693;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.649131366666666;8.629808533333334;;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.64903853333333;8.629847766666666;;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6489457;8.629887;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6488575;8.62992515;;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6487693;8.6299633;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6487693;8.6299633;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6487201;8.6299856;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6487201;8.6299856;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6486596;8.630012;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6485349;8.6300666;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6484631;8.630097549999999;;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6483913;8.6301285;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6482636;8.6301478;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6481575;8.6301134;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6480599;8.6300413;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6479732;8.6299356;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6479138;8.62982015;;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6478544;8.6297047;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6478059;8.6296105;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6477652;8.6295314;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6477475;8.629497;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6477362;8.6294693;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.64765945;8.6293171;;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6475827;8.6291649;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6475506;8.6290579;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.64753155;8.6289307;;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6475125;8.6288035;;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6475125;8.6288035;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6474437;8.62881845;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6473749;8.6288334;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6472549;8.62886572;50.0;Interpoliert;T
+Haltestelle;Dieselstraße;49.6471349;8.62889804;50.0;Interpoliert;W
+Routenpunkt (Way);Weiherhausstraße;49.6470149;8.62893036;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6468949;8.628962679999999;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6467749;8.628995;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6467285;8.6290061;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6466222;8.62903155;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6465159;8.629057;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6464059;8.62908085;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6462959;8.6291047;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.64617402857143;8.629135157142857;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.64605215714285;8.629165614285714;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.645930285714286;8.629196071428572;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.64580841428571;8.629226528571428;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.64568654285714;8.629256985714285;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.645564671428566;8.629287442857143;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6454428;8.6293179;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.645323;8.6293478;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.645247;8.629365400000001;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.645171;8.629383;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.64504656666666;8.629411866666667;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.64492213333333;8.629440733333334;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6447977;8.6294696;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.644681;8.6294888;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6445643;8.629508;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6444476;8.6295272;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6443331;8.629548775;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6442186;8.62957035;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6441041;8.629591925;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6439896;8.6296135;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.64385675;8.629630800000001;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6437239;8.6296481;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6436802;8.6296538;50.0;Original OSM;T
+Haltestelle;Daimlerstraße;49.6435926;8.6296501;50.0;Interpoliert;W
+Routenpunkt (Way);Weiherhausstraße;49.643505;8.6296464;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.643505;8.6296464;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6434102;8.6296416;50.0;Interpoliert;T
+Routenpunkt (Way);Weiherhausstraße;49.6433154;8.6296368;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6432315;8.6296254;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6431447;8.6296136;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6430176;8.6295858;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6429203;8.6295618;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6428829;8.6295545;50.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6427979;8.6295378;50.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6427444;8.6295252;30.0;Original OSM;T
+Routenpunkt (Way);Weiherhausstraße;49.6427444;8.6295252;50.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.64265585;8.629512349999999;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6425673;8.6294995;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6425673;8.6294995;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6425034;8.6295039;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6423892;8.6295046;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.642275;8.6295053;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.642275;8.6295053;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.64214705;8.6295061;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6420191;8.6295069;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6419025;8.629522133333333;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6417859;8.629537366666668;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6416693;8.6295526;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6416693;8.6295526;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6415507;8.629582150000001;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6414321;8.6296117;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.64132153333333;8.629648566666667;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.64121096666667;8.629685433333332;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6411004;8.6297223;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6410062;8.629756766666667;30.0;Interpoliert;T
+Haltestelle;Christuskirche;49.640912;8.629791233333332;30.0;Interpoliert;W
+Routenpunkt (Way);Uhlandstraße;49.6408178;8.6298257;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.64072755;8.62986365;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6406373;8.6299016;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6406373;8.6299016;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.640551333333335;8.629942866666667;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.64046536666667;8.629984133333332;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6403794;8.6300254;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6403794;8.6300254;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.64028103333333;8.630086033333333;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.64018266666667;8.630146666666667;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6400843;8.6302073;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6399689;8.6302903;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6398535;8.6303733;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6397473;8.630460733333333;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6396411;8.630548166666667;30.0;Interpoliert;T
+Routenpunkt (Way);Uhlandstraße;49.6395349;8.6306356;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.6395167;8.6306506;30.0;Original OSM;T
+Routenpunkt (Way);Uhlandstraße;49.639457;8.6306992;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.639457;8.6306992;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6394414;8.6306703;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6394197;8.6306533;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6393954;8.6306511;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6393725;8.630664;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6393559;8.6306874;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6393461;8.6307187;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6393444;8.6307533;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6393512;8.6307865;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6393715;8.6308206;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6394;8.6308352;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.639436;8.6308193;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.639436;8.6308193;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.639436;8.6308193;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6394489;8.6308043;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.639461;8.630772;30.0;Original OSM;T
+Routenpunkt (Way);Unbekannt;49.6394639;8.630735;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6394751;8.6309241;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6395196;8.63104115;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.6395641;8.6311582;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6396126;8.63128955;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.6396611;8.6314209;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6396646;8.6314302;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.63970225;8.6315339;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.6397399;8.6316376;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.639795166666666;8.6317846;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.639850433333336;8.6319316;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.6399057;8.6320786;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6399484;8.632207233333332;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.6399911;8.632335866666667;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.6400338;8.6324645;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.640091266666666;8.6326419;30.0;Interpoliert;T
+Haltestelle;Heppenheim Bahnhof;49.64014873333333;8.6328193;30.0;Interpoliert;W
+Routenpunkt (Way);Mozartstraße;49.6402062;8.6329967;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6402259;8.6330587;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6402753;8.6332324;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6402753;8.6332324;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.64032196666667;8.633398533333335;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.64036863333333;8.633564666666667;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.6404153;8.6337308;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.6404153;8.6337308;30.0;Original OSM;T
+Routenpunkt (Way);Mozartstraße;49.64045165;8.63386335;30.0;Interpoliert;T
+Routenpunkt (Way);Mozartstraße;49.640488;8.6339959;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6413467;8.6339748;30.0;Interpoliert;T
+Routenpunkt (Way);Kalterer Straße;49.6414161;8.6339455;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6414861;8.6339134;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6415249;8.6338971;30.0;Original OSM;T
+Routenpunkt (Way);Kalterer Straße;49.6415249;8.6338971;30.0;Original OSM;T

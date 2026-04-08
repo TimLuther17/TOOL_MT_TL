@@ -1,0 +1,561 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Arheilgen Kornweg,3;05:55:00;1;W
+1;Arheilgen Auf der Hardt,1;05:56:00;1;W
+1;Arheilgen Stadtteilschule,1;05:57:00;1;W
+1;Arheilgen Thomas-Mann-Platz,1;05:58:00;1;W
+1;Arheilgen Kreuzkirche,1;05:59:00;1;W
+1;Arheilgen Fuchsstraße,3;06:00:00;1;W
+1;Arheilgen Wechslerstraße,1;06:01:00;1;W
+1;Arheilgen Fritz-Meister-Anlage,1;06:03:00;1;W
+1;Arheilgen Asternweg,1;06:04:00;1;W
+1;Arheilgen Bahnhof,1;06:05:00;1;W
+1;Arheilgen Bahnhof,1;06:10:00;2;W
+1;Arheilgen Asternweg,2;06:11:00;2;W
+1;Arheilgen Fritz-Meister-Anlage,2;06:13:00;2;W
+1;Arheilgen Wechslerstraße,2;06:14:00;2;W
+1;Arheilgen Fuchsstraße,4;06:15:00;2;W
+1;Arheilgen Kreuzkirche,2;06:17:00;2;W
+1;Arheilgen Thomas-Mann-Platz,2;06:18:00;2;W
+1;Arheilgen Stadtteilschule,2;06:18:00;2;W
+1;Arheilgen Auf der Hardt,2;06:19:00;2;W
+1;Arheilgen Kornweg,3;06:21:00;2;W
+2;Arheilgen Kornweg,3;06:25:00;1;W
+2;Arheilgen Auf der Hardt,1;06:26:00;1;W
+2;Arheilgen Stadtteilschule,1;06:27:00;1;W
+2;Arheilgen Thomas-Mann-Platz,1;06:28:00;1;W
+2;Arheilgen Kreuzkirche,1;06:29:00;1;W
+2;Arheilgen Fuchsstraße,3;06:30:00;1;W
+2;Arheilgen Wechslerstraße,1;06:31:00;1;W
+2;Arheilgen Fritz-Meister-Anlage,1;06:33:00;1;W
+2;Arheilgen Asternweg,1;06:34:00;1;W
+2;Arheilgen Bahnhof,1;06:35:00;1;W
+2;Arheilgen Bahnhof,1;06:40:00;2;W
+2;Arheilgen Asternweg,2;06:41:00;2;W
+2;Arheilgen Fritz-Meister-Anlage,2;06:43:00;2;W
+2;Arheilgen Wechslerstraße,2;06:44:00;2;W
+2;Arheilgen Fuchsstraße,4;06:45:00;2;W
+2;Arheilgen Kreuzkirche,2;06:47:00;2;W
+2;Arheilgen Thomas-Mann-Platz,2;06:48:00;2;W
+2;Arheilgen Stadtteilschule,2;06:48:00;2;W
+2;Arheilgen Auf der Hardt,2;06:49:00;2;W
+2;Arheilgen Kornweg,3;06:51:00;2;W
+3;Arheilgen Kornweg,3;06:55:00;1;W
+3;Arheilgen Auf der Hardt,1;06:56:00;1;W
+3;Arheilgen Stadtteilschule,1;06:57:00;1;W
+3;Arheilgen Thomas-Mann-Platz,1;06:58:00;1;W
+3;Arheilgen Kreuzkirche,1;06:59:00;1;W
+3;Arheilgen Fuchsstraße,3;07:00:00;1;W
+3;Arheilgen Wechslerstraße,1;07:01:00;1;W
+3;Arheilgen Fritz-Meister-Anlage,1;07:03:00;1;W
+3;Arheilgen Asternweg,1;07:04:00;1;W
+3;Arheilgen Bahnhof,1;07:05:00;1;W
+3;Arheilgen Bahnhof,1;07:10:00;2;W
+3;Arheilgen Asternweg,2;07:11:00;2;W
+3;Arheilgen Fritz-Meister-Anlage,2;07:13:00;2;W
+3;Arheilgen Wechslerstraße,2;07:14:00;2;W
+3;Arheilgen Fuchsstraße,4;07:15:00;2;W
+3;Arheilgen Kreuzkirche,2;07:17:00;2;W
+3;Arheilgen Thomas-Mann-Platz,2;07:18:00;2;W
+3;Arheilgen Stadtteilschule,2;07:18:00;2;W
+3;Arheilgen Auf der Hardt,2;07:19:00;2;W
+3;Arheilgen Kornweg,3;07:21:00;2;W
+4;Arheilgen Kornweg,3;07:25:00;1;W
+4;Arheilgen Auf der Hardt,1;07:26:00;1;W
+4;Arheilgen Stadtteilschule,1;07:27:00;1;W
+4;Arheilgen Thomas-Mann-Platz,1;07:28:00;1;W
+4;Arheilgen Kreuzkirche,1;07:29:00;1;W
+4;Arheilgen Fuchsstraße,3;07:30:00;1;W
+4;Arheilgen Wechslerstraße,1;07:31:00;1;W
+4;Arheilgen Fritz-Meister-Anlage,1;07:33:00;1;W
+4;Arheilgen Asternweg,1;07:34:00;1;W
+4;Arheilgen Bahnhof,1;07:35:00;1;W
+4;Arheilgen Bahnhof,1;07:36:00;2;W
+4;Arheilgen Asternweg,2;07:37:00;2;W
+4;Arheilgen Fritz-Meister-Anlage,2;07:39:00;2;W
+4;Arheilgen Wechslerstraße,2;07:40:00;2;W
+4;Arheilgen Fuchsstraße,4;07:41:00;2;W
+4;Arheilgen Kreuzkirche,2;07:43:00;2;W
+4;Arheilgen Thomas-Mann-Platz,2;07:44:00;2;W
+4;Arheilgen Stadtteilschule,2;07:44:00;2;W
+4;Arheilgen Auf der Hardt,2;07:45:00;2;W
+4;Arheilgen Kornweg,3;07:47:00;2;W
+5;Arheilgen Kornweg,3;07:55:00;1;W
+5;Arheilgen Auf der Hardt,1;07:56:00;1;W
+5;Arheilgen Stadtteilschule,1;07:57:00;1;W
+5;Arheilgen Thomas-Mann-Platz,1;07:58:00;1;W
+5;Arheilgen Kreuzkirche,1;07:59:00;1;W
+5;Arheilgen Fuchsstraße,3;08:00:00;1;W
+5;Arheilgen Wechslerstraße,1;08:01:00;1;W
+5;Arheilgen Fritz-Meister-Anlage,1;08:03:00;1;W
+5;Arheilgen Asternweg,1;08:04:00;1;W
+5;Arheilgen Bahnhof,1;08:05:00;1;W
+5;Arheilgen Bahnhof,1;08:10:00;2;W
+5;Arheilgen Asternweg,2;08:11:00;2;W
+5;Arheilgen Fritz-Meister-Anlage,2;08:13:00;2;W
+5;Arheilgen Wechslerstraße,2;08:14:00;2;W
+5;Arheilgen Fuchsstraße,4;08:15:00;2;W
+5;Arheilgen Kreuzkirche,2;08:17:00;2;W
+5;Arheilgen Thomas-Mann-Platz,2;08:18:00;2;W
+5;Arheilgen Stadtteilschule,2;08:18:00;2;W
+5;Arheilgen Auf der Hardt,2;08:19:00;2;W
+5;Arheilgen Kornweg,3;08:21:00;2;W
+6;Arheilgen Kornweg,3;08:25:00;1;W
+6;Arheilgen Auf der Hardt,1;08:26:00;1;W
+6;Arheilgen Stadtteilschule,1;08:27:00;1;W
+6;Arheilgen Thomas-Mann-Platz,1;08:28:00;1;W
+6;Arheilgen Kreuzkirche,1;08:29:00;1;W
+6;Arheilgen Fuchsstraße,3;08:30:00;1;W
+6;Arheilgen Wechslerstraße,1;08:31:00;1;W
+6;Arheilgen Fritz-Meister-Anlage,1;08:33:00;1;W
+6;Arheilgen Asternweg,1;08:34:00;1;W
+6;Arheilgen Bahnhof,1;08:35:00;1;W
+6;Arheilgen Bahnhof,1;08:40:00;2;W
+6;Arheilgen Asternweg,2;08:41:00;2;W
+6;Arheilgen Fritz-Meister-Anlage,2;08:43:00;2;W
+6;Arheilgen Wechslerstraße,2;08:44:00;2;W
+6;Arheilgen Fuchsstraße,4;08:45:00;2;W
+6;Arheilgen Kreuzkirche,2;08:47:00;2;W
+6;Arheilgen Thomas-Mann-Platz,2;08:48:00;2;W
+6;Arheilgen Stadtteilschule,2;08:48:00;2;W
+6;Arheilgen Auf der Hardt,2;08:49:00;2;W
+6;Arheilgen Kornweg,3;08:51:00;2;W
+7;Arheilgen Kornweg,3;08:55:00;1;W
+7;Arheilgen Auf der Hardt,1;08:56:00;1;W
+7;Arheilgen Stadtteilschule,1;08:57:00;1;W
+7;Arheilgen Thomas-Mann-Platz,1;08:58:00;1;W
+7;Arheilgen Kreuzkirche,1;08:59:00;1;W
+7;Arheilgen Fuchsstraße,3;09:00:00;1;W
+7;Arheilgen Wechslerstraße,1;09:01:00;1;W
+7;Arheilgen Fritz-Meister-Anlage,1;09:03:00;1;W
+7;Arheilgen Asternweg,1;09:04:00;1;W
+7;Arheilgen Bahnhof,1;09:05:00;1;W
+7;Arheilgen Bahnhof,1;09:10:00;2;W
+7;Arheilgen Asternweg,2;09:11:00;2;W
+7;Arheilgen Fritz-Meister-Anlage,2;09:13:00;2;W
+7;Arheilgen Wechslerstraße,2;09:14:00;2;W
+7;Arheilgen Fuchsstraße,4;09:15:00;2;W
+7;Arheilgen Kreuzkirche,2;09:17:00;2;W
+7;Arheilgen Thomas-Mann-Platz,2;09:18:00;2;W
+7;Arheilgen Stadtteilschule,2;09:18:00;2;W
+7;Arheilgen Auf der Hardt,2;09:19:00;2;W
+7;Arheilgen Kornweg,3;09:21:00;2;W
+8;Arheilgen Kornweg,3;09:25:00;1;W
+8;Arheilgen Auf der Hardt,1;09:26:00;1;W
+8;Arheilgen Stadtteilschule,1;09:27:00;1;W
+8;Arheilgen Thomas-Mann-Platz,1;09:28:00;1;W
+8;Arheilgen Kreuzkirche,1;09:29:00;1;W
+8;Arheilgen Fuchsstraße,3;09:30:00;1;W
+8;Arheilgen Wechslerstraße,1;09:31:00;1;W
+8;Arheilgen Fritz-Meister-Anlage,1;09:33:00;1;W
+8;Arheilgen Asternweg,1;09:34:00;1;W
+8;Arheilgen Bahnhof,1;09:35:00;1;W
+8;Arheilgen Bahnhof,1;09:40:00;2;W
+8;Arheilgen Asternweg,2;09:41:00;2;W
+8;Arheilgen Fritz-Meister-Anlage,2;09:43:00;2;W
+8;Arheilgen Wechslerstraße,2;09:44:00;2;W
+8;Arheilgen Fuchsstraße,4;09:45:00;2;W
+8;Arheilgen Kreuzkirche,2;09:47:00;2;W
+8;Arheilgen Thomas-Mann-Platz,2;09:48:00;2;W
+8;Arheilgen Stadtteilschule,2;09:48:00;2;W
+8;Arheilgen Auf der Hardt,2;09:49:00;2;W
+8;Arheilgen Kornweg,3;09:51:00;2;W
+9;Arheilgen Kornweg,3;09:55:00;1;W
+9;Arheilgen Auf der Hardt,1;09:56:00;1;W
+9;Arheilgen Stadtteilschule,1;09:57:00;1;W
+9;Arheilgen Thomas-Mann-Platz,1;09:58:00;1;W
+9;Arheilgen Kreuzkirche,1;09:59:00;1;W
+9;Arheilgen Fuchsstraße,3;10:00:00;1;W
+9;Arheilgen Wechslerstraße,1;10:01:00;1;W
+9;Arheilgen Fritz-Meister-Anlage,1;10:03:00;1;W
+9;Arheilgen Asternweg,1;10:04:00;1;W
+9;Arheilgen Bahnhof,1;10:05:00;1;W
+9;Arheilgen Bahnhof,1;10:10:00;2;W
+9;Arheilgen Asternweg,2;10:11:00;2;W
+9;Arheilgen Fritz-Meister-Anlage,2;10:13:00;2;W
+9;Arheilgen Wechslerstraße,2;10:14:00;2;W
+9;Arheilgen Fuchsstraße,4;10:15:00;2;W
+9;Arheilgen Kreuzkirche,2;10:17:00;2;W
+9;Arheilgen Thomas-Mann-Platz,2;10:18:00;2;W
+9;Arheilgen Stadtteilschule,2;10:18:00;2;W
+9;Arheilgen Auf der Hardt,2;10:19:00;2;W
+9;Arheilgen Kornweg,3;10:21:00;2;W
+10;Arheilgen Kornweg,3;10:25:00;1;W
+10;Arheilgen Auf der Hardt,1;10:26:00;1;W
+10;Arheilgen Stadtteilschule,1;10:27:00;1;W
+10;Arheilgen Thomas-Mann-Platz,1;10:28:00;1;W
+10;Arheilgen Kreuzkirche,1;10:29:00;1;W
+10;Arheilgen Fuchsstraße,3;10:30:00;1;W
+10;Arheilgen Wechslerstraße,1;10:31:00;1;W
+10;Arheilgen Fritz-Meister-Anlage,1;10:33:00;1;W
+10;Arheilgen Asternweg,1;10:34:00;1;W
+10;Arheilgen Bahnhof,1;10:35:00;1;W
+10;Arheilgen Bahnhof,1;10:40:00;2;W
+10;Arheilgen Asternweg,2;10:41:00;2;W
+10;Arheilgen Fritz-Meister-Anlage,2;10:43:00;2;W
+10;Arheilgen Wechslerstraße,2;10:44:00;2;W
+10;Arheilgen Fuchsstraße,4;10:45:00;2;W
+10;Arheilgen Kreuzkirche,2;10:47:00;2;W
+10;Arheilgen Thomas-Mann-Platz,2;10:48:00;2;W
+10;Arheilgen Stadtteilschule,2;10:48:00;2;W
+10;Arheilgen Auf der Hardt,2;10:49:00;2;W
+10;Arheilgen Kornweg,3;10:51:00;2;W
+11;Arheilgen Kornweg,3;10:55:00;1;W
+11;Arheilgen Auf der Hardt,1;10:56:00;1;W
+11;Arheilgen Stadtteilschule,1;10:57:00;1;W
+11;Arheilgen Thomas-Mann-Platz,1;10:58:00;1;W
+11;Arheilgen Kreuzkirche,1;10:59:00;1;W
+11;Arheilgen Fuchsstraße,3;11:00:00;1;W
+11;Arheilgen Wechslerstraße,1;11:01:00;1;W
+11;Arheilgen Fritz-Meister-Anlage,1;11:03:00;1;W
+11;Arheilgen Asternweg,1;11:04:00;1;W
+11;Arheilgen Bahnhof,1;11:05:00;1;W
+11;Arheilgen Bahnhof,1;11:10:00;2;W
+11;Arheilgen Asternweg,2;11:11:00;2;W
+11;Arheilgen Fritz-Meister-Anlage,2;11:13:00;2;W
+11;Arheilgen Wechslerstraße,2;11:14:00;2;W
+11;Arheilgen Fuchsstraße,4;11:15:00;2;W
+11;Arheilgen Kreuzkirche,2;11:17:00;2;W
+11;Arheilgen Thomas-Mann-Platz,2;11:18:00;2;W
+11;Arheilgen Stadtteilschule,2;11:18:00;2;W
+11;Arheilgen Auf der Hardt,2;11:19:00;2;W
+11;Arheilgen Kornweg,3;11:21:00;2;W
+11;Arheilgen Kornweg,3;13:10:00;3;W
+11;Arheilgen Auf der Hardt,1;13:11:00;3;W
+11;Arheilgen Stadtteilschule,1;13:12:00;3;W
+11;Arheilgen Thomas-Mann-Platz,1;13:13:00;3;W
+11;Arheilgen Kreuzkirche,1;13:14:00;3;W
+11;Arheilgen Fuchsstraße,3;13:15:00;3;W
+11;Arheilgen Wechslerstraße,1;13:16:00;3;W
+11;Arheilgen Fritz-Meister-Anlage,1;13:18:00;3;W
+11;Arheilgen Asternweg,1;13:19:00;3;W
+11;Arheilgen Bahnhof,1;13:20:00;3;W
+11;Arheilgen Bahnhof,1;13:25:00;4;W
+11;Arheilgen Asternweg,2;13:26:00;4;W
+11;Arheilgen Fritz-Meister-Anlage,2;13:28:00;4;W
+11;Arheilgen Wechslerstraße,2;13:29:00;4;W
+11;Arheilgen Fuchsstraße,4;13:30:00;4;W
+11;Arheilgen Kreuzkirche,2;13:32:00;4;W
+11;Arheilgen Thomas-Mann-Platz,2;13:33:00;4;W
+11;Arheilgen Stadtteilschule,2;13:33:00;4;W
+11;Arheilgen Auf der Hardt,2;13:34:00;4;W
+11;Arheilgen Kornweg,3;13:36:00;4;W
+12;Arheilgen Kornweg,3;11:25:00;1;W
+12;Arheilgen Auf der Hardt,1;11:26:00;1;W
+12;Arheilgen Stadtteilschule,1;11:27:00;1;W
+12;Arheilgen Thomas-Mann-Platz,1;11:28:00;1;W
+12;Arheilgen Kreuzkirche,1;11:29:00;1;W
+12;Arheilgen Fuchsstraße,3;11:30:00;1;W
+12;Arheilgen Wechslerstraße,1;11:31:00;1;W
+12;Arheilgen Fritz-Meister-Anlage,1;11:33:00;1;W
+12;Arheilgen Asternweg,1;11:34:00;1;W
+12;Arheilgen Bahnhof,1;11:35:00;1;W
+12;Arheilgen Bahnhof,1;11:40:00;2;W
+12;Arheilgen Asternweg,2;11:41:00;2;W
+12;Arheilgen Fritz-Meister-Anlage,2;11:43:00;2;W
+12;Arheilgen Wechslerstraße,2;11:44:00;2;W
+12;Arheilgen Fuchsstraße,4;11:45:00;2;W
+12;Arheilgen Kreuzkirche,2;11:47:00;2;W
+12;Arheilgen Thomas-Mann-Platz,2;11:48:00;2;W
+12;Arheilgen Stadtteilschule,2;11:48:00;2;W
+12;Arheilgen Auf der Hardt,2;11:49:00;2;W
+12;Arheilgen Kornweg,3;11:51:00;2;W
+12;Arheilgen Kornweg,3;13:40:00;3;W
+12;Arheilgen Auf der Hardt,1;13:41:00;3;W
+12;Arheilgen Stadtteilschule,1;13:42:00;3;W
+12;Arheilgen Thomas-Mann-Platz,1;13:43:00;3;W
+12;Arheilgen Kreuzkirche,1;13:44:00;3;W
+12;Arheilgen Fuchsstraße,3;13:45:00;3;W
+12;Arheilgen Wechslerstraße,1;13:46:00;3;W
+12;Arheilgen Fritz-Meister-Anlage,1;13:48:00;3;W
+12;Arheilgen Asternweg,1;13:49:00;3;W
+12;Arheilgen Bahnhof,1;13:50:00;3;W
+12;Arheilgen Bahnhof,1;13:55:00;4;W
+12;Arheilgen Asternweg,2;13:56:00;4;W
+12;Arheilgen Fritz-Meister-Anlage,2;13:58:00;4;W
+12;Arheilgen Wechslerstraße,2;13:59:00;4;W
+12;Arheilgen Fuchsstraße,4;14:00:00;4;W
+12;Arheilgen Kreuzkirche,2;14:02:00;4;W
+12;Arheilgen Thomas-Mann-Platz,2;14:03:00;4;W
+12;Arheilgen Stadtteilschule,2;14:03:00;4;W
+12;Arheilgen Auf der Hardt,2;14:04:00;4;W
+12;Arheilgen Kornweg,3;14:06:00;4;W
+13;Arheilgen Kornweg,3;11:55:00;1;W
+13;Arheilgen Auf der Hardt,1;11:56:00;1;W
+13;Arheilgen Stadtteilschule,1;11:57:00;1;W
+13;Arheilgen Thomas-Mann-Platz,1;11:58:00;1;W
+13;Arheilgen Kreuzkirche,1;11:59:00;1;W
+13;Arheilgen Fuchsstraße,3;12:00:00;1;W
+13;Arheilgen Wechslerstraße,1;12:01:00;1;W
+13;Arheilgen Fritz-Meister-Anlage,1;12:03:00;1;W
+13;Arheilgen Asternweg,1;12:04:00;1;W
+13;Arheilgen Bahnhof,1;12:05:00;1;W
+13;Arheilgen Bahnhof,1;12:10:00;2;W
+13;Arheilgen Asternweg,2;12:11:00;2;W
+13;Arheilgen Fritz-Meister-Anlage,2;12:13:00;2;W
+13;Arheilgen Wechslerstraße,2;12:14:00;2;W
+13;Arheilgen Fuchsstraße,4;12:15:00;2;W
+13;Arheilgen Kreuzkirche,2;12:17:00;2;W
+13;Arheilgen Thomas-Mann-Platz,2;12:18:00;2;W
+13;Arheilgen Stadtteilschule,2;12:18:00;2;W
+13;Arheilgen Auf der Hardt,2;12:19:00;2;W
+13;Arheilgen Kornweg,3;12:21:00;2;W
+13;Arheilgen Kornweg,3;14:10:00;3;W
+13;Arheilgen Auf der Hardt,1;14:11:00;3;W
+13;Arheilgen Stadtteilschule,1;14:12:00;3;W
+13;Arheilgen Thomas-Mann-Platz,1;14:13:00;3;W
+13;Arheilgen Kreuzkirche,1;14:14:00;3;W
+13;Arheilgen Fuchsstraße,3;14:15:00;3;W
+13;Arheilgen Wechslerstraße,1;14:16:00;3;W
+13;Arheilgen Fritz-Meister-Anlage,1;14:18:00;3;W
+13;Arheilgen Asternweg,1;14:19:00;3;W
+13;Arheilgen Bahnhof,1;14:20:00;3;W
+13;Arheilgen Bahnhof,1;14:25:00;4;W
+13;Arheilgen Asternweg,2;14:26:00;4;W
+13;Arheilgen Fritz-Meister-Anlage,2;14:28:00;4;W
+13;Arheilgen Wechslerstraße,2;14:29:00;4;W
+13;Arheilgen Fuchsstraße,4;14:30:00;4;W
+13;Arheilgen Kreuzkirche,2;14:32:00;4;W
+13;Arheilgen Thomas-Mann-Platz,2;14:33:00;4;W
+13;Arheilgen Stadtteilschule,2;14:33:00;4;W
+13;Arheilgen Auf der Hardt,2;14:34:00;4;W
+13;Arheilgen Kornweg,3;14:36:00;4;W
+14;Arheilgen Kornweg,3;12:25:00;1;W
+14;Arheilgen Auf der Hardt,1;12:26:00;1;W
+14;Arheilgen Stadtteilschule,1;12:27:00;1;W
+14;Arheilgen Thomas-Mann-Platz,1;12:28:00;1;W
+14;Arheilgen Kreuzkirche,1;12:29:00;1;W
+14;Arheilgen Fuchsstraße,3;12:30:00;1;W
+14;Arheilgen Wechslerstraße,1;12:31:00;1;W
+14;Arheilgen Fritz-Meister-Anlage,1;12:33:00;1;W
+14;Arheilgen Asternweg,1;12:34:00;1;W
+14;Arheilgen Bahnhof,1;12:35:00;1;W
+14;Arheilgen Bahnhof,1;12:40:00;2;W
+14;Arheilgen Asternweg,2;12:41:00;2;W
+14;Arheilgen Fritz-Meister-Anlage,2;12:43:00;2;W
+14;Arheilgen Wechslerstraße,2;12:44:00;2;W
+14;Arheilgen Fuchsstraße,4;12:45:00;2;W
+14;Arheilgen Kreuzkirche,2;12:47:00;2;W
+14;Arheilgen Thomas-Mann-Platz,2;12:48:00;2;W
+14;Arheilgen Stadtteilschule,2;12:48:00;2;W
+14;Arheilgen Auf der Hardt,2;12:49:00;2;W
+14;Arheilgen Kornweg,3;12:51:00;2;W
+14;Arheilgen Kornweg,3;14:40:00;3;W
+14;Arheilgen Auf der Hardt,1;14:41:00;3;W
+14;Arheilgen Stadtteilschule,1;14:42:00;3;W
+14;Arheilgen Thomas-Mann-Platz,1;14:43:00;3;W
+14;Arheilgen Kreuzkirche,1;14:44:00;3;W
+14;Arheilgen Fuchsstraße,3;14:45:00;3;W
+14;Arheilgen Wechslerstraße,1;14:46:00;3;W
+14;Arheilgen Fritz-Meister-Anlage,1;14:48:00;3;W
+14;Arheilgen Asternweg,1;14:49:00;3;W
+14;Arheilgen Bahnhof,1;14:50:00;3;W
+14;Arheilgen Bahnhof,1;14:55:00;4;W
+14;Arheilgen Asternweg,2;14:56:00;4;W
+14;Arheilgen Fritz-Meister-Anlage,2;14:58:00;4;W
+14;Arheilgen Wechslerstraße,2;14:59:00;4;W
+14;Arheilgen Fuchsstraße,4;15:00:00;4;W
+14;Arheilgen Kreuzkirche,2;15:02:00;4;W
+14;Arheilgen Thomas-Mann-Platz,2;15:03:00;4;W
+14;Arheilgen Stadtteilschule,2;15:03:00;4;W
+14;Arheilgen Auf der Hardt,2;15:04:00;4;W
+14;Arheilgen Kornweg,3;15:06:00;4;W
+15;Arheilgen Kornweg,3;15:10:00;3;W
+15;Arheilgen Auf der Hardt,1;15:11:00;3;W
+15;Arheilgen Stadtteilschule,1;15:12:00;3;W
+15;Arheilgen Thomas-Mann-Platz,1;15:13:00;3;W
+15;Arheilgen Kreuzkirche,1;15:14:00;3;W
+15;Arheilgen Fuchsstraße,3;15:15:00;3;W
+15;Arheilgen Wechslerstraße,1;15:16:00;3;W
+15;Arheilgen Fritz-Meister-Anlage,1;15:18:00;3;W
+15;Arheilgen Asternweg,1;15:19:00;3;W
+15;Arheilgen Bahnhof,1;15:20:00;3;W
+15;Arheilgen Bahnhof,1;15:25:00;4;W
+15;Arheilgen Asternweg,2;15:26:00;4;W
+15;Arheilgen Fritz-Meister-Anlage,2;15:28:00;4;W
+15;Arheilgen Wechslerstraße,2;15:29:00;4;W
+15;Arheilgen Fuchsstraße,4;15:30:00;4;W
+15;Arheilgen Kreuzkirche,2;15:32:00;4;W
+15;Arheilgen Thomas-Mann-Platz,2;15:33:00;4;W
+15;Arheilgen Stadtteilschule,2;15:33:00;4;W
+15;Arheilgen Auf der Hardt,2;15:34:00;4;W
+15;Arheilgen Kornweg,3;15:36:00;4;W
+16;Arheilgen Kornweg,3;15:40:00;3;W
+16;Arheilgen Auf der Hardt,1;15:41:00;3;W
+16;Arheilgen Stadtteilschule,1;15:42:00;3;W
+16;Arheilgen Thomas-Mann-Platz,1;15:43:00;3;W
+16;Arheilgen Kreuzkirche,1;15:44:00;3;W
+16;Arheilgen Fuchsstraße,3;15:45:00;3;W
+16;Arheilgen Wechslerstraße,1;15:46:00;3;W
+16;Arheilgen Fritz-Meister-Anlage,1;15:48:00;3;W
+16;Arheilgen Asternweg,1;15:49:00;3;W
+16;Arheilgen Bahnhof,1;15:50:00;3;W
+16;Arheilgen Bahnhof,1;15:55:00;4;W
+16;Arheilgen Asternweg,2;15:56:00;4;W
+16;Arheilgen Fritz-Meister-Anlage,2;15:58:00;4;W
+16;Arheilgen Wechslerstraße,2;15:59:00;4;W
+16;Arheilgen Fuchsstraße,4;16:00:00;4;W
+16;Arheilgen Kreuzkirche,2;16:02:00;4;W
+16;Arheilgen Thomas-Mann-Platz,2;16:03:00;4;W
+16;Arheilgen Stadtteilschule,2;16:03:00;4;W
+16;Arheilgen Auf der Hardt,2;16:04:00;4;W
+16;Arheilgen Kornweg,3;16:06:00;4;W
+17;Arheilgen Kornweg,3;16:10:00;3;W
+17;Arheilgen Auf der Hardt,1;16:11:00;3;W
+17;Arheilgen Stadtteilschule,1;16:12:00;3;W
+17;Arheilgen Thomas-Mann-Platz,1;16:13:00;3;W
+17;Arheilgen Kreuzkirche,1;16:14:00;3;W
+17;Arheilgen Fuchsstraße,3;16:15:00;3;W
+17;Arheilgen Wechslerstraße,1;16:16:00;3;W
+17;Arheilgen Fritz-Meister-Anlage,1;16:18:00;3;W
+17;Arheilgen Asternweg,1;16:19:00;3;W
+17;Arheilgen Bahnhof,1;16:20:00;3;W
+17;Arheilgen Bahnhof,1;16:25:00;4;W
+17;Arheilgen Asternweg,2;16:26:00;4;W
+17;Arheilgen Fritz-Meister-Anlage,2;16:28:00;4;W
+17;Arheilgen Wechslerstraße,2;16:29:00;4;W
+17;Arheilgen Fuchsstraße,4;16:30:00;4;W
+17;Arheilgen Kreuzkirche,2;16:32:00;4;W
+17;Arheilgen Thomas-Mann-Platz,2;16:33:00;4;W
+17;Arheilgen Stadtteilschule,2;16:33:00;4;W
+17;Arheilgen Auf der Hardt,2;16:34:00;4;W
+17;Arheilgen Kornweg,3;16:36:00;4;W
+18;Arheilgen Kornweg,3;16:40:00;3;W
+18;Arheilgen Auf der Hardt,1;16:41:00;3;W
+18;Arheilgen Stadtteilschule,1;16:42:00;3;W
+18;Arheilgen Thomas-Mann-Platz,1;16:43:00;3;W
+18;Arheilgen Kreuzkirche,1;16:44:00;3;W
+18;Arheilgen Fuchsstraße,3;16:45:00;3;W
+18;Arheilgen Wechslerstraße,1;16:46:00;3;W
+18;Arheilgen Fritz-Meister-Anlage,1;16:48:00;3;W
+18;Arheilgen Asternweg,1;16:49:00;3;W
+18;Arheilgen Bahnhof,1;16:50:00;3;W
+18;Arheilgen Bahnhof,1;16:55:00;4;W
+18;Arheilgen Asternweg,2;16:56:00;4;W
+18;Arheilgen Fritz-Meister-Anlage,2;16:58:00;4;W
+18;Arheilgen Wechslerstraße,2;16:59:00;4;W
+18;Arheilgen Fuchsstraße,4;17:00:00;4;W
+18;Arheilgen Kreuzkirche,2;17:02:00;4;W
+18;Arheilgen Thomas-Mann-Platz,2;17:03:00;4;W
+18;Arheilgen Stadtteilschule,2;17:03:00;4;W
+18;Arheilgen Auf der Hardt,2;17:04:00;4;W
+18;Arheilgen Kornweg,3;17:06:00;4;W
+19;Arheilgen Kornweg,3;17:10:00;3;W
+19;Arheilgen Auf der Hardt,1;17:11:00;3;W
+19;Arheilgen Stadtteilschule,1;17:12:00;3;W
+19;Arheilgen Thomas-Mann-Platz,1;17:13:00;3;W
+19;Arheilgen Kreuzkirche,1;17:14:00;3;W
+19;Arheilgen Fuchsstraße,3;17:15:00;3;W
+19;Arheilgen Wechslerstraße,1;17:16:00;3;W
+19;Arheilgen Fritz-Meister-Anlage,1;17:18:00;3;W
+19;Arheilgen Asternweg,1;17:19:00;3;W
+19;Arheilgen Bahnhof,1;17:20:00;3;W
+19;Arheilgen Bahnhof,1;17:25:00;4;W
+19;Arheilgen Asternweg,2;17:26:00;4;W
+19;Arheilgen Fritz-Meister-Anlage,2;17:28:00;4;W
+19;Arheilgen Wechslerstraße,2;17:29:00;4;W
+19;Arheilgen Fuchsstraße,4;17:30:00;4;W
+19;Arheilgen Kreuzkirche,2;17:32:00;4;W
+19;Arheilgen Thomas-Mann-Platz,2;17:33:00;4;W
+19;Arheilgen Stadtteilschule,2;17:33:00;4;W
+19;Arheilgen Auf der Hardt,2;17:34:00;4;W
+19;Arheilgen Kornweg,3;17:36:00;4;W
+20;Arheilgen Kornweg,3;17:40:00;3;W
+20;Arheilgen Auf der Hardt,1;17:41:00;3;W
+20;Arheilgen Stadtteilschule,1;17:42:00;3;W
+20;Arheilgen Thomas-Mann-Platz,1;17:43:00;3;W
+20;Arheilgen Kreuzkirche,1;17:44:00;3;W
+20;Arheilgen Fuchsstraße,3;17:45:00;3;W
+20;Arheilgen Wechslerstraße,1;17:46:00;3;W
+20;Arheilgen Fritz-Meister-Anlage,1;17:48:00;3;W
+20;Arheilgen Asternweg,1;17:49:00;3;W
+20;Arheilgen Bahnhof,1;17:50:00;3;W
+20;Arheilgen Bahnhof,1;17:55:00;4;W
+20;Arheilgen Asternweg,2;17:56:00;4;W
+20;Arheilgen Fritz-Meister-Anlage,2;17:58:00;4;W
+20;Arheilgen Wechslerstraße,2;17:59:00;4;W
+20;Arheilgen Fuchsstraße,4;18:00:00;4;W
+20;Arheilgen Kreuzkirche,2;18:02:00;4;W
+20;Arheilgen Thomas-Mann-Platz,2;18:03:00;4;W
+20;Arheilgen Stadtteilschule,2;18:03:00;4;W
+20;Arheilgen Auf der Hardt,2;18:04:00;4;W
+20;Arheilgen Kornweg,3;18:06:00;4;W
+21;Arheilgen Kornweg,3;18:10:00;3;W
+21;Arheilgen Auf der Hardt,1;18:11:00;3;W
+21;Arheilgen Stadtteilschule,1;18:12:00;3;W
+21;Arheilgen Thomas-Mann-Platz,1;18:13:00;3;W
+21;Arheilgen Kreuzkirche,1;18:14:00;3;W
+21;Arheilgen Fuchsstraße,3;18:15:00;3;W
+21;Arheilgen Wechslerstraße,1;18:16:00;3;W
+21;Arheilgen Fritz-Meister-Anlage,1;18:18:00;3;W
+21;Arheilgen Asternweg,1;18:19:00;3;W
+21;Arheilgen Bahnhof,1;18:20:00;3;W
+21;Arheilgen Bahnhof,1;18:25:00;4;W
+21;Arheilgen Asternweg,2;18:26:00;4;W
+21;Arheilgen Fritz-Meister-Anlage,2;18:28:00;4;W
+21;Arheilgen Wechslerstraße,2;18:29:00;4;W
+21;Arheilgen Fuchsstraße,4;18:30:00;4;W
+21;Arheilgen Kreuzkirche,2;18:32:00;4;W
+21;Arheilgen Thomas-Mann-Platz,2;18:33:00;4;W
+21;Arheilgen Stadtteilschule,2;18:33:00;4;W
+21;Arheilgen Auf der Hardt,2;18:34:00;4;W
+21;Arheilgen Kornweg,3;18:36:00;4;W
+22;Arheilgen Kornweg,3;18:40:00;3;W
+22;Arheilgen Auf der Hardt,1;18:41:00;3;W
+22;Arheilgen Stadtteilschule,1;18:42:00;3;W
+22;Arheilgen Thomas-Mann-Platz,1;18:43:00;3;W
+22;Arheilgen Kreuzkirche,1;18:44:00;3;W
+22;Arheilgen Fuchsstraße,3;18:45:00;3;W
+22;Arheilgen Wechslerstraße,1;18:46:00;3;W
+22;Arheilgen Fritz-Meister-Anlage,1;18:48:00;3;W
+22;Arheilgen Asternweg,1;18:49:00;3;W
+22;Arheilgen Bahnhof,1;18:50:00;3;W
+22;Arheilgen Bahnhof,1;18:55:00;4;W
+22;Arheilgen Asternweg,2;18:56:00;4;W
+22;Arheilgen Fritz-Meister-Anlage,2;18:58:00;4;W
+22;Arheilgen Wechslerstraße,2;18:59:00;4;W
+22;Arheilgen Fuchsstraße,4;19:00:00;4;W
+22;Arheilgen Kreuzkirche,2;19:02:00;4;W
+22;Arheilgen Thomas-Mann-Platz,2;19:03:00;4;W
+22;Arheilgen Stadtteilschule,2;19:03:00;4;W
+22;Arheilgen Auf der Hardt,2;19:04:00;4;W
+22;Arheilgen Kornweg,3;19:06:00;4;W
+23;Arheilgen Kornweg,3;19:10:00;3;W
+23;Arheilgen Auf der Hardt,1;19:11:00;3;W
+23;Arheilgen Stadtteilschule,1;19:12:00;3;W
+23;Arheilgen Thomas-Mann-Platz,1;19:13:00;3;W
+23;Arheilgen Kreuzkirche,1;19:14:00;3;W
+23;Arheilgen Fuchsstraße,3;19:15:00;3;W
+23;Arheilgen Wechslerstraße,1;19:16:00;3;W
+23;Arheilgen Fritz-Meister-Anlage,1;19:18:00;3;W
+23;Arheilgen Asternweg,1;19:19:00;3;W
+23;Arheilgen Bahnhof,1;19:20:00;3;W
+23;Arheilgen Bahnhof,1;19:25:00;4;W
+23;Arheilgen Asternweg,2;19:26:00;4;W
+23;Arheilgen Fritz-Meister-Anlage,2;19:28:00;4;W
+23;Arheilgen Wechslerstraße,2;19:29:00;4;W
+23;Arheilgen Fuchsstraße,4;19:30:00;4;W
+23;Arheilgen Kreuzkirche,2;19:32:00;4;W
+23;Arheilgen Thomas-Mann-Platz,2;19:33:00;4;W
+23;Arheilgen Stadtteilschule,2;19:33:00;4;W
+23;Arheilgen Auf der Hardt,2;19:34:00;4;W
+23;Arheilgen Kornweg,3;19:36:00;4;W
+24;Arheilgen Kornweg,3;19:40:00;3;W
+24;Arheilgen Auf der Hardt,1;19:41:00;3;W
+24;Arheilgen Stadtteilschule,1;19:42:00;3;W
+24;Arheilgen Thomas-Mann-Platz,1;19:43:00;3;W
+24;Arheilgen Kreuzkirche,1;19:44:00;3;W
+24;Arheilgen Fuchsstraße,3;19:45:00;3;W
+24;Arheilgen Wechslerstraße,1;19:46:00;3;W
+24;Arheilgen Fritz-Meister-Anlage,1;19:48:00;3;W
+24;Arheilgen Asternweg,1;19:49:00;3;W
+24;Arheilgen Bahnhof,1;19:50:00;3;W
+24;Arheilgen Bahnhof,1;19:55:00;4;W
+24;Arheilgen Asternweg,2;19:56:00;4;W
+24;Arheilgen Fritz-Meister-Anlage,2;19:58:00;4;W
+24;Arheilgen Wechslerstraße,2;19:59:00;4;W
+24;Arheilgen Fuchsstraße,4;20:00:00;4;W
+24;Arheilgen Kreuzkirche,2;20:02:00;4;W
+24;Arheilgen Thomas-Mann-Platz,2;20:03:00;4;W
+24;Arheilgen Stadtteilschule,2;20:03:00;4;W
+24;Arheilgen Auf der Hardt,2;20:04:00;4;W
+24;Arheilgen Kornweg,3;20:06:00;4;W

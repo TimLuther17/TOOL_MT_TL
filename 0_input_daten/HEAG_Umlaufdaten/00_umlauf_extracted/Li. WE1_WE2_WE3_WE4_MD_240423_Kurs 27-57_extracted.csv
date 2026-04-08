@@ -1,0 +1,101 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Darmstadt Schloss,3;18:48:00;1;W
+1;Darmstadt Luisenplatz,3;18:50:00;1;W
+1;Darmstadt Pallaswiesenstraße,4;18:55:00;1;W
+1;Darmstadt Windmühle,2;18:58:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;19:01:00;1;W
+2;Riedbahn Robert-Bosch-Str./B42,1;19:04:00;1;W
+3;Weiterstadt Im Rödling,1;19:07:00;1;W
+3;Wst. Sudetenstraße,1;19:09:00;1;W
+3;Weiterstadt Hallenbad,1;19:15:00;1;W
+3;Braunshardt Dornhecke,1;19:17:00;1;W
+4;Schnepphausen Schulstraße,1;19:19:00;1;W
+4;Schneppenhausen Feuerwehr,1;19:20:00;1;W
+4;Gräfenh. Schneppenhäuser Str.,2;19:22:00;1;W
+4;Gräfenhausen Postplatz,1;19:25:00;1;W
+4;Gräfenhausen Ostendstraße,1;19:28:00;1;W
+4;Wixhausen Sportplatz,1;19:30:00;1;W
+4;Erzhausen Hessenplatz,1;19:36:00;1;W
+4;Erzhausen Bahnhof,1;19:39:00;1;W
+4;Erzhausen Bahnhof,2;19:56:00;2;W
+4;Erzhausen Hessenplatz,2;19:58:00;2;W
+4;Wixhausen Sportplatz,2;20:02:00;2;W
+4;Gräfenhausen Ostendstraße,2;20:05:00;2;W
+4;Gräfenhausen Postplatz,1;20:07:00;2;W
+4;Gräfenh. Schneppenhäuser Str.,1;20:09:00;2;W
+4;Schneppenhausen Feuerwehr,2;20:11:00;2;W
+4;Schnepphausen Schulstraße,2;20:12:00;2;W
+4;Braunshardt Dornhecke,3;20:14:00;2;W
+4;Weiterstadt Hallenbad,1;20:18:00;2;W
+4;Wst. Sudetenstraße,2;20:24:00;2;W
+4;Weiterstadt Im Rödling,1;20:27:00;2;W
+4;Darmstadt Otto-Röhm-Straße,1;20:33:00;2;W
+4;Darmstadt Windmühle,1;20:35:00;2;W
+4;Darmstadt Pallaswiesenstraße,3;20:39:00;2;W
+4;Darmstadt Luisenplatz,2;20:43:00;2;W
+4;Darmstadt Schloss,4;20:45:00;2;W
+4;Darmstadt Schloss,3;21:15:00;3;W
+4;Darmstadt Luisenplatz,3;21:17:00;3;W
+4;Darmstadt Pallaswiesenstraße,4;21:22:00;3;W
+4;Darmstadt Windmühle,2;21:25:00;3;W
+4;Darmstadt Otto-Röhm-Straße,2;21:28:00;3;W
+4;Riedbahn Robert-Bosch-Str./B42,1;21:31:00;3;W
+4;Weiterstadt Im Rödling,1;21:34:00;3;W
+4;Wst. Sudetenstraße,1;21:36:00;3;W
+4;Weiterstadt Hallenbad,1;21:41:00;3;W
+4;Braunshardt Dornhecke,2;21:43:00;3;W
+4;Braunshardt Sportplatz,1;21:46:00;3;W
+4;Worfelden Neumühle,1;21:49:00;3;W
+4;Worfelden Siedlung Hesselrod,1;21:54:00;3;W
+4;Worfelden Siedlung Hesselrod,1;22:04:00;4;W
+4;Worfelden Neumühle,2;22:09:00;4;W
+4;Braunshardt Sportplatz,1;22:12:00;4;W
+4;Braunshardt Dornhecke,3;22:15:00;4;W
+4;Weiterstadt Hallenbad,1;22:18:00;4;W
+4;Wst. Sudetenstraße,2;22:24:00;4;W
+4;Riedbahn Robert-Bosch-Str./B42,2;22:26:00;4;W
+4;Darmstadt Pallaswiesenstraße,3;22:36:00;4;W
+4;Darmstadt Luisenplatz,2;22:40:00;4;W
+4;Darmstadt Schloss,4;22:42:00;4;W
+4;Darmstadt Schloss,3;22:45:00;1;W
+4;Darmstadt Luisenplatz,3;22:47:00;1;W
+4;Darmstadt Pallaswiesenstraße,4;22:52:00;1;W
+4;Darmstadt Windmühle,2;22:55:00;1;W
+4;Darmstadt Otto-Röhm-Straße,2;22:58:00;1;W
+4;Darmstadt Bunsenstraße,1;00:28:00;1;W
+5;Riedbahn Robert-Bosch-Str./B42,1;23:01:00;1;W
+5;Riedbahn Dr.-Otto-Röhm-Straße,1;00:30:00;1;W
+5;Riedbahn Robert-Koch-Straße,2;00:32:00;1;W
+5;Riedbahn R.-Diesel-Straße/BTZ,1;00:34:00;1;W
+6;Wst. Sudetenstraße,1;23:03:00;1;W
+6;Weiterstadt Hallenbad,1;23:08:00;1;W
+6;Braunshardt Dornhecke,1;23:10:00;1;W
+6;Braunshardt Dornhecke,2;00:44:00;1;W
+6;Braunshardt Schloss,1;00:46:00;1;W
+6;Worfelden Neumühle,1;00:50:00;1;W
+6;Worfelden Siedlung Hesselrod,1;00:55:00;1;W
+7;Schnepphausen Schulstraße,1;23:12:00;1;W
+7;Schneppenhausen Feuerwehr,1;23:13:00;1;W
+7;Gräfenh. Schneppenhäuser Str.,2;23:15:00;1;W
+7;Gräfenhausen Postplatz,1;23:17:00;1;W
+8;Gräfenhausen Postplatz,1;23:38:00;2;W
+8;Gräfenh. Schneppenhäuser Str.,1;23:40:00;2;W
+8;Schneppenhausen Feuerwehr,2;23:42:00;2;W
+8;Schnepphausen Schulstraße,2;23:43:00;2;W
+8;Braunshardt Dornhecke,3;23:45:00;2;W
+8;Weiterstadt Hallenbad,1;23:48:00;2;W
+8;Wst. Sudetenstraße,2;23:54:00;2;W
+9;Darmstadt Otto-Röhm-Straße,1;00:00:00;2;W
+9;Darmstadt Windmühle,1;00:02:00;2;W
+9;Darmstadt Pallaswiesenstraße,3;00:06:00;2;W
+9;Darmstadt Luisenplatz,2;00:10:00;2;W
+9;Darmstadt Schloss,4;00:12:00;2;W
+10;Darmstadt Schloss,3;00:18:00;1;W
+10;Darmstadt Luisenplatz,3;00:20:00;1;W
+10;Darmstadt Pallaswiesenstraße,4;00:23:00;1;W
+10;Darmstadt Windmühle,2;00:26:00;1;W
+11;Wst. Sudetenstraße,1;00:37:00;1;W
+11;Weiterstadt Hallenbad,1;00:42:00;1;W
+12;Schneppenhausen Feuerwehr,1;01:00:00;1;W
+12;Gräfenh. Schneppenhäuser Str.,2;01:01:00;1;W
+12;Gräfenhausen Postplatz,1;01:03:00;1;W

@@ -1,0 +1,1371 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%);Surface;Highway_Type;OSM_Name
+Haltestelle;W;Messel Rathaus;49.936803;8.744102;30.0;23:46:00;23:46:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 21m) | Auf Route gesnappt (4m);176.0;0.34;asphalt;residential;Kohlweg
+Routenpunkt (Way);T;Kohlweg;49.936803;8.744102;30.0;;;;;;Original OSM;176.0;0.47;asphalt;residential;Kohlweg
+Routenpunkt (Way);T;Kohlweg;49.936796;8.743905;30.0;;;;;;Original OSM;176.14;0.52;asphalt;residential;Kohlweg
+Routenpunkt (Way);T;;49.936792;8.743735;30.0;;;;;;Interpoliert (15m);176.25;0.66;asphalt;residential;Kohlweg
+Routenpunkt (Way);T;Kohlweg;49.936787;8.743565;30.0;;;;;;Original OSM;176.33;0.88;asphalt;residential;Kohlweg
+Routenpunkt (Way);T;;49.936783;8.743436;30.0;;;;;;Interpoliert (15m);176.4;0.84;asphalt;residential;Kohlweg
+Routenpunkt (Way);T;Kohlweg;49.936779;8.743307;30.0;;;;;;Original OSM;176.5;0.82;asphalt;residential;Kohlweg
+Routenpunkt (Way);T;Sudetenstraße;49.936748;8.743146;30.0;;;;;;Original OSM;176.6;0.83;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.93663;8.743126;30.0;;;;;;Interpoliert;176.7;0.84;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.936513;8.743107;30.0;;;;;;Interpoliert;176.8;0.8;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.936396;8.743087;30.0;;;;;;Original OSM;176.9;0.82;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.936296;8.743068;30.0;;;;;;Interpoliert;177.0;0.84;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.936197;8.74305;30.0;;;;;;Original OSM;177.1;0.86;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.936094;8.74303;30.0;;;;;;Interpoliert;177.2;0.88;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.935991;8.74301;30.0;;;;;;Interpoliert;177.3;0.87;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.935887;8.74299;30.0;;;;;;Interpoliert;177.4;0.84;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.935784;8.742971;30.0;;;;;;Original OSM;177.5;0.82;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.935666;8.742982;30.0;;;;;;Interpoliert;177.6;1.11;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.935549;8.742992;30.0;;;;;;Interpoliert;177.7;1.39;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.935431;8.743003;30.0;;;;;;Interpoliert;178.0;1.68;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.935313;8.743014;30.0;;;;;;Interpoliert;178.3;1.83;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.935195;8.743024;30.0;;;;;;Interpoliert;178.6;1.98;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.935077;8.743035;30.0;;;;;;Interpoliert;178.8;1.83;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.93496;8.743046;30.0;;;;;;Interpoliert;179.0;1.7;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.934842;8.743056;30.0;;;;;;Original OSM;179.2;1.56;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.934731;8.743057;30.0;;;;;;Interpoliert;179.4;1.91;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.93462;8.743058;30.0;;;;;;Interpoliert;179.6;2.25;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.93451;8.743059;30.0;;;;;;Interpoliert;180.0;2.27;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.934399;8.74306;30.0;;;;;;Original OSM;180.4;2.26;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.934286;8.743061;30.0;;;;;;Interpoliert;180.6;2.26;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.934174;8.743061;30.0;;;;;;Interpoliert;180.8;1.93;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.934061;8.743062;30.0;;;;;;Interpoliert;181.0;1.57;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.933949;8.743063;30.0;;;;;;Original OSM;181.2;1.54;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.933826;8.743077;30.0;;;;;;Interpoliert;181.4;1.52;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.933704;8.743091;30.0;;;;;;Interpoliert;181.6;1.49;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.933581;8.743105;30.0;;;;;;Interpoliert;181.8;1.17;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.933459;8.743119;30.0;;;;;;Interpoliert;182.0;0.88;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.933336;8.743133;30.0;;;;;;Original OSM;182.0;0.59;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.933214;8.743151;30.0;;;;;;Interpoliert;182.0;0.29;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.933092;8.74317;30.0;;;;;;Interpoliert;182.0;0.0;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.93297;8.743188;30.0;;;;;;Interpoliert;182.0;0.0;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.932848;8.743206;30.0;;;;;;Interpoliert;182.0;0.2;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.932726;8.743225;30.0;;;;;;Original OSM;182.0;0.39;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.932635;8.743246;30.0;;;;;;Interpoliert;182.1;0.59;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.932544;8.743266;30.0;;;;;;Interpoliert;182.2;0.75;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.932453;8.743287;30.0;;;;;;Original OSM;182.3;0.92;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.932345;8.743317;30.0;;;;;;Interpoliert;182.4;0.91;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.932238;8.743347;30.0;;;;;;Interpoliert;182.5;0.91;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;;49.932147;8.74337;30.0;;;;;;Interpoliert (15m);182.6;0.88;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.932055;8.743394;30.0;;;;;;Original OSM;182.7;0.89;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;;49.931948;8.743418;30.0;;;;;;Interpoliert (15m);182.8;0.86;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.931841;8.743442;30.0;;;;;;Original OSM;182.9;0.66;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.93171;8.743473;30.0;;;;;;Interpoliert;183.0;0.47;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.931593;8.743502;30.0;;;;;;Interpoliert;183.0;0.3;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.931476;8.74353;30.0;;;;;;Interpoliert;183.0;0.14;asphalt;residential;Sudetenstraße
+Haltestelle;W;Messel Sudetenstraße;49.931476;8.74353;30.0;23:48:00;23:48:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 1m) | Auf Route gesnappt (1m);183.0;0.0;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.931476;8.74353;30.0;;;;;;Interpoliert;183.0;0.0;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.931359;8.743558;30.0;;;;;;Interpoliert;183.0;0.0;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.931242;8.743586;30.0;;;;;;Original OSM;183.0;0.0;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;;49.931174;8.743607;30.0;;;;;;Interpoliert (15m);183.0;-0.41;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.931106;8.743628;30.0;;;;;;Original OSM;183.0;-0.82;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;;49.931018;8.743628;30.0;;;;;;Interpoliert (15m);182.8;-1.76;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;Sudetenstraße;49.93093;8.743628;30.0;;;;;;Original OSM;182.6;-2.71;asphalt;residential;Sudetenstraße
+Routenpunkt (Way);T;;49.930897;8.743521;30.0;;;;;;Interpoliert (15m);182.2;-3.48;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.930864;8.743414;30.0;;;;;;Interpoliert;181.8;-3.85;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.930851;8.743271;30.0;;;;;;Original OSM;181.4;-4.22;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.930836;8.743094;30.0;;;;;;Interpoliert;180.9;-4.06;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.93082;8.742917;30.0;;;;;;Interpoliert;180.4;-4.0;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.930805;8.74274;30.0;;;;;;Original OSM;179.9;-4.27;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.930791;8.742583;30.0;;;;;;Interpoliert;179.4;-4.12;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;;49.930779;8.742451;30.0;;;;;;Interpoliert (15m);178.9;-3.97;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.930766;8.742318;30.0;;;;;;Original OSM;178.6;-3.4;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;;49.930753;8.742187;30.0;;;;;;Interpoliert (15m);178.3;-2.65;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.93074;8.742055;30.0;;;;;;Interpoliert;178.2;-1.77;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.930721;8.741851;30.0;;;;;;Original OSM;178.1;-1.14;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;;49.930695;8.741687;30.0;;;;;;Interpoliert (15m);178.0;-0.51;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Im Kleepfad;49.930668;8.741524;30.0;;;;;;Original OSM;178.0;-0.45;asphalt;residential;Im Kleepfad
+Routenpunkt (Way);T;Roßdörfer Straße;49.930537;8.741522;30.0;;;;;;Interpoliert;178.0;-0.47;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.930427;8.741596;30.0;;;;;;Interpoliert;177.9;-0.45;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.930318;8.74167;30.0;;;;;;Interpoliert;177.8;-0.6;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.930208;8.741744;30.0;;;;;;Interpoliert;177.7;-0.75;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.930099;8.741818;30.0;;;;;;Interpoliert;177.6;-0.76;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.92999;8.741892;30.0;;;;;;Original OSM;177.5;-0.76;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.929881;8.74195;30.0;;;;;;Interpoliert;177.4;-0.77;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.929772;8.742008;30.0;;;;;;Interpoliert;177.3;-0.94;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.929662;8.742066;30.0;;;;;;Original OSM;177.2;-1.21;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.929554;8.742098;30.0;;;;;;Interpoliert;177.0;-1.26;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;;49.929467;8.742115;30.0;;;;;;Interpoliert (15m);176.8;-1.25;asphalt;residential;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.929381;8.742132;100.0;;;;;;Original OSM;176.7;-1.25;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;;49.929263;8.74213;100.0;;;;;;Interpoliert (15m);176.6;-1.07;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.929146;8.742128;100.0;;;;;;Interpoliert;176.5;-0.81;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.929017;8.742122;100.0;;;;;;Original OSM;176.4;-0.77;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.928906;8.742101;100.0;;;;;;Interpoliert;176.3;0.14;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.928795;8.74208;100.0;;;;;;Original OSM;176.2;0.92;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.928702;8.742049;100.0;;;;;;Interpoliert;176.6;1.84;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;;49.928607;8.741949;100.0;;;;;;Interpoliert (15m);177.0;2.16;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;;49.928513;8.741849;100.0;;;;;;Interpoliert (15m);177.5;2.46;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.928418;8.741748;100.0;;;;;;Original OSM;177.6;1.85;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;;49.928305;8.741649;100.0;;;;;;Interpoliert (15m);177.7;1.38;asphalt;unclassified;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.928192;8.74155;70.0;;;;;;Interpoliert;177.8;0.75;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.92809;8.741622;70.0;;;;;;Interpoliert;177.9;0.44;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927987;8.741694;70.0;;;;;;Interpoliert;178.0;0.14;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927885;8.741766;70.0;;;;;;Interpoliert;177.9;-0.98;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927782;8.741838;70.0;;;;;;Original OSM;177.8;-2.12;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927678;8.74189;70.0;;;;;;Interpoliert;177.2;-3.26;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927572;8.741941;70.0;;;;;;Interpoliert;176.6;-3.43;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927468;8.741993;70.0;;;;;;Interpoliert;176.0;-3.59;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927362;8.742044;70.0;;;;;;Interpoliert;175.8;-2.92;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927258;8.742096;70.0;;;;;;Original OSM;175.6;-2.41;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927144;8.742132;70.0;;;;;;Interpoliert;175.4;-1.9;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.927031;8.742169;70.0;;;;;;Interpoliert;175.1;-1.73;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.926918;8.742205;70.0;;;;;;Interpoliert;174.8;-1.55;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.926804;8.742242;70.0;;;;;;Original OSM;174.7;-1.39;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.926685;8.742264;70.0;;;;;;Interpoliert;174.6;-1.07;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.926566;8.742286;70.0;;;;;;Interpoliert;174.5;-0.75;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.926446;8.742308;70.0;;;;;;Interpoliert;174.4;-0.9;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.926327;8.742331;70.0;;;;;;Interpoliert;174.3;-1.04;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.926208;8.742353;70.0;;;;;;Original OSM;174.1;-1.18;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.926085;8.742365;70.0;;;;;;Interpoliert;173.9;-1.18;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.925962;8.742377;70.0;;;;;;Interpoliert;173.7;-1.18;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.92584;8.742389;70.0;;;;;;Interpoliert;173.6;-1.02;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.925717;8.742401;70.0;;;;;;Interpoliert;173.5;-0.9;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.925594;8.742413;70.0;;;;;;Original OSM;173.4;-0.94;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.925486;8.742428;70.0;;;;;;Interpoliert;173.3;-1.12;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.925378;8.742442;70.0;;;;;;Interpoliert;173.1;-1.3;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.92527;8.742456;70.0;;;;;;Interpoliert;172.9;-1.32;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.925161;8.742471;70.0;;;;;;Interpoliert;172.7;-1.29;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.925053;8.742485;70.0;;;;;;Original OSM;172.6;-1.1;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.924922;8.742516;50.0;;;;;;Interpoliert;172.5;-0.95;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.924791;8.742546;50.0;;;;;;Original OSM;172.4;-0.62;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.924693;8.74258;50.0;;;;;;Interpoliert;172.3;-0.45;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.924595;8.742613;50.0;;;;;;Original OSM;172.3;-0.32;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.924485;8.742648;50.0;;;;;;Interpoliert;172.3;-0.02;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.924374;8.742682;50.0;;;;;;Original OSM;172.3;0.32;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.924266;8.742738;50.0;;;;;;Interpoliert;172.4;0.47;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.924158;8.742793;50.0;;;;;;Interpoliert;172.5;0.63;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.92405;8.742848;50.0;;;;;;Interpoliert;172.6;0.83;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.923942;8.742904;50.0;;;;;;Original OSM;172.7;0.84;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.923962;8.743042;50.0;;;;;;Original OSM;172.8;0.84;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.923986;8.743208;50.0;;;;;;Interpoliert;172.9;0.68;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924011;8.743375;50.0;;;;;;Interpoliert;173.0;0.52;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924035;8.743542;50.0;;;;;;Interpoliert;173.0;0.03;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.92406;8.743708;50.0;;;;;;Original OSM;173.0;-0.43;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924084;8.743894;50.0;;;;;;Interpoliert;172.8;-1.18;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924109;8.744079;50.0;;;;;;Interpoliert;172.6;-1.77;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924133;8.744264;50.0;;;;;;Interpoliert;172.2;-2.36;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924157;8.74445;50.0;;;;;;Interpoliert;171.8;-2.63;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924182;8.744635;50.0;;;;;;Original OSM;171.4;-2.89;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924208;8.744831;50.0;;;;;;Interpoliert;171.0;-3.14;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924234;8.745027;50.0;;;;;;Interpoliert;170.6;-3.38;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924259;8.745223;50.0;;;;;;Interpoliert;170.0;-3.63;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924285;8.745419;50.0;;;;;;Interpoliert;169.4;-3.63;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924311;8.745615;50.0;;;;;;Interpoliert;168.8;-3.78;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924337;8.745811;50.0;;;;;;Original OSM;168.4;-3.36;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924362;8.746005;50.0;;;;;;Interpoliert;167.9;-2.95;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924388;8.7462;50.0;;;;;;Interpoliert;167.6;-2.51;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924414;8.746394;50.0;;;;;;Original OSM;167.3;-2.22;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924441;8.746599;50.0;;;;;;Interpoliert;167.0;-1.78;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924468;8.746804;50.0;;;;;;Interpoliert;166.8;-1.36;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924495;8.747009;50.0;;;;;;Interpoliert;166.6;-0.94;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924522;8.747214;50.0;;;;;;Interpoliert;166.6;-0.67;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924549;8.747419;50.0;;;;;;Interpoliert;166.6;-0.53;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924576;8.747623;50.0;;;;;;Interpoliert;166.5;-0.27;asphalt;residential;
+Routenpunkt (Way);T;Zeilharder Straße;49.924603;8.747828;50.0;;;;;;Interpoliert;166.4;-0.27;asphalt;residential;
+Routenpunkt (Way);T;Zeilharder Straße;49.92463;8.748033;50.0;;;;;;Interpoliert;166.4;-0.27;asphalt;residential;
+Routenpunkt (Way);T;Zeilharder Straße;49.924657;8.748238;50.0;;;;;;Interpoliert;166.4;-0.13;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;;49.924676;8.748384;50.0;;;;;;Interpoliert (15m);166.4;-0.26;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;Zeilharder Straße;49.924695;8.748531;50.0;;;;;;Original OSM;166.4;-0.79;asphalt;residential;Zeilharder Straße
+Routenpunkt (Way);T;;49.924633;8.748573;50.0;;;;;;Interpoliert (15m);166.3;-1.06;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.92457;8.748616;50.0;;;;;;Interpoliert;166.1;-1.33;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.92444;8.748657;50.0;;;;;;Interpoliert;165.9;-1.53;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.924309;8.748698;50.0;;;;;;Interpoliert;165.7;-1.47;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;;49.924222;8.748725;50.0;;;;;;Interpoliert (15m);165.6;-1.17;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.924135;8.748751;50.0;;;;;;Original OSM;165.5;-1.12;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;;49.924055;8.748774;50.0;;;;;;Interpoliert (15m);165.4;-1.0;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.923976;8.748796;50.0;;;;;;Interpoliert;165.3;-0.95;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.92386;8.748829;50.0;;;;;;Interpoliert;165.2;-1.06;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.923744;8.748862;50.0;;;;;;Interpoliert;165.1;-1.09;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.923629;8.748894;50.0;;;;;;Interpoliert;164.9;-1.13;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;;49.92356;8.748914;50.0;;;;;;Interpoliert (15m);164.8;-1.14;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.923492;8.748934;50.0;;;;;;Original OSM;164.7;-1.14;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.923382;8.74897;50.0;;;;;;Interpoliert;164.6;-0.84;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.923272;8.749006;50.0;;;;;;Original OSM;164.5;-0.58;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;;49.923198;8.749031;50.0;;;;;;Interpoliert (15m);164.5;-0.46;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.923124;8.749056;50.0;;;;;;Interpoliert;164.5;-0.44;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.922997;8.749099;50.0;;;;;;Interpoliert;164.4;-0.69;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.92287;8.749142;50.0;;;;;;Interpoliert;164.3;-0.97;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.922744;8.749184;50.0;;;;;;Interpoliert;164.0;-1.25;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.922617;8.749227;50.0;;;;;;Interpoliert;163.8;-1.39;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.92249;8.74927;50.0;;;;;;Interpoliert;163.6;-1.53;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Georgenhäuser Straße;49.922363;8.749313;50.0;;;;;;Original OSM;163.4;-1.4;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Am Bahnhof;49.92234;8.74912;50.0;;;;;;Interpoliert;163.2;-1.55;asphalt;residential;Georgenhäuser Straße
+Routenpunkt (Way);T;Am Bahnhof;49.922316;8.748928;50.0;;;;;;Interpoliert;163.0;-1.7;asphalt;residential;
+Routenpunkt (Way);T;Am Bahnhof;49.922292;8.748735;50.0;;;;;;Interpoliert;162.7;-1.71;asphalt;residential;
+Routenpunkt (Way);T;Am Bahnhof;49.922268;8.748542;50.0;;;;;;Interpoliert;162.4;-1.57;asphalt;residential;
+Routenpunkt (Way);T;Am Bahnhof;49.922244;8.748349;50.0;;;;;;Interpoliert;162.2;-1.14;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.922221;8.748156;50.0;;;;;;Interpoliert;162.1;-0.57;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.922197;8.747964;50.0;;;;;;Interpoliert;162.2;-0.0;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.922173;8.747771;50.0;;;;;;Interpoliert;162.3;0.43;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.922149;8.747578;50.0;;;;;;Interpoliert;162.4;0.71;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.922125;8.747385;50.0;;;;;;Interpoliert;162.5;0.71;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.922102;8.747192;50.0;;;;;;Interpoliert;162.6;0.72;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.922078;8.747;50.0;;;;;;Original OSM;162.7;0.73;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.922056;8.746821;50.0;;;;;;Interpoliert;162.8;0.9;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.922034;8.746643;50.0;;;;;;Interpoliert;162.9;0.92;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;;49.922012;8.746467;50.0;;;;;;Interpoliert (15m);163.1;0.93;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.92199;8.746291;50.0;;;;;;Interpoliert;163.2;0.94;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.921969;8.746118;50.0;;;;;;Interpoliert;163.3;0.94;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.921948;8.745944;50.0;;;;;;Interpoliert;163.4;0.63;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.921926;8.745771;50.0;;;;;;Original OSM;163.5;0.32;asphalt;residential;Am Bahnhof
+Haltestelle;W;Messel Bahnhof;49.921926;8.745771;50.0;23:51:00;23:52:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 21m) | Auf Route gesnappt (1m);163.6;-0.06;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.921905;8.745595;50.0;;;;;;Interpoliert;163.5;-0.44;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;;49.92189;8.745471;50.0;;;;;;Interpoliert (15m);163.4;-0.77;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;Am Bahnhof;49.921876;8.745348;50.0;;;;;;Interpoliert;163.3;-1.09;asphalt;residential;Am Bahnhof
+Routenpunkt (Way);T;;49.921768;8.745322;20;;;;;;Interpoliert (15m);163.2;-1.32;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.921659;8.745296;20.0;;;;;;Original OSM;163.0;-1.86;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;;49.921587;8.74539;20.0;;;;;;Interpoliert (15m);162.8;-2.45;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.921515;8.745485;20.0;;;;;;Original OSM;162.4;-3.1;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;;49.921445;8.745566;20.0;;;;;;Interpoliert (15m);162.0;-3.34;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.921374;8.745648;50.0;;;;;;Interpoliert;161.6;-3.26;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.921271;8.745765;50.0;;;;;;Original OSM;161.2;-2.8;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.921177;8.74588;50.0;;;;;;Interpoliert;161.0;-2.28;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.921083;8.745994;50.0;;;;;;Interpoliert;160.8;-1.83;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.920988;8.746108;50.0;;;;;;Interpoliert;160.6;-1.62;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;;49.920909;8.746203;50.0;;;;;;Interpoliert (15m);160.4;-1.69;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.92083;8.746299;50.0;;;;;;Original OSM;160.2;-1.39;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;;49.920744;8.746366;50.0;;;;;;Interpoliert (15m);160.0;-0.62;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.920658;8.746433;50.0;;;;;;Interpoliert;160.0;1.17;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.920551;8.746488;50.0;;;;;;Interpoliert;160.3;2.96;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.920444;8.746544;50.0;;;;;;Interpoliert;161.2;4.76;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.920336;8.7466;50.0;;;;;;Interpoliert;162.1;6.1;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.920229;8.746656;50.0;;;;;;Original OSM;163.0;6.96;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.920111;8.746699;50.0;;;;;;Interpoliert;163.9;6.86;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.919992;8.746742;50.0;;;;;;Interpoliert;164.8;6.77;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.919874;8.746785;50.0;;;;;;Interpoliert;165.7;6.67;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.919756;8.746827;50.0;;;;;;Interpoliert;166.6;6.67;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.919638;8.74687;50.0;;;;;;Interpoliert;167.5;6.23;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.91952;8.746913;50.0;;;;;;Interpoliert;168.4;4.89;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.919402;8.746955;50.0;;;;;;Original OSM;169.0;3.56;asphalt;secondary;Roßdörfer Straße
+Haltestelle;W;Messel Gru. Messel Am Wildpark;49.919402;8.746955;50.0;23:53:00;23:53:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 7m) | Auf Route gesnappt (7m);169.2;2.57;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.919402;8.746955;50.0;;;;;;Original OSM;169.4;1.57;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.919298;8.746984;50.0;;;;;;Interpoliert;169.6;1.01;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.919195;8.747012;50.0;;;;;;Interpoliert;169.8;1.33;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;;49.919085;8.747043;50.0;;;;;;Interpoliert (15m);170.0;1.63;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.918975;8.747074;50.0;;;;;;Interpoliert;170.2;2.35;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.918858;8.747108;50.0;;;;;;Interpoliert;170.4;3.08;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.918742;8.747143;50.0;;;;;;Interpoliert;171.1;3.72;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.918626;8.747177;50.0;;;;;;Original OSM;171.8;4.09;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.918502;8.74724;50.0;;;;;;Interpoliert;172.5;4.77;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.918379;8.747303;70.0;;;;;;Original OSM;173.0;4.69;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.918292;8.747349;70.0;;;;;;Interpoliert;173.5;4.61;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.918206;8.747394;70.0;;;;;;Interpoliert;174.0;4.05;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.918119;8.747439;70.0;;;;;;Original OSM;174.5;3.77;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.917991;8.74749;70.0;;;;;;Interpoliert;174.8;3.2;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.917864;8.74754;70.0;;;;;;Interpoliert;175.1;1.94;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.917736;8.74759;70.0;;;;;;Interpoliert;175.4;0.68;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.917608;8.747641;70.0;;;;;;Interpoliert;175.2;0.0;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.91748;8.747691;70.0;;;;;;Interpoliert;175.0;-0.68;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.917353;8.747741;70.0;;;;;;Interpoliert;174.8;-1.64;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.917225;8.747792;70.0;;;;;;Interpoliert;174.6;-1.91;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.917097;8.747842;70.0;;;;;;Interpoliert;174.2;-2.18;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.916969;8.747893;70.0;;;;;;Interpoliert;173.8;-2.18;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.916842;8.747943;70.0;;;;;;Interpoliert;173.4;-2.18;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.916714;8.747993;70.0;;;;;;Interpoliert;173.2;-1.91;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.916586;8.748044;70.0;;;;;;Interpoliert;173.0;-1.77;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.916458;8.748094;70.0;;;;;;Interpoliert;172.8;-1.64;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.916331;8.748144;70.0;;;;;;Interpoliert;172.5;-1.77;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.916203;8.748195;70.0;;;;;;Interpoliert;172.2;-1.91;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.916075;8.748245;70.0;;;;;;Interpoliert;171.9;-1.77;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.915947;8.748295;70.0;;;;;;Interpoliert;171.6;-1.5;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.91582;8.748346;70.0;;;;;;Interpoliert;171.5;-1.23;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.915692;8.748396;70.0;;;;;;Original OSM;171.4;-1.64;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.915565;8.748446;70.0;;;;;;Interpoliert;171.3;-2.05;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.915437;8.748495;70.0;;;;;;Interpoliert;170.7;-2.74;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.91531;8.748545;70.0;;;;;;Interpoliert;170.1;-3.29;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.915182;8.748594;70.0;;;;;;Interpoliert;169.5;-3.84;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.915055;8.748643;70.0;;;;;;Interpoliert;169.0;-3.7;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.914928;8.748693;70.0;;;;;;Interpoliert;168.5;-3.56;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.9148;8.748742;70.0;;;;;;Interpoliert;168.0;-3.42;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.914673;8.748792;70.0;;;;;;Interpoliert;167.5;-3.42;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.914545;8.748841;70.0;;;;;;Interpoliert;167.0;-3.42;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.914418;8.748891;70.0;;;;;;Interpoliert;166.5;-1.37;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.914291;8.74894;70.0;;;;;;Interpoliert;166.0;0.68;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.914163;8.74899;70.0;;;;;;Interpoliert;167.0;2.74;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.914036;8.749039;70.0;;;;;;Interpoliert;168.0;4.25;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.913908;8.749089;70.0;;;;;;Interpoliert;169.0;5.75;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.913781;8.749138;70.0;;;;;;Interpoliert;169.6;5.2;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.913654;8.749188;70.0;;;;;;Interpoliert;170.2;4.68;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.913526;8.749237;70.0;;;;;;Original OSM;170.8;4.15;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.913401;8.749284;70.0;;;;;;Interpoliert;171.4;4.17;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.913277;8.749331;70.0;;;;;;Interpoliert;172.0;4.18;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.913152;8.749379;70.0;;;;;;Interpoliert;172.6;3.08;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.913027;8.749426;70.0;;;;;;Original OSM;173.2;1.96;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.912902;8.749473;70.0;;;;;;Interpoliert;173.0;0.84;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.912777;8.74952;70.0;;;;;;Interpoliert;172.8;0.28;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.912651;8.749568;70.0;;;;;;Interpoliert;172.6;-0.28;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.912526;8.749615;70.0;;;;;;Interpoliert;172.8;0.28;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.912401;8.749663;70.0;;;;;;Interpoliert;173.0;1.39;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.912276;8.74971;70.0;;;;;;Interpoliert;173.2;2.51;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.91215;8.749757;70.0;;;;;;Interpoliert;173.8;2.65;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.912025;8.749805;70.0;;;;;;Interpoliert;174.4;2.79;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.9119;8.749852;70.0;;;;;;Interpoliert;174.7;2.65;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.911774;8.749899;70.0;;;;;;Interpoliert;175.0;1.95;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.911649;8.749947;70.0;;;;;;Interpoliert;175.1;1.26;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.911524;8.749994;70.0;;;;;;Interpoliert;175.2;1.12;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.911399;8.750041;70.0;;;;;;Interpoliert;175.3;0.98;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.911273;8.750089;70.0;;;;;;Interpoliert;175.5;1.12;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.911148;8.750136;70.0;;;;;;Interpoliert;175.7;0.7;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.911023;8.750184;70.0;;;;;;Interpoliert;175.9;0.28;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.910897;8.750231;70.0;;;;;;Interpoliert;175.7;0.14;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.910772;8.750278;70.0;;;;;;Interpoliert;175.5;-0.0;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.910647;8.750326;70.0;;;;;;Interpoliert;175.6;-0.14;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.910522;8.750373;70.0;;;;;;Interpoliert;175.7;0.28;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.910396;8.75042;70.0;;;;;;Interpoliert;175.8;0.72;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.910271;8.750468;70.0;;;;;;Original OSM;175.9;0.59;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.910166;8.750507;70.0;;;;;;Interpoliert;176.0;0.45;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.910061;8.750546;70.0;;;;;;Original OSM;176.0;0.31;asphalt;secondary;Roßdörfer Straße
+Haltestelle;W;Messel Grube Messel Besucherz.;49.910061;8.750546;70.0;23:54:00;23:54:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 39m) | Auf Route gesnappt (39m);176.0;0.17;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.910037;8.750555;70.0;;;;;;Original OSM;176.0;0.0;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;;49.909958;8.750581;70.0;;;;;;Interpoliert (15m);176.0;0.0;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.90988;8.750607;70.0;;;;;;Interpoliert;176.0;0.0;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.909753;8.750649;70.0;;;;;;Interpoliert;176.0;0.0;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.909626;8.750691;70.0;;;;;;Interpoliert;176.0;0.0;asphalt;secondary;
+Routenpunkt (Way);T;Roßdörfer Straße;49.909499;8.750733;70.0;;;;;;Interpoliert;176.0;0.0;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.909373;8.750775;70.0;;;;;;Interpoliert;176.0;0.0;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.909246;8.750818;70.0;;;;;;Interpoliert;176.0;0.0;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.909119;8.75086;70.0;;;;;;Interpoliert;176.0;0.0;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.908992;8.750902;70.0;;;;;;Interpoliert;176.0;-0.28;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.908865;8.750944;70.0;;;;;;Interpoliert;176.0;-0.55;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.908738;8.750986;70.0;;;;;;Interpoliert;175.8;-0.83;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.908612;8.751029;70.0;;;;;;Interpoliert;175.6;-1.11;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.908485;8.751071;70.0;;;;;;Interpoliert;175.4;-1.4;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.908358;8.751113;70.0;;;;;;Original OSM;175.2;-1.12;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.908238;8.751159;70.0;;;;;;Interpoliert;175.0;-0.85;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.908117;8.751206;70.0;;;;;;Interpoliert;175.0;-0.57;asphalt;secondary;Roßdörfer Straße
+Routenpunkt (Way);T;Roßdörfer Straße;49.90799;8.751218;70.0;;;;;;Original OSM;175.0;-0.29;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.907966;8.751103;70.0;;;;;;Interpoliert (15m);175.0;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907942;8.750987;70.0;;;;;;Interpoliert;175.0;0.33;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907908;8.750826;70.0;;;;;;Original OSM;175.0;0.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907874;8.750664;70.0;;;;;;Interpoliert;175.2;1.32;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90784;8.750503;70.0;;;;;;Interpoliert;175.5;1.81;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907806;8.750342;70.0;;;;;;Interpoliert;175.8;2.31;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907773;8.750181;70.0;;;;;;Interpoliert;176.1;1.68;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907739;8.750019;70.0;;;;;;Original OSM;176.4;0.88;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907702;8.749842;70.0;;;;;;Interpoliert;176.2;-0.51;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907664;8.749665;70.0;;;;;;Interpoliert;176.0;-1.91;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907627;8.749489;70.0;;;;;;Interpoliert;175.4;-3.3;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907589;8.749312;70.0;;;;;;Interpoliert;174.8;-4.7;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907552;8.749135;70.0;;;;;;Original OSM;174.2;-6.25;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907515;8.748963;70.0;;;;;;Interpoliert;173.1;-7.2;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907478;8.748792;70.0;;;;;;Interpoliert;171.9;-8.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90744;8.74862;70.0;;;;;;Interpoliert;170.7;-9.11;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907403;8.748449;70.0;;;;;;Interpoliert;169.5;-9.02;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907366;8.748277;70.0;;;;;;Interpoliert;168.3;-8.96;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.907332;8.74813;70.0;;;;;;Interpoliert (15m);167.4;-8.25;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907299;8.747983;70.0;;;;;;Original OSM;166.4;-7.54;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.907265;8.747847;70.0;;;;;;Interpoliert (15m);165.8;-6.73;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90723;8.74771;70.0;;;;;;Interpoliert;165.2;-5.29;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907192;8.74756;70.0;;;;;;Interpoliert;164.6;-3.67;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907153;8.74741;70.0;;;;;;Interpoliert;164.5;-2.67;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907115;8.74726;70.0;;;;;;Original OSM;164.4;-1.66;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.907055;8.747079;70.0;;;;;;Interpoliert;164.3;-0.81;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906996;8.746898;70.0;;;;;;Original OSM;164.2;-0.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906946;8.746768;70.0;;;;;;Interpoliert;164.1;-0.65;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906897;8.746638;70.0;;;;;;Interpoliert;164.0;0.12;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906848;8.746509;70.0;;;;;;Original OSM;164.0;0.89;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906784;8.746362;70.0;;;;;;Interpoliert;164.4;1.71;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90672;8.746216;70.0;;;;;;Interpoliert;164.8;2.52;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906655;8.746069;70.0;;;;;;Interpoliert;165.2;3.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906591;8.745923;70.0;;;;;;Interpoliert;165.6;3.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906527;8.745776;70.0;;;;;;Original OSM;166.0;4.09;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906463;8.745629;70.0;;;;;;Interpoliert;166.4;5.41;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906399;8.745482;70.0;;;;;;Original OSM;167.4;6.74;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.906351;8.74536;70.0;;;;;;Interpoliert (15m);168.4;8.06;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906302;8.745238;70.0;;;;;;Interpoliert;169.4;8.36;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906254;8.745116;70.0;;;;;;Original OSM;170.4;7.71;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906196;8.74496;70.0;;;;;;Interpoliert;171.0;5.76;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906138;8.744803;70.0;;;;;;Interpoliert;171.6;5.35;asphalt;secondary;Dieburger Straße
+Haltestelle;W;Darmstadt Einsiedel;49.906138;8.744803;70.0;23:56:00;23:56:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 54m) | Auf Route gesnappt (54m);172.2;4.64;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906081;8.744646;70.0;;;;;;Interpoliert;173.2;4.8;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.906023;8.74449;70.0;;;;;;Interpoliert;174.0;4.35;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905957;8.744312;70.0;;;;;;Original OSM;174.8;4.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.905922;8.744207;70.0;;;;;;Interpoliert (15m);175.0;3.57;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905887;8.744102;70.0;;;;;;Interpoliert;175.2;2.63;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905833;8.743933;70.0;;;;;;Interpoliert;175.4;1.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905779;8.743764;70.0;;;;;;Interpoliert;175.6;1.66;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905725;8.743596;70.0;;;;;;Interpoliert;175.8;1.48;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905671;8.743427;70.0;;;;;;Interpoliert;176.0;0.89;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905618;8.743258;70.0;;;;;;Interpoliert;176.2;0.59;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905564;8.743089;70.0;;;;;;Interpoliert;176.0;0.3;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90551;8.74292;70.0;;;;;;Interpoliert;176.0;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905456;8.742752;70.0;;;;;;Original OSM;176.0;-0.3;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905413;8.742617;70.0;;;;;;Interpoliert;176.0;0.28;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905369;8.742483;70.0;;;;;;Original OSM;176.0;0.55;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905311;8.742302;70.0;;;;;;Interpoliert;176.2;0.55;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.905253;8.742122;70.0;;;;;;Interpoliert;176.4;0.55;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.905195;8.741941;70.0;;;;;;Interpoliert;176.4;0.55;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.905137;8.74176;70.0;;;;;;Interpoliert;176.4;0.28;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.905079;8.74158;70.0;;;;;;Interpoliert;176.4;0.0;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.905021;8.741399;70.0;;;;;;Interpoliert;176.4;0.0;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.904963;8.741219;70.0;;;;;;Interpoliert;176.4;0.0;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.904905;8.741038;70.0;;;;;;Interpoliert;176.4;0.14;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.904846;8.740858;70.0;;;;;;Interpoliert;176.4;0.0;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.904788;8.740677;70.0;;;;;;Interpoliert;176.5;-0.14;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.90473;8.740497;70.0;;;;;;Interpoliert;176.4;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904672;8.740316;70.0;;;;;;Interpoliert;176.3;0.14;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904614;8.740136;70.0;;;;;;Interpoliert;176.4;0.28;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904556;8.739955;70.0;;;;;;Interpoliert;176.5;0.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904498;8.739775;70.0;;;;;;Interpoliert;176.7;0.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90444;8.739594;70.0;;;;;;Interpoliert;176.9;0.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904382;8.739413;70.0;;;;;;Interpoliert;176.9;0.42;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904324;8.739233;70.0;;;;;;Interpoliert;176.9;-0.14;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904266;8.739052;70.0;;;;;;Interpoliert;176.8;-0.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904208;8.738872;70.0;;;;;;Interpoliert;176.6;-0.97;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90415;8.738691;70.0;;;;;;Original OSM;176.4;-1.24;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904091;8.738511;70.0;;;;;;Interpoliert;176.2;-1.38;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.904032;8.73833;70.0;;;;;;Interpoliert;176.0;-1.52;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903973;8.738149;70.0;;;;;;Interpoliert;175.8;-1.66;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903914;8.737969;70.0;;;;;;Interpoliert;175.5;-1.52;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903855;8.737788;70.0;;;;;;Interpoliert;175.2;-1.38;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903796;8.737608;70.0;;;;;;Interpoliert;175.1;-0.97;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903737;8.737427;70.0;;;;;;Interpoliert;175.0;-0.41;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903678;8.737246;70.0;;;;;;Interpoliert;175.1;0.42;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90362;8.737066;70.0;;;;;;Original OSM;175.2;0.98;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903562;8.736887;70.0;;;;;;Interpoliert;175.5;1.54;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903504;8.736709;70.0;;;;;;Interpoliert;175.8;1.82;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.903446;8.736531;70.0;;;;;;Interpoliert;176.1;2.1;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.903388;8.736353;70.0;;;;;;Interpoliert;176.4;2.1;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90333;8.736175;70.0;;;;;;Interpoliert;176.7;2.1;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903272;8.735997;70.0;;;;;;Interpoliert;177.0;2.1;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903214;8.735819;70.0;;;;;;Interpoliert;177.3;2.1;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903156;8.735641;70.0;;;;;;Interpoliert;177.6;2.1;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.903098;8.735463;70.0;;;;;;Interpoliert;177.9;1.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90304;8.735284;70.0;;;;;;Interpoliert;178.2;1.4;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.902982;8.735106;70.0;;;;;;Interpoliert;178.3;1.12;asphalt;secondary;Dieburger Straße
+Haltestelle;W;Darmstadt Grube Prinz v. Hessen;49.902982;8.735106;70.0;23:57:00;23:57:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 41m) | Auf Route gesnappt (41m);178.4;0.97;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.902923;8.734926;70.0;;;;;;Interpoliert (15m);178.5;0.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.902864;8.734745;70.0;;;;;;Interpoliert;178.7;0.96;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.902805;8.734561;70.0;;;;;;Interpoliert;178.9;1.5;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902745;8.734378;70.0;;;;;;Interpoliert;179.1;1.91;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902685;8.734195;70.0;;;;;;Interpoliert;179.5;2.04;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902625;8.734011;70.0;;;;;;Interpoliert;179.9;2.17;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902565;8.733828;70.0;;;;;;Interpoliert;180.2;2.31;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902505;8.733645;70.0;;;;;;Interpoliert;180.5;2.17;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902446;8.733461;70.0;;;;;;Interpoliert;180.8;2.17;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902386;8.733278;70.0;;;;;;Interpoliert;181.1;2.17;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902326;8.733095;70.0;;;;;;Interpoliert;181.5;2.17;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902266;8.732911;70.0;;;;;;Interpoliert;181.8;2.17;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902206;8.732728;70.0;;;;;;Interpoliert;182.1;2.45;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902146;8.732544;70.0;;;;;;Interpoliert;182.4;2.58;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.902086;8.732361;70.0;;;;;;Interpoliert;182.9;2.85;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.902027;8.732178;70.0;;;;;;Interpoliert;183.4;3.12;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.901967;8.731994;70.0;;;;;;Interpoliert;183.9;3.26;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.901907;8.731811;70.0;;;;;;Interpoliert;184.4;3.12;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.901847;8.731628;70.0;;;;;;Interpoliert;184.8;2.85;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.901787;8.731444;70.0;;;;;;Interpoliert;185.2;2.58;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.901727;8.731261;70.0;;;;;;Interpoliert;185.5;2.31;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.901668;8.731078;70.0;;;;;;Original OSM;185.8;2.73;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.901609;8.730895;70.0;;;;;;Interpoliert;186.1;2.59;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90155;8.730712;70.0;;;;;;Interpoliert;186.8;2.59;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.901491;8.730529;70.0;;;;;;Interpoliert;187.1;2.6;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.901432;8.730346;70.0;;;;;;Interpoliert;187.4;2.6;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.901374;8.730164;70.0;;;;;;Interpoliert;187.7;1.91;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.901315;8.729981;70.0;;;;;;Interpoliert;188.0;1.78;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.901256;8.729798;70.0;;;;;;Interpoliert;188.2;1.64;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.901197;8.729615;70.0;;;;;;Interpoliert;188.4;1.5;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.901139;8.729433;70.0;;;;;;Interpoliert;188.6;0.96;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.90108;8.72925;70.0;;;;;;Interpoliert;188.8;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.901021;8.729067;70.0;;;;;;Interpoliert;188.7;-0.96;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.900962;8.728884;70.0;;;;;;Interpoliert;188.2;-1.91;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.900904;8.728702;70.0;;;;;;Interpoliert;187.7;-2.87;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.900845;8.728519;70.0;;;;;;Interpoliert;187.2;-3.01;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.900786;8.728336;70.0;;;;;;Original OSM;186.7;-2.33;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.900728;8.728156;70.0;;;;;;Interpoliert;186.5;-1.64;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.900669;8.727975;70.0;;;;;;Interpoliert;186.5;-0.96;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.90061;8.727795;70.0;;;;;;Interpoliert;186.5;-0.28;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.900552;8.727615;70.0;;;;;;Interpoliert;186.5;0.69;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.900493;8.727435;70.0;;;;;;Interpoliert;186.5;1.38;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.900435;8.727254;70.0;;;;;;Interpoliert;187.0;2.07;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.900376;8.727074;70.0;;;;;;Interpoliert;187.5;2.77;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.900318;8.726894;70.0;;;;;;Interpoliert;188.0;3.46;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.900259;8.726713;70.0;;;;;;Interpoliert;188.5;3.04;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.9002;8.726533;70.0;;;;;;Interpoliert;189.0;2.63;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.900142;8.726353;70.0;;;;;;Interpoliert;189.2;2.21;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.900083;8.726172;70.0;;;;;;Interpoliert;189.4;1.8;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.900025;8.725992;70.0;;;;;;Interpoliert;189.6;0.97;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.899966;8.725812;70.0;;;;;;Interpoliert;189.8;0.28;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.899908;8.725631;70.0;;;;;;Interpoliert;189.7;-0.41;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.899849;8.725451;70.0;;;;;;Interpoliert;189.4;-1.11;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89979;8.725271;70.0;;;;;;Interpoliert;189.1;-1.8;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.899732;8.72509;70.0;;;;;;Interpoliert;188.8;-1.8;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.899673;8.72491;70.0;;;;;;Interpoliert;188.5;-1.52;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.899615;8.72473;70.0;;;;;;Interpoliert;188.4;-1.24;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.899556;8.72455;70.0;;;;;;Interpoliert;188.3;-0.97;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.899498;8.724369;70.0;;;;;;Original OSM;188.2;-0.41;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.899436;8.724187;70;;;;;;Interpoliert;188.1;0.27;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.899375;8.724006;70;;;;;;Interpoliert;188.2;0.95;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.899314;8.723824;70;;;;;;Interpoliert;188.6;1.63;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.899253;8.723642;70;;;;;;Interpoliert;189.0;2.31;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.899191;8.72346;70;;;;;;Interpoliert;189.4;2.72;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89913;8.723278;70;;;;;;Interpoliert;189.8;2.45;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.899069;8.723096;70;;;;;;Interpoliert;190.2;2.18;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.899008;8.722915;70;;;;;;Interpoliert;190.4;1.91;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.898947;8.722733;70;;;;;;Interpoliert;190.6;1.5;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.898885;8.722551;70;;;;;;Interpoliert;190.8;0.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.898824;8.722369;70;;;;;;Interpoliert;190.9;0.41;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.898763;8.722187;70;;;;;;Interpoliert;190.8;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.898702;8.722005;70;;;;;;Interpoliert;190.7;-0.41;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89864;8.721824;70;;;;;;Original OSM;190.6;-0.95;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.898581;8.72164;70;;;;;;Interpoliert;190.5;-1.22;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.898521;8.721456;70;;;;;;Interpoliert;190.2;-1.49;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.898461;8.721272;70;;;;;;Interpoliert;189.9;-1.76;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.898401;8.721088;70;;;;;;Interpoliert;189.6;-1.9;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.898341;8.720905;70;;;;;;Interpoliert;189.3;-1.63;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.898281;8.720721;70;;;;;;Interpoliert;189.1;-1.36;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.898221;8.720537;70;;;;;;Interpoliert;189.0;-1.08;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.898161;8.720353;70;;;;;;Interpoliert;188.9;-0.81;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.898101;8.720169;70;;;;;;Interpoliert;188.8;-1.49;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.898042;8.719985;70;;;;;;Interpoliert;188.7;-2.03;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897982;8.719802;70;;;;;;Interpoliert;188.0;-2.58;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897922;8.719618;70;;;;;;Interpoliert;187.5;-3.12;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897862;8.719434;70;;;;;;Interpoliert;187.0;-3.79;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897802;8.71925;70;;;;;;Original OSM;186.5;-3.65;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897752;8.719096;70;;;;;;Interpoliert;186.0;-3.78;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897703;8.718941;70;;;;;;Interpoliert;185.5;-3.91;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897653;8.718786;70;;;;;;Interpoliert;185.0;-3.91;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897603;8.718631;100.0;;;;;;Original OSM;184.5;-3.78;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897543;8.718447;100.0;;;;;;Interpoliert;184.0;-2.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897484;8.718263;100.0;;;;;;Interpoliert;183.5;-1.89;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.897424;8.718079;100.0;;;;;;Interpoliert;183.6;-0.95;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.897364;8.717895;100.0;;;;;;Interpoliert;183.7;-0.14;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.897304;8.717711;100.0;;;;;;Interpoliert;183.8;0.14;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.897244;8.717527;100.0;;;;;;Interpoliert;183.9;-0.54;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.897185;8.717343;100.0;;;;;;Interpoliert;183.6;-1.22;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897125;8.717159;100.0;;;;;;Interpoliert;183.2;-1.9;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897065;8.716975;100.0;;;;;;Interpoliert;182.8;-2.57;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.897005;8.716791;100.0;;;;;;Interpoliert;182.4;-2.85;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896945;8.716607;100.0;;;;;;Interpoliert;182.0;-2.98;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896886;8.716423;100.0;;;;;;Interpoliert;181.5;-3.14;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896826;8.71624;100.0;;;;;;Original OSM;181.0;-3.3;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896768;8.716062;100.0;;;;;;Interpoliert;180.5;-3.04;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896711;8.715885;100.0;;;;;;Interpoliert;180.0;-2.08;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.896654;8.715707;100.0;;;;;;Interpoliert;179.8;-1.13;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.896597;8.71553;100.0;;;;;;Interpoliert;180.0;-0.14;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.896539;8.715353;100.0;;;;;;Interpoliert;180.2;0.84;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896482;8.715175;100.0;;;;;;Interpoliert;180.4;1.41;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896425;8.714998;100.0;;;;;;Interpoliert;180.6;1.55;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896367;8.714821;100.0;;;;;;Interpoliert;180.8;1.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89631;8.714643;100.0;;;;;;Interpoliert;181.1;1.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896253;8.714466;100.0;;;;;;Interpoliert;181.4;1.97;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896195;8.714288;100.0;;;;;;Interpoliert;181.7;1.27;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896138;8.714111;100.0;;;;;;Original OSM;182.0;0.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89608;8.713932;100.0;;;;;;Interpoliert;181.7;-0.96;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.896021;8.713753;100.0;;;;;;Interpoliert;181.2;-2.08;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.895963;8.713573;100.0;;;;;;Interpoliert;180.7;-3.34;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.895904;8.713394;100.0;;;;;;Interpoliert;180.2;-3.75;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895846;8.713215;100.0;;;;;;Interpoliert;179.6;-3.89;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895787;8.713036;100.0;;;;;;Interpoliert;179.0;-4.03;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895729;8.712857;100.0;;;;;;Interpoliert;178.4;-4.17;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895671;8.712677;100.0;;;;;;Interpoliert;177.8;-3.94;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895612;8.712498;100.0;;;;;;Original OSM;177.2;-3.25;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895558;8.712333;100.0;;;;;;Interpoliert;176.8;-2.27;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895504;8.712167;100.0;;;;;;Interpoliert;176.7;-1.29;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89545;8.712002;100.0;;;;;;Interpoliert;176.8;-0.32;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895396;8.711837;100.0;;;;;;Original OSM;176.9;0.68;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895335;8.71165;100.0;;;;;;Interpoliert;177.0;1.1;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.895275;8.711463;100.0;;;;;;Interpoliert;177.3;1.22;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.895214;8.711276;100.0;;;;;;Interpoliert;177.5;1.34;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.895154;8.711089;100.0;;;;;;Interpoliert;177.7;1.34;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.895093;8.710902;100.0;;;;;;Interpoliert;177.9;0.8;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.895033;8.710716;100.0;;;;;;Interpoliert;178.0;0.4;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.894972;8.710529;100.0;;;;;;Interpoliert;177.9;0.0;asphalt;secondary;
+Routenpunkt (Way);T;Dieburger Straße;49.894911;8.710342;100.0;;;;;;Interpoliert;177.8;-0.4;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894851;8.710155;100.0;;;;;;Interpoliert;177.7;-0.8;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89479;8.709968;100.0;;;;;;Interpoliert;177.6;-1.07;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89473;8.709781;100.0;;;;;;Interpoliert;177.4;-1.2;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894669;8.709594;100.0;;;;;;Interpoliert;177.1;-1.34;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894609;8.709408;100.0;;;;;;Original OSM;176.9;-1.35;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89455;8.709226;100.0;;;;;;Interpoliert;176.7;-1.08;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894492;8.709045;100.0;;;;;;Interpoliert;176.6;-0.13;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894433;8.708863;100.0;;;;;;Interpoliert;176.6;0.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894375;8.708682;100.0;;;;;;Interpoliert;177.0;1.51;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894316;8.708501;100.0;;;;;;Interpoliert;177.4;2.34;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894258;8.708319;100.0;;;;;;Interpoliert;177.8;3.16;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894199;8.708138;100.0;;;;;;Interpoliert;178.3;3.44;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89414;8.707956;100.0;;;;;;Interpoliert;178.9;3.72;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894082;8.707775;100.0;;;;;;Interpoliert;179.5;4.03;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.894023;8.707594;100.0;;;;;;Original OSM;180.1;4.06;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893972;8.707417;100.0;;;;;;Interpoliert;180.7;3.96;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89392;8.707241;100.0;;;;;;Interpoliert;181.2;3.28;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893869;8.707064;100.0;;;;;;Interpoliert;181.7;2.64;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893818;8.706888;100.0;;;;;;Original OSM;181.8;1.96;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893779;8.706751;100.0;;;;;;Interpoliert;181.9;1.24;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893741;8.706615;100.0;;;;;;Interpoliert;182.0;0.35;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893702;8.706478;100.0;;;;;;Original OSM;182.0;0.05;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893661;8.706321;100.0;;;;;;Interpoliert;181.9;-0.31;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893619;8.706164;100.0;;;;;;Interpoliert;181.8;-0.66;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893578;8.706007;100.0;;;;;;Interpoliert;181.7;-0.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893536;8.70585;100.0;;;;;;Original OSM;181.6;-0.98;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893496;8.705689;100.0;;;;;;Interpoliert;181.5;-1.14;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893457;8.705528;100.0;;;;;;Interpoliert;181.3;-1.28;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893417;8.705368;100.0;;;;;;Original OSM;181.1;-1.42;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893378;8.705195;100.0;;;;;;Interpoliert;180.9;-1.87;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893338;8.705022;100.0;;;;;;Interpoliert;180.7;-2.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893299;8.704849;100.0;;;;;;Interpoliert;180.3;-2.13;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893259;8.704676;100.0;;;;;;Interpoliert;180.0;-2.27;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89322;8.704503;100.0;;;;;;Original OSM;179.7;-2.42;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893183;8.704324;100.0;;;;;;Interpoliert;179.4;-3.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893147;8.704146;100.0;;;;;;Interpoliert;179.1;-3.59;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89311;8.703968;100.0;;;;;;Interpoliert;178.3;-4.18;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893074;8.703789;100.0;;;;;;Interpoliert;177.6;-4.67;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893038;8.703611;70.0;;;;;;Original OSM;176.9;-5.04;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.893002;8.703411;70.0;;;;;;Interpoliert;176.2;-4.38;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892967;8.703212;70.0;;;;;;Interpoliert;175.6;-3.88;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892931;8.703013;70.0;;;;;;Interpoliert;175.2;-3.45;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892896;8.702813;70.0;;;;;;Original OSM;174.8;-3.12;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892865;8.702638;70.0;;;;;;Interpoliert;174.4;-3.08;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892835;8.702463;70.0;;;;;;Interpoliert;174.0;-2.54;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892805;8.702287;70.0;;;;;;Interpoliert;173.5;-2.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892774;8.702112;70.0;;;;;;Interpoliert;173.5;-1.38;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892744;8.701937;70.0;;;;;;Original OSM;173.5;-0.77;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892711;8.701758;70.0;;;;;;Interpoliert;173.5;-0.3;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892679;8.70158;70.0;;;;;;Interpoliert;173.5;-0.6;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892646;8.701402;70.0;;;;;;Original OSM;173.3;-0.91;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89261;8.701226;70.0;;;;;;Interpoliert;173.1;-1.21;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892574;8.70105;70.0;;;;;;Interpoliert;172.9;-1.51;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892537;8.700874;70.0;;;;;;Original OSM;172.7;-1.97;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892495;8.700702;70.0;;;;;;Interpoliert;172.5;-2.45;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892454;8.70053;70.0;;;;;;Original OSM;172.0;-2.94;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892409;8.700367;70.0;;;;;;Interpoliert;171.5;-3.42;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892364;8.700204;70.0;;;;;;Interpoliert;171.0;-4.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892319;8.700041;70.0;;;;;;Original OSM;170.5;-3.94;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892271;8.6999;70.0;;;;;;Interpoliert;170.0;-5.13;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892223;8.69976;70.0;;;;;;Original OSM;169.6;-6.32;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892179;8.699636;70.0;;;;;;Interpoliert;168.6;-7.5;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892134;8.699513;70.0;;;;;;Original OSM;167.6;-8.59;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892084;8.699394;70.0;;;;;;Interpoliert;166.6;-9.06;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.892035;8.699274;70.0;;;;;;Original OSM;165.6;-8.25;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891985;8.699155;70.0;;;;;;Interpoliert;165.0;-7.26;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891935;8.699035;70.0;;;;;;Original OSM;164.4;-5.68;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891883;8.698917;70.0;;;;;;Interpoliert;163.9;-4.05;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891831;8.698799;70.0;;;;;;Original OSM;163.7;-3.22;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891765;8.698669;70.0;;;;;;Interpoliert;163.5;-1.37;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891699;8.698539;70.0;;;;;;Interpoliert;163.3;0.17;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891634;8.69841;70.0;;;;;;Original OSM;163.7;1.81;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891552;8.698255;70.0;;;;;;Interpoliert;164.1;3.41;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89147;8.6981;70.0;;;;;;Interpoliert;165.0;5.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891389;8.697945;70.0;;;;;;Interpoliert;165.9;5.57;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891307;8.69779;70.0;;;;;;Original OSM;166.8;5.84;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891226;8.697632;70.0;;;;;;Interpoliert;167.7;5.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891145;8.697473;70.0;;;;;;Interpoliert;168.3;4.14;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.891064;8.697315;70.0;;;;;;Interpoliert;168.6;3.3;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89097;8.697165;70.0;;;;;;Original OSM;168.9;2.63;asphalt;service;
+Routenpunkt (Way);T;Unbekannt;49.890856;8.697262;70.0;;;;;;Original OSM;169.2;2.25;asphalt;service;
+Routenpunkt (Way);T;Unbekannt;49.890764;8.697301;70.0;;;;;;Original OSM;169.5;1.53;asphalt;service;
+Routenpunkt (Way);T;;49.890652;8.697236;70.0;;;;;;Interpoliert (15m);169.8;1.66;asphalt;service;
+Routenpunkt (Way);T;Unbekannt;49.890539;8.697171;70.0;;;;;;Original OSM;169.6;0.89;paving_stones;service;
+Routenpunkt (Way);T;;49.890565;8.697019;70.0;;;;;;Interpoliert (15m);169.9;-0.03;paving_stones;service;
+Routenpunkt (Way);T;;49.890591;8.696867;70.0;;;;;;Interpoliert (15m);169.7;-0.48;paving_stones;service;
+Routenpunkt (Way);T;Unbekannt;49.890617;8.696715;70.0;;;;;;Original OSM;169.5;0.16;paving_stones;service;
+Haltestelle;W;Darmstadt Oberwaldhaus;49.890617;8.696715;70.0;24:01:00;24:01:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 8m) | Auf Route gesnappt (8m);169.7;0.14;paving_stones;service;
+Routenpunkt (Way);T;Unbekannt;49.890691;8.696597;70.0;;;;;;Original OSM;169.9;0.49;paving_stones;service;
+Routenpunkt (Way);T;;49.890737;8.696681;70;;;;;;Interpoliert (15m);170.1;1.7;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.890783;8.696765;70.0;;;;;;Interpoliert;170.1;2.47;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.890846;8.696897;70.0;;;;;;Original OSM;170.6;2.84;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.89092;8.697038;70.0;;;;;;Original OSM;171.1;2.33;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.890844;8.696881;70.0;;;;;;Interpoliert (15m);171.6;3.05;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.890769;8.696724;70.0;;;;;;Interpoliert (15m);171.6;3.34;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.890694;8.696568;70.0;;;;;;Interpoliert (15m);172.1;3.4;paving_stones;service;
+Routenpunkt (Way);T;Dieburger Straße;49.890618;8.696411;70.0;;;;;;Interpoliert;172.9;3.51;paving_stones;service;
+Routenpunkt (Way);T;Dieburger Straße;49.890543;8.696246;70.0;;;;;;Interpoliert;173.5;4.34;paving_stones;service;
+Routenpunkt (Way);T;Dieburger Straße;49.890467;8.696081;70.0;;;;;;Interpoliert;174.1;4.73;paving_stones;service;
+Routenpunkt (Way);T;Dieburger Straße;49.890392;8.695915;70.0;;;;;;Interpoliert;174.7;2.62;paving_stones;service;
+Routenpunkt (Way);T;Dieburger Straße;49.890317;8.69575;70.0;;;;;;Interpoliert;175.5;0.83;paving_stones;service;
+Routenpunkt (Way);T;Dieburger Straße;49.890241;8.695585;70.0;;;;;;Interpoliert;174.8;-0.97;paving_stones;service;
+Routenpunkt (Way);T;Dieburger Straße;49.890166;8.69542;70.0;;;;;;Interpoliert;174.1;-2.76;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.890091;8.695255;70.0;;;;;;Interpoliert;173.4;-4.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.890015;8.69509;70.0;;;;;;Interpoliert;172.7;-5.24;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88994;8.694924;70.0;;;;;;Interpoliert;172.0;-4.97;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889865;8.694759;70.0;;;;;;Interpoliert;171.0;-4.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889789;8.694594;70.0;;;;;;Interpoliert;170.5;-4.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889714;8.694429;70.0;;;;;;Original OSM;170.0;-4.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88966;8.694312;70.0;;;;;;Interpoliert;169.5;-2.35;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889605;8.694194;70.0;;;;;;Interpoliert;169.0;-0.95;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889551;8.694077;70.0;;;;;;Original OSM;169.5;1.71;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889475;8.693918;70.0;;;;;;Interpoliert;170.0;4.65;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889399;8.693758;70.0;;;;;;Interpoliert;171.4;8.14;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889323;8.693599;70.0;;;;;;Original OSM;172.8;9.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.889261;8.693478;70.0;;;;;;Interpoliert (15m);174.2;11.02;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889198;8.693357;70.0;;;;;;Original OSM;175.6;11.09;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.889144;8.693267;70.0;;;;;;Interpoliert (15m);176.5;10.9;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889091;8.693176;70.0;;;;;;Interpoliert;177.4;10.96;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.889028;8.693074;70.0;;;;;;Interpoliert;178.3;10.27;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888965;8.692972;70.0;;;;;;Original OSM;179.6;10.06;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888871;8.692838;70.0;;;;;;Interpoliert;180.9;8.72;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888777;8.692703;70.0;;;;;;Interpoliert;182.2;7.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888683;8.692569;70.0;;;;;;Original OSM;182.7;5.86;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888596;8.692442;70.0;;;;;;Interpoliert;183.2;4.78;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888508;8.692315;70.0;;;;;;Interpoliert;183.7;5.2;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88842;8.692188;70.0;;;;;;Interpoliert;184.2;6.75;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888332;8.692061;70.0;;;;;;Interpoliert;185.7;8.25;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888245;8.691934;70.0;;;;;;Interpoliert;187.2;9.2;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888157;8.691808;70.0;;;;;;Original OSM;188.7;10.16;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.888072;8.691685;70.0;;;;;;Interpoliert;189.8;9.62;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887987;8.691563;70.0;;;;;;Interpoliert;190.9;8.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887902;8.69144;70.0;;;;;;Original OSM;192.0;6.68;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887816;8.69132;70.0;;;;;;Interpoliert;192.5;5.75;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88773;8.6912;70.0;;;;;;Interpoliert;193.0;4.77;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887644;8.69108;70.0;;;;;;Original OSM;193.5;2.33;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887553;8.690951;70.0;;;;;;Interpoliert;194.0;0.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887461;8.690822;70.0;;;;;;Interpoliert;193.5;-0.7;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88737;8.690692;70.0;;;;;;Original OSM;193.0;-1.48;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887281;8.690568;70.0;;;;;;Interpoliert;192.5;-2.21;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887192;8.690445;70.0;;;;;;Interpoliert;192.5;-1.93;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887102;8.690321;70.0;;;;;;Interpoliert;192.5;-0.92;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.887013;8.690197;70.0;;;;;;Original OSM;192.2;0.12;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.886919;8.690064;70.0;;;;;;Interpoliert;192.4;0.4;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.886825;8.689932;70.0;;;;;;Interpoliert;192.6;1.11;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.886731;8.689799;70.0;;;;;;Interpoliert;192.8;2.25;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.886637;8.689667;70.0;;;;;;Original OSM;193.3;2.65;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88654;8.689531;70.0;;;;;;Interpoliert;193.8;3.06;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.886444;8.689395;70.0;;;;;;Interpoliert;194.3;2.78;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.886347;8.689259;70.0;;;;;;Original OSM;194.8;2.07;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88625;8.689118;70.0;;;;;;Interpoliert;194.8;2.32;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.886152;8.688977;70.0;;;;;;Interpoliert;194.8;2.58;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.886054;8.688836;70.0;;;;;;Original OSM;195.5;2.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885964;8.688685;70.0;;;;;;Interpoliert;196.2;3.78;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885873;8.688533;70.0;;;;;;Interpoliert;196.9;4.32;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885783;8.688381;70.0;;;;;;Interpoliert;197.6;4.06;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885692;8.68823;70.0;;;;;;Original OSM;198.0;3.8;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885608;8.688074;70.0;;;;;;Interpoliert;198.5;3.54;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885523;8.687918;70.0;;;;;;Interpoliert;199.0;3.28;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885438;8.687763;70.0;;;;;;Interpoliert;199.5;2.19;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885353;8.687607;70.0;;;;;;Interpoliert;200.0;0.41;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885269;8.687451;70.0;;;;;;Interpoliert;199.6;-1.64;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885184;8.687296;70.0;;;;;;Interpoliert;198.8;-3.7;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885099;8.68714;70.0;;;;;;Interpoliert;197.8;-5.87;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.885014;8.686984;70.0;;;;;;Original OSM;196.8;-6.78;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.884937;8.686841;70.0;;;;;;Original OSM;195.8;-7.78;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.884857;8.686694;50;;;;;;Original OSM;194.8;-8.52;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.884797;8.686582;50.0;;;;;;Interpoliert;193.7;-8.86;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.884737;8.686469;50.0;;;;;;Interpoliert;192.6;-8.59;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.884676;8.686357;50.0;;;;;;Original OSM;191.7;-7.13;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.884592;8.686197;50.0;;;;;;Interpoliert;190.8;-5.03;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.884528;8.686069;50.0;;;;;;Interpoliert (15m);190.8;-3.79;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.884464;8.685941;50.0;;;;;;Interpoliert (15m);190.8;-2.94;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.8844;8.685813;50.0;;;;;;Interpoliert (15m);190.3;-2.55;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.884337;8.685686;50.0;;;;;;Original OSM;189.8;-3.37;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.884262;8.685562;50.0;;;;;;Interpoliert (15m);189.3;-4.85;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.884187;8.685438;50.0;;;;;;Interpoliert (15m);188.8;-3.99;asphalt;secondary;Dieburger Straße
+Haltestelle;W;Darmstadt Fasanerie;49.884112;8.685314;50.0;24:02:00;24:02:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);187.9;-5.38;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.884112;8.685314;50.0;;;;;;Original OSM;187.0;-6.81;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);A;Ampel;49.884062;8.685203;50.0;;;;;;Interpoliert (15m);185.9;-7.85;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.884011;8.685091;50.0;;;;;;Interpoliert;184.8;-8.34;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88395;8.684957;50.0;;;;;;Interpoliert;183.7;-9.06;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.883891;8.68483;50.0;;;;;;Interpoliert (15m);182.6;-7.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.883833;8.684704;50.0;;;;;;Original OSM;182.2;-6.61;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.883781;8.684594;50.0;;;;;;Interpoliert (15m);181.7;-5.51;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88373;8.684484;50.0;;;;;;Interpoliert;181.2;-3.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88366;8.684337;50.0;;;;;;Interpoliert;180.7;-2.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.883591;8.684189;50.0;;;;;;Interpoliert;180.6;-1.62;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.883521;8.684041;50.0;;;;;;Interpoliert;180.7;-0.76;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.883461;8.683912;50.0;;;;;;Interpoliert (15m);180.8;-0.16;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.8834;8.683783;50.0;;;;;;Original OSM;180.7;-0.17;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.883334;8.683644;50.0;;;;;;Interpoliert (15m);180.6;-0.48;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.883269;8.683504;50.0;;;;;;Interpoliert;180.5;-0.66;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.883201;8.683364;50.0;;;;;;Interpoliert;180.4;-0.96;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.883134;8.683223;50.0;;;;;;Interpoliert;180.4;-1.28;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.883067;8.683083;50.0;;;;;;Interpoliert;180.1;-1.59;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.883;8.682942;50.0;;;;;;Interpoliert;179.8;-2.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882932;8.682801;50.0;;;;;;Original OSM;179.5;-2.86;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882879;8.682625;50.0;;;;;;Interpoliert;179.0;-3.53;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882825;8.682448;50.0;;;;;;Interpoliert;178.5;-4.23;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882771;8.682271;50.0;;;;;;Original OSM;177.7;-4.85;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882719;8.6821;50.0;;;;;;Original OSM;176.9;-5.23;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882672;8.68191;50.0;;;;;;Interpoliert;176.1;-5.89;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882625;8.68172;50.0;;;;;;Interpoliert;175.3;-5.71;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882578;8.68153;50.0;;;;;;Interpoliert;174.3;-5.49;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882531;8.68134;50.0;;;;;;Interpoliert;173.6;-5.35;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882484;8.68115;50.0;;;;;;Interpoliert;172.9;-5.21;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882437;8.68096;50.0;;;;;;Interpoliert;172.2;-5.22;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88239;8.68077;50.0;;;;;;Interpoliert;171.5;-4.65;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.882358;8.680637;50.0;;;;;;Interpoliert (15m);170.8;-4.05;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882325;8.680505;50.0;;;;;;Original OSM;170.6;-3.45;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.88229;8.680359;50.0;;;;;;Interpoliert (15m);170.4;-2.81;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882256;8.680213;50.0;;;;;;Interpoliert;170.2;-1.43;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882217;8.680046;50.0;;;;;;Interpoliert;170.0;-1.21;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882178;8.679878;50.0;;;;;;Interpoliert;170.0;-1.03;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.882144;8.67973;50.0;;;;;;Interpoliert (15m);169.9;-0.83;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882109;8.679582;50.0;;;;;;Original OSM;169.8;-0.68;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.882072;8.679419;50.0;;;;;;Interpoliert (15m);169.7;-0.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.882034;8.679256;50.0;;;;;;Original OSM;169.6;-0.81;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881992;8.679075;50.0;;;;;;Interpoliert;169.5;-1.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881954;8.678913;50.0;;;;;;Original OSM;169.4;-1.2;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881924;8.678768;50.0;;;;;;Interpoliert;169.2;-1.46;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881894;8.678624;50.0;;;;;;Interpoliert;169.0;-1.74;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.881868;8.678497;50.0;;;;;;Interpoliert (15m);168.8;-1.75;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881841;8.67837;50.0;;;;;;Original OSM;168.6;-1.38;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.881807;8.678217;50.0;;;;;;Interpoliert (15m);168.5;-1.01;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881774;8.678064;50.0;;;;;;Interpoliert;168.5;-0.59;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881729;8.677867;50.0;;;;;;Interpoliert;168.5;-0.17;asphalt;secondary;Dieburger Straße
+Haltestelle;W;Darmstadt Regerweg;49.881685;8.67767;50.0;24:04:00;24:04:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 4m) | Auf Route gesnappt (7m);168.5;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.881669;8.677515;50.0;;;;;;Interpoliert (15m);168.5;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Regerweg (Bussteig Richtung West);49.881653;8.677359;50;;;;;;Interpoliert;168.5;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.881599;8.677233;50;;;;;;Interpoliert (15m);168.5;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881545;8.677107;50.0;;;;;;Interpoliert;168.5;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881492;8.676922;50.0;;;;;;Interpoliert;168.5;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88144;8.676736;50.0;;;;;;Interpoliert;168.5;0.14;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881387;8.67655;50.0;;;;;;Interpoliert;168.5;0.3;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881334;8.676364;50.0;;;;;;Original OSM;168.6;0.47;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88128;8.67622;50.0;;;;;;Interpoliert;168.7;0.64;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881225;8.676076;50.0;;;;;;Interpoliert;168.8;0.8;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88117;8.675932;50.0;;;;;;Interpoliert;168.9;0.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881115;8.675787;50.0;;;;;;Original OSM;169.0;0.65;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.881054;8.675633;50.0;;;;;;Interpoliert;169.1;0.49;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880992;8.675478;50.0;;;;;;Interpoliert;169.1;0.32;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88093;8.675323;50.0;;;;;;Interpoliert;169.1;0.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880868;8.675169;50.0;;;;;;Interpoliert;169.1;-0.31;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880806;8.675014;50.0;;;;;;Original OSM;169.1;-0.61;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880748;8.674856;50.0;;;;;;Interpoliert;168.9;-0.92;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.88069;8.674697;50.0;;;;;;Interpoliert;168.7;-1.22;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880631;8.674539;50.0;;;;;;Interpoliert;168.5;-1.53;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880573;8.67438;50.0;;;;;;Interpoliert;168.3;-1.38;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880515;8.674222;50.0;;;;;;Interpoliert;168.1;-1.07;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880457;8.674064;50.0;;;;;;Interpoliert;168.0;-0.77;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.880419;8.673959;50.0;;;;;;Interpoliert (15m);168.0;-1.2;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880381;8.673855;50.0;;;;;;Original OSM;168.0;-1.64;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.880346;8.673756;50.0;;;;;;Interpoliert (15m);167.7;-1.99;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880311;8.673657;50.0;;;;;;Interpoliert;167.4;-2.45;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880259;8.67351;50.0;;;;;;Original OSM;167.1;-2.76;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880208;8.673347;50.0;;;;;;Interpoliert;166.8;-2.47;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880156;8.673184;50.0;;;;;;Interpoliert;166.6;-2.19;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880105;8.673022;50.0;;;;;;Interpoliert;166.3;-2.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880053;8.672859;50.0;;;;;;Interpoliert;166.0;-2.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.880002;8.672696;50.0;;;;;;Interpoliert;165.7;-2.31;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879951;8.672533;50.0;;;;;;Interpoliert;165.4;-2.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879899;8.67237;50.0;;;;;;Original OSM;165.1;-1.69;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879847;8.672203;50.0;;;;;;Interpoliert;165.0;-1.39;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879794;8.672036;50.0;;;;;;Original OSM;164.9;-1.06;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879745;8.671881;50.0;;;;;;Original OSM;164.8;-0.88;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879689;8.671703;50.0;;;;;;Interpoliert;164.7;-0.87;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879633;8.671524;50.0;;;;;;Interpoliert;164.5;-0.86;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879577;8.671345;50.0;;;;;;Interpoliert;164.4;-0.88;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.87952;8.671167;50.0;;;;;;Original OSM;164.3;-0.91;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879478;8.671023;50.0;;;;;;Interpoliert;164.2;-0.81;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879436;8.670879;50.0;;;;;;Interpoliert;164.1;-0.67;asphalt;secondary;Dieburger Straße
+Haltestelle;W;Darmstadt Spessartring;49.879394;8.670735;50.0;24:06:00;24:06:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 2m) | Auf Route gesnappt (2m);164.0;0.42;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879377;8.670675;50.0;;;;;;Original OSM;164.0;1.55;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.879344;8.670537;50.0;;;;;;Interpoliert (15m);164.5;2.68;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.879311;8.6704;50.0;;;;;;Interpoliert (15m);165.0;3.61;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879278;8.670263;50.0;;;;;;Original OSM;165.5;4.35;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.879219;8.670101;50.0;;;;;;Interpoliert (15m);166.0;4.43;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);A;Dieburger Straße (Ampel);49.87916;8.669939;50.0;;;;;;Original OSM;166.5;4.71;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.879119;8.669818;50.0;;;;;;Interpoliert (15m);167.0;4.73;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879079;8.669698;50.0;;;;;;Original OSM;167.6;5.09;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.879027;8.669545;50.0;;;;;;Interpoliert;168.2;5.16;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878981;8.669411;50.0;;;;;;Original OSM;168.8;4.27;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.878924;8.669228;50.0;;;;;;Interpoliert (15m);169.4;2.85;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878868;8.669044;50.0;;;;;;Original OSM;169.5;1.68;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.878843;8.668901;50.0;;;;;;Interpoliert (15m);169.4;0.39;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.878819;8.668759;50.0;;;;;;Interpoliert (15m);169.3;-0.57;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878794;8.668617;50.0;;;;;;Original OSM;169.2;-0.99;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878778;8.66842;50.0;;;;;;Interpoliert;169.1;-1.22;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878762;8.668222;50.0;;;;;;Interpoliert;168.9;-1.52;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878746;8.668025;50.0;;;;;;Original OSM;168.6;-1.82;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.87873;8.667856;50.0;;;;;;Interpoliert;168.3;-2.11;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878714;8.667687;50.0;;;;;;Original OSM;168.0;-2.43;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878696;8.667494;50.0;;;;;;Interpoliert;167.7;-2.4;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.878683;8.667355;50.0;;;;;;Interpoliert (15m);167.4;-2.44;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.87867;8.667215;50.0;;;;;;Original OSM;167.2;-2.49;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.878661;8.667112;50.0;;;;;;Interpoliert (15m);167.0;-2.37;asphalt;secondary;Dieburger Straße
+Haltestelle;W;Darmstadt Mathildenhöhe;49.878652;8.667008;50.0;24:07:00;24:07:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);166.8;-1.93;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.878636;8.666831;50.0;;;;;;Interpoliert (15m);166.6;-1.71;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878621;8.666655;50.0;;;;;;Original OSM;166.5;-1.18;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.878573;8.666513;50.0;;;;;;Interpoliert (15m);166.4;-0.65;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.878526;8.666372;50.0;;;;;;Interpoliert (15m);166.4;-0.33;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.878478;8.666231;50.0;;;;;;Interpoliert (15m);166.4;-0.18;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.87843;8.66609;50.0;;;;;;Interpoliert;166.4;0.16;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878356;8.665958;50.0;;;;;;Interpoliert;166.4;0.32;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878281;8.665826;50.0;;;;;;Original OSM;166.5;0.48;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878208;8.665696;50.0;;;;;;Interpoliert;166.6;0.2;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878134;8.665566;50.0;;;;;;Original OSM;166.7;-0.07;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.878045;8.665418;50.0;;;;;;Interpoliert;166.5;-0.6;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877957;8.665271;50.0;;;;;;Original OSM;166.3;-1.32;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877904;8.665144;50.0;;;;;;Interpoliert;166.1;-2.18;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877851;8.665017;50.0;;;;;;Original OSM;165.8;-2.6;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877793;8.664839;50.0;;;;;;Interpoliert;165.3;-3.03;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877736;8.664661;50.0;;;;;;Interpoliert;164.8;-3.37;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877678;8.664483;50.0;;;;;;Original OSM;164.3;-3.52;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877621;8.664308;50.0;;;;;;Interpoliert;163.8;-3.49;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877564;8.664132;50.0;;;;;;Original OSM;163.3;-3.18;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877497;8.663952;50.0;;;;;;Original OSM;162.8;-3.26;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.877456;8.663824;50.0;;;;;;Interpoliert (15m);162.6;-3.28;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877414;8.663697;50.0;;;;;;Original OSM;162.2;-3.3;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.877353;8.663577;50.0;;;;;;Interpoliert (15m);161.8;-3.15;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Alice-Hospital (Bussteig Richtung West);49.877292;8.663456;50;;;;;;Original OSM;161.4;-3.29;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.877242;8.663383;50;;;;;;Interpoliert (15m);161.2;-2.5;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877192;8.66331;50.0;;;;;;Interpoliert;161.0;-2.07;asphalt;secondary;Dieburger Straße
+Haltestelle;W;Darmstadt Alice-Hospital;49.877192;8.66331;50.0;24:08:00;24:08:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 4m) | Auf Route gesnappt (4m);160.8;-1.62;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877115;8.663162;50.0;;;;;;Original OSM;160.6;-1.7;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.877032;8.663012;50.0;;;;;;Interpoliert;160.4;-1.58;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.876975;8.662906;50.0;;;;;;Interpoliert (15m);160.1;-1.58;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.876917;8.6628;50.0;;;;;;Original OSM;159.9;-1.29;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.876849;8.662669;50.0;;;;;;Interpoliert (15m);159.9;-1.01;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.876782;8.662539;50.0;;;;;;Interpoliert;159.9;-0.4;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.8767;8.66238;50.0;;;;;;Interpoliert;159.9;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.876618;8.662222;50.0;;;;;;Interpoliert;159.9;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.876536;8.662064;50.0;;;;;;Interpoliert;159.9;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.876488;8.661973;50.0;;;;;;Interpoliert (15m);159.9;0.0;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);A;Dieburger Straße (Ampel);49.876441;8.661883;50.0;;;;;;Original OSM;159.9;0.23;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;;49.876392;8.661789;50.0;;;;;;Interpoliert (15m);159.9;0.23;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Dieburger Straße;49.876342;8.661696;50.0;;;;;;Original OSM;160.0;0.87;asphalt;secondary;Dieburger Straße
+Routenpunkt (Way);T;Pützerstraße;49.876223;8.661754;50.0;;;;;;Original OSM;160.0;1.52;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.876153;8.661825;50.0;;;;;;Interpoliert (15m);160.3;1.98;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.876082;8.661896;50.0;;;;;;Interpoliert;160.6;2.27;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.875986;8.661995;50.0;;;;;;Interpoliert;160.9;2.79;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.875896;8.662077;50.0;;;;;;Interpoliert (15m);161.2;3.18;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.875806;8.66216;50.0;;;;;;Interpoliert (15m);161.5;3.52;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.875717;8.662242;50.0;;;;;;Original OSM;162.1;4.03;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.875617;8.662315;50.0;;;;;;Interpoliert (15m);162.7;4.49;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.875518;8.662388;50.0;;;;;;Interpoliert (15m);163.3;4.95;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.875418;8.662461;50.0;;;;;;Interpoliert (15m);163.9;5.13;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.875318;8.662534;50.0;;;;;;Original OSM;164.5;4.8;asphalt;secondary;Pützerstraße
+Haltestelle;W;Darmstadt Pützerstraße;49.875277;8.662562;50.0;24:10:00;24:10:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 1m) | Auf Route gesnappt (1m);164.8;4.24;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.875199;8.662605;50.0;;;;;;Original OSM;165.1;3.68;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.875071;8.662597;50.0;;;;;;Original OSM;165.4;3.12;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.874949;8.662654;50.0;;;;;;Interpoliert (15m);165.7;1.92;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.874827;8.662711;50.0;;;;;;Interpoliert (15m);166.0;0.82;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße/Mathildenhöhe (Bussteig Richtung Süd);49.874706;8.662768;50;;;;;;Original OSM;166.0;-0.06;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.874587;8.662766;50;;;;;;Interpoliert (15m);165.7;-0.94;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.874468;8.662764;50;;;;;;Interpoliert (15m);165.4;-1.82;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.874349;8.662762;50;;;;;;Interpoliert (15m);165.1;-2.27;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.87423;8.66276;50;;;;;;Interpoliert (15m);164.8;-2.27;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.874112;8.662758;50;;;;;;Interpoliert (15m);164.5;-2.23;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.873993;8.662757;50.0;;;;;;Original OSM;164.2;-2.47;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.873866;8.662717;50.0;;;;;;Interpoliert (15m);163.9;-2.71;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.873739;8.662677;50.0;;;;;;Interpoliert (15m);163.4;-3.24;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.873612;8.662637;50.0;;;;;;Original OSM;162.9;-3.66;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.873523;8.662603;50.0;;;;;;Original OSM;162.4;-4.13;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.873421;8.662584;50.0;;;;;;Interpoliert;161.9;-4.31;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.87332;8.662565;50.0;;;;;;Interpoliert;161.4;-4.49;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.873218;8.662547;50.0;;;;;;Interpoliert;160.9;-4.37;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);A;Ampel;49.873115;8.662521;50.0;;;;;;Interpoliert (15m);160.4;-4.68;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;Pützerstraße;49.873013;8.662496;50.0;;;;;;Original OSM;159.9;-5.46;asphalt;secondary;Pützerstraße
+Routenpunkt (Way);T;;49.872992;8.662383;50.0;;;;;;Interpoliert (15m);159.4;-5.31;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.872972;8.66227;50.0;;;;;;Original OSM;158.7;-5.16;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.872983;8.662078;50.0;;;;;;Interpoliert (15m);158.2;-5.13;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.872994;8.661887;50.0;;;;;;Original OSM;157.7;-4.27;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873005;8.66172;50.0;;;;;;Interpoliert (15m);157.2;-3.11;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873017;8.661553;50.0;;;;;;Interpoliert (15m);157.0;-2.88;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873028;8.661385;50.0;;;;;;Interpoliert (15m);156.7;-2.66;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873039;8.661218;50.0;;;;;;Interpoliert (15m);156.4;-2.29;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.87305;8.661051;50.0;;;;;;Original OSM;156.1;-2.89;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873053;8.660871;50.0;;;;;;Interpoliert (15m);155.8;-3.02;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873056;8.660692;50.0;;;;;;Interpoliert (15m);155.2;-3.14;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873058;8.660512;50.0;;;;;;Interpoliert (15m);154.8;-3.2;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873061;8.660333;50.0;;;;;;Interpoliert;154.4;-3.3;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873083;8.660137;50.0;;;;;;Interpoliert;154.0;-2.93;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873105;8.659942;50.0;;;;;;Interpoliert;153.6;-3.06;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873127;8.659747;50.0;;;;;;Original OSM;153.2;-3.19;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873138;8.659599;50.0;;;;;;Interpoliert;152.8;-3.64;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873148;8.659452;50.0;;;;;;Interpoliert;152.4;-4.09;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873155;8.659342;50.0;;;;;;Interpoliert (15m);152.0;-3.69;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873162;8.659232;50.0;;;;;;Original OSM;151.6;-3.59;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873172;8.659061;50.0;;;;;;Interpoliert (15m);151.5;-3.58;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873182;8.65889;50.0;;;;;;Original OSM;151.1;-3.3;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873189;8.658739;50.0;;;;;;Interpoliert (15m);150.7;-2.89;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873197;8.658588;50.0;;;;;;Interpoliert;150.3;-3.42;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873206;8.658403;50.0;;;;;;Interpoliert;149.9;-3.28;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873213;8.658242;50.0;;;;;;Interpoliert (15m);149.5;-3.34;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873219;8.65808;50.0;;;;;;Original OSM;149.2;-3.4;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.87322;8.65794;50.0;;;;;;Interpoliert (15m);148.8;-3.67;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.87322;8.6578;50.0;;;;;;Interpoliert;148.4;-3.85;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873216;8.657672;50.0;;;;;;Interpoliert (15m);148.0;-3.52;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873212;8.657544;50.0;;;;;;Original OSM;147.6;-2.9;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873198;8.657392;50.0;;;;;;Interpoliert (15m);147.5;-1.76;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873185;8.657241;30.0;;;;;;Original OSM;147.4;-0.55;asphalt;primary;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873158;8.657085;30.0;;;;;;Interpoliert;147.6;0.77;asphalt;unclassified;Landgraf-Georg-Straße
+Routenpunkt (Way);A;Landgraf-Georg-Straße (Ampel);49.87313;8.656928;30.0;;;;;;Interpoliert;147.8;1.41;asphalt;unclassified;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873109;8.656809;30.0;;;;;;Interpoliert (15m);148.0;2.44;asphalt;unclassified;Landgraf-Georg-Straße
+Routenpunkt (Way);T;Landgraf-Georg-Straße;49.873088;8.656689;30.0;;;;;;Original OSM;148.2;2.95;asphalt;unclassified;Landgraf-Georg-Straße
+Routenpunkt (Way);T;;49.873066;8.656496;30.0;;;;;;Interpoliert (15m);148.8;3.46;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;;49.873043;8.656302;30.0;;;;;;Interpoliert (15m);149.4;3.96;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.873021;8.656109;30.0;;;;;;Original OSM;150.0;4.46;sett;busway;Schlossgraben
+Routenpunkt (Way);T;;49.872999;8.655937;30.0;;;;;;Interpoliert (15m);150.6;4.56;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;;49.872977;8.655764;30.0;;;;;;Interpoliert (15m);151.2;4.19;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;Schloss;49.872955;8.655591;30;;;;;;Original OSM;151.8;3.5;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;;49.872907;8.655436;30;;;;;;Interpoliert (15m);152.1;2.55;sett;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.87286;8.655281;30.0;;;;;;Original OSM;152.2;1.6;paving_stones;unclassified;Marktplatz
+Haltestelle;W;Darmstadt Schloss;49.87286;8.655281;30.0;24:12:00;24:12:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);152.3;0.37;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.87286;8.655281;30.0;;;;;;Original OSM;152.4;-0.4;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.872838;8.655085;30.0;;;;;;Interpoliert;152.2;-1.53;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.872817;8.65489;30.0;;;;;;Original OSM;152.0;-2.59;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.8728;8.65472;30.0;;;;;;Interpoliert;151.4;-3.65;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;;49.872796;8.654562;30.0;;;;;;Interpoliert (15m);150.8;-4.45;paving_stones;unclassified;Marktplatz
+Routenpunkt (Way);T;Marktplatz;49.872792;8.654403;30.0;;;;;;Original OSM;150.2;-5.24;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.872845;8.654271;30.0;;;;;;Interpoliert (15m);149.6;-4.92;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872898;8.654139;30.0;;;;;;Interpoliert;149.0;-4.7;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872965;8.654003;30.0;;;;;;Interpoliert;148.6;-4.47;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.873015;8.653854;30.0;;;;;;Interpoliert (15m);148.1;-4.23;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.873064;8.653706;30.0;;;;;;Interpoliert (15m);147.6;-3.99;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873114;8.653557;30.0;;;;;;Original OSM;147.1;-3.68;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.873106;8.653391;30.0;;;;;;Interpoliert (15m);146.6;-3.18;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.873097;8.653226;30.0;;;;;;Interpoliert (15m);146.4;-2.64;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873089;8.653061;30.0;;;;;;Interpoliert;146.2;-2.09;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873063;8.652872;30.0;;;;;;Interpoliert;146.0;-1.54;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873037;8.652684;30.0;;;;;;Interpoliert;145.8;-1.49;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.873011;8.652495;30.0;;;;;;Interpoliert;145.6;-1.57;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872985;8.652306;30.0;;;;;;Interpoliert;145.4;-1.69;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;;49.872963;8.652176;30.0;;;;;;Interpoliert (15m);145.2;-1.71;asphalt;unclassified;Rheinstraße
+Routenpunkt (Way);T;Luisenplatz;49.872941;8.652045;30.0;;;;;;Original OSM;145.0;-1.73;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.872881;8.651887;30.0;;;;;;Interpoliert (15m);144.8;-1.6;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872822;8.651729;30.0;;;;;;Interpoliert;144.6;-1.35;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.872777;8.651573;30.0;;;;;;Interpoliert (15m);144.5;-0.94;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872733;8.651416;30.0;;;;;;Original OSM;144.4;-0.63;paving_stones;unclassified;Luisenplatz
+Haltestelle;W;Darmstadt Luisenplatz;49.872731;8.651316;30.0;24:14:00;24:15:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 17m) | Auf Route gesnappt (17m);144.4;-0.33;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872706;8.651178;30.0;;;;;;Original OSM;144.4;-0.16;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.872701;8.651046;30.0;;;;;;Interpoliert (15m);144.4;0.19;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872695;8.650914;30.0;;;;;;Original OSM;144.4;0.03;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872713;8.650768;30.0;;;;;;Interpoliert;144.5;-0.14;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872733;8.650595;30.0;;;;;;Original OSM;144.4;-0.31;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.872736;8.650429;30.0;;;;;;Interpoliert (15m);144.3;-0.5;paving_stones;unclassified;Luisenplatz
+Routenpunkt (Way);T;Luisenplatz;49.872739;8.650264;30.0;;;;;;Original OSM;144.2;-0.89;asphalt;unclassified;Luisenplatz
+Routenpunkt (Way);T;;49.872722;8.650125;30.0;;;;;;Interpoliert (15m);144.1;-1.03;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872705;8.649986;30.0;;;;;;Interpoliert;144.0;-1.15;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872679;8.649801;30.0;;;;;;Interpoliert;143.8;-1.28;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872654;8.649616;30.0;;;;;;Interpoliert;143.6;-1.38;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872628;8.649431;30.0;;;;;;Interpoliert;143.4;-1.62;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872603;8.649246;30.0;;;;;;Interpoliert;143.2;-1.47;asphalt;busway;Rheinstraße
+Routenpunkt (Way);A;Rheinstraße (Ampel);49.872577;8.64906;30;;;;;;Original OSM;142.9;-1.32;asphalt;residential;Grafenstraße
+Routenpunkt (Way);T;Rheinstraße;49.87255;8.648869;30;;;;;;Interpoliert;142.8;-1.16;asphalt;residential;Grafenstraße
+Routenpunkt (Way);T;Rheinstraße;49.872522;8.648677;30;;;;;;Interpoliert;142.7;-1.01;asphalt;residential;
+Routenpunkt (Way);T;Rheinstraße;49.872495;8.648485;30;;;;;;Interpoliert;142.6;-0.57;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872467;8.648294;30;;;;;;Interpoliert;142.5;-0.43;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87244;8.648102;30;;;;;;Interpoliert;142.5;-0.28;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872412;8.64791;30;;;;;;Interpoliert;142.5;-0.14;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872384;8.647719;30;;;;;;Interpoliert;142.5;-0.57;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872357;8.647527;30;;;;;;Interpoliert;142.5;-0.99;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872329;8.647335;30;;;;;;Interpoliert;142.1;-1.42;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872302;8.647144;30;;;;;;Interpoliert;141.8;-1.85;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872274;8.646952;30;;;;;;Interpoliert;141.5;-2.29;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872247;8.64676;30;;;;;;Original OSM;141.2;-1.87;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87222;8.646576;30;;;;;;Interpoliert;140.9;-1.74;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872193;8.646391;30;;;;;;Interpoliert;140.8;-1.61;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872166;8.646207;30;;;;;;Interpoliert;140.6;-1.47;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872138;8.646022;30;;;;;;Interpoliert;140.4;-1.47;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872111;8.645837;30;;;;;;Interpoliert;140.2;-1.18;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872084;8.645653;30;;;;;;Interpoliert;139.9;-0.74;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872057;8.645468;30;;;;;;Interpoliert;140.0;-0.29;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87203;8.645283;30;;;;;;Interpoliert;140.1;0.15;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.872003;8.645099;30;;;;;;Interpoliert;140.2;0.75;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871976;8.64492;30;;;;;;Interpoliert (15m);140.3;0.42;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871949;8.644741;30;;;;;;Original OSM;140.4;0.13;asphalt;busway;Rheinstraße
+Haltestelle;W;Darmstadt Rhein-/Neckarstraße;49.871925;8.644589;30;24:17:00;24:17:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 43m) | Auf Route gesnappt (43m);140.3;-0.21;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871897;8.644404;30;;;;;;Original OSM;140.2;-0.56;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871883;8.644261;30;;;;;;Interpoliert (15m);140.1;-0.71;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.87187;8.644118;30;;;;;;Interpoliert (15m);140.0;-0.7;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871856;8.643974;30;;;;;;Original OSM;140.0;-0.72;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871841;8.64381;30;;;;;;Interpoliert (15m);139.9;-0.72;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871825;8.643646;30;;;;;;Interpoliert;139.8;-0.72;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871806;8.643505;30;;;;;;Interpoliert (15m);139.7;-0.93;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rhein-/Neckarstraße;49.871786;8.643365;30;;;;;;Interpoliert;139.6;-1.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871761;8.643233;30;;;;;;Interpoliert (15m);139.5;-1.34;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871736;8.643101;30;;;;;;Original OSM;139.3;-1.5;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871703;8.642948;30;;;;;;Interpoliert (15m);139.1;-1.59;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871671;8.642795;30;;;;;;Interpoliert;138.9;-1.68;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871645;8.642607;30;;;;;;Interpoliert;138.7;-1.27;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871619;8.64242;30;;;;;;Interpoliert;138.5;-0.93;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871594;8.642232;30;;;;;;Interpoliert;138.5;-0.58;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871568;8.642045;30;;;;;;Interpoliert;138.5;-0.29;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871546;8.641887;30;;;;;;Interpoliert (15m);138.5;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871524;8.641729;30;;;;;;Original OSM;138.5;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.871501;8.641564;30;;;;;;Interpoliert (15m);138.4;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871478;8.641399;30;;;;;;Original OSM;138.4;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871452;8.641207;30;;;;;;Interpoliert;138.4;-0.17;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871425;8.641015;30;;;;;;Interpoliert;138.4;-0.28;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871399;8.640824;30;;;;;;Interpoliert;138.4;-0.71;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871372;8.640632;30;;;;;;Interpoliert;138.2;-1.14;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871346;8.64044;30;;;;;;Interpoliert;137.9;-1.56;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87132;8.640248;30;;;;;;Interpoliert;137.6;-1.85;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871293;8.640056;30;;;;;;Interpoliert;137.3;-1.71;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871267;8.639864;30;;;;;;Interpoliert;137.1;-1.42;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87124;8.639672;30;;;;;;Original OSM;137.0;-1.13;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871213;8.639477;30;;;;;;Interpoliert;136.9;-0.85;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871186;8.639282;30;;;;;;Interpoliert;136.8;-0.7;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.87116;8.639087;30;;;;;;Interpoliert;136.7;-0.42;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.871133;8.638892;30;;;;;;Interpoliert;136.6;-0.14;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.871106;8.638697;30;;;;;;Interpoliert;136.7;0.14;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.871079;8.638502;30;;;;;;Interpoliert;136.8;0.14;asphalt;busway;
+Routenpunkt (Way);T;Rheinstraße;49.871052;8.638307;30;;;;;;Interpoliert;136.9;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.871025;8.638112;30;;;;;;Interpoliert;136.8;-0.42;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870998;8.637917;30;;;;;;Interpoliert;136.6;-0.84;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870972;8.637722;30;;;;;;Interpoliert;136.4;-1.4;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870945;8.637526;30;;;;;;Interpoliert;136.2;-1.26;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870918;8.637331;30;;;;;;Interpoliert;135.9;-0.98;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870891;8.637136;30;;;;;;Interpoliert;135.9;-0.7;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870864;8.636941;30;;;;;;Interpoliert;135.9;-0.42;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870837;8.636746;30;;;;;;Interpoliert;135.9;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.870835;8.63662;30;;;;;;Interpoliert (15m);135.9;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870833;8.636494;30;;;;;;Original OSM;135.9;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870805;8.636315;30;;;;;;Original OSM;135.9;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870781;8.63614;30;;;;;;Interpoliert;135.9;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.870764;8.635994;30;;;;;;Interpoliert (15m);135.9;0.29;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Berliner Allee;49.870746;8.635848;30;;;;;;Interpoliert;135.9;-0.02;asphalt;busway;Rheinstraße
+Haltestelle;W;Darmstadt Berliner Allee;49.870753;8.635752;30;24:18:00;24:18:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 1m) | Auf Route gesnappt (1m);136.0;-0.43;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870703;8.63559;30;;;;;;Original OSM;135.8;-0.84;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.870673;8.635462;30;;;;;;Interpoliert (15m);135.6;-1.11;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870643;8.635334;30;;;;;;Interpoliert;135.4;-1.4;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870615;8.635134;30;;;;;;Interpoliert;135.2;-0.82;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870588;8.634934;30;;;;;;Interpoliert;135.2;-0.14;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87056;8.634733;30;;;;;;Interpoliert;135.4;0.55;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870533;8.634533;30;;;;;;Interpoliert;135.6;1.09;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870505;8.634333;30;;;;;;Interpoliert;135.8;1.09;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870477;8.634133;30;;;;;;Interpoliert;136.0;0.82;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.87045;8.633933;30;;;;;;Original OSM;136.0;0.55;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870425;8.633749;30;;;;;;Interpoliert;136.0;0.27;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;Rheinstraße;49.870399;8.633564;30;;;;;;Interpoliert;136.0;0.0;asphalt;busway;Rheinstraße
+Routenpunkt (Way);T;;49.870399;8.633418;30;;;;;;Interpoliert (15m);136.0;-0.38;asphalt;busway;Rheinstraße
+Routenpunkt (Way);A;Ampel;49.870399;8.633272;30;;;;;;Interpoliert (15m);136.0;-1.15;asphalt;busway;Am Hauptbahnhof
+Routenpunkt (Way);T;Rheinstraße;49.870399;8.633126;30;;;;;;Original OSM;135.8;-1.91;asphalt;busway;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.87048;8.632994;30;;;;;;Interpoliert (15m);135.3;-2.64;asphalt;busway;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870561;8.632861;30;;;;;;Interpoliert;134.8;-3.36;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870668;8.632766;30;;;;;;Original OSM;134.3;-3.46;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870777;8.632674;30;;;;;;Interpoliert;133.8;-3.18;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870876;8.63259;30;;;;;;Interpoliert;133.5;-2.89;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.870975;8.632506;30;;;;;;Interpoliert;133.2;-2.59;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871073;8.632422;30;;;;;;Interpoliert;132.9;-2.29;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.871184;8.632328;30;;;;;;Interpoliert (15m);132.6;-1.81;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871296;8.632234;30;;;;;;Original OSM;132.3;-0.79;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.871384;8.632158;30;;;;;;Interpoliert (15m);132.3;0.26;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871471;8.632083;30;;;;;;Interpoliert;132.6;0.87;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871554;8.632013;30;;;;;;Original OSM;132.9;1.48;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871638;8.631939;30;;;;;;Interpoliert;133.0;1.63;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871722;8.631865;30;;;;;;Original OSM;133.1;1.25;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.87183;8.631782;30;;;;;;Interpoliert (15m);133.2;0.83;asphalt;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.871937;8.631698;30;;;;;;Original OSM;133.3;0.32;paving_stones;pedestrian;Am Hauptbahnhof
+Haltestelle;W;Darmstadt Hauptbahnhof Ost;49.872047;8.631641;30;24:21:00;24:21:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 37m) | Auf Route gesnappt (37m);133.4;-0.18;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.872159;8.631618;30;;;;;;Interpoliert (15m);133.2;-1.23;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.87227;8.631595;30;;;;;;Original OSM;133.0;-2.28;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);A;Ampel;49.87237;8.631577;30;;;;;;Interpoliert (15m);132.5;-3.33;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.87247;8.631559;30;;;;;;Interpoliert (15m);132.0;-3.74;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.872569;8.631541;30;;;;;;Original OSM;131.5;-4.15;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;;49.872642;8.631521;30;;;;;;Interpoliert (15m);131.2;-3.66;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.872715;8.631501;30;;;;;;Original OSM;130.9;-2.41;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.872848;8.63148;30;;;;;;Original OSM;130.6;-1.16;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.872949;8.631464;30;;;;;;Interpoliert;130.8;0.45;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.873051;8.631448;30;;;;;;Interpoliert;131.0;2.07;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.873152;8.631432;30;;;;;;Interpoliert;131.5;3.22;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Am Hauptbahnhof;49.873254;8.631416;30;;;;;;Original OSM;132.0;3.62;paving_stones;pedestrian;Am Hauptbahnhof
+Routenpunkt (Way);T;Unbekannt;49.873373;8.631403;30;;;;;;Interpoliert;132.5;4.02;asphalt;service;
+Routenpunkt (Way);T;Unbekannt;49.873492;8.631391;30;;;;;;Interpoliert;133.0;3.89;asphalt;service;
+Routenpunkt (Way);T;Unbekannt;49.873611;8.631379;30;;;;;;Interpoliert;133.5;3.69;asphalt;service;
+Routenpunkt (Way);T;Unbekannt;49.87373;8.631367;30;;;;;;Interpoliert;134.0;3.62;asphalt;service;
+Routenpunkt (Way);T;;49.873858;8.631422;30;;;;;;Interpoliert (15m);134.5;2.86;asphalt;service;
+Routenpunkt (Way);T;Unbekannt;49.873985;8.631478;30;;;;;;Original OSM;135.0;2.11;asphalt;residential;Poststraße
+Routenpunkt (Way);T;;49.874015;8.631629;30;;;;;;Interpoliert (15m);135.0;0.96;asphalt;residential;Poststraße
+Routenpunkt (Way);T;Poststraße;49.874045;8.631779;30;;;;;;Interpoliert;135.0;-0.1;asphalt;residential;Poststraße
+Routenpunkt (Way);T;Poststraße;49.874053;8.63192;30;;;;;;Interpoliert;134.8;-1.17;asphalt;residential;Poststraße
+Routenpunkt (Way);T;;49.874063;8.632063;30;;;;;;Interpoliert (15m);134.6;-1.56;asphalt;residential;Poststraße
+Routenpunkt (Way);T;Poststraße;49.874074;8.632205;30;;;;;;Original OSM;134.4;-1.95;asphalt;residential;Poststraße
+Routenpunkt (Way);T;;49.874166;8.63222;50;;;;;;Interpoliert (15m);134.2;-1.95;asphalt;secondary;Goebelstraße
+Routenpunkt (Way);T;;49.874258;8.632235;50;;;;;;Interpoliert (15m);134.0;-1.95;asphalt;secondary;Goebelstraße
+Routenpunkt (Way);T;Goebelstraße;49.87435;8.63225;50.0;;;;;;Original OSM;133.8;-1.96;asphalt;secondary;Goebelstraße
+Routenpunkt (Way);T;;49.87444;8.632255;50.0;;;;;;Interpoliert (15m);133.6;-1.97;asphalt;secondary;Goebelstraße
+Routenpunkt (Way);A;Ampel;49.87453;8.632259;50.0;;;;;;Interpoliert (15m);133.4;-3.08;asphalt;secondary;Goebelstraße
+Routenpunkt (Way);T;Goebelstraße;49.874621;8.632264;50.0;;;;;;Interpoliert;133.2;-3.81;asphalt;secondary;Goebelstraße
+Routenpunkt (Way);T;;49.874716;8.63228;50.0;;;;;;Interpoliert (15m);132.4;-4.54;asphalt;secondary;Goebelstraße
+Routenpunkt (Way);T;;49.874812;8.632297;50.0;;;;;;Interpoliert (15m);131.8;-5.23;asphalt;secondary;Goebelstraße
+Routenpunkt (Way);T;Goebelstraße;49.874907;8.632314;50.0;;;;;;Original OSM;131.2;-5.93;asphalt;secondary;Goebelstraße
+Routenpunkt (Way);T;;49.874965;8.63219;50.0;;;;;;Interpoliert (15m);130.6;-5.52;asphalt;secondary_link;
+Routenpunkt (Way);T;;49.875022;8.632065;50.0;;;;;;Interpoliert (15m);130.0;-5.34;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875079;8.63194;50.0;;;;;;Original OSM;129.4;-5.37;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875092;8.631762;50.0;;;;;;Original OSM;128.8;-5.44;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875101;8.63157;50.0;;;;;;Interpoliert;128.0;-5.51;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.87511;8.631378;50.0;;;;;;Interpoliert;127.2;-4.7;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875119;8.631186;50.0;;;;;;Interpoliert;126.4;-4.06;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875128;8.630994;50.0;;;;;;Interpoliert;126.2;-3.33;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875137;8.630802;50.0;;;;;;Interpoliert;126.0;-2.61;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875146;8.630609;50.0;;;;;;Interpoliert;125.7;-2.01;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875155;8.630417;50.0;;;;;;Original OSM;125.4;-2.13;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875147;8.630269;50.0;;;;;;Original OSM;125.1;-2.24;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875159;8.630063;50.0;;;;;;Interpoliert;124.8;-1.94;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875171;8.629858;50.0;;;;;;Interpoliert;124.5;-1.65;asphalt;secondary;
+Routenpunkt (Way);T;Bismarckstraße;49.875184;8.629653;50.0;;;;;;Interpoliert;124.4;-1.22;asphalt;secondary;
+Routenpunkt (Way);T;Bismarckstraße;49.875196;8.629447;50.0;;;;;;Interpoliert;124.3;-0.54;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875208;8.629242;50.0;;;;;;Interpoliert;124.2;0.14;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.87522;8.629036;50.0;;;;;;Interpoliert;124.4;0.68;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875232;8.628831;50.0;;;;;;Interpoliert;124.6;1.22;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875244;8.628626;50.0;;;;;;Interpoliert;124.9;1.76;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875256;8.62842;50.0;;;;;;Interpoliert;125.2;2.01;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;Bismarckstraße;49.875269;8.628215;50.0;;;;;;Interpoliert;125.5;2.26;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);A;Ampel;49.875277;8.628055;50.0;;;;;;Interpoliert (15m);125.8;2.38;asphalt;secondary;Bismarckstraße
+Routenpunkt (Way);T;;49.875286;8.627895;50.0;;;;;;Interpoliert (15m);126.1;2.45;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Bismarckstraße;49.875295;8.627735;50.0;;;;;;Original OSM;126.4;2.53;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;;49.875304;8.627562;50.0;;;;;;Interpoliert (15m);126.7;2.01;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;;49.875314;8.62739;50.0;;;;;;Interpoliert (15m);127.0;1.49;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875324;8.627217;30.0;;;;;;Interpoliert;127.0;0.97;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875336;8.627009;30.0;;;;;;Interpoliert;127.0;0.62;asphalt;secondary;
+Routenpunkt (Way);T;Dornheimer Weg;49.875348;8.626801;30.0;;;;;;Interpoliert;127.0;0.27;asphalt;secondary;
+Routenpunkt (Way);T;Dornheimer Weg;49.875359;8.626593;30.0;;;;;;Interpoliert;127.1;0.4;asphalt;secondary;
+Routenpunkt (Way);T;Dornheimer Weg;49.875371;8.626385;30.0;;;;;;Interpoliert;127.2;0.53;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875383;8.626176;30.0;;;;;;Interpoliert;127.3;0.27;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875395;8.625968;30.0;;;;;;Interpoliert;127.4;-0.13;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875407;8.62576;30.0;;;;;;Interpoliert;127.2;-0.53;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875419;8.625552;30.0;;;;;;Interpoliert;127.0;-0.93;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875431;8.625344;30.0;;;;;;Interpoliert;126.8;-1.34;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875443;8.625136;30.0;;;;;;Original OSM;126.6;-1.34;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875455;8.624929;30.0;;;;;;Interpoliert;126.4;-1.47;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875467;8.624722;30.0;;;;;;Interpoliert;126.2;-1.61;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875479;8.624514;30.0;;;;;;Interpoliert;125.9;-1.78;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875491;8.624307;30.0;;;;;;Interpoliert;125.6;-2.92;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Rodensteinweg/Altes Schalthaus;49.875536;8.624128;30;;;;;;Original OSM;125.3;-2.51;asphalt;secondary;Dornheimer Weg
+Haltestelle;W;Da. Rodensteinw./A.Schalthaus;49.875502;8.6241;30.0;24:23:00;24:23:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (5m);125.0;-1.95;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Rodensteinweg/Altes Schalthaus;49.875555;8.623921;30;;;;;;Interpoliert;125.1;-1.4;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875523;8.62375;30.0;;;;;;Interpoliert;125.2;-0.81;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875534;8.623567;30.0;;;;;;Interpoliert;125.3;0.75;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875546;8.623385;30.0;;;;;;Interpoliert;125.4;0.77;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875557;8.623202;30.0;;;;;;Interpoliert;125.5;0.75;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875568;8.623019;30.0;;;;;;Original OSM;125.6;0.74;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.87558;8.622826;30.0;;;;;;Interpoliert;125.7;0.73;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875591;8.622632;30.0;;;;;;Interpoliert;125.8;0.73;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875603;8.622438;30.0;;;;;;Interpoliert;125.9;0.57;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875614;8.622244;30.0;;;;;;Interpoliert;126.0;0.43;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875626;8.622051;30.0;;;;;;Interpoliert;126.0;0.29;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875637;8.621857;30.0;;;;;;Original OSM;126.0;-0.41;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875649;8.621656;30.0;;;;;;Interpoliert;126.0;-1.11;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.87566;8.621454;30.0;;;;;;Interpoliert;125.6;-1.66;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875672;8.621253;30.0;;;;;;Interpoliert;125.2;-2.21;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875683;8.621052;30.0;;;;;;Interpoliert;124.8;-2.76;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875695;8.620851;30.0;;;;;;Interpoliert;124.4;-2.91;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875706;8.62065;30.0;;;;;;Interpoliert;124.0;-3.06;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;;49.875726;8.620534;30.0;;;;;;Interpoliert (15m);123.7;-2.99;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875746;8.620419;30.0;;;;;;Interpoliert;123.4;-2.86;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Moldenhauerweg (Bussteig Richtung West);49.875756;8.620247;30;;;;;;Interpoliert;123.1;-2.6;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);A;Moldenhauerweg (Bussteig Richtung West) (Ampel);49.875761;8.620047;30;;;;;;Original OSM;122.8;-1.61;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;;49.87576;8.619859;30;;;;;;Interpoliert (15m);122.6;-0.51;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875759;8.619672;30.0;;;;;;Original OSM;122.8;0.26;asphalt;secondary;Dornheimer Weg
+Haltestelle;W;Darmstadt Moldenhauerweg;49.875765;8.61953;30.0;24:24:00;24:24:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (5m);123.0;0.96;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875776;8.619334;30.0;;;;;;Interpoliert;123.2;1.54;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875787;8.619137;30.0;;;;;;Interpoliert;123.4;1.43;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875799;8.618941;30.0;;;;;;Interpoliert;123.6;1.23;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;;49.875807;8.618794;30.0;;;;;;Interpoliert (15m);123.7;1.12;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875815;8.618647;30.0;;;;;;Original OSM;123.8;1.01;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;;49.875824;8.618488;30.0;;;;;;Interpoliert (15m);123.9;0.73;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875833;8.618329;30.0;;;;;;Interpoliert;124.0;0.54;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875845;8.618128;30.0;;;;;;Interpoliert;124.0;0.35;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;;49.875851;8.618018;30.0;;;;;;Interpoliert (15m);124.0;0.17;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875858;8.617909;30.0;;;;;;Original OSM;124.0;0.0;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;Dornheimer Weg;49.875867;8.617747;30.0;;;;;;Interpoliert;124.0;0.0;asphalt;secondary;Dornheimer Weg
+Routenpunkt (Way);T;;49.875935;8.617686;30.0;;;;;;Interpoliert (15m);124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Dornheimer Weg;49.876003;8.617626;30.0;;;;;;Original OSM;124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;;49.876099;8.617657;30.0;;;;;;Interpoliert (15m);124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.876195;8.617687;30.0;;;;;;Interpoliert;124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.876282;8.617728;30.0;;;;;;Interpoliert;124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.876408;8.617788;30.0;;;;;;Original OSM;124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;;49.876488;8.617825;30.0;;;;;;Interpoliert (15m);124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.876568;8.617863;30.0;;;;;;Interpoliert;124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.876677;8.617913;30.0;;;;;;Interpoliert;124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.876786;8.617964;30.0;;;;;;Original OSM;124.0;0.0;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.876905;8.618014;30.0;;;;;;Interpoliert;124.0;-0.3;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.877024;8.618065;30.0;;;;;;Original OSM;124.0;-0.8;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.87714;8.618114;30.0;;;;;;Interpoliert;123.8;-0.55;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;;49.877209;8.618144;30.0;;;;;;Interpoliert (15m);123.6;-0.42;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.877278;8.618173;30.0;;;;;;Original OSM;123.7;-0.25;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.877407;8.618228;30.0;;;;;;Interpoliert;123.8;0.21;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.877514;8.618274;30.0;;;;;;Interpoliert;123.9;0.85;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.87762;8.61832;30.0;;;;;;Original OSM;124.0;0.73;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.877746;8.618378;30.0;;;;;;Interpoliert;124.1;0.78;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.877872;8.618436;30.0;;;;;;Interpoliert;124.2;0.44;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;;49.877968;8.618479;30.0;;;;;;Interpoliert (15m);124.3;0.51;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.878064;8.618523;30.0;;;;;;Original OSM;124.2;0.61;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;;49.878137;8.618557;30.0;;;;;;Interpoliert (15m);124.3;0.12;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.878211;8.618592;30.0;;;;;;Interpoliert;124.4;-0.4;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.878308;8.618638;30.0;;;;;;Interpoliert;124.2;-0.69;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Michaelisstraße;49.878387;8.618752;30.0;;;;;;Interpoliert;124.0;-1.4;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;;49.87846;8.61878;30.0;;;;;;Interpoliert (15m);123.8;-2.13;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Im Harras (Bussteig Richtung Nord/West);49.878534;8.618809;30;;;;;;Original OSM;123.6;-2.32;asphalt;tertiary;Michaelisstraße
+Haltestelle;W;Darmstadt Im Harras;49.878603;8.618776;30.0;24:26:00;24:26:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 9m) | Auf Route gesnappt (9m);123.4;-2.39;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);A;Michaelisstraße (Ampel);49.878667;8.618809;30.0;;;;;;Original OSM;123.2;-2.07;asphalt;tertiary;Michaelisstraße
+Routenpunkt (Way);T;Koblenzer Straße;49.878792;8.61888;30.0;;;;;;Original OSM;122.9;-1.75;asphalt;residential;Koblenzer Straße
+Routenpunkt (Way);T;Koblenzer Straße;49.878836;8.618711;30.0;;;;;;Interpoliert;122.8;-1.42;asphalt;residential;Koblenzer Straße
+Routenpunkt (Way);T;;49.878869;8.618547;30.0;;;;;;Interpoliert (15m);122.7;-1.08;asphalt;residential;Koblenzer Straße
+Routenpunkt (Way);T;Koblenzer Straße;49.878901;8.618384;30.0;;;;;;Interpoliert;122.6;-1.07;asphalt;residential;Koblenzer Straße
+Routenpunkt (Way);T;;49.878919;8.618246;30.0;;;;;;Interpoliert (15m);122.5;-1.32;asphalt;residential;Koblenzer Straße
+Routenpunkt (Way);T;;49.878937;8.618108;30.0;;;;;;Interpoliert (15m);122.3;-1.59;asphalt;residential;Koblenzer Straße
+Routenpunkt (Way);T;Koblenzer Straße;49.878955;8.617969;30.0;;;;;;Original OSM;122.1;-1.87;asphalt;residential;Koblenzer Straße
+Routenpunkt (Way);T;;49.879027;8.617908;30.0;;;;;;Interpoliert (15m);121.9;-2.06;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.879099;8.617848;30.0;;;;;;Interpoliert;121.7;-1.87;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.879188;8.617823;30.0;;;;;;Interpoliert;121.5;-1.62;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.879278;8.617798;30.0;;;;;;Original OSM;121.4;-1.33;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.879396;8.61776;30.0;;;;;;Interpoliert;121.3;-0.89;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.879514;8.617723;30.0;;;;;;Interpoliert;121.2;-0.2;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.879633;8.617685;30.0;;;;;;Interpoliert;121.2;0.44;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.879751;8.617648;30.0;;;;;;Original OSM;121.4;1.04;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.87987;8.61761;30.0;;;;;;Interpoliert;121.7;1.63;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.879989;8.617573;30.0;;;;;;Interpoliert;122.0;2.07;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.880108;8.617535;30.0;;;;;;Interpoliert;122.3;2.22;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.880227;8.617497;30.0;;;;;;Interpoliert;122.6;1.92;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.880346;8.61746;30.0;;;;;;Interpoliert;122.9;1.68;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.880466;8.617422;30.0;;;;;;Original OSM;123.0;1.44;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.880554;8.617392;30.0;;;;;;Interpoliert (15m);123.1;0.99;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.880642;8.617362;30.0;;;;;;Original OSM;123.2;0.19;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.880741;8.617345;30.0;;;;;;Interpoliert (15m);123.2;-0.38;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.880841;8.617328;30.0;;;;;;Interpoliert;123.0;-0.99;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.880925;8.617299;30.0;;;;;;Interpoliert (15m);122.8;-1.49;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße (Bussteig Richtung Nord);49.881009;8.617269;30;;;;;;Interpoliert;122.6;-1.79;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.881124;8.617218;30;;;;;;Interpoliert (15m);122.4;-1.74;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.881239;8.617167;30.0;;;;;;Interpoliert;122.2;-1.47;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.881357;8.617127;30.0;;;;;;Interpoliert;122.0;-1.05;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.881474;8.617086;30.0;;;;;;Interpoliert;121.9;-0.75;asphalt;residential;Kölner Straße
+Haltestelle;W;Darmstadt Kölner Straße;49.881474;8.617086;30.0;24:27:00;24:27:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 4m) | Auf Route gesnappt (4m);121.8;-0.6;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.881474;8.617086;30.0;;;;;;Interpoliert;121.7;-0.46;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.881591;8.617046;30.0;;;;;;Original OSM;121.6;-0.48;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.881699;8.617011;30.0;;;;;;Interpoliert;121.5;-0.64;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.881806;8.616976;30.0;;;;;;Interpoliert;121.4;-0.78;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.881913;8.616941;30.0;;;;;;Original OSM;121.3;-0.77;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.882038;8.6169;30.0;;;;;;Interpoliert;121.2;-0.81;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.882163;8.61686;30.0;;;;;;Original OSM;121.1;-0.25;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.882252;8.616831;30.0;;;;;;Interpoliert;121.0;0.31;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.882341;8.616802;30.0;;;;;;Interpoliert;121.2;0.75;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.882429;8.616773;30.0;;;;;;Original OSM;121.4;1.19;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.882548;8.616734;30.0;;;;;;Interpoliert;121.6;1.68;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.882667;8.616695;30.0;;;;;;Interpoliert;121.8;1.29;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.882785;8.616657;30.0;;;;;;Original OSM;122.0;0.89;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.882913;8.616615;30.0;;;;;;Interpoliert;122.0;0.59;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.883034;8.61663;30.0;;;;;;Interpoliert (15m);122.0;0.3;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.883155;8.616646;30.0;;;;;;Interpoliert (15m);122.0;0.0;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.883276;8.616661;30.0;;;;;;Interpoliert (15m);122.0;-0.28;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Kölner Straße;49.883397;8.616676;30.0;;;;;;Original OSM;122.0;-0.55;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.883488;8.616821;30.0;;;;;;Interpoliert (15m);121.8;-0.83;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.883578;8.616966;30.0;;;;;;Interpoliert (15m);121.6;-1.25;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;;49.883669;8.61711;30.0;;;;;;Interpoliert (15m);121.4;-1.89;asphalt;residential;Kölner Straße
+Routenpunkt (Way);T;Im Harras;49.883759;8.617255;30.0;;;;;;Original OSM;121.1;-1.83;asphalt;residential;Im Harras
+Routenpunkt (Way);T;;49.883841;8.617228;30.0;;;;;;Interpoliert (15m);120.8;-1.69;asphalt;residential;Im Harras
+Routenpunkt (Way);T;Im Harras;49.883922;8.6172;30.0;;;;;;Interpoliert;120.7;-1.56;asphalt;residential;Im Harras
+Routenpunkt (Way);T;Im Harras;49.884048;8.617157;30.0;;;;;;Interpoliert;120.6;-1.28;asphalt;residential;Im Harras
+Routenpunkt (Way);T;Im Harras;49.884174;8.617114;30.0;;;;;;Interpoliert;120.5;-0.77;asphalt;residential;Im Harras
+Routenpunkt (Way);T;Im Harras;49.8843;8.617072;30.0;;;;;;Interpoliert;120.4;-0.97;asphalt;residential;Im Harras
+Routenpunkt (Way);T;Im Harras;49.884426;8.617029;30.0;;;;;;Interpoliert;120.3;-1.25;asphalt;residential;Im Harras
+Routenpunkt (Way);T;;49.884512;8.617033;30.0;;;;;;Interpoliert (15m);120.1;-1.48;asphalt;residential;Im Harras
+Routenpunkt (Way);T;Im Harras;49.884598;8.617037;30.0;;;;;;Original OSM;119.9;-1.53;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;;49.88462;8.617184;30.0;;;;;;Interpoliert (15m);119.7;-1.53;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884642;8.617331;30.0;;;;;;Interpoliert;119.6;-0.97;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884649;8.617524;30.0;;;;;;Interpoliert;119.5;-0.41;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884655;8.617717;30.0;;;;;;Interpoliert;119.6;0.1;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884662;8.61791;30.0;;;;;;Interpoliert;119.7;0.43;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884668;8.618103;30.0;;;;;;Interpoliert;119.8;0.96;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884675;8.618296;30.0;;;;;;Original OSM;119.9;1.4;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884679;8.618441;30.0;;;;;;Interpoliert;120.1;1.66;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884684;8.618585;30.0;;;;;;Original OSM;120.4;1.93;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884689;8.61879;30.0;;;;;;Interpoliert;120.7;2.19;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884695;8.618994;30.0;;;;;;Interpoliert;121.0;1.98;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884701;8.619199;30.0;;;;;;Original OSM;121.3;1.23;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884706;8.619359;30.0;;;;;;Interpoliert;121.4;0.64;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.88471;8.61952;30.0;;;;;;Interpoliert;121.3;0.06;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884715;8.61968;30.0;;;;;;Interpoliert;121.2;-0.51;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.88472;8.61984;30.0;;;;;;Original OSM;121.1;-0.84;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884725;8.620016;30.0;;;;;;Interpoliert;121.0;-0.82;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.88473;8.620192;30.0;;;;;;Original OSM;120.9;-0.8;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.884735;8.620372;30.0;;;;;;Interpoliert;120.8;-0.76;asphalt;residential;Staudingerstraße
+Routenpunkt (Way);T;Staudingerstraße;49.88474;8.620552;30.0;;;;;;Original OSM;120.7;-0.74;asphalt;unclassified;Haasstraße
+Routenpunkt (Way);T;Haasstraße;49.884873;8.620546;30.0;;;;;;Interpoliert;120.6;-0.44;asphalt;unclassified;Haasstraße
+Routenpunkt (Way);T;Haasstraße;49.885006;8.62054;30.0;;;;;;Interpoliert;120.5;-0.15;asphalt;unclassified;Haasstraße
+Routenpunkt (Way);T;Haasstraße;49.88514;8.620534;30.0;;;;;;Original OSM;120.6;0.18;asphalt;unclassified;Haasstraße
+Routenpunkt (Way);T;Haasstraße;49.885272;8.620525;30.0;;;;;;Original OSM;120.7;0.47;asphalt;unclassified;Haasstraße
+Routenpunkt (Way);T;Haasstraße;49.885373;8.620518;30.0;;;;;;Interpoliert;120.8;0.88;asphalt;unclassified;Haasstraße
+Routenpunkt (Way);T;Haasstraße;49.885474;8.620512;30.0;;;;;;Interpoliert;120.89;0.75;asphalt;unclassified;Haasstraße
+Routenpunkt (Way);T;;49.885545;8.620492;30.0;;;;;;Interpoliert (15m);121.0;0.61;asphalt;unclassified;Haasstraße
+Routenpunkt (Way);T;Haasstraße;49.885617;8.620472;30.0;;;;;;Original OSM;121.0;0.54;asphalt;unclassified;Haasstraße
+Haltestelle;W;Darmstadt Haasstraße;49.885638;8.620466;30;24:29:00;24:29:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 24m) | Auf Route gesnappt (4m);121.0;0.46;asphalt;unclassified;Haasstraße

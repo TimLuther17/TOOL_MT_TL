@@ -1,0 +1,5 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Böllenfalltor;49.8526;8.669743;07:14:00;07:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Darmstadt Marienhospital;49.851143;8.662481;07:15:00;07:15:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Darmstadt Klappacher Straße;49.85317;8.657377;07:16:00;07:16:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Darmstadt Ludwigshöhstraße;49.853405;8.652481;07:17:00;07:17:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3

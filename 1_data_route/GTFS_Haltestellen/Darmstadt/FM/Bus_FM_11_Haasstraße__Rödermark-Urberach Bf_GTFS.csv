@@ -1,0 +1,29 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Darmstadt Haasstraße;49.885635;8.620524;15:30:00;15:30:00;Kein Umlauf;So;1372;Stop Seq 0
+Haltestelle;Darmstadt Kölner Straße;49.881435;8.617078;15:32:00;15:32:00;Kein Umlauf;So;1372;Stop Seq 1
+Haltestelle;Darmstadt Im Harras;49.878616;8.618645;15:33:00;15:33:00;Kein Umlauf;So;1372;Stop Seq 2
+Haltestelle;Darmstadt Moldenhauerweg;49.87578;8.61946;15:35:00;15:35:00;Kein Umlauf;So;1372;Stop Seq 3
+Haltestelle;Da. Rodensteinw./A.Schalthaus;49.875496;8.624025;15:36:00;15:36:00;Kein Umlauf;So;1372;Stop Seq 4
+Haltestelle;Darmstadt Hauptbahnhof Ost;49.87194;8.631148;15:39:00;15:39:00;Kein Umlauf;So;1372;Stop Seq 5
+Haltestelle;Darmstadt Berliner Allee;49.87076;8.635733;15:41:00;15:41:00;Kein Umlauf;So;1372;Stop Seq 6
+Haltestelle;Darmstadt Rhein-/Neckarstraße;49.871544;8.6447;15:42:00;15:42:00;Kein Umlauf;So;1372;Stop Seq 7
+Haltestelle;Darmstadt Luisenplatz;49.872883;8.651256;15:44:00;15:45:00;Kein Umlauf;So;1372;Stop Seq 8
+Haltestelle;Darmstadt Schloss;49.872868;8.655235;15:47:00;15:47:00;Kein Umlauf;So;1372;Stop Seq 9
+Haltestelle;Darmstadt Pützerstraße;49.87529;8.662563;15:49:00;15:49:00;Kein Umlauf;So;1372;Stop Seq 10
+Haltestelle;Darmstadt Alice-Hospital;49.87721;8.66337;15:50:00;15:50:00;Kein Umlauf;So;1372;Stop Seq 11
+Haltestelle;Darmstadt Mathildenhöhe;49.878677;8.667047;15:51:00;15:51:00;Kein Umlauf;So;1372;Stop Seq 12
+Haltestelle;Darmstadt Spessartring;49.879395;8.670701;15:52:00;15:52:00;Kein Umlauf;So;1372;Stop Seq 13
+Haltestelle;Darmstadt Regerweg;49.881638;8.677587;15:53:00;15:53:00;Kein Umlauf;So;1372;Stop Seq 14
+Haltestelle;Darmstadt Fasanerie;49.88413;8.685279;15:54:00;15:54:00;Kein Umlauf;So;1372;Stop Seq 15
+Haltestelle;Darmstadt Oberwaldhaus;49.89065;8.696829;15:56:00;15:56:00;Kein Umlauf;So;1372;Stop Seq 16
+Haltestelle;Darmstadt Grube Prinz v. Hessen;49.903564;8.734444;15:59:00;15:59:00;Kein Umlauf;So;1372;Stop Seq 17
+Haltestelle;Darmstadt Einsiedel;49.905582;8.744915;16:00:00;16:00:00;Kein Umlauf;So;1372;Stop Seq 18
+Haltestelle;Messel Grube Messel Besucherz.;49.909973;8.75021;16:01:00;16:01:00;Kein Umlauf;So;1372;Stop Seq 19
+Haltestelle;Messel Gru. Messel Am Wildpark;49.91938;8.746862;16:03:00;16:03:00;Kein Umlauf;So;1372;Stop Seq 20
+Haltestelle;Messel Bahnhof;49.921913;8.745762;16:03:00;16:04:00;Kein Umlauf;So;1372;Stop Seq 21
+Haltestelle;Messel Sudetenstraße;49.931484;8.743539;16:06:00;16:06:00;Kein Umlauf;So;1372;Stop Seq 22
+Haltestelle;Messel Rathaus;49.9368;8.744166;16:08:00;16:08:00;Kein Umlauf;So;1372;Stop Seq 23
+Haltestelle;Messel Am Mörsbach;49.940536;8.744077;16:10:00;16:10:00;Kein Umlauf;So;1372;Stop Seq 24
+Haltestelle;Rödermark Urberach, Bienengarten Mast 02;49.964706;8.78979;16:16:00;16:16:00;Kein Umlauf;So;1372;Stop Seq 25
+Haltestelle;Urberach Darmstädter Straße;49.9666;8.792931;16:17:00;16:17:00;Kein Umlauf;So;1372;Stop Seq 26
+Haltestelle;Rödermark-Urberach Bf;49.975292;8.797746;16:20:00;16:20:00;Kein Umlauf;So;1372;Stop Seq 27

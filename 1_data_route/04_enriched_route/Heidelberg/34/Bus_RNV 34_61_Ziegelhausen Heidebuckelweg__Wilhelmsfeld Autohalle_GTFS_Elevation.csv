@@ -1,0 +1,447 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%)
+Routenpunkt (Way);T;Wilhelmsfelder Straße;49.449816;8.7541496;50.0;;;;;;Original OSM;319.4;15.24
+Haltestelle;W;Ziegelhausen, Heidebuckelweg;49.449816;8.7541496;50.0;25:34:00;25:34:00;Kein Umlauf;Fr,Sa;435.0;Original GTFS (Snap-Distanz 23m) | Auf Route gesnappt (3m);321.67;13.76
+Routenpunkt (Way);T;Wilhelmsfelder Straße;49.4498428;8.75412315;50.0;;;;;;Original OSM;323.29;13.52
+Routenpunkt (Way);T;Heidebuckelweg;49.449955433333336;8.754172733333334;;;;;;;Original OSM;324.5;15.54
+Routenpunkt (Way);T;;49.45001751666667;8.754213733333334;;;;;;;Interpoliert (15m);325.44;18.35
+Routenpunkt (Way);T;Wilhelmsfelder Straße;49.4500796;8.754254733333333;50.0;;;;;;Original OSM;326.2;11.24
+Routenpunkt (Way);T;;49.45019291176471;8.754285292647058;50.0;;;;;;Interpoliert (15m);328.0;11.41
+Routenpunkt (Way);T;;49.45030622352941;8.754315851960785;50.0;;;;;;Interpoliert (15m);329.3;10.3
+Routenpunkt (Way);T;;49.45041953529412;8.754346411274511;50.0;;;;;;Interpoliert (15m);330.6;12.79
+Routenpunkt (Way);T;Wilhelmsfelder Straße;49.45053284705882;8.754376970588236;50.0;;;;;;Original OSM;331.5;14.48
+Routenpunkt (Way);T;;49.45062069803922;8.754260791503269;50.0;;;;;;Interpoliert (15m);334.4;16.95
+Routenpunkt (Way);T;;49.45070854901961;8.754144612418301;50.0;;;;;;Interpoliert (15m);337.3;20.62
+Routenpunkt (Way);T;Unbekannt;49.4507964;8.754028433333334;50.0;;;;;;Interpoliert;340.2;21.7
+Routenpunkt (Way);T;Unbekannt;49.4508268;8.753895866666666;50.0;;;;;;Interpoliert;343.1;19.68
+Routenpunkt (Way);T;;49.450855725;8.753769758333334;50.0;;;;;;Interpoliert (15m);344.3;17.18
+Routenpunkt (Way);T;Unbekannt;49.45088465;8.75364365;50.0;;;;;;Original OSM;345.5;15.53
+Routenpunkt (Way);T;;49.450927025;8.753491675;50.0;;;;;;Interpoliert (15m);346.7;12.5
+Routenpunkt (Way);T;Unbekannt;49.4509694;8.7533397;50.0;;;;;;Original OSM;348.4;12.74
+Routenpunkt (Way);T;Unbekannt;49.4510311;8.7531926;50.0;;;;;;Original OSM;350.1;6.11
+Routenpunkt (Way);T;Unbekannt;49.4511022;8.7530586;50.0;;;;;;Original OSM;351.8;-0.04
+Routenpunkt (Way);T;;49.451154925;8.752979275;50.0;;;;;;Interpoliert (15m);350.1;-2.89
+Routenpunkt (Way);T;Unbekannt;49.45120765;8.75289995;50.0;;;;;;Original OSM;348.4;-5.57
+Routenpunkt (Way);T;;49.451270925;8.752825125000001;50.0;;;;;;Interpoliert (15m);348.4;-5.96
+Routenpunkt (Way);T;Unbekannt;49.4513342;8.7527503;50.0;;;;;;Original OSM;348.4;0.52
+Routenpunkt (Way);T;Unbekannt;49.45144755;8.75264915;50.0;;;;;;Interpoliert;350.1;7.13
+Routenpunkt (Way);T;Unbekannt;49.4515609;8.752548;50.0;;;;;;Original OSM;351.8;9.59
+Routenpunkt (Way);T;Unbekannt;49.4516689625;8.7524539625;50.0;;;;;;Interpoliert;353.5;12.06
+Routenpunkt (Way);T;Unbekannt;49.451777025;8.752359925;50.0;;;;;;Interpoliert;355.2;12.18
+Routenpunkt (Way);T;Unbekannt;49.4518850875;8.7522658875;50.0;;;;;;Interpoliert;356.9;12.31
+Routenpunkt (Way);T;Unbekannt;49.45199315;8.75217185;50.0;;;;;;Interpoliert;358.6;14.78
+Routenpunkt (Way);T;Unbekannt;49.4521012125;8.752077812500001;50.0;;;;;;Interpoliert;360.3;14.78
+Routenpunkt (Way);T;Unbekannt;49.452209275;8.751983775000001;50.0;;;;;;Interpoliert;363.7;14.78
+Routenpunkt (Way);T;Unbekannt;49.452317337500006;8.7518897375;50.0;;;;;;Interpoliert;365.4;15.65
+Routenpunkt (Way);T;Unbekannt;49.4524254;8.7517957;50.0;;;;;;Original OSM;367.1;16.53
+Routenpunkt (Way);T;Unbekannt;49.452499;8.7517118;50.0;;;;;;Interpoliert;368.8;14.66
+Routenpunkt (Way);T;Unbekannt;49.4525726;8.7516279;50.0;;;;;;Original OSM;370.5;14.5
+Routenpunkt (Way);T;Unbekannt;49.4526423;8.7515176;50.0;;;;;;Original OSM;372.2;16.18
+Routenpunkt (Way);T;Unbekannt;49.4527226;8.75135505;50.0;;;;;;Original OSM;373.9;16.98
+Routenpunkt (Way);T;;49.452761625;8.7512586;50.0;;;;;;Interpoliert (15m);375.6;16.46
+Routenpunkt (Way);T;Unbekannt;49.45280065;8.75116215;50.0;;;;;;Interpoliert;377.3;13.4
+Routenpunkt (Way);T;;49.45290466888889;8.75111502;50.0;;;;;;Interpoliert (15m);379.0;11.43
+Routenpunkt (Way);T;;49.453008687777775;8.75106789;50.0;;;;;;Interpoliert (15m);379.0;7.59
+Routenpunkt (Way);T;Unbekannt;49.453112706666666;8.75102076;50.0;;;;;;Original OSM;379.2;3.75
+Routenpunkt (Way);T;;49.45312537111111;8.751206206666666;50.0;;;;;;Interpoliert (15m);379.4;1.22
+Routenpunkt (Way);T;;49.453138035555554;8.751391653333334;50.0;;;;;;Interpoliert (15m);379.6;1.51
+Routenpunkt (Way);T;Unbekannt;49.4531507;8.7515771;50.0;;;;;;Original OSM;379.8;1.46
+Routenpunkt (Way);T;Unbekannt;49.45306433333334;8.751718200000001;50.0;;;;;;Interpoliert;380.0;4.31
+Routenpunkt (Way);T;Unbekannt;49.452977966666666;8.7518593;50.0;;;;;;Interpoliert;380.2;7.33
+Routenpunkt (Way);T;Unbekannt;49.4528916;8.7520004;50.0;;;;;;Original OSM;382.4;6.28
+Routenpunkt (Way);T;Unbekannt;49.45281345;8.752138500000001;50.0;;;;;;Interpoliert;384.6;5.24
+Routenpunkt (Way);T;Unbekannt;49.4527353;8.7522766;50.0;;;;;;Interpoliert;384.1;3.9
+Routenpunkt (Way);T;Unbekannt;49.45265715;8.7524147;50.0;;;;;;Interpoliert;383.6;-0.3
+Routenpunkt (Way);T;Unbekannt;49.452579;8.7525528;50.0;;;;;;Interpoliert;382.9;-1.06
+Routenpunkt (Way);T;Unbekannt;49.45250085;8.752690900000001;50.0;;;;;;Interpoliert;382.2;2.27
+Routenpunkt (Way);T;Unbekannt;49.4524227;8.752829;50.0;;;;;;Original OSM;383.9;5.6
+Routenpunkt (Way);T;Unbekannt;49.45234305;8.752964783333333;50.0;;;;;;Interpoliert;385.6;9.23
+Routenpunkt (Way);T;Unbekannt;49.4522634;8.753100566666667;50.0;;;;;;Interpoliert;387.3;9.83
+Routenpunkt (Way);T;Unbekannt;49.45218375;8.75323635;50.0;;;;;;Interpoliert;389.0;6.81
+Routenpunkt (Way);T;Unbekannt;49.4521041;8.753372133333333;50.0;;;;;;Interpoliert;388.7;13.04
+Routenpunkt (Way);T;Unbekannt;49.45202445;8.753507916666667;50.0;;;;;;Interpoliert;388.4;19.27
+Routenpunkt (Way);T;;49.45197105;8.753619158333333;50.0;;;;;;Interpoliert (15m);392.8;24.34
+Routenpunkt (Way);T;Unbekannt;49.451917650000006;8.7537304;50.0;;;;;;Original OSM;397.2;32.43
+Routenpunkt (Way);T;;49.451885725;8.753882050000001;50.0;;;;;;Interpoliert (15m);401.6;36.43
+Routenpunkt (Way);T;Unbekannt;49.4518538;8.7540337;50.0;;;;;;Original OSM;406.0;31.7
+Routenpunkt (Way);T;Unbekannt;49.451842;8.7541885;50.0;;;;;;Original OSM;408.0;26.96
+Routenpunkt (Way);T;;49.45184057499999;8.754324525;50.0;;;;;;Interpoliert (15m);410.0;22.57
+Routenpunkt (Way);T;Unbekannt;49.45183914999999;8.75446055;50.0;;;;;;Original OSM;412.0;18.18
+Routenpunkt (Way);T;;49.4518463;8.75463065;50.0;;;;;;Interpoliert (15m);414.0;18.59
+Routenpunkt (Way);T;Unbekannt;49.45185345;8.754800750000001;50.0;;;;;;Original OSM;416.0;14.53
+Routenpunkt (Way);T;;49.451873075;8.754936975;50.0;;;;;;Interpoliert (15m);418.0;10.46
+Routenpunkt (Way);T;Unbekannt;49.4518927;8.7550732;50.0;;;;;;Original OSM;418.0;5.37
+Routenpunkt (Way);T;;49.4519162;8.7551719;50.0;;;;;;Interpoliert (15m);418.0;0.74
+Routenpunkt (Way);T;Unbekannt;49.4519397;8.7552706;50.0;;;;;;Original OSM;417.3;-4.29
+Routenpunkt (Way);T;Unbekannt;49.451981;8.755395;50.0;;;;;;Original OSM;416.6;-5.35
+Routenpunkt (Way);T;Unbekannt;49.4520371;8.7555557;50.0;;;;;;Interpoliert;415.9;-6.37
+Routenpunkt (Way);T;Unbekannt;49.4520932;8.7557164;50.0;;;;;;Original OSM;415.2;-6.57
+Routenpunkt (Way);T;Unbekannt;49.4521583;8.75587805;50.0;;;;;;Interpoliert;414.5;-1.73
+Routenpunkt (Way);T;Unbekannt;49.4522234;8.7560397;50.0;;;;;;Original OSM;413.1;2.79
+Routenpunkt (Way);T;Unbekannt;49.45229064;8.75620192;50.0;;;;;;Interpoliert;415.5;7.3
+Routenpunkt (Way);T;Unbekannt;49.45235788;8.75636414;50.0;;;;;;Interpoliert;417.9;11.77
+Routenpunkt (Way);T;Unbekannt;49.45242512;8.75652636;50.0;;;;;;Interpoliert;420.3;18.26
+Routenpunkt (Way);T;Unbekannt;49.45249236;8.75668858;50.0;;;;;;Interpoliert;422.7;17.83
+Routenpunkt (Way);T;Unbekannt;49.4525596;8.7568508;50.0;;;;;;Interpoliert;425.8;17.4
+Routenpunkt (Way);T;Unbekannt;49.45262684;8.75701302;50.0;;;;;;Interpoliert;427.9;16.97
+Routenpunkt (Way);T;Unbekannt;49.45269408;8.75717524;50.0;;;;;;Interpoliert;430.0;16.54
+Routenpunkt (Way);T;Unbekannt;49.45276132;8.75733746;50.0;;;;;;Interpoliert;432.1;16.11
+Routenpunkt (Way);T;Unbekannt;49.45282856;8.75749968;50.0;;;;;;Interpoliert;434.2;9.73
+Routenpunkt (Way);T;Unbekannt;49.4528958;8.7576619;50.0;;;;;;Original OSM;437.0;3.35
+Routenpunkt (Way);T;Unbekannt;49.4529364;8.757787366666667;50.0;;;;;;Interpoliert;435.3;-3.02
+Routenpunkt (Way);T;Unbekannt;49.452977;8.757912833333334;50.0;;;;;;Interpoliert;433.6;-8.62
+Routenpunkt (Way);T;Unbekannt;49.4530176;8.7580383;50.0;;;;;;Original OSM;431.9;-15.23
+Routenpunkt (Way);T;Unbekannt;49.4530648;8.75820545;50.0;;;;;;Interpoliert;430.2;-12.95
+Routenpunkt (Way);T;Unbekannt;49.453112;8.7583726;50.0;;;;;;Original OSM;428.5;-5.7
+Routenpunkt (Way);T;Unbekannt;49.453156025;8.758567225;50.0;;;;;;Interpoliert;427.7;1.55
+Routenpunkt (Way);T;Unbekannt;49.45320005;8.758761849999999;50.0;;;;;;Interpoliert;430.6;8.03
+Routenpunkt (Way);T;Unbekannt;49.453244075;8.758956475;50.0;;;;;;Interpoliert;433.5;15.38
+Routenpunkt (Way);T;Unbekannt;49.4532881;8.7591511;50.0;;;;;;Original OSM;436.4;21.22
+Routenpunkt (Way);T;Unbekannt;49.45332744;8.759308;50.0;;;;;;Interpoliert;439.3;22.1
+Routenpunkt (Way);T;Unbekannt;49.45336678;8.759464900000001;50.0;;;;;;Interpoliert;442.2;22.98
+Routenpunkt (Way);T;Unbekannt;49.45340612;8.7596218;50.0;;;;;;Interpoliert;445.1;24.79
+Routenpunkt (Way);T;Unbekannt;49.45344546;8.7597787;50.0;;;;;;Interpoliert;448.0;25.72
+Routenpunkt (Way);T;;49.45345996666666;8.75991756;50.0;;;;;;Interpoliert (15m);450.9;26.86
+Routenpunkt (Way);T;;49.45347447333334;8.76005642;50.0;;;;;;Interpoliert (15m);453.8;20.72
+Routenpunkt (Way);T;Unbekannt;49.45348898;8.76019528;50.0;;;;;;Original OSM;456.8;10.32
+Routenpunkt (Way);T;;49.45347539777778;8.760336142222222;50.0;;;;;;Interpoliert (15m);456.1;-1.02
+Routenpunkt (Way);T;;49.45346181555556;8.760477004444445;50.0;;;;;;Interpoliert (15m);453.2;-11.45
+Routenpunkt (Way);T;Unbekannt;49.45344823333333;8.760617866666667;50.0;;;;;;Interpoliert;450.3;-20.47
+Routenpunkt (Way);T;Unbekannt;49.453422966666665;8.760783333333332;50.0;;;;;;Interpoliert;447.4;-22.24
+Routenpunkt (Way);T;;49.45336167111111;8.760953798888888;50.0;;;;;;Interpoliert (15m);445.2;-18.59
+Routenpunkt (Way);T;;49.45330037555556;8.761124264444444;50.0;;;;;;Interpoliert (15m);443.0;-14.94
+Routenpunkt (Way);T;Unbekannt;49.45323908;8.76129473;50.0;;;;;;Original OSM;441.6;-12.21
+Routenpunkt (Way);T;;49.45312395333333;8.761376453333334;50.0;;;;;;Interpoliert (15m);440.2;-11.07
+Routenpunkt (Way);T;;49.45300882666667;8.761458176666666;50.0;;;;;;Interpoliert (15m);438.8;-10.73
+Routenpunkt (Way);T;Unbekannt;49.4528937;8.7615399;50.0;;;;;;Interpoliert;437.4;-7.15
+Routenpunkt (Way);T;;49.45292235;8.7616721;50.0;;;;;;Interpoliert (15m);436.0;0.79
+Routenpunkt (Way);T;;49.452951;8.7618043;50.0;;;;;;Interpoliert (15m);436.8;6.06
+Routenpunkt (Way);T;Unbekannt;49.45297965;8.7619365;50.0;;;;;;Original OSM;439.8;11.33
+Routenpunkt (Way);T;;49.453092644;8.761871713333333;50.0;;;;;;Interpoliert (15m);442.0;17.39
+Routenpunkt (Way);T;;49.453205638;8.761806926666665;50.0;;;;;;Interpoliert (15m);444.2;17.89
+Routenpunkt (Way);T;;49.453318632000006;8.761742139999999;50.0;;;;;;Interpoliert (15m);446.4;14.02
+Routenpunkt (Way);T;;49.453431626;8.761677353333331;50.0;;;;;;Interpoliert (15m);447.8;13.01
+Routenpunkt (Way);T;Unbekannt;49.45354462;8.761612566666665;50.0;;;;;;Original OSM;449.2;12.0
+Routenpunkt (Way);T;;49.453616136;8.761482263333331;50.0;;;;;;Interpoliert (15m);450.6;10.99
+Routenpunkt (Way);T;;49.453687652;8.761351959999999;50.0;;;;;;Interpoliert (15m);452.0;11.17
+Routenpunkt (Way);T;;49.453759168000005;8.761221656666665;50.0;;;;;;Interpoliert (15m);453.4;7.79
+Routenpunkt (Way);T;;49.453830684;8.761091353333333;50.0;;;;;;Interpoliert (15m);454.8;5.52
+Routenpunkt (Way);T;Unbekannt;49.4539022;8.760961049999999;;;;;;;Interpoliert;454.0;3.24
+Routenpunkt (Way);T;Unbekannt;49.453945;8.7608318;;;;;;;Original OSM;454.0;2.3
+Routenpunkt (Way);T;Unbekannt;49.4540087;8.7606492;;;;;;;Original OSM;454.0;1.36
+Routenpunkt (Way);T;;49.45403527222222;8.760509127777777;;;;;;;Interpoliert (15m);454.7;3.98
+Routenpunkt (Way);T;;49.45406184444444;8.760369055555556;;;;;;;Interpoliert (15m);455.4;4.93
+Routenpunkt (Way);T;Unbekannt;49.45408841666666;8.760228983333333;;;;;;;Original OSM;456.1;5.88
+Routenpunkt (Way);T;;49.45407385833333;8.760025641666665;;;;;;;Interpoliert (15m);456.8;7.09
+Routenpunkt (Way);T;Unbekannt;49.4540593;8.7598223;;;;;;;Interpoliert;457.5;8.02
+Routenpunkt (Way);T;Unbekannt;49.4540329;8.7596869;;;;;;;Interpoliert;458.8;8.94
+Routenpunkt (Way);T;;49.45400996428571;8.759530964285714;;;;;;;Interpoliert (15m);460.1;10.24
+Routenpunkt (Way);T;;49.45398702857143;8.759375028571428;;;;;;;Interpoliert (15m);461.4;11.67
+Routenpunkt (Way);T;Unbekannt;49.453964092857134;8.759219092857142;;;;;;;Original OSM;462.7;10.4
+Routenpunkt (Way);T;;49.45394873968253;8.759046195238096;;;;;;;Interpoliert (15m);464.2;9.41
+Routenpunkt (Way);T;;49.453933386507934;8.758873297619047;;;;;;;Interpoliert (15m);465.0;8.3
+Routenpunkt (Way);T;Unbekannt;49.45391803333333;8.7587004;;;;;;;Interpoliert;465.8;7.19
+Routenpunkt (Way);T;Unbekannt;49.45390546666667;8.7585064;;;;;;;Interpoliert;466.6;6.18
+Routenpunkt (Way);T;Unbekannt;49.4538929;8.7583124;;;;;;;Original OSM;467.4;5.46
+Routenpunkt (Way);T;Unbekannt;49.4538802;8.7581121;;;;;;;Interpoliert;468.4;4.75
+Routenpunkt (Way);T;Unbekannt;49.4538675;8.757911799999999;;;;;;;Interpoliert;468.8;4.34
+Routenpunkt (Way);T;Unbekannt;49.4538548;8.7577115;;;;;;;Original OSM;469.2;3.85
+Routenpunkt (Way);T;Unbekannt;49.4538391;8.7575614;;;;;;;Original OSM;469.6;2.9
+Routenpunkt (Way);T;Unbekannt;49.4538147;8.757395;;;;;;;Original OSM;470.0;2.83
+Routenpunkt (Way);T;Unbekannt;49.4537807;8.7572059;;;;;;;Original OSM;470.3;2.76
+Routenpunkt (Way);T;Unbekannt;49.45374472;8.75704116;;;;;;;Interpoliert;470.6;2.5
+Routenpunkt (Way);T;Unbekannt;49.45370874;8.75687642;;;;;;;Interpoliert;470.9;2.33
+Routenpunkt (Way);T;Unbekannt;49.45367276;8.75671168;;;;;;;Interpoliert;471.2;2.07
+Routenpunkt (Way);T;Unbekannt;49.45363678;8.75654694;;;;;;;Interpoliert;471.5;1.78
+Routenpunkt (Way);T;Unbekannt;49.4536008;8.7563822;;;;;;;Original OSM;471.6;1.48
+Routenpunkt (Way);T;Unbekannt;49.45357096666667;8.756238333333332;;;;;;;Interpoliert;471.7;1.19
+Routenpunkt (Way);T;Unbekannt;49.45354113333333;8.756094466666667;;;;;;;Interpoliert;471.8;0.88
+Routenpunkt (Way);T;Unbekannt;49.4535113;8.7559506;;;;;;;Original OSM;471.9;0.01
+Routenpunkt (Way);T;Unbekannt;49.453486;8.755793050000001;;;;;;;Interpoliert;472.0;-0.88
+Routenpunkt (Way);T;;49.45350098666667;8.75559952;;;;;;;Interpoliert (15m);471.5;-1.78
+Routenpunkt (Way);T;;49.45351597333333;8.755405990000002;;;;;;;Interpoliert (15m);471.0;-2.64
+Routenpunkt (Way);T;Unbekannt;49.45353096;8.755212460000001;;;;;;;Original OSM;470.5;-3.48
+Routenpunkt (Way);T;;49.453617873333336;8.75505774;;;;;;;Interpoliert (15m);470.0;-3.04
+Routenpunkt (Way);T;;49.45370478666666;8.75490302;;;;;;;Interpoliert (15m);469.5;-2.69
+Routenpunkt (Way);T;Unbekannt;49.4537917;8.7547483;;;;;;;Original OSM;469.3;-2.34
+Routenpunkt (Way);T;Unbekannt;49.45388405;8.754688550000001;;;;;;;Interpoliert;469.1;-1.99
+Routenpunkt (Way);T;Unbekannt;49.4539764;8.7546288;;;;;;;Original OSM;468.9;-1.64
+Routenpunkt (Way);T;Unbekannt;49.45408085;8.7545733;;;;;;;Interpoliert;468.7;-0.82
+Routenpunkt (Way);T;Unbekannt;49.4541853;8.7545178;;;;;;;Original OSM;468.5;0.12
+Routenpunkt (Way);T;Unbekannt;49.4542788;8.75447535;;;;;;;Interpoliert;468.8;1.06
+Routenpunkt (Way);T;;49.45436934999999;8.7544425;;;;;;;Interpoliert (15m);469.1;3.2
+Routenpunkt (Way);T;Unbekannt;49.4544599;8.75440965;;;;;;;Original OSM;469.4;5.34
+Routenpunkt (Way);T;;49.45456810625;8.754389562499998;;;;;;;Interpoliert (15m);470.5;5.9
+Routenpunkt (Way);T;Unbekannt;49.4546763125;8.754369474999999;;;;;;;Interpoliert;471.6;6.44
+Routenpunkt (Way);T;Unbekannt;49.454805125;8.75435255;;;;;;;Interpoliert;472.4;6.97
+Routenpunkt (Way);T;Unbekannt;49.4549339375;8.754335625;;;;;;;Interpoliert;473.2;6.27
+Routenpunkt (Way);T;Unbekannt;49.45506275;8.754318699999999;;;;;;;Interpoliert;474.0;5.57
+Routenpunkt (Way);T;Unbekannt;49.4551915625;8.754301775;;;;;;;Interpoliert;474.8;6.26
+Routenpunkt (Way);T;Unbekannt;49.455320375;8.75428485;;;;;;;Interpoliert;475.6;6.96
+Routenpunkt (Way);T;Unbekannt;49.4554491875;8.754267925;;;;;;;Interpoliert;476.9;7.78
+Routenpunkt (Way);T;Unbekannt;49.455578;8.754251;;;;;;;Original OSM;478.2;7.41
+Routenpunkt (Way);T;Unbekannt;49.4556987;8.7542436;;;;;;;Interpoliert;479.5;7.04
+Routenpunkt (Way);T;Unbekannt;49.4558194;8.7542362;;;;;;;Interpoliert;480.0;5.98
+Routenpunkt (Way);T;Unbekannt;49.45594010000001;8.7542288;;;;;;;Interpoliert;480.5;6.4
+Routenpunkt (Way);T;Unbekannt;49.4560608;8.7542214;;;;;;;Interpoliert;481.0;6.4
+Routenpunkt (Way);T;Unbekannt;49.4561815;8.754214;;;;;;;Interpoliert;482.5;7.46
+Routenpunkt (Way);T;Unbekannt;49.4563022;8.7542066;;;;;;;Original OSM;483.8;8.52
+Routenpunkt (Way);T;Unbekannt;49.45643176666667;8.754198066666667;;;;;;;Interpoliert;485.1;8.88
+Routenpunkt (Way);T;Unbekannt;49.45656133333333;8.754189533333333;;;;;;;Interpoliert;486.4;8.07
+Routenpunkt (Way);T;Unbekannt;49.4566909;8.754181;;;;;;;Original OSM;487.2;7.56
+Routenpunkt (Way);T;;49.4567904;8.754153725;;;;;;;Interpoliert (15m);488.0;7.45
+Routenpunkt (Way);T;Unbekannt;49.45688989999999;8.75412645;;;;;;;Original OSM;488.8;7.34
+Routenpunkt (Way);T;;49.456970575;8.754084675;;;;;;;Interpoliert (15m);489.6;7.67
+Routenpunkt (Way);T;Unbekannt;49.45705125;8.7540429;;;;;;;Interpoliert;490.4;9.45
+Routenpunkt (Way);T;Unbekannt;49.4571436;8.7539856;;;;;;;Original OSM;491.2;11.6
+Routenpunkt (Way);T;Unbekannt;49.45722883333333;8.753919166666666;;;;;;;Interpoliert;492.9;13.49
+Routenpunkt (Way);T;Unbekannt;49.45731406666667;8.753852733333334;;;;;;;Interpoliert;494.8;15.29
+Routenpunkt (Way);T;Unbekannt;49.4573993;8.7537863;;;;;;;Original OSM;496.7;16.6
+Routenpunkt (Way);T;Unbekannt;49.45748183333333;8.753705266666666;;;;;;;Interpoliert;498.6;16.15
+Routenpunkt (Way);T;Unbekannt;49.457564366666666;8.753624233333333;;;;;;;Interpoliert;500.1;14.97
+Routenpunkt (Way);T;Unbekannt;49.4576469;8.7535432;;;;;;;Original OSM;501.6;14.17
+Routenpunkt (Way);T;Unbekannt;49.4577359;8.753436449999999;;;;;;;Interpoliert;503.1;13.45
+Routenpunkt (Way);T;;49.457811375000006;8.753342175;;;;;;;Interpoliert (15m);504.6;13.31
+Routenpunkt (Way);T;Unbekannt;49.45788685;8.7532479;;;;;;;Original OSM;506.1;9.86
+Routenpunkt (Way);T;;49.457962975;8.753141;;;;;;;Interpoliert (15m);507.6;7.0
+Routenpunkt (Way);T;Unbekannt;49.4580391;8.7530341;;;;;;;Original OSM;507.2;3.66
+Routenpunkt (Way);T;Unbekannt;49.45811805;8.752907100000002;;;;;;;Interpoliert;506.9;0.32
+Routenpunkt (Way);T;;49.45817913;8.752793646666667;;;;;;;Interpoliert (15m);506.6;-2.11
+Routenpunkt (Way);T;;49.45824021;8.752680193333333;;;;;;;Interpoliert (15m);506.3;-1.22
+Routenpunkt (Way);T;Unbekannt;49.45830129;8.752566739999999;;;;;;;Original OSM;506.4;-0.55
+Routenpunkt (Way);T;;49.45835216;8.752446593333334;;;;;;;Interpoliert (15m);506.5;-0.57
+Routenpunkt (Way);T;;49.45840303;8.752326446666666;;;;;;;Interpoliert (15m);506.6;-0.5
+Routenpunkt (Way);T;Unbekannt;49.4584539;8.752206300000001;;;;;;;Interpoliert;506.3;-1.17
+Routenpunkt (Way);T;Unbekannt;49.4585085;8.7520609;;;;;;;Original OSM;506.0;-1.85
+Routenpunkt (Way);T;Unbekannt;49.458564;8.7519131;50.0;;;;;;Interpoliert;505.7;-2.68
+Routenpunkt (Way);T;Unbekannt;49.4586195;8.7517653;50.0;;;;;;Interpoliert;505.4;-2.74
+Routenpunkt (Way);T;;49.45869455333333;8.751636156666667;50.0;;;;;;Interpoliert (15m);505.0;-3.53
+Routenpunkt (Way);T;;49.45876960666666;8.751507013333335;50.0;;;;;;Interpoliert (15m);504.6;-4.69
+Routenpunkt (Way);T;Unbekannt;49.45884466;8.75137787;50.0;;;;;;Original OSM;503.8;-5.86
+Routenpunkt (Way);T;;49.45892393;8.751322385;50.0;;;;;;Interpoliert (15m);503.0;-6.63
+Haltestelle;W;Ziegelhausen, Langer Kirschb.;49.4590032;8.7512669;50.0;25:38:00;25:38:00;Kein Umlauf;Fr,Sa;435.0;Original GTFS (Snap-Distanz 22m) | Auf Route gesnappt (2m);502.2;-6.44
+Routenpunkt (Way);T;Unbekannt;49.45910336666666;8.751298666666665;50.0;;;;;;Original OSM;501.4;-5.62
+Routenpunkt (Way);T;;49.45917198333333;8.751359583333333;50.0;;;;;;Interpoliert (15m);501.2;-4.3
+Routenpunkt (Way);T;Unbekannt;49.4592406;8.7514205;50.0;;;;;;Original OSM;501.0;-2.99
+Routenpunkt (Way);T;Unbekannt;49.45932056666667;8.751529833333333;50.0;;;;;;Interpoliert;500.8;-1.92
+Routenpunkt (Way);T;Unbekannt;49.45940053333333;8.751639166666667;50.0;;;;;;Interpoliert;500.6;-1.81
+Routenpunkt (Way);T;Unbekannt;49.4594805;8.7517485;50.0;;;;;;Original OSM;500.4;-1.01
+Routenpunkt (Way);T;;49.45956285;8.751844233333333;50.0;;;;;;Interpoliert (15m);500.2;-1.61
+Routenpunkt (Way);T;Unbekannt;49.4596452;8.751939966666667;50.0;;;;;;Original OSM;500.4;-2.22
+Routenpunkt (Way);T;;49.4597303;8.752006633333334;50.0;;;;;;Interpoliert (15m);499.9;-2.85
+Routenpunkt (Way);T;Unbekannt;49.4598154;8.7520733;50.0;;;;;;Original OSM;499.4;-3.85
+Routenpunkt (Way);T;Unbekannt;49.4599024;8.75212425;50.0;;;;;;Interpoliert;498.9;-5.36
+Routenpunkt (Way);T;Unbekannt;49.4599894;8.7521752;50.0;;;;;;Original OSM;498.2;-5.48
+Routenpunkt (Way);T;Unbekannt;49.46009375;8.75222415;50.0;;;;;;Interpoliert;497.5;-5.61
+Routenpunkt (Way);T;;49.46020995185185;8.752252198148147;50.0;;;;;;Interpoliert (15m);496.8;-6.48
+Routenpunkt (Way);T;;49.4603261537037;8.752280246296296;50.0;;;;;;Interpoliert (15m);496.1;-7.22
+Routenpunkt (Way);T;Unbekannt;49.46044235555556;8.752308294444443;;;;;;;Original OSM;494.9;-8.16
+Routenpunkt (Way);T;;49.460545241666665;8.752296412499998;;;;;;;Interpoliert (15m);493.7;-7.96
+Routenpunkt (Way);T;;49.46064812777777;8.752284530555555;;;;;;;Interpoliert (15m);492.5;-7.76
+Routenpunkt (Way);T;;49.46075101388889;8.752272648611111;;;;;;;Interpoliert (15m);492.0;-6.77
+Routenpunkt (Way);T;Unbekannt;49.4608539;8.752260766666666;;;;;;;Interpoliert;491.5;-5.52
+Routenpunkt (Way);T;Unbekannt;49.4609584;8.752227533333333;;;;;;;Interpoliert;491.0;-4.0
+Routenpunkt (Way);T;Unbekannt;49.4610629;8.7521943;;;;;;;Original OSM;490.5;-3.7
+Routenpunkt (Way);T;Unbekannt;49.461187175;8.752165975;;;;;;;Interpoliert;490.1;-3.4
+Routenpunkt (Way);T;Unbekannt;49.46131145;8.75213765;;;;;;;Interpoliert;489.7;-2.42
+Routenpunkt (Way);T;Unbekannt;49.461435725;8.752109325;;;;;;;Interpoliert;489.3;-1.43
+Routenpunkt (Way);T;Unbekannt;49.46156;8.752081;;;;;;;Original OSM;489.4;-0.71
+Routenpunkt (Way);T;Unbekannt;49.46168474;8.75206436;;;;;;;Interpoliert;489.5;0.0
+Routenpunkt (Way);T;Unbekannt;49.46180948;8.75204772;;;;;;;Interpoliert;489.6;0.86
+Routenpunkt (Way);T;Unbekannt;49.46193422;8.75203108;;;;;;;Interpoliert;489.7;1.08
+Routenpunkt (Way);T;Unbekannt;49.46205896;8.75201444;;;;;;;Interpoliert;489.9;1.31
+Routenpunkt (Way);T;;49.46215653;8.751998545;;;;;;;Interpoliert (15m);490.1;1.3
+Routenpunkt (Way);T;Unbekannt;49.4622541;8.75198265;;;;;;;Original OSM;490.3;1.29
+Routenpunkt (Way);T;;49.46238472499999;8.751934850000001;;;;;;;Interpoliert (15m);490.4;-2.19
+Routenpunkt (Way);T;Unbekannt;49.46251535;8.75188705;;;;;;;Original OSM;490.5;-5.75
+Routenpunkt (Way);T;;49.462595125;8.751844141666666;;;;;;;Interpoliert (15m);489.0;-8.87
+Routenpunkt (Way);T;Unbekannt;49.4626749;8.751801233333333;;;;;;;Interpoliert;487.5;-11.38
+Routenpunkt (Way);T;Unbekannt;49.4627673;8.751750266666667;;;;;;;Interpoliert;486.0;-13.34
+Routenpunkt (Way);T;Unbekannt;49.4628597;8.7516993;;;;;;;Original OSM;484.7;-12.1
+Routenpunkt (Way);T;Unbekannt;49.4629819;8.751638275000001;;;;;;;Interpoliert;483.4;-10.87
+Routenpunkt (Way);T;Unbekannt;49.4631041;8.75157725;;;;;;;Interpoliert;482.0;-10.08
+Routenpunkt (Way);T;Unbekannt;49.4632263;8.751516225;;;;;;;Interpoliert;480.6;-10.18
+Routenpunkt (Way);T;Unbekannt;49.4633485;8.7514552;;;;;;;Original OSM;479.2;-10.85
+Routenpunkt (Way);T;Unbekannt;49.4634453;8.751409066666668;;;;;;;Interpoliert;477.8;-8.53
+Routenpunkt (Way);T;Unbekannt;49.4635421;8.751362933333333;;;;;;;Interpoliert;476.4;-6.09
+Routenpunkt (Way);T;Unbekannt;49.4636389;8.7513168;;;;;;;Original OSM;476.6;-3.65
+Routenpunkt (Way);T;Unbekannt;49.4637425;8.751254;;;;;;;Interpoliert;476.9;-2.48
+Routenpunkt (Way);T;Unbekannt;49.4638461;8.7511912;;;;;;;Original OSM;477.2;-1.32
+Routenpunkt (Way);T;Unbekannt;49.46395795;8.751114925;;;;;;;Interpoliert;476.3;-3.0
+Routenpunkt (Way);T;Unbekannt;49.4640698;8.75103865;;;;;;;Interpoliert;475.4;-4.81
+Routenpunkt (Way);T;Unbekannt;49.46418165;8.750962375;;;;;;;Interpoliert;474.5;-6.88
+Routenpunkt (Way);T;Unbekannt;49.4642935;8.7508861;;;;;;;Original OSM;473.6;-7.15
+Routenpunkt (Way);T;Unbekannt;49.464387325;8.750825425;;;;;;;Interpoliert;472.7;-6.36
+Routenpunkt (Way);T;Unbekannt;49.46448115;8.75076475;;;;;;;Interpoliert;471.8;-5.56
+Routenpunkt (Way);T;Unbekannt;49.464574975;8.750704075;;;;;;;Interpoliert;471.5;-4.78
+Routenpunkt (Way);T;Unbekannt;49.4646688;8.7506434;;;;;;;Original OSM;471.2;-3.73
+Routenpunkt (Way);T;Unbekannt;49.46479457;8.750574349999999;;;;;;;Interpoliert;470.8;-1.33
+Routenpunkt (Way);T;Unbekannt;49.46492034;8.7505053;;;;;;;Interpoliert;470.4;0.01
+Routenpunkt (Way);T;Unbekannt;49.46504611;8.75043625;;;;;;;Interpoliert;471.0;1.35
+Routenpunkt (Way);T;Unbekannt;49.46517188;8.7503672;;;;;;;Interpoliert;471.6;1.21
+Routenpunkt (Way);T;Unbekannt;49.46529765;8.750298149999999;;;;;;;Interpoliert;472.2;1.08
+Routenpunkt (Way);T;Unbekannt;49.46542342;8.7502291;;;;;;;Interpoliert;471.7;-0.4
+Routenpunkt (Way);T;Unbekannt;49.46554919;8.75016005;;;;;;;Interpoliert;471.2;-2.69
+Routenpunkt (Way);T;Unbekannt;49.46567496;8.750091;;;;;;;Interpoliert;470.7;-4.98
+Routenpunkt (Way);T;Unbekannt;49.46580073;8.75002195;;;;;;;Interpoliert;469.6;-5.85
+Routenpunkt (Way);T;Unbekannt;49.4659265;8.7499529;;;;;;;Original OSM;468.5;-6.71
+Routenpunkt (Way);T;Unbekannt;49.46604831666667;8.749889733333333;;;;;;;Interpoliert;467.4;-6.74
+Routenpunkt (Way);T;Unbekannt;49.466170133333335;8.749826566666666;;;;;;;Interpoliert;466.3;-5.96
+Routenpunkt (Way);T;Unbekannt;49.46629195;8.749763399999999;;;;;;;Interpoliert;465.8;-5.18
+Routenpunkt (Way);T;Unbekannt;49.46641376666667;8.749700233333334;;;;;;;Interpoliert;465.3;-2.8
+Routenpunkt (Way);T;Unbekannt;49.46653558333334;8.749637066666667;;;;;;;Interpoliert;464.8;-0.18
+Routenpunkt (Way);T;Unbekannt;49.4666574;8.7495739;;;;;;;Original OSM;465.4;1.59
+Routenpunkt (Way);T;Unbekannt;49.46675183333333;8.749522066666666;;;;;;;Interpoliert;466.0;3.37
+Routenpunkt (Way);T;Unbekannt;49.46684626666667;8.749470233333334;;;;;;;Interpoliert;466.6;2.7
+Routenpunkt (Way);T;Unbekannt;49.4669407;8.7494184;;;;;;;Original OSM;467.2;0.35
+Routenpunkt (Way);T;Unbekannt;49.4670686;8.7493712;;;;;;;Original OSM;466.2;-2.2
+Routenpunkt (Way);T;Unbekannt;49.4671866;8.7493486;;;;;;;Original OSM;465.2;-5.72
+Routenpunkt (Way);T;Unbekannt;49.4673083;8.7493443;;;;;;;Original OSM;464.2;-9.58
+Routenpunkt (Way);T;Unbekannt;49.467426;8.7493564;;;;;;;Original OSM;462.6;-10.99
+Routenpunkt (Way);T;;49.46752415;8.749407375;;;;;;;Interpoliert (15m);461.0;-10.54
+Routenpunkt (Way);T;Unbekannt;49.4676223;8.74945835;;;;;;;Original OSM;459.4;-10.14
+Routenpunkt (Way);T;;49.46773635;8.749567975;;;;;;;Interpoliert (15m);458.6;-9.07
+Routenpunkt (Way);T;Unbekannt;49.4678504;8.7496776;;;;;;;Original OSM;457.8;-7.66
+Routenpunkt (Way);T;;49.4679242;8.74979265;;;;;;;Interpoliert (15m);457.0;-3.62
+Routenpunkt (Way);T;Unbekannt;49.467998;8.7499077;;;;;;;Original OSM;456.2;-0.61
+Routenpunkt (Way);T;Unbekannt;49.4680648;8.7500511;;;;;;;Original OSM;457.0;2.51
+Routenpunkt (Way);T;Unbekannt;49.4681077;8.750193;;;;;;;Original OSM;458.1;5.51
+Routenpunkt (Way);T;Unbekannt;49.4681424;8.7503314;;;;;;;Original OSM;459.2;8.51
+Routenpunkt (Way);T;Unbekannt;49.468176575;8.7505109;;;;;;;Interpoliert;460.3;4.29
+Routenpunkt (Way);T;Unbekannt;49.46821075;8.7506904;;;;;;;Interpoliert;461.4;-1.79
+Routenpunkt (Way);T;Unbekannt;49.46824492499999;8.7508699;;;;;;;Interpoliert;459.4;-11.14
+Routenpunkt (Way);T;Unbekannt;49.4682791;8.7510494;;;;;;;Original OSM;456.6;-19.53
+Routenpunkt (Way);T;;49.46830305;8.751149125;;;;;;;Interpoliert (15m);453.8;-24.67
+Routenpunkt (Way);T;Unbekannt;49.468327;8.75124885;;;;;;;Original OSM;451.2;-25.91
+Routenpunkt (Way);T;Unbekannt;49.4684044;8.751416;;;;;;;Original OSM;448.6;-27.33
+Routenpunkt (Way);T;Unbekannt;49.46848055;8.751540550000001;;;;;;;Interpoliert;446.0;-25.59
+Routenpunkt (Way);T;;49.468542325;8.751649400000002;;;;;;;Interpoliert (15m);443.1;-25.07
+Routenpunkt (Way);T;Unbekannt;49.4686041;8.75175825;;;;;;;Original OSM;440.2;-26.31
+Routenpunkt (Way);T;;49.46864995;8.751865575;;;;;;;Interpoliert (15m);437.3;-20.41
+Routenpunkt (Way);T;Unbekannt;49.4686958;8.7519729;;;;;;;Original OSM;435.1;-13.14
+Routenpunkt (Way);T;Unbekannt;49.4687404;8.7521033;;;;;;;Original OSM;436.0;-5.88
+Routenpunkt (Way);T;Unbekannt;49.4687764;8.752238;;;;;;;Interpoliert;436.9;0.05
+Routenpunkt (Way);T;Unbekannt;49.4688124;8.7523727;;;;;;;Original OSM;437.8;4.47
+Routenpunkt (Way);T;;49.4688724962963;8.752519464814815;;;;;;;Interpoliert (15m);437.6;2.46
+Routenpunkt (Way);T;;49.468932592592594;8.752666229629632;;;;;;;Interpoliert (15m);437.4;0.44
+Routenpunkt (Way);T;Unbekannt;49.468992688888896;8.752812994444447;;;;;;;Original OSM;437.2;-1.59
+Routenpunkt (Way);T;;49.46910338958334;8.752858156250003;;;;;;;Interpoliert (15m);437.0;-1.58
+Routenpunkt (Way);T;;49.46921409027779;8.752903318055557;;;;;;;Interpoliert (15m);436.8;-2.67
+Routenpunkt (Way);T;;49.46932479097223;8.75294847986111;;;;;;;Interpoliert (15m);436.6;-4.04
+Routenpunkt (Way);T;Heidelberger Straße;49.46943549166667;8.752993641666666;50.0;;;;;;Original OSM;435.7;-5.42
+Routenpunkt (Way);T;;49.46951777777778;8.752917994444443;50.0;;;;;;Interpoliert (15m);434.8;-6.04
+Routenpunkt (Way);T;;49.46960006388889;8.752842347222222;50.0;;;;;;Interpoliert (15m);433.9;-5.14
+Routenpunkt (Way);T;Heidelberger Straße;49.46968235;8.752766699999999;50.0;;;;;;Interpoliert;433.4;-2.71
+Routenpunkt (Way);T;;49.46980521666667;8.752764941666666;50.0;;;;;;Interpoliert (15m);433.8;-0.05
+Routenpunkt (Way);T;Schriesheimer Straße;49.469928083333336;8.752763183333334;30.0;;;;;;Interpoliert;434.5;2.61
+Routenpunkt (Way);T;Schriesheimer Straße;49.46999746666667;8.752931866666668;30.0;;;;;;Interpoliert;435.2;4.52
+Routenpunkt (Way);T;Schriesheimer Straße;49.47006685;8.75310055;30.0;;;;;;Interpoliert;435.9;4.91
+Routenpunkt (Way);T;Schriesheimer Straße;49.470136233333335;8.753269233333333;30.0;;;;;;Interpoliert;436.6;5.28
+Routenpunkt (Way);T;Schriesheimer Straße;49.47020561666667;8.753437916666666;30.0;;;;;;Interpoliert;437.3;5.1
+Routenpunkt (Way);T;;49.47025164833333;8.753557398333333;30.0;;;;;;Interpoliert (15m);438.0;4.78
+Routenpunkt (Way);T;Schriesheimer Straße;49.47029768;8.75367688;30.0;;;;;;Original OSM;438.4;3.81
+Routenpunkt (Way);T;;49.470317165;8.75384569;30.0;;;;;;Interpoliert (15m);438.8;2.84
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.47033664999999;8.7540145;30.0;;;;;;Original OSM;438.8;0.89
+Routenpunkt (Way);T;;49.470293866666665;8.7541482;30.0;;;;;;Interpoliert (15m);438.8;-1.03
+Routenpunkt (Way);T;;49.47025108333333;8.7542819;30.0;;;;;;Interpoliert (15m);438.5;-1.67
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4702083;8.7544156;30.0;;;;;;Original OSM;437.9;-2.54
+Haltestelle;W;Wilhelmsfeld, Schriesheim. Hof;49.4702083;8.7544156;30.0;25:41:00;25:41:00;Kein Umlauf;Fr,Sa;435.0;Original GTFS (Snap-Distanz 4m) | Auf Route gesnappt (4m);437.3;-5.02
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4701138;8.7545395;30.0;;;;;;Original OSM;436.7;-6.93
+Routenpunkt (Way);T;;49.470039825;8.7546299125;30.0;;;;;;Interpoliert (15m);435.4;-7.38
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46996585;8.754720325000001;30.0;;;;;;Interpoliert;434.1;-8.93
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4698753;8.75483075;30.0;;;;;;Interpoliert;433.1;-9.62
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46978475;8.754941174999999;30.0;;;;;;Interpoliert;432.1;-8.97
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4696942;8.7550516;30.0;;;;;;Original OSM;431.1;-8.33
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4696177;8.755146700000001;30.0;;;;;;Interpoliert;430.1;-8.8
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4695412;8.7552418;30.0;;;;;;Original OSM;429.1;-8.03
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46946005;8.7553672;30.0;;;;;;Interpoliert;427.8;-7.27
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4693789;8.7554926;30.0;;;;;;Original OSM;427.3;-5.16
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46931135;8.75563065;30.0;;;;;;Interpoliert;426.8;-3.05
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.469236333333335;8.755787366666667;30.0;;;;;;Original OSM;427.0;-0.65
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46917023333334;8.755952733333332;30.0;;;;;;Interpoliert;427.2;-0.97
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46911906666666;8.756080766666667;30.0;;;;;;Interpoliert;427.4;-1.12
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4690679;8.7562088;30.0;;;;;;Original OSM;426.8;-2.36
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46900886666666;8.756356966666667;30.0;;;;;;Interpoliert;426.2;-3.6
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46894983333333;8.756505133333333;30.0;;;;;;Interpoliert;425.6;-3.97
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4688908;8.7566533;30.0;;;;;;Original OSM;425.0;-4.36
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4688428;8.75678755;30.0;;;;;;Interpoliert;425.0;-6.41
+Routenpunkt (Way);T;;49.46879964375;8.75691958125;30.0;;;;;;Interpoliert (15m);424.2;-8.53
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4687564875;8.7570516125;30.0;;;;;;Original OSM;422.6;-10.66
+Routenpunkt (Way);T;;49.46871036875;8.75717648125;30.0;;;;;;Interpoliert (15m);421.0;-11.78
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46866425;8.757301349999999;30.0;;;;;;Interpoliert;419.4;-10.12
+Routenpunkt (Way);T;;49.46859821875;8.757441656249998;30.0;;;;;;Interpoliert (15m);418.7;-6.95
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4685321875;8.7575819625;30.0;;;;;;Original OSM;418.8;-3.7
+Routenpunkt (Way);T;;49.46846459375;8.75770439375;30.0;;;;;;Interpoliert (15m);418.9;-1.58
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.468397;8.757826824999999;30.0;;;;;;Interpoliert;419.0;-1.42
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.468313300000005;8.75798105;30.0;;;;;;Interpoliert;418.3;-1.58
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4682296;8.758135275;30.0;;;;;;Interpoliert;417.6;-1.6
+Haltestelle;W;Wilhelmsfeld, Wilhelmshöhe;49.4682296;8.758135275;30.0;25:42:00;25:42:00;Kein Umlauf;Fr,Sa;435.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (13m);416.9;-1.62
+Routenpunkt (Way);T;;49.46815385;8.7582686875;30.0;;;;;;Interpoliert (15m);417.0;-0.47
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4680781;8.7584021;30.0;;;;;;Interpoliert;417.1;1.2
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4680103;8.7585147;30.0;;;;;;Original OSM;417.2;1.91
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4679127;8.7586382;30.0;;;;;;Original OSM;417.7;0.2
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.467805175;8.7587432;30.0;;;;;;Interpoliert;418.2;-1.51
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46769765;8.7588482;30.0;;;;;;Interpoliert;417.1;-2.11
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.467590125;8.7589532;30.0;;;;;;Interpoliert;416.0;-3.42
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4674826;8.7590582;30.0;;;;;;Original OSM;415.7;-4.72
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46740153333333;8.7591213;30.0;;;;;;Interpoliert;415.4;-3.76
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46732046666666;8.7591844;30.0;;;;;;Interpoliert;415.1;-2.73
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4672394;8.7592475;30.0;;;;;;Original OSM;414.8;-2.84
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46714503333333;8.759308166666667;30.0;;;;;;Interpoliert;414.5;-3.65
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.467050666666665;8.759368833333333;30.0;;;;;;Interpoliert;414.2;-4.28
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4669563;8.7594295;30.0;;;;;;Original OSM;413.4;-5.22
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46686115;8.7595355;30.0;;;;;;Interpoliert;412.6;-6.31
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.466766;8.7596415;30.0;;;;;;Original OSM;411.6;-7.27
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4666762;8.7597415;30.0;;;;;;Original OSM;410.6;-7.35
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46658323333333;8.759861;30.0;;;;;;Interpoliert;409.6;-7.61
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46649026666667;8.7599805;30.0;;;;;;Interpoliert;408.6;-7.54
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4663973;8.7601;30.0;;;;;;Original OSM;407.6;-5.19
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4662902;8.760192759999999;30.0;;;;;;Interpoliert;406.6;-2.97
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4661831;8.76028552;30.0;;;;;;Interpoliert;407.1;-1.92
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.466076;8.76037828;30.0;;;;;;Interpoliert;407.6;-3.22
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4659689;8.76047104;30.0;;;;;;Interpoliert;407.3;-1.95
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4658618;8.7605638;30.0;;;;;;Original OSM;405.4;-2.88
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.465782966666666;8.760633766666666;30.0;;;;;;Interpoliert;405.3;-3.78
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46570413333333;8.760703733333333;30.0;;;;;;Interpoliert;405.2;-3.5
+Routenpunkt (Way);T;;49.465607516666665;8.760785716666668;30.0;;;;;;Interpoliert (15m);405.1;-0.72
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4655109;8.7608677;30.0;;;;;;Original OSM;405.0;-0.68
+Haltestelle;W;Wilhelmsfeld, Rathaus;49.4655109;8.7608677;30.0;25:43:00;25:43:00;Kein Umlauf;Fr,Sa;435.0;Original GTFS (Snap-Distanz 4m) | Auf Route gesnappt (4m);404.9;-2.21
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.465407;8.76094285;30.0;;;;;;Interpoliert;404.8;-4.02
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4653031;8.761018;30.0;;;;;;Original OSM;403.7;-5.83
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.465207;8.7610619;30.0;;;;;;Interpoliert;402.6;-4.54
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4651109;8.761105800000001;30.0;;;;;;Interpoliert;401.5;-3.1
+Routenpunkt (Way);T;;49.46504371666667;8.761136483333335;30.0;;;;;;Interpoliert (15m);402.0;-0.68
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.464976533333335;8.761167166666667;30.0;;;;;;Original OSM;402.5;2.13
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46485215;8.76121425;30.0;;;;;;Interpoliert;403.0;4.97
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4647469;8.7612526;30.0;;;;;;Original OSM;403.5;2.12
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4646491;8.761302;30.0;;;;;;Interpoliert;404.0;-0.74
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4645513;8.7613514;30.0;;;;;;Original OSM;403.1;-3.89
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4644578;8.7614169;30.0;;;;;;Interpoliert;402.2;-6.7
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4643643;8.7614824;30.0;;;;;;Original OSM;400.8;-9.55
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.464254825;8.761583375;30.0;;;;;;Interpoliert;399.4;-9.95
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46414535;8.76168435;30.0;;;;;;Interpoliert;398.0;-10.65
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.464035875;8.761785325;30.0;;;;;;Interpoliert;396.6;-10.48
+Routenpunkt (Way);T;;49.4639412625;8.761872562499999;30.0;;;;;;Interpoliert (15m);395.2;-11.6
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46384665;8.7619598;30.0;;;;;;Original OSM;393.8;-12.27
+Routenpunkt (Way);T;;49.463772875;8.762013516666666;30.0;;;;;;Interpoliert (15m);392.4;-9.96
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4636991;8.762067233333333;50.0;;;;;;Interpoliert;391.2;-7.35
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4635994;8.762130566666666;50.0;;;;;;Interpoliert;391.4;-4.67
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4634997;8.7621939;50.0;;;;;;Original OSM;391.6;-1.19
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4634127;8.762239099999999;50.0;;;;;;Interpoliert;391.8;1.85
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4633257;8.7622843;50.0;;;;;;Original OSM;392.0;2.0
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4632385;8.7623186;50.0;;;;;;Interpoliert;392.2;-1.69
+Routenpunkt (Way);T;;49.46316608125;8.762348724999999;50.0;;;;;;Interpoliert (15m);392.4;-4.48
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4630936625;8.76237885;50.0;;;;;;Original OSM;391.0;-7.27
+Routenpunkt (Way);T;;49.462991756250005;8.76241765;50.0;;;;;;Interpoliert (15m);389.6;-9.96
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46288985;8.76245645;50.0;;;;;;Interpoliert;388.2;-13.6
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4627821;8.7624908;50.0;;;;;;Original OSM;386.8;-13.29
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46269235;8.7625144;50.0;;;;;;Interpoliert;385.2;-13.94
+Routenpunkt (Way);T;;49.46262815384616;8.762620956410256;50.0;;;;;;Interpoliert (15m);383.6;-14.59
+Routenpunkt (Way);T;;49.4625639576923;8.762727512820513;50.0;;;;;;Interpoliert (15m);382.0;-15.15
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46249976153846;8.762834069230768;50.0;;;;;;Original OSM;380.4;-14.83
+Routenpunkt (Way);T;;49.462570974358975;8.76294477948718;50.0;;;;;;Interpoliert (15m);378.8;-11.78
+Routenpunkt (Way);T;;49.46264218717948;8.76305548974359;50.0;;;;;;Interpoliert (15m);377.2;-8.68
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.4627134;8.7631662;50.0;;;;;;Original OSM;377.2;-5.57
+Routenpunkt (Way);T;;49.46279246666666;8.763177233333334;50.0;;;;;;Interpoliert (15m);377.22;-3.07
+Routenpunkt (Way);T;Johann-Wilhelm-Straße;49.46287153333333;8.763188266666667;50.0;;;;;;Original OSM;377.25;-0.23
+Routenpunkt (Way);T;Unbekannt;49.46300163333333;8.763177666666667;;;;;;;Interpoliert;377.0;-0.29
+Haltestelle;W;Wilhelmsfeld, Autohalle;49.46300163333333;8.763177666666667;;25:44:00;25:44:00;Kein Umlauf;Fr,Sa;435.0;Original GTFS (Snap-Distanz 25m) | Auf Route gesnappt (25m);377.0;-0.47

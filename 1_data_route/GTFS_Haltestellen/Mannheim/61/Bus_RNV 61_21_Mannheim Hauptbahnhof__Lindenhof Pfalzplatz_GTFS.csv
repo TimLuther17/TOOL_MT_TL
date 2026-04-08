@@ -1,0 +1,13 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Mannheim, Hauptbahnhof;49.480137;8.469667;05:25:00;05:25:00;Kein Umlauf;Sa,So;1318;Stop Seq 0
+Haltestelle;Mannheim, Kunsthalle;49.48239;8.472766;05:27:00;05:27:00;Kein Umlauf;Sa,So;1318;Stop Seq 1
+Haltestelle;Mannheim, Wasserturm;49.484142;8.474122;05:30:00;05:30:00;Kein Umlauf;Sa,So;1318;Stop Seq 2
+Haltestelle;Mannheim, Am Friedrichsplatz;49.48251;8.479054;05:32:00;05:32:00;Kein Umlauf;Sa,So;1318;Stop Seq 3
+Haltestelle;Mannheim, Otto-Beck-Straße;49.480595;8.484094;05:33:00;05:33:00;Kein Umlauf;Sa,So;1318;Stop Seq 4
+Haltestelle;Mannheim, Kunstverein;49.479244;8.487498;05:34:00;05:34:00;Kein Umlauf;Sa,So;1318;Stop Seq 5
+Haltestelle;Mannheim, Mühldorferstraße;49.47695;8.488055;05:35:00;05:35:00;Kein Umlauf;Sa,So;1318;Stop Seq 6
+Haltestelle;Mannheim, Möhlstraße;49.474873;8.48695;05:36:00;05:36:00;Kein Umlauf;Sa,So;1318;Stop Seq 7
+Haltestelle;Mannheim, Hochschule;49.46951;8.483905;05:38:00;05:38:00;Kein Umlauf;Sa,So;1318;Stop Seq 8
+Haltestelle;Neckarau, August-Bebel-Straße;49.466827;8.480051;05:39:00;05:39:00;Kein Umlauf;Sa,So;1318;Stop Seq 9
+Haltestelle;Neckarau, Markuskirche;49.46504;8.475218;05:40:00;05:40:00;Kein Umlauf;Sa,So;1318;Stop Seq 10
+Haltestelle;Lindenhof, Pfalzplatz;49.464664;8.469838;05:42:00;05:42:00;Kein Umlauf;Sa,So;1318;Stop Seq 11

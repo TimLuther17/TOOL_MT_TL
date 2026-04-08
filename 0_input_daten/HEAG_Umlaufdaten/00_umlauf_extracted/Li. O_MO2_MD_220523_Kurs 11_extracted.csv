@@ -1,0 +1,99 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Darmstadt Böllenfalltor,3;03:59:00;1;W
+1;Trautheim,1;04:02:00;1;W
+1;Nd.-Ramstadt Mühltal Bf,12;04:04:00;1;W
+1;Nieder-Ramstadt Wacker Fabrik,1;04:05:00;1;W
+1;Ober-Ramstadt Roßdörfer Straße,1;04:09:00;1;W
+1;Ober-Ramstadt Rathaus,1;04:11:00;1;W
+1;Ober-Ramstadt Rondell,1;04:13:00;1;W
+1;Modau Horeth,1;04:16:00;1;W
+1;Modau Kirchstraße,1;04:17:00;1;W
+1;Modau Modauhalle,1;04:18:00;1;W
+1;Modau Neutscher Weg,1;04:20:00;1;W
+1;Ernsthofen Schule,1;04:25:00;1;W
+1;Ernsthofen Schule,2;06:23:00;1;W
+1;Hoxhohl Mitte,1;06:27:00;1;W
+1;Brandau Mitte,1;06:31:00;1;W
+1;Brandau Feuerwehr,1;06:32:00;1;W
+1;Brandau Feuerwehr,2;06:43:00;2;W
+1;Brandau Mitte,2;06:44:00;2;W
+1;Beedenkirchen Modaustraße,1;06:48:00;2;W
+1;Allertshofen Alt Allertshofen,2;06:50:00;2;W
+1;Hoxhohl Alt Hoxhohl,2;06:53:00;2;W
+1;Ernsthofen Schule,1;06:57:00;2;W
+1;Ernsthofen Mitte,2;06:58:00;2;W
+1;Modau St.-Pankratius-Weg,2;07:02:00;2;W
+1;Modau Modauhalle,2;07:03:00;2;W
+1;Modau Kirchstraße,2;07:04:00;2;W
+1;Modau Horeth,2;07:05:00;2;W
+1;Ober-Ramstadt Schlossmühle,2;07:06:00;2;W
+1;Ober-Ramstadt Rondell,2;07:08:00;2;W
+1;Ober-Ramstadt Alter Markt,2;07:09:00;2;W
+1;Ober-Ramstadt Roßdörfer Straße,2;07:12:00;2;W
+1;Ober-Ramstadt Waldmühle,2;07:14:00;2;W
+1;Nieder-Ramstadt Wacker Fabrik,2;07:15:00;2;W
+1;Nd.-Ramstadt Mühltal Bf,11;07:17:00;2;W
+1;Trautheim,2;07:20:00;2;W
+2;Ernsthofen Schule,1;04:27:00;2;W
+2;Ernsthofen Mitte,2;04:28:00;2;W
+2;Modau St.-Pankratius-Weg,2;04:32:00;2;W
+2;Modau Modauhalle,2;04:33:00;2;W
+2;Modau Kirchstraße,2;04:34:00;2;W
+2;Modau Horeth,2;04:35:00;2;W
+2;Ober-Ramstadt Schlossmühle,2;04:36:00;2;W
+2;Ober-Ramstadt Rondell,2;04:38:00;2;W
+2;Ober-Ramstadt Alter Markt,2;04:39:00;2;W
+2;Ober-Ramstadt Roßdörfer Straße,2;04:42:00;2;W
+2;Ober-Ramstadt Waldmühle,2;04:44:00;2;W
+2;Nieder-Ramstadt Wacker Fabrik,2;04:45:00;2;W
+2;Nd.-Ramstadt Mühltal Bf,11;04:47:00;2;W
+2;Trautheim,2;04:50:00;2;W
+2;Darmstadt Böllenfalltor,3;04:53:00;2;W
+3;Darmstadt Böllenfalltor,3;04:59:00;1;W
+3;Trautheim,1;05:02:00;1;W
+3;Nd.-Ramstadt Mühltal Bf,12;05:04:00;1;W
+3;Nieder-Ramstadt Wacker Fabrik,1;05:05:00;1;W
+3;Ober-Ramstadt Roßdörfer Straße,1;05:09:00;1;W
+3;Ober-Ramstadt Rathaus,1;05:11:00;1;W
+3;Ober-Ramstadt Rondell,1;05:13:00;1;W
+3;Modau Horeth,1;05:16:00;1;W
+3;Modau Kirchstraße,1;05:17:00;1;W
+3;Modau Modauhalle,1;05:18:00;1;W
+3;Modau Neutscher Weg,1;05:20:00;1;W
+3;Ernsthofen Schule,1;05:25:00;1;W
+4;Ernsthofen Schule,1;05:27:00;2;W
+4;Ernsthofen Mitte,2;05:28:00;2;W
+4;Modau St.-Pankratius-Weg,2;05:32:00;2;W
+4;Modau Modauhalle,2;05:33:00;2;W
+4;Modau Kirchstraße,2;05:34:00;2;W
+4;Modau Horeth,2;05:35:00;2;W
+4;Ober-Ramstadt Schlossmühle,2;05:36:00;2;W
+4;Ober-Ramstadt Rondell,2;05:38:00;2;W
+4;Ober-Ramstadt Alter Markt,2;05:39:00;2;W
+4;Ober-Ramstadt Roßdörfer Straße,2;05:42:00;2;W
+4;Ober-Ramstadt Waldmühle,2;05:44:00;2;W
+4;Nieder-Ramstadt Wacker Fabrik,2;05:45:00;2;W
+4;Nd.-Ramstadt Mühltal Bf,11;05:47:00;2;W
+4;Trautheim,2;05:50:00;2;W
+4;Darmstadt Böllenfalltor,3;05:53:00;2;W
+4;Darmstadt Böllenfalltor,5;07:23:00;2;W
+4;Darmstadt Böllenfalltor,5;07:28:00;3;W
+4;Darmstadt Marienhospital,1;07:29:00;3;W
+4;Darmstadt Ludwigshöhstraße,3;07:31:00;3;W
+4;Darmstadt Landskronstraße,3;07:33:00;3;W
+4;Darmstadt Südbahnhof,3;07:35:00;3;W
+4;Darmstadt Philipp-Röth-Weg,1;07:37:00;3;W
+4;Darmstadt Hochschule West,1;07:38:00;3;W
+4;Darmstadt Heinrich-Hertz-Str.,1;07:39:00;3;W
+4;Darmstadt Hauptbahnhof,2;07:41:00;3;W
+5;Darmstadt Böllenfalltor,3;05:57:00;1;W
+5;Trautheim,1;06:00:00;1;W
+5;Nd.-Ramstadt Mühltal Bf,12;06:02:00;1;W
+5;Nieder-Ramstadt Wacker Fabrik,1;06:03:00;1;W
+5;Ober-Ramstadt Roßdörfer Straße,1;06:07:00;1;W
+5;Ober-Ramstadt Rathaus,1;06:09:00;1;W
+5;Ober-Ramstadt Rondell,1;06:11:00;1;W
+5;Modau Horeth,1;06:14:00;1;W
+5;Modau Kirchstraße,1;06:15:00;1;W
+5;Modau Modauhalle,1;06:16:00;1;W
+5;Modau Neutscher Weg,1;06:18:00;1;W

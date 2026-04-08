@@ -1,0 +1,25 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Ziegelhausen, Wendestelle Hbw;49.45273;8.751199;20:07:00;20:07:00;Kein Umlauf;Sa,So;1318;Stop Seq 0
+Haltestelle;Ziegelhausen, Heidebuckelweg;49.45068;8.75446;20:08:00;20:08:00;Kein Umlauf;Sa,So;1318;Stop Seq 1
+Haltestelle;Ziegelhausen, Schweizertalstr.;49.44822;8.753265;20:08:00;20:08:00;Kein Umlauf;Sa,So;1318;Stop Seq 2
+Haltestelle;Ziegelhausen, Löwen;49.444134;8.753687;20:09:00;20:09:00;Kein Umlauf;Sa,So;1318;Stop Seq 3
+Haltestelle;Ziegelhausen, Grüner Baum;49.43755;8.75198;20:11:00;20:11:00;Kein Umlauf;Sa,So;1318;Stop Seq 4
+Haltestelle;Ziegelhausen, Peterstaler Str.;49.43461;8.749097;20:12:00;20:12:00;Kein Umlauf;Sa,So;1318;Stop Seq 5
+Haltestelle;Ziegelhausen, Kreuzgrundweg;49.431904;8.747381;20:13:00;20:13:00;Kein Umlauf;Sa,So;1318;Stop Seq 6
+Haltestelle;Ziegelhausen, Fürstendamm;49.42804;8.749582;20:14:00;20:14:00;Kein Umlauf;Sa,So;1318;Stop Seq 7
+Haltestelle;Ziegelhausen, Mühldamm;49.425415;8.751522;20:15:00;20:15:00;Kein Umlauf;Sa,So;1318;Stop Seq 8
+Haltestelle;Ziegelhausen, Steinbacher Tal;49.422634;8.753786;20:16:00;20:16:00;Kein Umlauf;Sa,So;1318;Stop Seq 9
+Haltestelle;Ziegelhausen, Neckarschule;49.419285;8.756858;20:17:00;20:17:00;Kein Umlauf;Sa,So;1318;Stop Seq 10
+Haltestelle;Ziegelhausen, Neuer Weg;49.417355;8.752591;20:18:00;20:18:00;Kein Umlauf;Sa,So;1318;Stop Seq 11
+Haltestelle;Ziegelhausen, Neckarhelle;49.417343;8.74942;20:19:00;20:19:00;Kein Umlauf;Sa,So;1318;Stop Seq 12
+Haltestelle;Ziegelhausen, Stiftsmühle;49.417404;8.743914;20:20:00;20:20:00;Kein Umlauf;Sa,So;1318;Stop Seq 13
+Haltestelle;Ziegelhausen, Stift Neuburg;49.419254;8.735245;20:21:00;20:21:00;Kein Umlauf;Sa,So;1318;Stop Seq 14
+Haltestelle;Ziegelhausen, Haarlass;49.420128;8.730547;20:22:00;20:22:00;Kein Umlauf;Sa,So;1318;Stop Seq 15
+Haltestelle;Neuenheim, Hirschgasse;49.416004;8.71603;20:24:00;20:24:00;Kein Umlauf;Sa,So;1318;Stop Seq 16
+Haltestelle;Neuenheim, Alte Brücke Nord;49.415234;8.708861;20:25:00;20:25:00;Kein Umlauf;Sa,So;1318;Stop Seq 17
+Haltestelle;Neuenheim, Bergstraße;49.413757;8.694291;20:28:00;20:28:00;Kein Umlauf;Sa,So;1318;Stop Seq 18
+Haltestelle;Heidelberg, Bismarckplatz;49.41015;8.692943;20:31:00;20:31:00;Kein Umlauf;Sa,So;1318;Stop Seq 19
+Haltestelle;Heidelberg, Seegarten;49.40707;8.691506;20:33:00;20:33:00;Kein Umlauf;Sa,So;1318;Stop Seq 20
+Haltestelle;Heidelberg, Stadtbücherei;49.40607;8.685891;20:34:00;20:34:00;Kein Umlauf;Sa,So;1318;Stop Seq 21
+Haltestelle;Heidelberg, Stadtwerke;49.4055;8.682855;20:36:00;20:36:00;Kein Umlauf;Sa,So;1318;Stop Seq 22
+Haltestelle;Heidelberg, Hauptbahnhof;49.404278;8.677079;20:37:00;20:37:00;Kein Umlauf;Sa,So;1318;Stop Seq 23

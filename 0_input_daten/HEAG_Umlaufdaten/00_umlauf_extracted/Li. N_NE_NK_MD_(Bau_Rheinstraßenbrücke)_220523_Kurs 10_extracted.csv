@@ -1,0 +1,60 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Darmstadt Böllenfalltor,6;17:17:00;1;W
+1;Trautheim Waldstraße,1;17:20:00;1;W
+1;Traisa Tannenstraße,1;17:23:00;1;W
+1;Nd.-Ramstadt Mühltal Bf,12;17:28:00;1;W
+1;Nieder-Ramstadt Bachgasse,1;17:31:00;1;W
+1;Nieder-Ramstadt Im Hag,1;17:33:00;1;W
+1;Nieder-Ramstadt Kohlbergweg,1;17:34:00;1;W
+1;Nd-Ramstadt An der Bruchmühle,1;17:37:00;1;W
+1;Waschenbach Ortsstraße,1;17:41:00;1;W
+1;Frankenhausen Römerweg,1;17:45:00;1;W
+1;Neutsch Denkmal,1;17:48:00;1;W
+1;Neutsch Denkmal,1;17:52:00;2;W
+1;Frankenhausen Römerweg,2;17:55:00;2;W
+1;Waschenbach Ortsstraße,2;17:58:00;2;W
+1;Nd-Ramstadt An der Bruchmühle,11;18:04:00;2;W
+1;Nieder-Ramstadt Kohlbergweg,2;18:05:00;2;W
+1;Nieder-Ramstadt Im Hag,2;18:06:00;2;W
+1;Nieder-Ramstadt Bachgasse,2;18:08:00;2;W
+1;Nd.-Ramstadt Mühltal Bf,11;18:12:00;2;W
+1;Traisa Tannenstraße,2;18:17:00;2;W
+1;Trautheim Waldstraße,2;18:20:00;2;W
+1;Darmstadt Böllenfalltor,4;18:23:00;2;W
+1;Darmstadt Böllenfalltor,6;20:23:00;2;W
+2;Darmstadt Böllenfalltor,4;18:37:00;3;W
+2;Trautheim,1;18:40:00;3;W
+2;Trautheim Im Wiesengrund,1;18:42:00;3;W
+2;Nd-Ramstadt Pfaffenbergschule,1;18:43:00;3;W
+2;Nieder-Ramstadt Im Hag,1;18:46:00;3;W
+2;Nd-Ramstadt An der Bruchmühle,1;18:50:00;3;W
+2;Nieder-Ramstadt Gewerbepark,1;18:52:00;3;W
+2;Nieder-Ramstadt Gewerbepark,1;18:58:00;4;W
+2;Nd.-Ramstadt Am Alten Graben,1;18:58:00;4;W
+2;Nd-Ramstadt An der Bruchmühle,11;19:00:00;4;W
+2;Nieder-Ramstadt Im Hag,2;19:04:00;4;W
+2;Nd-Ramstadt Pfaffenbergschule,2;19:06:00;4;W
+2;Trautheim Im Wiesengrund,2;19:08:00;4;W
+2;Trautheim,2;19:10:00;4;W
+2;Darmstadt Böllenfalltor,6;19:13:00;4;W
+2;Darmstadt Böllenfalltor,6;19:17:00;1;W
+2;Trautheim Waldstraße,1;19:20:00;1;W
+2;Traisa Tannenstraße,1;19:23:00;1;W
+2;Nd.-Ramstadt Mühltal Bf,12;19:28:00;1;W
+2;Nieder-Ramstadt Bachgasse,1;19:31:00;1;W
+2;Nieder-Ramstadt Im Hag,1;19:33:00;1;W
+2;Nieder-Ramstadt Kohlbergweg,1;19:34:00;1;W
+2;Nd-Ramstadt An der Bruchmühle,1;19:37:00;1;W
+2;Waschenbach Ortsstraße,1;19:41:00;1;W
+2;Frankenhausen Römerweg,1;19:45:00;1;W
+2;Neutsch Denkmal,1;19:48:00;1;W
+2;Neutsch Denkmal,1;19:52:00;2;W
+2;Frankenhausen Römerweg,2;19:55:00;2;W
+2;Waschenbach Ortsstraße,2;19:58:00;2;W
+2;Nd-Ramstadt An der Bruchmühle,11;20:04:00;2;W
+2;Nieder-Ramstadt Kohlbergweg,2;20:05:00;2;W
+2;Nieder-Ramstadt Im Hag,2;20:06:00;2;W
+2;Nieder-Ramstadt Bachgasse,2;20:08:00;2;W
+2;Nd.-Ramstadt Mühltal Bf,11;20:12:00;2;W
+2;Traisa Tannenstraße,2;20:17:00;2;W
+2;Trautheim Waldstraße,2;20:20:00;2;W

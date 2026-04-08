@@ -1,0 +1,21 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Ziegelhausen, Wendestelle Hbw;49.45273;8.751199;05:07:00;05:07:00;Kein Umlauf;Sa;881;Stop Seq 0
+Haltestelle;Ziegelhausen, Heidebuckelweg;49.45068;8.75446;05:08:00;05:08:00;Kein Umlauf;Sa;881;Stop Seq 1
+Haltestelle;Ziegelhausen, Schweizertalstr.;49.44822;8.753265;05:08:00;05:08:00;Kein Umlauf;Sa;881;Stop Seq 2
+Haltestelle;Ziegelhausen, Löwen;49.444134;8.753687;05:09:00;05:09:00;Kein Umlauf;Sa;881;Stop Seq 3
+Haltestelle;Ziegelhausen, Grüner Baum;49.43755;8.75198;05:11:00;05:11:00;Kein Umlauf;Sa;881;Stop Seq 4
+Haltestelle;Ziegelhausen, Peterstaler Str.;49.43461;8.749097;05:12:00;05:12:00;Kein Umlauf;Sa;881;Stop Seq 5
+Haltestelle;Ziegelhausen, Kreuzgrundweg;49.431904;8.747381;05:13:00;05:13:00;Kein Umlauf;Sa;881;Stop Seq 6
+Haltestelle;Ziegelhausen, Fürstendamm;49.42804;8.749582;05:14:00;05:14:00;Kein Umlauf;Sa;881;Stop Seq 7
+Haltestelle;Ziegelhausen, Mühldamm;49.425415;8.751522;05:15:00;05:15:00;Kein Umlauf;Sa;881;Stop Seq 8
+Haltestelle;Ziegelhausen, Steinbacher Tal;49.422634;8.753786;05:16:00;05:16:00;Kein Umlauf;Sa;881;Stop Seq 9
+Haltestelle;Ziegelhausen, Neckarschule;49.419285;8.756858;05:17:00;05:17:00;Kein Umlauf;Sa;881;Stop Seq 10
+Haltestelle;Ziegelhausen, Neuer Weg;49.417355;8.752591;05:18:00;05:18:00;Kein Umlauf;Sa;881;Stop Seq 11
+Haltestelle;Ziegelhausen, Neckarhelle;49.417343;8.74942;05:19:00;05:19:00;Kein Umlauf;Sa;881;Stop Seq 12
+Haltestelle;Ziegelhausen, Stiftsmühle;49.417404;8.743914;05:20:00;05:20:00;Kein Umlauf;Sa;881;Stop Seq 13
+Haltestelle;Ziegelhausen, Stift Neuburg;49.419254;8.735245;05:21:00;05:21:00;Kein Umlauf;Sa;881;Stop Seq 14
+Haltestelle;Ziegelhausen, Haarlass;49.420128;8.730547;05:22:00;05:22:00;Kein Umlauf;Sa;881;Stop Seq 15
+Haltestelle;Neuenheim, Hirschgasse;49.416004;8.71603;05:24:00;05:24:00;Kein Umlauf;Sa;881;Stop Seq 16
+Haltestelle;Neuenheim, Alte Brücke Nord;49.415234;8.708861;05:25:00;05:25:00;Kein Umlauf;Sa;881;Stop Seq 17
+Haltestelle;Neuenheim, Bergstraße;49.413757;8.694291;05:28:00;05:28:00;Kein Umlauf;Sa;881;Stop Seq 18
+Haltestelle;Heidelberg, Bismarckplatz;49.41015;8.692943;05:31:00;05:31:00;Kein Umlauf;Sa;881;Stop Seq 19

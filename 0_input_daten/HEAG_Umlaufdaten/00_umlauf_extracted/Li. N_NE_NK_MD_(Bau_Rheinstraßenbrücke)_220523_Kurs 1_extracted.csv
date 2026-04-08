@@ -1,0 +1,207 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Darmstadt Böllenfalltor,5;05:00:00;1;W
+1;Darmstadt Marienhospital,1;05:01:00;1;W
+1;Darmstadt Ludwigshöhstraße,3;05:03:00;1;W
+1;Darmstadt Landskronstraße,3;05:05:00;1;W
+1;Darmstadt Südbahnhof,3;05:07:00;1;W
+1;Darmstadt Philipp-Röth-Weg,1;05:09:00;1;W
+1;Darmstadt Hochschule West,1;05:10:00;1;W
+1;Darmstadt Heinrich-Hertz-Str.,1;05:11:00;1;W
+1;Darmstadt Hauptbahnhof,2;05:13:00;1;W
+1;Darmstadt Evonik,1;05:16:00;1;W
+1;Darmstadt Mainzer Straße,1;05:17:00;1;W
+1;Darmstadt Windmühle,2;05:18:00;1;W
+1;Darmstadt Otto-Röhm-Straße,2;05:20:00;1;W
+1;Darmstadt Daimlerweg,1;05:22:00;1;W
+1;Darmstadt Carl-Schenck-Ring,1;05:23:00;1;W
+1;Darmstadt Nordbahnhof,3;05:25:00;1;W
+1;Darmstadt Nordbahnhof,3;05:27:00;2;W
+1;Darmstadt Carl-Schenck-Ring,2;05:29:00;2;W
+1;Darmstadt Daimlerweg,2;05:30:00;2;W
+1;Darmstadt Otto-Röhm-Straße,1;05:32:00;2;W
+1;Darmstadt Windmühle,1;05:34:00;2;W
+1;Darmstadt Mainzer Straße,2;05:35:00;2;W
+1;Darmstadt Evonik,2;05:37:00;2;W
+1;Darmstadt Hauptbahnhof,4;05:39:00;2;W
+1;Darmstadt Heinrich-Hertz-Str.,2;05:42:00;2;W
+1;Darmstadt Hochschule West,12;05:43:00;2;W
+1;Darmstadt Philipp-Röth-Weg,2;05:45:00;2;W
+1;Darmstadt Haardtring,2;05:47:00;2;W
+1;Darmstadt Südbahnhof,4;05:48:00;2;W
+1;Darmstadt Landskronstraße,4;05:50:00;2;W
+1;Darmstadt Ludwigshöhstraße,4;05:52:00;2;W
+1;Darmstadt Marienhospital,2;05:54:00;2;W
+1;Darmstadt Böllenfalltor,5;05:55:00;2;W
+2;Darmstadt Böllenfalltor,5;06:00:00;1;W
+2;Darmstadt Marienhospital,1;06:01:00;1;W
+2;Darmstadt Ludwigshöhstraße,3;06:03:00;1;W
+2;Darmstadt Landskronstraße,3;06:05:00;1;W
+2;Darmstadt Südbahnhof,3;06:07:00;1;W
+2;Darmstadt Philipp-Röth-Weg,1;06:09:00;1;W
+2;Darmstadt Hochschule West,1;06:10:00;1;W
+2;Darmstadt Heinrich-Hertz-Str.,1;06:11:00;1;W
+2;Darmstadt Hauptbahnhof,2;06:13:00;1;W
+2;Darmstadt Evonik,1;06:16:00;1;W
+2;Darmstadt Mainzer Straße,1;06:17:00;1;W
+2;Darmstadt Windmühle,2;06:18:00;1;W
+2;Darmstadt Otto-Röhm-Straße,2;06:20:00;1;W
+2;Darmstadt Daimlerweg,1;06:22:00;1;W
+2;Darmstadt Carl-Schenck-Ring,1;06:23:00;1;W
+2;Darmstadt Nordbahnhof,3;06:25:00;1;W
+2;Darmstadt Nordbahnhof,3;06:27:00;2;W
+2;Darmstadt Carl-Schenck-Ring,2;06:29:00;2;W
+2;Darmstadt Daimlerweg,2;06:30:00;2;W
+2;Darmstadt Otto-Röhm-Straße,1;06:32:00;2;W
+2;Darmstadt Windmühle,1;06:34:00;2;W
+2;Darmstadt Mainzer Straße,2;06:35:00;2;W
+2;Darmstadt Evonik,2;06:37:00;2;W
+2;Darmstadt Hauptbahnhof,4;06:39:00;2;W
+2;Darmstadt Heinrich-Hertz-Str.,2;06:42:00;2;W
+2;Darmstadt Hochschule West,12;06:43:00;2;W
+2;Darmstadt Philipp-Röth-Weg,2;06:45:00;2;W
+2;Darmstadt Haardtring,2;06:47:00;2;W
+2;Darmstadt Südbahnhof,4;06:48:00;2;W
+2;Darmstadt Landskronstraße,4;06:50:00;2;W
+2;Darmstadt Ludwigshöhstraße,4;06:52:00;2;W
+2;Darmstadt Marienhospital,2;06:54:00;2;W
+2;Darmstadt Böllenfalltor,5;06:55:00;2;W
+2;Darmstadt Böllenfalltor,6;08:05:00;2;W
+2;Darmstadt Böllenfalltor,6;08:17:00;3;W
+2;Trautheim Waldstraße,1;08:20:00;3;W
+2;Traisa Tannenstraße,1;08:23:00;3;W
+2;Nd.-Ramstadt Mühltal Bf,12;08:28:00;3;W
+2;Nieder-Ramstadt Bachgasse,1;08:31:00;3;W
+2;Nieder-Ramstadt Im Hag,1;08:33:00;3;W
+2;Nieder-Ramstadt Kohlbergweg,1;08:34:00;3;W
+2;Nd-Ramstadt An der Bruchmühle,1;08:37:00;3;W
+2;Waschenbach Ortsstraße,1;08:41:00;3;W
+2;Frankenhausen Römerweg,1;08:45:00;3;W
+2;Neutsch Denkmal,1;08:48:00;3;W
+2;Neutsch Denkmal,1;08:52:00;4;W
+2;Frankenhausen Römerweg,2;08:55:00;4;W
+2;Waschenbach Ortsstraße,2;08:58:00;4;W
+2;Nd-Ramstadt An der Bruchmühle,11;09:04:00;4;W
+2;Nieder-Ramstadt Kohlbergweg,2;09:05:00;4;W
+2;Nieder-Ramstadt Im Hag,2;09:06:00;4;W
+2;Nieder-Ramstadt Bachgasse,2;09:08:00;4;W
+2;Nd.-Ramstadt Mühltal Bf,11;09:12:00;4;W
+2;Traisa Tannenstraße,2;09:17:00;4;W
+2;Trautheim Waldstraße,2;09:20:00;4;W
+2;Darmstadt Böllenfalltor,4;09:23:00;4;W
+3;Darmstadt Böllenfalltor,5;07:10:00;1;W
+3;Darmstadt Marienhospital,1;07:11:00;1;W
+3;Darmstadt Ludwigshöhstraße,3;07:13:00;1;W
+3;Darmstadt Landskronstraße,3;07:15:00;1;W
+3;Darmstadt Südbahnhof,3;07:17:00;1;W
+3;Darmstadt Philipp-Röth-Weg,1;07:19:00;1;W
+3;Darmstadt Hochschule West,1;07:20:00;1;W
+3;Darmstadt Heinrich-Hertz-Str.,1;07:21:00;1;W
+3;Darmstadt Hauptbahnhof,2;07:23:00;1;W
+3;Darmstadt Evonik,1;07:26:00;1;W
+3;Darmstadt Mainzer Straße,1;07:27:00;1;W
+3;Darmstadt Windmühle,2;07:28:00;1;W
+3;Darmstadt Otto-Röhm-Straße,2;07:30:00;1;W
+3;Darmstadt Daimlerweg,1;07:32:00;1;W
+3;Darmstadt Carl-Schenck-Ring,1;07:33:00;1;W
+3;Darmstadt Nordbahnhof,3;07:35:00;1;W
+3;Darmstadt Nordbahnhof,3;07:37:00;2;W
+3;Darmstadt Carl-Schenck-Ring,2;07:39:00;2;W
+3;Darmstadt Daimlerweg,2;07:40:00;2;W
+3;Darmstadt Otto-Röhm-Straße,1;07:42:00;2;W
+3;Darmstadt Windmühle,1;07:44:00;2;W
+3;Darmstadt Mainzer Straße,2;07:45:00;2;W
+3;Darmstadt Evonik,2;07:47:00;2;W
+3;Darmstadt Hauptbahnhof,4;07:49:00;2;W
+3;Darmstadt Heinrich-Hertz-Str.,2;07:52:00;2;W
+3;Darmstadt Hochschule West,12;07:53:00;2;W
+3;Darmstadt Philipp-Röth-Weg,2;07:55:00;2;W
+3;Darmstadt Haardtring,2;07:57:00;2;W
+3;Darmstadt Südbahnhof,4;07:58:00;2;W
+3;Darmstadt Landskronstraße,4;08:00:00;2;W
+3;Darmstadt Ludwigshöhstraße,4;08:02:00;2;W
+3;Darmstadt Marienhospital,2;08:04:00;2;W
+4;Darmstadt Böllenfalltor,4;09:37:00;5;W
+4;Trautheim,1;09:40:00;5;W
+4;Trautheim Im Wiesengrund,1;09:42:00;5;W
+4;Nd-Ramstadt Pfaffenbergschule,1;09:43:00;5;W
+4;Nieder-Ramstadt Im Hag,1;09:46:00;5;W
+4;Nd-Ramstadt An der Bruchmühle,1;09:50:00;5;W
+4;Nieder-Ramstadt Gewerbepark,1;09:52:00;5;W
+4;Nieder-Ramstadt Gewerbepark,1;09:58:00;6;W
+4;Nd.-Ramstadt Am Alten Graben,1;09:58:00;6;W
+4;Nd-Ramstadt An der Bruchmühle,11;10:00:00;6;W
+4;Nieder-Ramstadt Im Hag,2;10:04:00;6;W
+4;Nd-Ramstadt Pfaffenbergschule,2;10:06:00;6;W
+4;Trautheim Im Wiesengrund,2;10:08:00;6;W
+4;Trautheim,2;10:10:00;6;W
+4;Darmstadt Böllenfalltor,6;10:13:00;6;W
+5;Darmstadt Böllenfalltor,6;10:17:00;3;W
+5;Trautheim Waldstraße,1;10:20:00;3;W
+5;Traisa Tannenstraße,1;10:23:00;3;W
+5;Nd.-Ramstadt Mühltal Bf,12;10:28:00;3;W
+5;Nieder-Ramstadt Bachgasse,1;10:31:00;3;W
+5;Nieder-Ramstadt Im Hag,1;10:33:00;3;W
+5;Nieder-Ramstadt Kohlbergweg,1;10:34:00;3;W
+5;Nd-Ramstadt An der Bruchmühle,1;10:37:00;3;W
+5;Waschenbach Ortsstraße,1;10:41:00;3;W
+5;Frankenhausen Römerweg,1;10:45:00;3;W
+5;Neutsch Denkmal,1;10:48:00;3;W
+5;Neutsch Denkmal,1;10:52:00;4;W
+5;Frankenhausen Römerweg,2;10:55:00;4;W
+5;Waschenbach Ortsstraße,2;10:58:00;4;W
+5;Nd-Ramstadt An der Bruchmühle,11;11:04:00;4;W
+5;Nieder-Ramstadt Kohlbergweg,2;11:05:00;4;W
+5;Nieder-Ramstadt Im Hag,2;11:06:00;4;W
+5;Nieder-Ramstadt Bachgasse,2;11:08:00;4;W
+5;Nd.-Ramstadt Mühltal Bf,11;11:12:00;4;W
+5;Traisa Tannenstraße,2;11:17:00;4;W
+5;Trautheim Waldstraße,2;11:20:00;4;W
+5;Darmstadt Böllenfalltor,4;11:23:00;4;W
+5;Darmstadt Böllenfalltor,6;13:23:00;4;W
+6;Darmstadt Böllenfalltor,4;11:37:00;5;W
+6;Trautheim,1;11:40:00;5;W
+6;Trautheim Im Wiesengrund,1;11:42:00;5;W
+6;Nd-Ramstadt Pfaffenbergschule,1;11:43:00;5;W
+6;Nieder-Ramstadt Im Hag,1;11:46:00;5;W
+6;Nd-Ramstadt An der Bruchmühle,1;11:50:00;5;W
+6;Nieder-Ramstadt Gewerbepark,1;11:52:00;5;W
+6;Nieder-Ramstadt Gewerbepark,1;11:58:00;6;W
+6;Nd.-Ramstadt Am Alten Graben,1;11:58:00;6;W
+6;Nd-Ramstadt An der Bruchmühle,11;12:00:00;6;W
+6;Nieder-Ramstadt Im Hag,2;12:04:00;6;W
+6;Nd-Ramstadt Pfaffenbergschule,2;12:06:00;6;W
+6;Trautheim Im Wiesengrund,2;12:08:00;6;W
+6;Trautheim,2;12:10:00;6;W
+6;Darmstadt Böllenfalltor,6;12:13:00;6;W
+7;Darmstadt Böllenfalltor,6;12:17:00;3;W
+7;Trautheim Waldstraße,1;12:20:00;3;W
+7;Traisa Tannenstraße,1;12:23:00;3;W
+7;Nd.-Ramstadt Mühltal Bf,12;12:28:00;3;W
+7;Nieder-Ramstadt Bachgasse,1;12:31:00;3;W
+7;Nieder-Ramstadt Im Hag,1;12:33:00;3;W
+7;Nieder-Ramstadt Kohlbergweg,1;12:34:00;3;W
+7;Nd-Ramstadt An der Bruchmühle,1;12:37:00;3;W
+7;Waschenbach Ortsstraße,1;12:41:00;3;W
+7;Frankenhausen Römerweg,1;12:45:00;3;W
+7;Neutsch Denkmal,1;12:48:00;3;W
+7;Neutsch Denkmal,1;12:52:00;4;W
+7;Frankenhausen Römerweg,2;12:55:00;4;W
+7;Waschenbach Ortsstraße,2;12:58:00;4;W
+7;Nd-Ramstadt An der Bruchmühle,11;13:04:00;4;W
+7;Nieder-Ramstadt Kohlbergweg,2;13:05:00;4;W
+7;Nieder-Ramstadt Im Hag,2;13:06:00;4;W
+7;Nieder-Ramstadt Bachgasse,2;13:08:00;4;W
+7;Nd.-Ramstadt Mühltal Bf,11;13:12:00;4;W
+7;Traisa Tannenstraße,2;13:17:00;4;W
+7;Trautheim Waldstraße,2;13:20:00;4;W
+8;Darmstadt Böllenfalltor,6;13:37:00;3;W
+8;Trautheim Waldstraße,1;13:40:00;3;W
+8;Traisa Tannenstraße,1;13:43:00;3;W
+8;Nd.-Ramstadt Mühltal Bf,12;13:48:00;3;W
+8;Nieder-Ramstadt Bachgasse,1;13:51:00;3;W
+8;Nieder-Ramstadt Im Hag,1;13:53:00;3;W
+8;Nieder-Ramstadt Kohlbergweg,1;13:54:00;3;W
+8;Nd-Ramstadt An der Bruchmühle,1;13:57:00;3;W
+8;Waschenbach Ortsstraße,1;14:01:00;3;W
+8;Frankenhausen Römerweg,1;14:05:00;3;W
+8;Neutsch Denkmal,1;14:08:00;3;W

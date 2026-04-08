@@ -1,0 +1,188 @@
+﻿Typ;Type;Name;Latitude;Longitude;Tempolimit;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details;Altitude (m);Roadgrade (%);Surface;Highway_Type;OSM_Name;Fahrt_Nr;Bus_Umlauf_ID
+Routenpunkt (Way);T;Kleyerstraße;49.858769;8.623554;50.0;15:14:00;15:14:00;;;;Original OSM;124.0;0.6;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Haltestelle;W;Darmstadt Kleyerstraße;49.858769;8.623554;50.0;15:14:00;15:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 22m) | Auf Route gesnappt (22m);124.0;0.79;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.85884;8.623547;50.0;;;;;;Interpoliert (15m);124.14;0.78;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.858911;8.623541;50.0;;;;;;Interpoliert;124.25;0.9;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.859011;8.623529;50.0;;;;;;Interpoliert (15m);124.33;1.05;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.859112;8.623517;50.0;;;;;;Interpoliert;124.4;0.85;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.859225;8.62348;50.0;;;;;;Interpoliert;124.5;0.73;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.859339;8.623443;50.0;;;;;;Interpoliert;124.6;0.74;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.859452;8.623405;50.0;;;;;;Interpoliert;124.7;0.79;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.859566;8.623368;50.0;;;;;;Original OSM;124.8;0.8;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.859671;8.623333;50.0;;;;;;Interpoliert;124.9;0.64;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.859776;8.623299;50.0;;;;;;Interpoliert;125.0;0.49;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.859882;8.623264;50.0;;;;;;Interpoliert;125.0;0.33;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.859988;8.623229;50.0;;;;;;Interpoliert;125.0;0.17;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.860093;8.623195;50.0;;;;;;Original OSM;125.0;0.0;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.860209;8.623157;50.0;;;;;;Original OSM;125.0;0.0;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Haltestelle;W;Darmstadt von Taxis;49.860215;8.623155;50.0;15:14:00;15:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 3m) | Auf Route gesnappt (3m);125.0;0.0;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Rosa-Parks-Straße;49.860223;8.623089;50.0;;;;;;Original OSM;125.0;0.37;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Rosa-Parks-Straße;49.860316;8.623058;50.0;;;;;;Interpoliert;125.0;0.65;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Rosa-Parks-Straße;49.860413;8.62304;50.0;;;;;;Original OSM;125.2;0.95;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.86054;8.623048;50.0;;;;;;Original OSM;125.4;1.25;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.860658;8.623009;50.0;;;;;;Interpoliert (15m);125.6;1.53;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.860777;8.62297;50.0;;;;;;Original OSM;125.8;1.44;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.860902;8.622929;50.0;;;;;;Interpoliert (15m);126.0;1.44;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.861027;8.622888;50.0;;;;;;Interpoliert;126.2;1.7;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.861152;8.622847;50.0;;;;;;Interpoliert;126.4;1.97;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.861277;8.622806;50.0;;;;;;Interpoliert;126.8;2.25;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.861403;8.622772;50.0;;;;;;Interpoliert (15m);127.2;2.25;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.861529;8.622739;50.0;;;;;;Original OSM;127.6;2.25;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.861656;8.622723;50.0;;;;;;Interpoliert (15m);127.8;2.34;paving_stones;residential;Kleyerstraße;1;Kurs 23
+Routenpunkt (Way);T;Kleyerstraße;49.861784;8.622708;50.0;;;;;;Original OSM;128.0;2.42;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.861792;8.622836;50.0;;;;;;Interpoliert (15m);128.3;2.27;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.8618;8.622965;50.0;;;;;;Original OSM;128.6;2.54;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.86182;8.623169;50.0;;;;;;Interpoliert;128.9;2.82;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.861836;8.623317;50.0;;;;;;Interpoliert;129.2;2.17;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Haltestelle;W;Darmstadt Hilpertstraße;49.861852;8.623465;50.0;15:16:00;15:16:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 5m) | Auf Route gesnappt (7m);129.5;1.52;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.861885;8.623605;50.0;;;;;;Interpoliert (15m);129.5;1.12;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hauptzollamt;49.861917;8.623746;50.0;;;;;;Original OSM;129.5;0.56;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.861917;8.623901;50.0;;;;;;Interpoliert (15m);129.5;0.0;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.861916;8.624056;50.0;;;;;;Original OSM;129.5;-0.15;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.861938;8.624239;50.0;;;;;;Interpoliert;129.5;-0.38;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.86196;8.624422;50.0;;;;;;Original OSM;129.4;-0.61;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.861974;8.624541;50.0;;;;;;Interpoliert (15m);129.3;-0.87;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.861988;8.62466;50.0;;;;;;Original OSM;129.2;-1.13;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.862001;8.624765;50.0;;;;;;Interpoliert (15m);129.1;-0.98;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.862015;8.624871;50.0;;;;;;Interpoliert;129.0;-1.03;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.862041;8.625068;50.0;;;;;;Interpoliert (15m);129.0;-1.14;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.862067;8.625266;50.0;;;;;;Original OSM;128.8;-1.22;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.862089;8.625425;50.0;;;;;;Interpoliert (15m);128.6;-1.3;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.862111;8.625584;50.0;;;;;;Interpoliert (15m);128.4;-1.81;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.862134;8.625743;50.0;;;;;;Original OSM;128.2;-2.04;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.862149;8.625851;50.0;;;;;;Interpoliert (15m);128.0;-2.07;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.862165;8.625958;50.0;;;;;;Interpoliert;127.8;-2.09;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.862187;8.626106;50.0;;;;;;Interpoliert;127.6;-2.03;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.862209;8.626254;50.0;;;;;;Original OSM;127.4;-1.86;paving_stones;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.862238;8.62645;50.0;;;;;;Original OSM;127.2;-1.35;asphalt;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.862262;8.62661;50.0;;;;;;Interpoliert (15m);127.0;-0.99;asphalt;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.862286;8.62677;50.0;;;;;;Original OSM;127.0;-0.4;asphalt;residential;Hilpertstraße;1;Kurs 23
+Haltestelle;W;Darmstadt T-Online-Allee;49.862286;8.62677;50.0;;;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 1m) | Auf Route gesnappt (1m);127.1;0.09;asphalt;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);A;Ampel;49.862315;8.626892;50.0;;;;;;Interpoliert (15m);127.2;0.59;asphalt;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;Hilpertstraße;49.862344;8.627014;50.0;;;;;;Original OSM;127.3;0.76;asphalt;residential;Hilpertstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.862449;8.627051;50.0;;;;;;Interpoliert (15m);127.4;0.93;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.862554;8.627088;50.0;;;;;;Interpoliert;127.5;0.89;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.862657;8.627054;50.0;;;;;;Interpoliert;127.6;0.83;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.862759;8.62702;50.0;;;;;;Original OSM;127.7;0.82;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.862872;8.626982;50.0;;;;;;Interpoliert (15m);127.8;0.89;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.862986;8.626944;50.0;;;;;;Interpoliert;127.9;0.72;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.863059;8.62692;50.0;;;;;;Interpoliert (15m);128.0;0.55;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.863132;8.626896;50.0;;;;;;Interpoliert;128.0;-0.05;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.863251;8.626856;50.0;;;;;;Interpoliert;128.0;-0.64;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.863371;8.626817;50.0;;;;;;Interpoliert;127.7;-1.33;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.86349;8.626777;50.0;;;;;;Interpoliert;127.4;-1.77;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.863609;8.626737;50.0;;;;;;Interpoliert;127.1;-2.21;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.863728;8.626698;50.0;;;;;;Interpoliert;126.8;-2.03;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.863848;8.626658;50.0;;;;;;Interpoliert;126.5;-1.85;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.863915;8.626636;50.0;;;;;;Interpoliert (15m);126.4;-1.66;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.863982;8.626614;50.0;;;;;;Original OSM;126.3;-1.48;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.864051;8.626591;50.0;;;;;;Interpoliert (15m);126.2;-1.2;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.86412;8.626568;50.0;;;;;;Original OSM;126.1;-0.41;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.864227;8.626532;50.0;;;;;;Interpoliert;126.0;0.38;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.864293;8.62651;50.0;;;;;;Interpoliert (15m);126.2;0.92;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.86436;8.626488;50.0;;;;;;Original OSM;126.4;1.54;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.864485;8.626447;50.0;;;;;;Interpoliert;126.6;2.08;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.86458;8.626415;50.0;;;;;;Interpoliert;126.8;1.55;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.864675;8.626383;50.0;;;;;;Original OSM;127.0;1.02;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.864806;8.62634;50.0;;;;;;Interpoliert;127.0;0.74;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.864937;8.626296;50.0;;;;;;Interpoliert;127.0;0.37;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.865068;8.626253;50.0;;;;;;Original OSM;127.0;0.0;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.86519;8.626211;50.0;;;;;;Interpoliert;127.0;0.0;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.865312;8.626169;50.0;;;;;;Interpoliert;127.0;0.29;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.865434;8.626128;50.0;;;;;;Interpoliert;127.0;0.68;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.865556;8.626086;50.0;;;;;;Interpoliert;127.2;1.08;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.865647;8.626069;50.0;;;;;;Interpoliert (15m);127.4;1.47;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.865737;8.626053;50.0;;;;;;Interpoliert (15m);127.6;1.82;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.865828;8.626036;50.0;;;;;;Original OSM;127.8;1.89;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.865929;8.626016;50.0;;;;;;Interpoliert (15m);128.0;1.84;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.86603;8.625995;50.0;;;;;;Interpoliert (15m);128.2;2.26;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.866132;8.625975;50.0;;;;;;Interpoliert;128.4;2.82;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.866262;8.625932;50.0;;;;;;Original OSM;129.0;3.42;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.866373;8.625894;50.0;;;;;;Interpoliert;129.6;3.54;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.866484;8.625857;50.0;;;;;;Interpoliert;130.2;3.66;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.866595;8.625819;50.0;;;;;;Interpoliert;130.5;3.52;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.866706;8.625782;50.0;;;;;;Interpoliert;130.8;3.23;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;;49.866787;8.625786;50.0;;;;;;Interpoliert (15m);131.1;2.79;asphalt;primary;Deutsche-Telekom-Allee;1;Kurs 23
+Routenpunkt (Way);T;Deutsche-Telekom-Allee;49.866868;8.625791;50.0;;;;;;Original OSM;131.4;2.83;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);A;Ampel;49.866897;8.625948;50.0;;;;;;Interpoliert (15m);131.7;3.0;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.866925;8.626106;30.0;;;;;;Interpoliert;132.0;2.12;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;;49.866954;8.626226;30.0;;;;;;Interpoliert (15m);132.3;1.29;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.866984;8.626346;30.0;;;;;;Original OSM;132.2;0.61;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;;49.866994;8.626509;30.0;;;;;;Interpoliert (15m);132.1;-0.18;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.867004;8.626672;30.0;;;;;;Original OSM;132.0;-1.23;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.867031;8.626872;30.0;;;;;;Interpoliert;131.8;-1.41;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.867051;8.62701;30.0;;;;;;Interpoliert;131.6;-1.54;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.86707;8.627147;30.0;;;;;;Original OSM;131.4;-1.66;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.867095;8.62733;30.0;;;;;;Interpoliert;131.2;-1.69;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.86712;8.627513;30.0;;;;;;Interpoliert;131.0;-1.59;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;;49.867145;8.627695;30.0;;;;;;Interpoliert (15m);130.8;-1.52;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.86717;8.627877;30.0;;;;;;Original OSM;130.6;-1.54;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;;49.867194;8.628047;30.0;;;;;;Interpoliert (15m);130.4;-1.52;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.867217;8.628217;30.0;;;;;;Interpoliert;130.2;-1.22;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;;49.867243;8.628411;30.0;;;;;;Interpoliert (15m);130.0;-0.92;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;;49.86727;8.628605;30.0;;;;;;Interpoliert (15m);130.0;-0.6;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.867296;8.628799;30.0;;;;;;Original OSM;130.0;-0.28;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;;49.867315;8.628941;30.0;;;;;;Interpoliert (15m);130.0;0.0;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;;49.867335;8.629083;30.0;;;;;;Interpoliert (15m);130.0;0.0;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.867354;8.629225;30.0;;;;;;Interpoliert;130.0;0.0;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);A;Ampel;49.867369;8.62934;30.0;;;;;;Interpoliert (15m);130.0;0.0;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.867385;8.629454;30.0;;;;;;Original OSM;130.0;0.0;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;;49.8674;8.629564;30.0;;;;;;Interpoliert (15m);130.0;0.0;asphalt;unclassified;Mina-Rees-Straße;1;Kurs 23
+Routenpunkt (Way);T;Mina-Rees-Straße;49.867414;8.629673;30.0;;;;;;Original OSM;130.0;0.14;asphalt;primary;Am Kavalleriesand;1;Kurs 23
+Routenpunkt (Way);T;Am Kavalleriesand;49.867306;8.62971;50.0;;;;;;Original OSM;130.0;0.29;asphalt;primary;Am Kavalleriesand;1;Kurs 23
+Routenpunkt (Way);T;Am Kavalleriesand;49.867185;8.629755;50.0;;;;;;Interpoliert;130.1;0.45;asphalt;primary;Am Kavalleriesand;1;Kurs 23
+Routenpunkt (Way);T;Am Kavalleriesand;49.867064;8.629801;50.0;;;;;;Original OSM;130.2;0.61;asphalt;primary;Am Kavalleriesand;1;Kurs 23
+Routenpunkt (Way);T;Am Kavalleriesand;49.866956;8.629843;50.0;;;;;;Interpoliert;130.3;0.76;asphalt;primary;Am Kavalleriesand;1;Kurs 23
+Routenpunkt (Way);T;;49.866856;8.629928;50.0;;;;;;Interpoliert (15m);130.4;0.78;asphalt;primary;Am Kavalleriesand;1;Kurs 23
+Routenpunkt (Way);T;;49.866755;8.630013;50.0;;;;;;Interpoliert (15m);130.5;0.45;asphalt;primary;Stirnweg;1;Kurs 23
+Routenpunkt (Way);T;Am Kavalleriesand;49.866654;8.630098;50.0;;;;;;Original OSM;130.6;0.11;asphalt;primary;Stirnweg;1;Kurs 23
+Routenpunkt (Way);T;;49.866625;8.630244;50.0;;;;;;Interpoliert (15m);130.5;-0.23;asphalt;primary;Stirnweg;1;Kurs 23
+Routenpunkt (Way);T;;49.866595;8.63039;50.0;;;;;;Interpoliert (15m);130.4;-0.58;asphalt;primary;Stirnweg;1;Kurs 23
+Routenpunkt (Way);T;Stirnweg;49.866565;8.630535;50.0;;;;;;Interpoliert;130.3;-0.74;asphalt;primary;Stirnweg;1;Kurs 23
+Routenpunkt (Way);T;Stirnweg;49.866579;8.630678;50.0;;;;;;Original OSM;130.2;-0.56;asphalt;primary;Stirnweg;1;Kurs 23
+Routenpunkt (Way);T;Stirnweg;49.8666;8.630847;50.0;;;;;;Interpoliert;130.2;-0.38;asphalt;primary;Stirnweg;1;Kurs 23
+Routenpunkt (Way);T;;49.866613;8.631021;50.0;;;;;;Interpoliert (15m);130.2;-0.19;asphalt;primary;Stirnweg;1;Kurs 23
+Routenpunkt (Way);T;Stirnweg;49.866626;8.631194;50.0;;;;;;Original OSM;130.2;0.0;asphalt;primary;Stirnweg;1;Kurs 23
+Haltestelle;W;Darmstadt Pfalzweg NHaardtring;49.866612;8.631327;50.0;;;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 77m) | Auf Route gesnappt (77m);130.2;0.0;asphalt;primary;Haardtring;1;Kurs 23
+Routenpunkt (Way);T;;49.866745;8.631335;50.0;;;;;;Interpoliert (15m);130.2;0.0;asphalt;primary;Haardtring;1;Kurs 23
+Routenpunkt (Way);T;;49.866877;8.631342;50.0;;;;;;Interpoliert (15m);130.2;0.0;asphalt;primary;Haardtring;1;Kurs 23
+Routenpunkt (Way);T;;49.86701;8.63135;50.0;;;;;;Interpoliert (15m);130.2;0.0;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.867142;8.631358;50.0;;;;;;Interpoliert (15m);130.2;0.0;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.867275;8.631365;50.0;;;;;;Interpoliert (15m);130.2;-0.27;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.867407;8.631373;50.0;;;;;;Interpoliert (15m);130.2;-0.54;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.86754;8.631381;50.0;;;;;;Interpoliert (15m);130.0;-0.81;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.867672;8.631388;50.0;;;;;;Interpoliert (15m);129.8;-1.08;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.867805;8.631396;50.0;;;;;;Interpoliert (15m);129.6;-1.36;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.867938;8.631404;50.0;;;;;;Interpoliert (15m);129.4;-1.36;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.86807;8.631411;50.0;;;;;;Interpoliert (15m);129.2;-1.08;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.868203;8.631419;50.0;;;;;;Interpoliert (15m);129.0;-0.81;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.868335;8.631427;50.0;;;;;;Interpoliert (15m);129.0;-0.54;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.868468;8.631434;50.0;;;;;;Interpoliert (15m);129.0;0.0;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.8686;8.631442;50.0;;;;;;Interpoliert (15m);129.0;0.54;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.868733;8.631449;50.0;;;;;;Interpoliert (15m);129.2;0.81;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.868865;8.631457;50.0;;;;;;Interpoliert (15m);129.4;1.08;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.868998;8.631465;50.0;;;;;;Interpoliert (15m);129.6;1.36;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.869131;8.631472;50.0;;;;;;Interpoliert (15m);129.8;1.36;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.869263;8.63148;50.0;;;;;;Interpoliert (15m);130.0;1.36;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.869396;8.631488;50.0;;;;;;Interpoliert (15m);130.2;1.36;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.869528;8.631495;50.0;;;;;;Interpoliert (15m);130.4;1.36;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.869661;8.631503;50.0;;;;;;Interpoliert (15m);130.6;1.36;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.869793;8.631511;50.0;;;;;;Interpoliert (15m);130.8;1.08;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.869926;8.631518;50.0;;;;;;Interpoliert (15m);131.0;0.81;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.870058;8.631526;50.0;;;;;;Interpoliert (15m);131.0;0.54;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.870191;8.631534;50.0;;;;;;Interpoliert (15m);131.0;0.27;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.870324;8.631541;50.0;;;;;;Interpoliert (15m);131.0;0.0;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.870456;8.631549;50.0;;;;;;Interpoliert (15m);131.0;0.0;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.870589;8.631557;50.0;;;;;;Interpoliert (15m);131.0;0.0;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.870721;8.631564;50.0;;;;;;Interpoliert (15m);131.0;0.0;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.870854;8.631572;50.0;;;;;;Interpoliert (15m);131.0;0.0;asphalt;primary;;1;Kurs 23
+Routenpunkt (Way);T;;49.870986;8.63158;50.0;;;;;;Interpoliert (15m);131.0;0.27;paving_stones;service;Külpstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.871119;8.631587;50.0;;;;;;Interpoliert (15m);131.0;0.54;paving_stones;service;Külpstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.871251;8.631595;50.0;;;;;;Interpoliert (15m);131.2;0.81;paving_stones;service;Külpstraße;1;Kurs 23
+Routenpunkt (Way);T;;49.871384;8.631602;50.0;;;;;;Interpoliert (15m);131.4;1.08;sett;service;Am Fürstenbahnhof;1;Kurs 23
+Routenpunkt (Way);T;;49.871517;8.63161;50.0;;;;;;Interpoliert (15m);131.6;1.21;sett;service;Am Fürstenbahnhof;1;Kurs 23
+Routenpunkt (Way);T;;49.871649;8.631618;50.0;;;;;;Interpoliert (15m);131.8;1.08;asphalt;pedestrian;Am Hauptbahnhof;1;Kurs 23
+Routenpunkt (Way);T;;49.871782;8.631625;50.0;;;;;;Interpoliert (15m);131.89;1.01;asphalt;pedestrian;Am Hauptbahnhof;1;Kurs 23
+Routenpunkt (Way);T;;49.871914;8.631633;50.0;;;;;;Interpoliert (15m);132.0;0.74;paving_stones;pedestrian;Am Hauptbahnhof;1;Kurs 23
+Routenpunkt (Way);A;Am Hauptbahnhof (Ampel);49.872047;8.631641;50.0;;;;;;Original OSM;132.14;0.58;paving_stones;pedestrian;Am Hauptbahnhof;1;Kurs 23
+Haltestelle;W;Darmstadt Hauptbahnhof Ost;49.872047;8.631641;50.0;15:24:00;15:24:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446.0;Original GTFS (Snap-Distanz 37m) | Auf Route gesnappt (37m);132.33;0.57;paving_stones;pedestrian;Am Hauptbahnhof;1;Kurs 23

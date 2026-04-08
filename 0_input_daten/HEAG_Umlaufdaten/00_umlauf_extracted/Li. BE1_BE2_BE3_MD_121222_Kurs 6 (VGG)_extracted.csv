@@ -1,0 +1,309 @@
+﻿Umlauf_ID;Name;Uhrzeit;Richtung;Type
+1;Hähnlein Neue Schule,1;05:40:00;1;W
+1;Hähnlein Waage,1;05:42:00;1;W
+1;Alsbach Rheinstraße,1;05:45:00;1;W
+1;Alsbach Brücke,1;05:46:00;1;W
+1;Alsbach Hähnlein-Alsbach Bf,1;05:47:00;1;W
+1;Alsbach In der Pfarrtanne,1;05:50:00;1;W
+1;Alsbach Am Hinkelstein,4;05:54:00;1;W
+1;Alsbach Rathaus,1;05:56:00;1;W
+1;Alsbach Ortsmitte,2;05:57:00;1;W
+1;Alsbach Beuneweg,4;05:58:00;1;W
+1;Bickenbach Hügelstraße,1;05:59:00;1;W
+1;Bickenbach Berliner Straße,1;06:00:00;1;W
+1;Bickenbach August-Bebel-Straße,1;06:01:00;1;W
+1;Bickenbach Pfungstädter Straße,1;06:01:00;1;W
+1;Bickenbach Hartenauer Straße,1;06:02:00;1;W
+1;Bickenbach Bahnhof,1;06:04:00;1;W
+1;Bickenbach Bahnhof,1;06:08:00;2;W
+1;Bickenbach August-Bebel-Straße,2;06:10:00;2;W
+1;Bickenbach Berliner Straße,2;06:11:00;2;W
+1;Bickenbach Hügelstraße,2;06:12:00;2;W
+1;Alsbach Beuneweg,3;06:13:00;2;W
+1;Alsbach Ortsmitte,1;06:14:00;2;W
+1;Alsbach Rathaus,2;06:15:00;2;W
+1;Alsbach Am Hinkelstein,3;06:17:00;2;W
+1;Alsbach In der Pfarrtanne,1;06:20:00;2;W
+1;Alsbach Hähnlein-Alsbach Bf,2;06:23:00;2;W
+1;Alsbach Brücke,2;06:24:00;2;W
+1;Alsbach Rheinstraße,2;06:25:00;2;W
+1;Hähnlein Waage,2;06:28:00;2;W
+1;Hähnlein Neue Schule,1;06:30:00;2;W
+2;Hähnlein Neue Schule,1;06:32:00;1;W
+2;Hähnlein Waage,1;06:34:00;1;W
+2;Alsbach Rheinstraße,1;06:37:00;1;W
+2;Alsbach Brücke,1;06:38:00;1;W
+2;Alsbach Hähnlein-Alsbach Bf,1;06:39:00;1;W
+2;Alsbach In der Pfarrtanne,1;06:42:00;1;W
+2;Alsbach Am Hinkelstein,4;06:46:00;1;W
+2;Alsbach Rathaus,1;06:48:00;1;W
+2;Alsbach Ortsmitte,2;06:49:00;1;W
+2;Alsbach Beuneweg,4;06:50:00;1;W
+2;Bickenbach Hügelstraße,1;06:51:00;1;W
+2;Bickenbach Berliner Straße,1;06:52:00;1;W
+2;Bickenbach August-Bebel-Straße,1;06:53:00;1;W
+2;Bickenbach Pfungstädter Straße,1;06:53:00;1;W
+2;Bickenbach Hartenauer Straße,1;06:54:00;1;W
+2;Bickenbach Bahnhof,1;06:56:00;1;W
+2;Bickenbach Bahnhof,1;06:58:00;2;W
+2;Bickenbach August-Bebel-Straße,2;07:00:00;2;W
+2;Bickenbach Berliner Straße,2;07:01:00;2;W
+2;Bickenbach Hügelstraße,2;07:02:00;2;W
+2;Alsbach Beuneweg,3;07:03:00;2;W
+2;Alsbach Ortsmitte,1;07:04:00;2;W
+2;Alsbach Rathaus,2;07:05:00;2;W
+2;Alsbach Am Hinkelstein,3;07:07:00;2;W
+2;Alsbach In der Pfarrtanne,1;07:10:00;2;W
+2;Alsbach Hähnlein-Alsbach Bf,2;07:13:00;2;W
+2;Alsbach Brücke,2;07:14:00;2;W
+2;Alsbach Rheinstraße,2;07:15:00;2;W
+2;Hähnlein Waage,2;07:18:00;2;W
+2;Hähnlein Neue Schule,1;07:20:00;2;W
+3;Hähnlein Neue Schule,1;07:40:00;1;W
+3;Hähnlein Waage,1;07:42:00;1;W
+3;Alsbach Rheinstraße,1;07:45:00;1;W
+3;Alsbach Brücke,1;07:46:00;1;W
+3;Alsbach Hähnlein-Alsbach Bf,1;07:47:00;1;W
+3;Alsbach In der Pfarrtanne,1;07:50:00;1;W
+3;Alsbach Am Hinkelstein,4;07:54:00;1;W
+3;Alsbach Rathaus,1;07:56:00;1;W
+3;Alsbach Ortsmitte,2;07:57:00;1;W
+3;Alsbach Beuneweg,4;07:58:00;1;W
+3;Bickenbach Hügelstraße,1;07:59:00;1;W
+3;Bickenbach Berliner Straße,1;08:00:00;1;W
+3;Bickenbach August-Bebel-Straße,1;08:01:00;1;W
+3;Bickenbach Pfungstädter Straße,1;08:01:00;1;W
+3;Bickenbach Hartenauer Straße,1;08:02:00;1;W
+3;Bickenbach Bahnhof,1;08:04:00;1;W
+3;Bickenbach Bahnhof,1;08:08:00;2;W
+3;Bickenbach August-Bebel-Straße,2;08:10:00;2;W
+3;Bickenbach Berliner Straße,2;08:11:00;2;W
+3;Bickenbach Hügelstraße,2;08:12:00;2;W
+3;Alsbach Beuneweg,3;08:13:00;2;W
+3;Alsbach Ortsmitte,1;08:14:00;2;W
+3;Alsbach Rathaus,2;08:15:00;2;W
+3;Alsbach Am Hinkelstein,3;08:17:00;2;W
+3;Alsbach In der Pfarrtanne,1;08:20:00;2;W
+3;Alsbach Hähnlein-Alsbach Bf,2;08:23:00;2;W
+3;Alsbach Brücke,2;08:24:00;2;W
+3;Alsbach Rheinstraße,2;08:25:00;2;W
+3;Hähnlein Waage,2;08:28:00;2;W
+3;Hähnlein Neue Schule,1;08:30:00;2;W
+4;Hähnlein Neue Schule,1;08:40:00;1;W
+4;Hähnlein Waage,1;08:42:00;1;W
+4;Alsbach Rheinstraße,1;08:45:00;1;W
+4;Alsbach Brücke,1;08:46:00;1;W
+4;Alsbach Hähnlein-Alsbach Bf,1;08:47:00;1;W
+4;Alsbach In der Pfarrtanne,1;08:50:00;1;W
+4;Alsbach Am Hinkelstein,4;08:54:00;1;W
+4;Alsbach Rathaus,1;08:56:00;1;W
+4;Alsbach Ortsmitte,2;08:57:00;1;W
+4;Alsbach Beuneweg,4;08:58:00;1;W
+4;Bickenbach Hügelstraße,1;08:59:00;1;W
+4;Bickenbach Berliner Straße,1;09:00:00;1;W
+4;Bickenbach August-Bebel-Straße,1;09:01:00;1;W
+4;Bickenbach Pfungstädter Straße,1;09:01:00;1;W
+4;Bickenbach Hartenauer Straße,1;09:02:00;1;W
+4;Bickenbach Bahnhof,1;09:04:00;1;W
+4;Bickenbach Bahnhof,1;10:08:00;2;W
+4;Bickenbach August-Bebel-Straße,2;10:10:00;2;W
+4;Bickenbach Berliner Straße,2;10:11:00;2;W
+4;Bickenbach Hügelstraße,2;10:12:00;2;W
+4;Alsbach Beuneweg,3;10:13:00;2;W
+4;Alsbach Ortsmitte,1;10:14:00;2;W
+4;Alsbach Rathaus,2;10:15:00;2;W
+4;Alsbach Am Hinkelstein,3;10:17:00;2;W
+4;Alsbach In der Pfarrtanne,1;10:20:00;2;W
+4;Alsbach Hähnlein-Alsbach Bf,2;10:23:00;2;W
+4;Alsbach Brücke,2;10:24:00;2;W
+4;Alsbach Rheinstraße,2;10:25:00;2;W
+4;Hähnlein Waage,2;10:28:00;2;W
+4;Hähnlein Neue Schule,1;10:30:00;2;W
+5;Hähnlein Neue Schule,1;10:40:00;1;W
+5;Hähnlein Waage,1;10:42:00;1;W
+5;Alsbach Rheinstraße,1;10:45:00;1;W
+5;Alsbach Brücke,1;10:46:00;1;W
+5;Alsbach Hähnlein-Alsbach Bf,1;10:47:00;1;W
+5;Alsbach In der Pfarrtanne,1;10:50:00;1;W
+5;Alsbach Am Hinkelstein,4;10:54:00;1;W
+5;Alsbach Rathaus,1;10:56:00;1;W
+5;Alsbach Ortsmitte,2;10:57:00;1;W
+5;Alsbach Beuneweg,4;10:58:00;1;W
+5;Bickenbach Hügelstraße,1;10:59:00;1;W
+5;Bickenbach Berliner Straße,1;11:00:00;1;W
+5;Bickenbach August-Bebel-Straße,1;11:01:00;1;W
+5;Bickenbach Pfungstädter Straße,1;11:01:00;1;W
+5;Bickenbach Hartenauer Straße,1;11:02:00;1;W
+5;Bickenbach Bahnhof,1;11:04:00;1;W
+5;Bickenbach Bahnhof,1;11:08:00;2;W
+5;Bickenbach August-Bebel-Straße,2;11:10:00;2;W
+5;Bickenbach Berliner Straße,2;11:11:00;2;W
+5;Bickenbach Hügelstraße,2;11:12:00;2;W
+5;Alsbach Beuneweg,3;11:13:00;2;W
+5;Alsbach Ortsmitte,1;11:14:00;2;W
+5;Alsbach Rathaus,2;11:15:00;2;W
+5;Alsbach Am Hinkelstein,3;11:17:00;2;W
+5;Alsbach In der Pfarrtanne,1;11:20:00;2;W
+5;Alsbach Hähnlein-Alsbach Bf,2;11:23:00;2;W
+5;Alsbach Brücke,2;11:24:00;2;W
+5;Alsbach Rheinstraße,2;11:25:00;2;W
+5;Hähnlein Waage,2;11:28:00;2;W
+5;Hähnlein Neue Schule,1;11:30:00;2;W
+6;Hähnlein Neue Schule,1;11:43:00;1;W
+6;Hähnlein Waage,1;11:45:00;1;W
+6;Alsbach Rheinstraße,1;11:48:00;1;W
+6;Alsbach Brücke,1;11:49:00;1;W
+6;Alsbach Hähnlein-Alsbach Bf,1;11:50:00;1;W
+6;Alsbach In der Pfarrtanne,1;11:53:00;1;W
+6;Alsbach Am Hinkelstein,4;11:57:00;1;W
+6;Alsbach Rathaus,1;11:59:00;1;W
+6;Alsbach Ortsmitte,2;12:00:00;1;W
+6;Alsbach Beuneweg,4;12:01:00;1;W
+6;Bickenbach Hügelstraße,1;12:02:00;1;W
+6;Bickenbach Berliner Straße,1;12:03:00;1;W
+6;Bickenbach August-Bebel-Straße,1;12:04:00;1;W
+6;Bickenbach Pfungstädter Straße,1;12:04:00;1;W
+6;Bickenbach Hartenauer Straße,1;12:05:00;1;W
+6;Bickenbach Bahnhof,1;12:07:00;1;W
+6;Bickenbach Bahnhof,1;12:08:00;2;W
+6;Bickenbach August-Bebel-Straße,2;12:10:00;2;W
+6;Bickenbach Berliner Straße,2;12:11:00;2;W
+6;Bickenbach Hügelstraße,2;12:12:00;2;W
+6;Alsbach Beuneweg,3;12:13:00;2;W
+6;Alsbach Ortsmitte,1;12:14:00;2;W
+6;Alsbach Rathaus,2;12:15:00;2;W
+6;Alsbach Am Hinkelstein,3;12:17:00;2;W
+6;Alsbach In der Pfarrtanne,1;12:20:00;2;W
+6;Alsbach Hähnlein-Alsbach Bf,2;12:23:00;2;W
+6;Alsbach Brücke,2;12:24:00;2;W
+6;Alsbach Rheinstraße,2;12:25:00;2;W
+6;Hähnlein Waage,2;12:28:00;2;W
+6;Hähnlein Neue Schule,1;12:30:00;2;W
+7;Hähnlein Neue Schule,1;12:43:00;1;W
+7;Hähnlein Waage,1;12:45:00;1;W
+7;Alsbach Rheinstraße,1;12:48:00;1;W
+7;Alsbach Brücke,1;12:49:00;1;W
+7;Alsbach Hähnlein-Alsbach Bf,1;12:50:00;1;W
+7;Alsbach In der Pfarrtanne,1;12:53:00;1;W
+7;Alsbach Am Hinkelstein,4;12:57:00;1;W
+7;Alsbach Rathaus,1;12:59:00;1;W
+7;Alsbach Ortsmitte,2;13:00:00;1;W
+7;Alsbach Beuneweg,4;13:01:00;1;W
+7;Bickenbach Hügelstraße,1;13:02:00;1;W
+7;Bickenbach Berliner Straße,1;13:03:00;1;W
+7;Bickenbach August-Bebel-Straße,1;13:04:00;1;W
+7;Bickenbach Pfungstädter Straße,1;13:04:00;1;W
+7;Bickenbach Hartenauer Straße,1;13:05:00;1;W
+7;Bickenbach Bahnhof,1;13:07:00;1;W
+7;Bickenbach Bahnhof,1;13:08:00;2;W
+7;Bickenbach August-Bebel-Straße,2;13:10:00;2;W
+7;Bickenbach Berliner Straße,2;13:11:00;2;W
+7;Bickenbach Hügelstraße,2;13:12:00;2;W
+7;Alsbach Beuneweg,3;13:13:00;2;W
+7;Alsbach Ortsmitte,1;13:14:00;2;W
+7;Alsbach Rathaus,2;13:15:00;2;W
+7;Alsbach Am Hinkelstein,3;13:17:00;2;W
+7;Alsbach In der Pfarrtanne,1;13:20:00;2;W
+7;Alsbach Hähnlein-Alsbach Bf,2;13:23:00;2;W
+7;Alsbach Brücke,2;13:24:00;2;W
+7;Alsbach Rheinstraße,2;13:25:00;2;W
+7;Hähnlein Waage,2;13:28:00;2;W
+7;Hähnlein Neue Schule,1;13:30:00;2;W
+7;Bickenbach Bahnhof,1;15:11:00;3;W
+7;Bickenbach Pfungstädter Straße,1;15:13:00;3;W
+7;Bickenbach Bürgerhaus,1;15:14:00;3;W
+7;Seeheim Schuldorf,3;15:18:00;3;W
+7;Seeheim Gewerbegebiet,1;15:23:00;3;W
+7;Seeheim Tannenstraße,1;15:24:00;3;W
+7;Seeheim Im Bangert,1;15:25:00;3;W
+7;Seeheim Neues Rathaus,3;15:27:00;3;W
+7;Seeheim Altes Rathaus,1;15:29:00;3;W
+7;Ober-Beerbach Eberstädter Str.,2;15:33:00;3;W
+7;Ob.-Beerbach Ernsth. Str.,1;15:35:00;3;W
+7;Ober-Beerbach Eberstädter Str.,1;15:37:00;3;W
+7;Nd.-Beerbach Quergasse,1;15:41:00;3;W
+7;Nieder-Beerbach Untergasse,1;15:41:00;3;W
+7;Nd.-Beerbach Am Wingertsberg,1;15:42:00;3;W
+7;Nieder-Beerbach Burgweg,1;15:43:00;3;W
+7;Nieder-Beerbach Waldmühle,1;15:44:00;3;W
+7;Nd.-Beerbach Haus Burgwald,1;15:45:00;3;W
+7;Eberst. Frankenbergers Mühle,1;15:45:00;3;W
+7;Eberstadt Kinderheim,1;15:46:00;3;W
+7;Eberstadt Kühler Grund,3;15:47:00;3;W
+7;Eberstadt Kühler Grund,1;15:48:00;3;W
+7;Eberstadt Kaisermühle,1;15:49:00;3;W
+7;Eberstadt Schwimmbad,1;15:51:00;3;W
+7;Eberstadt Heinrich-Delp-Straße,1;15:53:00;3;W
+7;Eberstadt Wartehalle,3;15:55:00;3;W
+7;Eberstadt Wartehalle,3;16:05:00;4;W
+7;Eberstadt Heinrich-Delp-Straße,2;16:07:00;4;W
+7;Eberstadt Schwimmbad,2;16:08:00;4;W
+7;Eberstadt Kaisermühle,2;16:10:00;4;W
+7;Eberstadt Kühler Grund,2;16:11:00;4;W
+7;Eberstadt Kühler Grund,4;16:11:00;4;W
+7;Eberstadt Kinderheim,2;16:12:00;4;W
+7;Eberst. Frankenbergers Mühle,2;16:13:00;4;W
+7;Nd.-Beerbach Haus Burgwald,2;16:14:00;4;W
+7;Nieder-Beerbach Waldmühle,2;16:15:00;4;W
+7;Nieder-Beerbach Burgweg,2;16:15:00;4;W
+7;Nd.-Beerbach Am Wingertsberg,2;16:16:00;4;W
+7;Nieder-Beerbach Untergasse,2;16:17:00;4;W
+7;Nd.-Beerbach Quergasse,2;16:18:00;4;W
+7;Ober-Beerbach Eberstädter Str.,2;16:21:00;4;W
+7;Ob.-Beerbach Ernsth. Str.,1;16:23:00;4;W
+7;Ober-Beerbach Eberstädter Str.,1;16:25:00;4;W
+7;Seeheim Altes Rathaus,2;16:29:00;4;W
+7;Seeheim Neues Rathaus,4;16:31:00;4;W
+7;Seeheim Im Bangert,2;16:33:00;4;W
+7;Seeheim Tannenstraße,2;16:34:00;4;W
+7;Seeheim Gewerbegebiet,2;16:35:00;4;W
+7;Seeheim Schuldorf,2;16:39:00;4;W
+7;Bickenbach Bürgerhaus,2;16:43:00;4;W
+7;Bickenbach Hartenauer Straße,11;16:44:00;4;W
+7;Bickenbach Bahnhof,1;16:46:00;4;W
+8;Hähnlein Neue Schule,1;13:30:00;1;W
+8;Hähnlein Waage,1;13:32:00;1;W
+8;Alsbach Rheinstraße,1;13:35:00;1;W
+8;Alsbach Brücke,1;13:36:00;1;W
+8;Alsbach Hähnlein-Alsbach Bf,1;13:37:00;1;W
+8;Alsbach In der Pfarrtanne,1;13:40:00;1;W
+8;Alsbach Am Hinkelstein,4;13:44:00;1;W
+8;Alsbach Rathaus,1;13:46:00;1;W
+8;Alsbach Ortsmitte,2;13:47:00;1;W
+8;Alsbach Beuneweg,4;13:48:00;1;W
+8;Bickenbach Hügelstraße,1;13:49:00;1;W
+8;Bickenbach Berliner Straße,1;13:50:00;1;W
+8;Bickenbach August-Bebel-Straße,1;13:51:00;1;W
+8;Bickenbach Pfungstädter Straße,1;13:51:00;1;W
+8;Bickenbach Hartenauer Straße,1;13:52:00;1;W
+8;Bickenbach Bahnhof,1;13:54:00;1;W
+8;Bickenbach Bahnhof,1;13:54:00;2;W
+8;Bickenbach August-Bebel-Straße,2;13:56:00;2;W
+8;Bickenbach Berliner Straße,2;13:57:00;2;W
+8;Bickenbach Hügelstraße,2;13:58:00;2;W
+8;Alsbach Beuneweg,3;13:59:00;2;W
+8;Alsbach Ortsmitte,1;14:00:00;2;W
+8;Alsbach Rathaus,2;14:01:00;2;W
+8;Alsbach Am Hinkelstein,3;14:03:00;2;W
+8;Alsbach In der Pfarrtanne,1;14:06:00;2;W
+8;Alsbach Hähnlein-Alsbach Bf,2;14:09:00;2;W
+8;Alsbach Brücke,2;14:10:00;2;W
+8;Alsbach Rheinstraße,2;14:11:00;2;W
+8;Hähnlein Waage,2;14:14:00;2;W
+8;Hähnlein Neue Schule,1;14:16:00;2;W
+9;Hähnlein Neue Schule,1;14:20:00;1;W
+9;Hähnlein Waage,1;14:22:00;1;W
+9;Alsbach Rheinstraße,1;14:25:00;1;W
+9;Alsbach Brücke,1;14:26:00;1;W
+9;Alsbach Hähnlein-Alsbach Bf,1;14:27:00;1;W
+9;Alsbach In der Pfarrtanne,1;14:30:00;1;W
+9;Alsbach Am Hinkelstein,4;14:34:00;1;W
+9;Alsbach Rathaus,1;14:36:00;1;W
+9;Alsbach Ortsmitte,2;14:37:00;1;W
+9;Alsbach Beuneweg,4;14:38:00;1;W
+9;Bickenbach Hügelstraße,1;14:39:00;1;W
+9;Bickenbach Berliner Straße,1;14:40:00;1;W
+9;Bickenbach August-Bebel-Straße,1;14:41:00;1;W
+9;Bickenbach Pfungstädter Straße,1;14:41:00;1;W
+9;Bickenbach Hartenauer Straße,1;14:42:00;1;W
+9;Bickenbach Bahnhof,1;14:44:00;1;W

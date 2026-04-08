@@ -1,0 +1,17 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Mannheim, Bonifatiuskirche;49.49895;8.488433;19:29:00;19:29:00;Kein Umlauf;So;1372;Stop Seq 0
+Haltestelle;Mannheim, Moselstraße;49.49886;8.483492;19:31:00;19:31:00;Kein Umlauf;So;1372;Stop Seq 1
+Haltestelle;Mannheim, Ida-Scipio-Heim;49.499172;8.480213;19:32:00;19:32:00;Kein Umlauf;So;1372;Stop Seq 2
+Haltestelle;Mannheim, Max-Joseph-Straße;49.499733;8.476305;19:33:00;19:33:00;Kein Umlauf;So;1372;Stop Seq 3
+Haltestelle;Mannheim, Herzogenriedbad;49.504005;8.476314;19:35:00;19:35:00;Kein Umlauf;So;1372;Stop Seq 4
+Haltestelle;Mannheim, Neuer Meßplatz;49.504883;8.469972;19:37:00;19:37:00;Kein Umlauf;So;1372;Stop Seq 5
+Haltestelle;Mannheim, Zeppelinstraße;49.505566;8.463927;19:39:00;19:39:00;Kein Umlauf;So;1372;Stop Seq 6
+Haltestelle;Neckarstadt West;49.503864;8.46063;19:40:00;19:40:00;Kein Umlauf;So;1372;Stop Seq 7
+Haltestelle;Mannheim, Popakademie;49.49633;8.457504;19:43:00;19:43:00;Kein Umlauf;So;1372;Stop Seq 8
+Haltestelle;Mannheim, Teufelsbrücke;49.49452;8.457135;19:44:00;19:44:00;Kein Umlauf;So;1372;Stop Seq 9
+Haltestelle;Mannheim, Akademiestraße;49.492405;8.45674;19:45:00;19:45:00;Kein Umlauf;So;1372;Stop Seq 10
+Haltestelle;Mannheim, Universität West;49.487656;8.457513;19:46:00;19:46:00;Kein Umlauf;So;1372;Stop Seq 11
+Haltestelle;Mannheim, Mensa am Schloss;49.486553;8.459175;19:47:00;19:47:00;Kein Umlauf;So;1372;Stop Seq 12
+Haltestelle;Mannheim, Schloss;49.484547;8.462489;19:49:00;19:49:00;Kein Umlauf;So;1372;Stop Seq 13
+Haltestelle;Mannheim, Universität;49.481632;8.465562;19:51:00;19:51:00;Kein Umlauf;So;1372;Stop Seq 14
+Haltestelle;Mannheim, Hauptbahnhof;49.480137;8.469667;19:53:00;19:53:00;Kein Umlauf;So;1372;Stop Seq 15

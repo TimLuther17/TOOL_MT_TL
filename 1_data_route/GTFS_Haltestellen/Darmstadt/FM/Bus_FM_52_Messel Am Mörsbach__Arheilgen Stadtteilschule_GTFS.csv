@@ -1,0 +1,9 @@
+﻿Typ;Name;Latitude;Longitude;Ankunft;Abfahrt;Block_ID;Betriebstage;Service_ID;Details
+Haltestelle;Messel Am Mörsbach;49.940536;8.744077;07:02:00;07:02:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 0
+Haltestelle;Messel Rathaus;49.9368;8.744166;07:04:00;07:04:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 1
+Haltestelle;Messel Sudetenstraße;49.931484;8.743539;07:06:00;07:06:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 2
+Haltestelle;Kranichstein Jagdschloß;49.898945;8.693882;07:14:00;07:14:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 3
+Haltestelle;Kranichstein Kesselhutweg;49.8959;8.686163;07:15:00;07:15:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 4
+Haltestelle;Kranichstein Siemensstraße;49.896336;8.680287;07:17:00;07:17:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 5
+Haltestelle;Arheilgen Fuchsstraße;49.90622;8.656404;07:26:00;07:26:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 6
+Haltestelle;Arheilgen Stadtteilschule;49.90312;8.663344;07:31:00;07:31:00;Kein Umlauf;Mo,Di,Mi,Do,Fr;446;Stop Seq 7
